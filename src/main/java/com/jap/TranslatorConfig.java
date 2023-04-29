@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2017, Aria <aria@ar1as.space>
+ * Copyright (c) 2018, Morgan Lewis <https://github.com/MESLewis>
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
@@ -24,54 +24,13 @@
  */
 package com.jap;
 
-import com.google.inject.Provides;
-import javax.inject.Inject;
-import net.runelite.client.config.ConfigManager;
-import net.runelite.client.plugins.Plugin;
-import net.runelite.client.plugins.PluginDescriptor;
-import net.runelite.client.ui.overlay.OverlayManager;
+import net.runelite.client.config.Config;
+import net.runelite.client.config.ConfigGroup;
+import net.runelite.client.config.ConfigItem;
 
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.IOException;
-import java.io.Reader;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.util.*;
-
-@PluginDescriptor(
-        name = "jap",
-        description = "Render default actions as a tooltip",
-        tags = {"actions", "overlay"}
-)
-public class HighlightPlugin extends Plugin
+@ConfigGroup("jap")
+public interface TranslatorConfig extends Config
 {
-    @Inject
-    private OverlayManager overlayManager;
-
-    @Inject
-    private HighlightOverlay overlay;
 
 
-    @Provides
-    HighlightConfig provideConfig(ConfigManager configManager)
-    {
-        return configManager.getConfig(HighlightConfig.class);
-    }
-
-    @Override
-    protected void startUp() throws Exception
-    {
-        overlayManager.add(overlay);
-
-    }
-
-
-
-
-    @Override
-    protected void shutDown() throws Exception
-    {
-        overlayManager.remove(overlay);
-    }
 }
