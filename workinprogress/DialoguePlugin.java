@@ -1,4 +1,4 @@
-package com.jap;
+package com.translator;
 
 
 import com.google.common.base.MoreObjects;
@@ -173,8 +173,7 @@ public class DialoguePlugin extends Plugin
     {
         for (final NPC npc : client.getNpcs())
         {
-            //final DialogNpc dialogNpc = DialogNpc.getDialogNpcsByNpcName(MoreObjects.firstNonNull(npc.getName(), ""));
-            
+
 
             final ActorDialogState state = getOrCreateActorDialogState(npc);
             // If state is null that means we aren't tracking this npc

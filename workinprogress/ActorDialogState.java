@@ -1,4 +1,4 @@
-package com.jap;
+package com.translator;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

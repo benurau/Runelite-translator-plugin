@@ -22,16 +22,31 @@
  * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
-package com.jap;
-import net.runelite.api.events.MenuOpened;
-import com.google.common.eventbus.Subscribe;
+package com.translator;
+
 import com.google.inject.Provides;
-import net.runelite.api.*;
-import net.runelite.api.widgets.WidgetID;
-import net.runelite.api.widgets.WidgetInfo;
+import net.runelite.api.Actor;
+import net.runelite.api.Client;
+import net.runelite.api.MenuAction;
+import net.runelite.api.MenuEntry;
+import net.runelite.api.NPC;
+import net.runelite.api.NpcID;
+import net.runelite.api.Player;
+import net.runelite.api.events.InteractingChanged;
+import net.runelite.api.events.MenuEntryAdded;
+import net.runelite.api.events.NpcDespawned;
 import net.runelite.client.config.ConfigManager;
+import net.runelite.client.eventbus.Subscribe;
 import net.runelite.client.plugins.Plugin;
 import net.runelite.client.plugins.PluginDescriptor;
+import net.runelite.api.events.MenuOpened;
+import net.runelite.api.widgets.Widget;
+import net.runelite.api.widgets.WidgetID;
+import net.runelite.api.widgets.WidgetInfo;
+import net.runelite.client.events.ConfigChanged;
+import net.runelite.api.events.GameTick;
+import net.runelite.api.events.InteractingChanged;
+import net.runelite.api.Actor;
 
 import javax.inject.Inject;
 import java.io.File;
@@ -41,7 +56,7 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 @PluginDescriptor(
-        name = "jap",
+        name = "translator",
         description = "translate npc, items and objects",
         tags = {"actions"}
 )
@@ -53,18 +68,27 @@ public class TranslatorPlugin extends Plugin
     @Inject
     private Client client;
     @Provides
-    TranslatorConfig getConfig(ConfigManager configManager)
-    {
-        return configManager.getConfig(TranslatorConfig.class);
-    }
+    TranslatorConfig provideConfig(ConfigManager configManager) {return configManager.getConfig(TranslatorConfig.class);}
 
+    private HashMap<String, String> itemsMap;
+    private HashMap<String, String> npcMap;
+    private HashMap<String, String> objectMap;
+
+    private Actor actor;
+
+
+    @Override
+    protected void startUp() throws Exception
+    {
+        updateLanguage();
+    }
 
     public static HashMap<String, String> parse(String filepath) {
         try {
             File myObj = new File(filepath);
             HashMap<String, String> words = new HashMap<String, String>();
 
-            Scanner myReader = new Scanner(myObj);
+            Scanner myReader = new Scanner(myObj, "UTF-8");
             while (myReader.hasNextLine()) {
                 String data = myReader.nextLine();
                 String[] temp = data.split(",");
@@ -83,47 +107,82 @@ public class TranslatorPlugin extends Plugin
         }
     }
 
-    private HashMap<String, String> itemsMap = parse("C:/Users/banu/IdeaProjects/jap/fi_items.txt");;
 
-    private HashMap<String, String> npcMap = parse("C:/Users/banu/IdeaProjects/jap/fi_npc.txt");;
+    @Subscribe
+    public void onConfigChanged(ConfigChanged event)
+    {
+        if (!event.getGroup().equals("translator"))
+        {
+            return;
+        }
 
-    private HashMap<String, String> objectMap = parse("C:/Users/banu/IdeaProjects/jap/fi_object.txt");
+        updateLanguage();
+
+    }
+
+    private void updateLanguage()
+    {
+        switch (config.selectLanguage())
+        {
+            case Finnish:
+                itemsMap = parse("src/main/java/com/translator/translated_languages/fi_items.txt");
+                npcMap = parse("src/main/java/com/translator/translated_languages/fi_npc.txt");
+                objectMap = parse("src/main/java/com/translator/translated_languages/fi_object.txt");
+                break;
+            case German:
+                itemsMap = parse("src/main/java/com/translator/translated_languages/de_items.txt");
+                npcMap = parse("src/main/java/com/translator/translated_languages/de_npc.txt");
+                objectMap = parse("src/main/java/com/translator/translated_languages/de_object.txt");
+                break;
+            case Swedish:
+                itemsMap = parse("src/main/java/com/translator/translated_languages/swe_items.txt");
+                npcMap = parse("src/main/java/com/translator/translated_languages/swe_npc.txt");
+                objectMap = parse("src/main/java/com/translator/translated_languages/swe_object.txt");
+                break;
+        }
+    }
 
 
     @Subscribe
     public void onMenuOpened (MenuOpened event)
     {
-        System.out.println("here");
         MenuEntry[] menuEntries = client.getMenuEntries();
         MenuEntry[] newMenuEntries = Arrays.copyOf(menuEntries, menuEntries.length);
 
 
+
         for (int idx = 1; idx < newMenuEntries.length; idx++) {
             MenuEntry entry = newMenuEntries[idx];
-            System.out.println(entry.getOption());
 
+
+            //worn items
             if (entry.getWidget() != null && WidgetInfo.TO_GROUP(entry.getWidget().getId()) == WidgetID.EQUIPMENT_GROUP_ID) {
                 translateMenuEntrys(this.itemsMap, entry, entry.getWidget().getChild(1).getItemId());
             }
+            //items
             else if (entry.getItemId() > 0) {
                 translateMenuEntrys(this.itemsMap, entry, entry.getItemId());
 
             }
-
-            else if (entry.getType() == MenuAction.EXAMINE_ITEM_GROUND) {
+            //ground items
+            else if (entry.getType() == MenuAction.EXAMINE_ITEM_GROUND | entry.getType() == MenuAction.GROUND_ITEM_THIRD_OPTION ) {
+                System.out.println("ground item");
                 translateMenuEntrys(this.itemsMap, entry, entry.getIdentifier());
             }
-
+            //not item
             else if (entry.getItemId() == -1) {
+                //player
                 if (entry.getPlayer() != null) {
                     System.out.println("player");
                 }
-
+                //npc
                 else if (entry.getNpc() != null) {
+                    System.out.println("npc");
                     translateMenuEntrys(this.npcMap, entry, entry.getNpc().getId());
                 }
-
-                else if (entry.getIdentifier() > 0) {
+                //object
+                else if (entry.getIdentifier() > 0 & entry.getType() != MenuAction.CC_OP & entry.getType() != MenuAction.RUNELITE & entry.getType() != MenuAction.WALK) {
+                    System.out.println("object");
                     translateMenuEntrys(this.objectMap, entry, entry.getIdentifier());
                 }
 
@@ -134,13 +193,13 @@ public class TranslatorPlugin extends Plugin
 
     }
 
+
     public void translateMenuEntrys(HashMap<String, String> words, MenuEntry menuEntry, Integer id){
 
-
         if (menuEntry.getTarget().length() > 0) {
-
             String[] subStrings = menuEntry.getTarget().split(">");
             String translated = words.get(id.toString());
+
 
             int colStart = subStrings[0].length() + 1;
             String colour = menuEntry.getTarget().substring(0, colStart);
@@ -149,7 +208,6 @@ public class TranslatorPlugin extends Plugin
             if (subStrings.length > 2) {
                 int combatStart = menuEntry.getTarget().split("<")[1].length() + 1;
                 String combat = menuEntry.getTarget().substring(combatStart);
-
                 if (translated != null) {
                     menuEntry.setTarget(colour + translated + combat);
                 }
@@ -163,4 +221,6 @@ public class TranslatorPlugin extends Plugin
         }
 
     }
+
+
 }

@@ -22,15 +22,32 @@
  * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
-package com.jap;
+package com.translator;
 
 import net.runelite.client.config.Config;
 import net.runelite.client.config.ConfigGroup;
 import net.runelite.client.config.ConfigItem;
 
-@ConfigGroup("jap")
+@ConfigGroup("translator")
 public interface TranslatorConfig extends Config
 {
+    enum SelectLanguage{
+        Finnish,
+        German,
+        Swedish
+    }
+    @ConfigItem(
+            keyName = "Select Language",
+            name = "Language",
+            description = "changes language to translate to Finnish",
+            position = 1
+    )
+    default SelectLanguage selectLanguage()
+    {
+        return SelectLanguage.Finnish;
+    }
+
+
 
 
 }

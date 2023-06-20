@@ -50,7 +50,7 @@
 64,MAPLE_SHORTBOW_U,Lyhythihainen u
 66,YEW_LONGBOW_U,Pitkahihainen
 68,YEW_SHORTBOW_U,Lyhythihainen u
-70,MAGIC_LONGBOW_U,Magic Longbow U Nayta tarkat tiedot
+70,MAGIC_LONGBOW_U,Magic Longbow U
 72,MAGIC_SHORTBOW_U,Magic shortbow U (viittaukset | muokkaa)
 74,KHAZARD_HELMET,Khazard kypara
 75,KHAZARD_ARMOUR,Khazardin panssari
@@ -144,7 +144,7 @@
 243,BLUE_DRAGON_SCALE,Sininen lohikaarme
 245,WINE_OF_ZAMORAK,Viinia zamorak
 247,JANGERBERRIES,Jangerber
-249,GUAM_LEAF,Guam Leaf Nayta tarkat tiedot
+249,GUAM_LEAF,Guam Leaf
 251,MARRENTILL,Marrentilli
 253,TARROMIN,Tarro
 255,HARRALANDER,Harralander
@@ -170,15 +170,15 @@
 283,SHEEP_BONES_4,Lampaiden luut 4
 284,PLAGUE_JACKET,Vilpitan takki
 285,PLAGUE_TROUSERS,Vilpittamat housut
-286,ORANGE_GOBLIN_MAIL,Orange Goblin Post Nayta tarkat tiedot
+286,ORANGE_GOBLIN_MAIL,Orange Goblin Post
 287,BLUE_GOBLIN_MAIL,Sininen goblin-posti
 288,GOBLIN_MAIL,Goblinin posti
 290,RESEARCH_PACKAGE,Tutkimuspaketti
 291,RESEARCH_NOTES,Tutkimusmuistiinpanoja
 292,BOOK_ON_BAXTORIAN,Kirja Baxtorian
 293,KEY_293,Avainsana 293
-294,GLARIALS_PEBBLE,glarials pebble Nayta tarkat tiedot
-295,GLARIALS_AMULET,glarials amulet Nayta tarkat tiedot
+294,GLARIALS_PEBBLE,glarials pebble
+295,GLARIALS_AMULET,glarials amulet
 296,GLARIALS_URN,glarials urn
 297,GLARIALS_URN_EMPTY,glarials urn tyhjana
 298,KEY_298,Avainsana 298
@@ -291,7 +291,7 @@
 480,BRONZE_PICK_HEAD,Kehittaja The Chile
 482,IRON_PICK_HEAD,Rautainen paa
 484,STEEL_PICK_HEAD,Teras paa
-486,MITHRIL_PICK_HEAD,Mithrile pick head Nayta tarkat tiedot
+486,MITHRIL_PICK_HEAD,Mithrile pick head
 488,ADAMANT_PICK_HEAD,ADAMUS Ota paa
 490,RUNE_PICK_HEAD,Juokse paa
 492,AXE_HANDLE,Axe kasitya
@@ -398,7 +398,7 @@
 646,PINK_ROBE_BOTTOMS,vaaleanpunainen pohja
 648,GREEN_ROBE_BOTTOMS,Vihreat puvut
 650,BLUE_ROBE_BOTTOMS,Sininen pohja
-652,CREAM_ROBE_BOTTOMS,Cream Robe Baottoms Nayta tarkat tiedot
+652,CREAM_ROBE_BOTTOMS,Cream Robe Baottoms
 654,TURQUOISE_ROBE_BOTTOMS,turkoosipuun pohja
 656,PINK_HAT,Vaaleanpunainen hattu
 658,GREEN_HAT,Vihrea hattu
@@ -468,7 +468,7 @@
 726,GOLDEN_BOWL_726,Kultainen 726
 727,HOLLOW_REED,Hollow Red
 728,HOLLOW_REED_728,vaaleanpunainen 728
-729,SHAMANS_TOME,Shamans Tome Nayta tarkat tiedot
+729,SHAMANS_TOME,Shamans Tome
 730,BINDING_BOOK,sitova kirja
 731,ENCHANTED_VIAL,Lumottu pullo
 732,HOLY_WATER,Pyha vesi
@@ -494,7 +494,7 @@
 755,MESSAGE,Viestin viesti
 756,CADAVA_POTION,Cadava Pohja
 757,BOOK,Kirjakirja
-758,PHOENIX_HQ_KEY,Phoenix hq Nayta tarkat tiedot
+758,PHOENIX_HQ_KEY,Phoenix hq
 759,WEAPON_STORE_KEY,Asekaupan avain
 761,INTEL_REPORT,Intel raportoi
 762,FALADOR_SHIELD,Falador kilpi
@@ -510,7 +510,7 @@
 773,PERFECT_RING,Taydellinen sormus
 774,PERFECT_NECKLACE,Taydellinen kaulakoru
 775,COOKING_GAUNTLETS,Keittaminen Gauntlets
-776,GOLDSMITH_GAUNTLETS,Goldsmith Gauntlets Nayta tarkat tiedot
+776,GOLDSMITH_GAUNTLETS,Goldsmith Gauntlets
 777,CHAOS_GAUNTLETS,Kaaos Gauntlets
 778,STEEL_GAUNTLETS,Teras gauntlets
 779,CREST_PART,Vahva osa
@@ -652,7 +652,7 @@
 1023,YELLOW_CAPE,Keltainen kapteeni
 1025,RIGHT_EYE_PATCH,Oikea silma
 1027,GREEN_CAPE,Vihrea kakku
-1029,PURPLE_CAPE,Purple cape Nayta tarkat tiedot
+1029,PURPLE_CAPE,Purple cape
 1031,ORANGE_CAPE,appelsiinia
 1033,ZAMORAK_MONK_BOTTOM,zamorak munkki pohja
 1035,ZAMORAK_MONK_TOP,Munkki huipulla
@@ -687,7 +687,7 @@
 1091,ADAMANT_PLATESKIRT,Adamant Plateskirt
 1093,RUNE_PLATESKIRT,Juokse Plateskirt
 1095,LEATHER_CHAPS,Saveltaja Chaps
-1097,STUDDED_CHAPS,Studded Chaps Nayta tarkat tiedot
+1097,STUDDED_CHAPS,Studded Chaps
 1099,GREEN_DHIDE_CHAPS,Vihrea dhide chaps
 1101,IRON_CHAINBODY,Rautaketju
 1103,BRONZE_CHAINBODY,Kehittaja Chainbody
@@ -705,7 +705,7 @@
 1127,RUNE_PLATEBODY,Juokse Platebody
 1129,LEATHER_BODY,Nahkakeho
 1131,HARDLEATHER_BODY,Kova keho
-1133,STUDDED_BODY,Studded body Nayta tarkat tiedot
+1133,STUDDED_BODY,Studded body
 1135,GREEN_DHIDE_BODY,Vihrea dhide
 1137,IRON_MED_HELM,Rautaa Helm
 1139,BRONZE_MED_HELM,Med Helm
@@ -898,16 +898,16 @@
 1493,OLD_JOURNAL,Vanha lehti
 1494,HISTORY_OF_IBAN,Ibanin historia
 1495,KLANKS_GAUNTLETS,Klankkeja gauntletteja
-1496,IBANS_DOVE,Ibans dove Nayta tarkat tiedot
+1496,IBANS_DOVE,Ibans dove
 1497,AMULET_OF_OTHANIAN,Otanian amuletti
-1498,AMULET_OF_DOOMION,Amulet of Doomion Nayta tarkat tiedot
+1498,AMULET_OF_DOOMION,Amulet of Doomion
 1499,AMULET_OF_HOLTHION,Holthionin amuletti
 1500,IBANS_SHADOW,Ibans Shadow
 1501,DWARF_BREW,Dawarf pani
 1502,IBANS_ASHES,Ibans tuhkaa
 1503,WARRANT,Takuu
 1504,HANGOVER_CURE,Hangover-hoito
-1505,ARDOUGNE_TELEPORT_SCROLL,Ardougne teleport scroll Nayta tarkat tiedot
+1505,ARDOUGNE_TELEPORT_SCROLL,Ardougne teleport scroll
 1506,GAS_MASK,kaasumaski
 1507,A_SMALL_KEY,Pieni avain
 1508,A_SCRUFFY_NOTE,Hamara muistiinpano
@@ -1026,11 +1026,11 @@
 1698,RUBY_AMULET,Ruby Amulet
 1700,DIAMOND_AMULET,Timantti Amulet
 1702,DRAGONSTONE_AMULET,Lohikaarme Amulet
-1704,AMULET_OF_GLORY,Amulet of glory Nayta tarkat tiedot
-1706,AMULET_OF_GLORY1,Amulet of glory1 Nayta tarkat tiedot
-1708,AMULET_OF_GLORY2,Amulet of glory2 Nayta tarkat tiedot
-1710,AMULET_OF_GLORY3,Amulet of glory3 Nayta tarkat tiedot
-1712,AMULET_OF_GLORY4,Amulet of glory4 Nayta tarkat tiedot
+1704,AMULET_OF_GLORY,Amulet of glory
+1706,AMULET_OF_GLORY1,Amulet of glory1
+1708,AMULET_OF_GLORY2,Amulet of glory2
+1710,AMULET_OF_GLORY3,Amulet of glory3
+1712,AMULET_OF_GLORY4,Amulet of glory4
 1714,UNSTRUNG_SYMBOL,Unstrung-symboli
 1716,UNBLESSED_SYMBOL,Siunaamaton symboli
 1718,HOLY_SYMBOL,Pyha symboli
@@ -1118,7 +1118,7 @@
 1845,SLAVE_ROBE,Orjavaatteet
 1846,SLAVE_BOOTS,Orjakengat
 1847,SCRUMPLED_PAPER,Pehmea paperi
-1848,SHANTAY_DISCLAIMER,Shantay Disclaimer Nayta tarkat tiedot
+1848,SHANTAY_DISCLAIMER,Shantay Disclaimer
 1849,PROTOTYPE_DART,Prototyyppi dart
 1850,TECHNICAL_PLANS,Tekniset suunnitelmat
 1851,TENTI_PINEAPPLE,Tekija Pineapple
@@ -1223,7 +1223,7 @@
 2030,PREMADE_CHOC_SDY,Valmistettu choc Sdy
 2032,PREMADE_DR_DRAGON,Edeltaja Dragon
 2034,PREMADE_FR_BLAST,Premade Flast
-2036,PREMADE_P_PUNCH,Premade p punch Nayta tarkat tiedot
+2036,PREMADE_P_PUNCH,Premade p punch
 2038,PREMADE_SGG,Valmistettu Sgg
 2040,PREMADE_WIZ_BLZD,Edeltaja Wiz Blzd
 2042,UNFINISHED_COCKTAIL,Keskenerainen cocktail
@@ -1232,7 +1232,7 @@
 2048,PINEAPPLE_PUNCH,Pineapple punkki
 2050,UNFINISHED_COCKTAIL_2050,Keskenerainen cocktail 2050
 2052,UNFINISHED_COCKTAIL_2052,Keskenerainen cocktail 2052
-2054,WIZARD_BLIZZARD,Wizard blizzard Nayta tarkat tiedot
+2054,WIZARD_BLIZZARD,Wizard blizzard
 2056,UNFINISHED_COCKTAIL_2056,Keskenerainen cocktail 2056
 2058,UNFINISHED_COCKTAIL_2058,Keskenerainen cocktail 2058
 2060,UNFINISHED_COCKTAIL_2060,Keskenerainen cocktail 2060
@@ -1258,7 +1258,7 @@
 2100,ODD_COCKTAIL_2100,Kummallinen cocktail 2100
 2102,LEMON,Leena
 2104,LEMON_CHUNKS,Lemon chunks
-2106,LEMON_SLICES,Lemon slices Nayta tarkat tiedot
+2106,LEMON_SLICES,Lemon slices
 2108,ORANGE,Oranssi
 2110,ORANGE_CHUNKS,appelsiinia
 2112,ORANGE_SLICES,Oranssit viipaleet
@@ -1314,11 +1314,11 @@
 2203,ROCKCLIMBING_BOOTS,Rockclimbing-saappaat
 2205,WORM_CRUNCHIES,Madon ristiretket
 2207,UNFINISHED_CRUNCHY,keskenerainen risteily
-2209,CHOCCHIP_CRUNCHIES,Chocchip Crunchies Nayta tarkat tiedot
+2209,CHOCCHIP_CRUNCHIES,Chocchip Crunchies
 2211,UNFINISHED_CRUNCHY_2211,Keskenerainen 2211
-2213,SPICY_CRUNCHIES,Spicy crunchies Nayta tarkat tiedot
+2213,SPICY_CRUNCHIES,Spicy crunchies
 2215,UNFINISHED_CRUNCHY_2215,Keskenerainen 2215
-2217,TOAD_CRUNCHIES,Toad Crunchies Nayta tarkat tiedot
+2217,TOAD_CRUNCHIES,Toad Crunchies
 2219,PREMADE_WM_BATTA,Edeltaja Wm Batta
 2221,PREMADE_TD_BATTA,Edeltaja TD Batta
 2223,PREMADE_CT_BATTA,Edeltaja Ct Batta
@@ -1330,7 +1330,7 @@
 2235,PREMADE_VEG_BALL,Ensiesiintynyt veg pallo
 2237,PREMADE_WM_CRUN,Edeltaja Wm Crun
 2239,PREMADE_CH_CRUNCH,Etukateen tehty ch crunch
-2241,PREMADE_SY_CRUNCH,Premade sy crunch Nayta tarkat tiedot
+2241,PREMADE_SY_CRUNCH,Premade sy crunch
 2243,PREMADE_TD_CRUNCH,Edeltaja TD Crunch
 2245,ODD_BATTA,Odd Batta
 2247,BURNT_BATTA,Polttava Batta
@@ -1414,7 +1414,7 @@
 2385,OLD_ROBE,Vanha puku
 2386,UNUSUAL_ARMOUR,Epatavallinen panssari
 2387,DAMAGED_DAGGER,vaurioitunut tagger
-2388,TATTERED_EYE_PATCH,Tattered eye patch Nayta tarkat tiedot
+2388,TATTERED_EYE_PATCH,Tattered eye patch
 2389,VIAL_2389,2389
 2390,VIAL_2390,2390
 2391,GROUND_BAT_BONES,Bat Bonesin luut
@@ -1566,7 +1566,7 @@
 2647,BLACK_HEADBAND,musta paa
 2649,BROWN_HEADBAND,Brown headband
 2651,PIRATES_HAT,Merirosvot
-2653,ZAMORAK_PLATEBODY,zamorak platebody Nayta tarkat tiedot
+2653,ZAMORAK_PLATEBODY,zamorak platebody
 2655,ZAMORAK_PLATELEGS,zamorak verihiutaleita
 2657,ZAMORAK_FULL_HELM,Taysi kypara
 2659,ZAMORAK_KITESHIELD,zamorak kiteshield
@@ -1684,7 +1684,7 @@
 2804,CASKET_MEDIUM_2804,Keskikokoinen 2804
 2805,CLUE_SCROLL_MEDIUM_2805,Clull Scroll 2805
 2806,CASKET_MEDIUM_2806,Keskikokoinen 2806
-2807,CLUE_SCROLL_MEDIUM_2807,Clull Scroll Media 2807 Nayta tarkat tiedot
+2807,CLUE_SCROLL_MEDIUM_2807,Clull Scroll Media 2807
 2808,CASKET_MEDIUM_2808,Keskikokoinen 2808
 2809,CLUE_SCROLL_MEDIUM_2809,Scroll Media 2809
 2810,CASKET_MEDIUM_2810,Keskikokoinen 2810
@@ -1692,19 +1692,19 @@
 2812,CASKET_MEDIUM_2812,Keskikokoinen 2812
 2813,CLUE_SCROLL_MEDIUM_2813,Sarjakuvake 2813
 2814,CASKET_MEDIUM_2814,Keskikokoinen 2814
-2815,CLUE_SCROLL_MEDIUM_2815,Clull Scroll 2815 Nayta tarkat tiedot
+2815,CLUE_SCROLL_MEDIUM_2815,Clull Scroll 2815
 2816,CASKET_MEDIUM_2816,Keskikokoinen 2816
 2817,CLUE_SCROLL_MEDIUM_2817,Clull Scroll 2817
 2818,CASKET_MEDIUM_2818,Keskikokoinen 2818
 2819,CLUE_SCROLL_MEDIUM_2819,Sarjakuvake 2819
 2820,CASKET_MEDIUM_2820,Keskikokoinen 2820
-2821,CLUE_SCROLL_MEDIUM_2821,Clull Scroll 2821 Nayta tarkat tiedot
+2821,CLUE_SCROLL_MEDIUM_2821,Clull Scroll 2821
 2822,CASKET_MEDIUM_2822,Keskikokoinen 2822
 2823,CLUE_SCROLL_MEDIUM_2823,Clull Scroll 2823 (kaytetty)
 2824,CASKET_MEDIUM_2824,Keskikokoinen 2824
-2825,CLUE_SCROLL_MEDIUM_2825,Clull Scroll 2825 Nayta tarkat tiedot
+2825,CLUE_SCROLL_MEDIUM_2825,Clull Scroll 2825
 2826,CASKET_MEDIUM_2826,Keskikokoinen 2826
-2827,CLUE_SCROLL_MEDIUM_2827,Clull Scroll 2827 Nayta tarkat tiedot
+2827,CLUE_SCROLL_MEDIUM_2827,Clull Scroll 2827
 2828,CASKET_MEDIUM_2828,Keskikokoinen 2828
 2829,CLUE_SCROLL_MEDIUM_2829,Sarjakuvake 2829
 2830,CASKET_MEDIUM_2830,Keskikokoinen 2830
@@ -1714,30 +1714,30 @@
 2834,KEY_MEDIUM_2834,Keskeinen 2834
 2835,CLUE_SCROLL_MEDIUM_2835,Sarjakuvake 2835
 2836,KEY_MEDIUM_2836,Keskeinen 2836
-2837,CLUE_SCROLL_MEDIUM_2837,Clull Scroll 2837 Nayta tarkat tiedot
+2837,CLUE_SCROLL_MEDIUM_2837,Clull Scroll 2837
 2838,KEY_MEDIUM_2838,Keskeinen 2838
 2839,CLUE_SCROLL_MEDIUM_2839,Clull Scroll 2839 (kaytetty)
 2840,KEY_MEDIUM_2840,Keskeinen 2840
 2841,CLUE_SCROLL_MEDIUM_2841,Clull Scroll 2841 (kaytetty)
 2842,CHALLENGE_SCROLL_MEDIUM,Haasteen keskikokoinen
-2843,CLUE_SCROLL_MEDIUM_2843,Clull Scroll 2843 Nayta tarkat tiedot
+2843,CLUE_SCROLL_MEDIUM_2843,Clull Scroll 2843
 2844,CHALLENGE_SCROLL_MEDIUM_2844,Haasteen keskiarvo 2844
 2845,CLUE_SCROLL_MEDIUM_2845,Clull Scroll 2845
 2846,CHALLENGE_SCROLL_MEDIUM_2846,Haasteen keskiarvo 2846
-2847,CLUE_SCROLL_MEDIUM_2847,Clull Scroll 2847 Nayta tarkat tiedot
+2847,CLUE_SCROLL_MEDIUM_2847,Clull Scroll 2847
 2848,CLUE_SCROLL_MEDIUM_2848,Clull Scroll 2848 (kaytetty)
 2849,CLUE_SCROLL_MEDIUM_2849,Clull Scroll 2849 (kaytetty)
 2850,CHALLENGE_SCROLL_MEDIUM_2850,Haasteen keskiarvo 2850
 2851,CLUE_SCROLL_MEDIUM_2851,Saveltaja 2851
 2852,CHALLENGE_SCROLL_MEDIUM_2852,Haasteen keskiarvo 2852
-2853,CLUE_SCROLL_MEDIUM_2853,Clull Scroll 2853 Nayta tarkat tiedot
+2853,CLUE_SCROLL_MEDIUM_2853,Clull Scroll 2853
 2854,CHALLENGE_SCROLL_MEDIUM_2854,Haasteen keskiarvo 2854
-2855,CLUE_SCROLL_MEDIUM_2855,Clull Scroll 2855 Nayta tarkat tiedot
+2855,CLUE_SCROLL_MEDIUM_2855,Clull Scroll 2855
 2856,CLUE_SCROLL_MEDIUM_2856,Clull Scroll 2856 (kaytetty)
 2857,CLUE_SCROLL_MEDIUM_2857,Saveltaja 2857
-2858,CLUE_SCROLL_MEDIUM_2858,Clull Scroll 2858 Nayta tarkat tiedot
+2858,CLUE_SCROLL_MEDIUM_2858,Clull Scroll 2858
 2859,WOLF_BONES,Susi luut
-2861,WOLFBONE_ARROWTIPS,Sulfbone arrowtips Nayta tarkat tiedot
+2861,WOLFBONE_ARROWTIPS,Sulfbone arrowtips
 2862,ACHEY_TREE_LOGS,Achey puun lokit
 2864,OGRE_ARROW_SHAFT,Aihe: Ase
 2865,FLIGHTED_OGRE_ARROW,Lentanyt ogre arrow
@@ -1781,7 +1781,7 @@
 2932,TEAL_GLOVES,Teal kasineet
 2934,PURPLE_BOOTS,Violetit saappaat
 2936,PURPLE_ROBE_TOP,Purple Robe Top
-2938,PURPLE_ROBE_BOTTOMS,Purple Robe Baottoms Nayta tarkat tiedot
+2938,PURPLE_ROBE_BOTTOMS,Purple Robe Baottoms
 2940,PURPLE_HAT,Violetti hattu
 2942,PURPLE_GLOVES,Violetti kasineet
 2944,GOLDEN_KEY,Kultainen avain
@@ -1981,7 +1981,7 @@
 3257,GNOME,Genome
 3259,HERO,sankari
 3261,GOUTWEED,Goutweed
-3262,TROLL_THISTLE,Troll Thistle Nayta tarkat tiedot
+3262,TROLL_THISTLE,Troll Thistle
 3263,DRIED_THISTLE,Kuivunut tapla
 3264,GROUND_THISTLE,Lahde: Thistle
 3265,TROLL_POTION,Troll Potion
@@ -2056,7 +2056,7 @@
 3442,WILLOW_PYRE_LOGS,Willow pyre lokit
 3444,MAPLE_PYRE_LOGS,Maple pyre lokit
 3446,YEW_PYRE_LOGS,pyre-lokit
-3448,MAGIC_PYRE_LOGS,Magic pyre logs Nayta tarkat tiedot
+3448,MAGIC_PYRE_LOGS,Magic pyre logs
 3450,BRONZE_KEY_RED,Punainen avain
 3451,BRONZE_KEY_BROWN,Keskeinen ruskea
 3452,BRONZE_KEY_CRIMSON,Kehittaja Crimson
@@ -2188,19 +2188,19 @@
 3583,CASKET_MEDIUM_3583,Keskikokoinen 3583
 3584,CLUE_SCROLL_MEDIUM_3584,Scroll 3584
 3585,CASKET_MEDIUM_3585,Keskikokoinen 3585
-3586,CLUE_SCROLL_MEDIUM_3586,Clull Scroll 3586 Nayta tarkat tiedot
+3586,CLUE_SCROLL_MEDIUM_3586,Clull Scroll 3586
 3587,CASKET_MEDIUM_3587,Keskikokoinen 3587
 3588,CLUE_SCROLL_MEDIUM_3588,Scroll 388
 3589,CASKET_MEDIUM_3589,Keskikokoinen kasketti 3589
-3590,CLUE_SCROLL_MEDIUM_3590,Scroll Medical 3590 Nayta tarkat tiedot
+3590,CLUE_SCROLL_MEDIUM_3590,Scroll Medical 3590
 3591,CASKET_MEDIUM_3591,Keskikokoinen 3591
-3592,CLUE_SCROLL_MEDIUM_3592,Clull Scroll 3592 Nayta tarkat tiedot
+3592,CLUE_SCROLL_MEDIUM_3592,Clull Scroll 3592
 3593,CASKET_MEDIUM_3593,Keskikokoinen 3593
-3594,CLUE_SCROLL_MEDIUM_3594,Clull Scroll 3594 Nayta tarkat tiedot
+3594,CLUE_SCROLL_MEDIUM_3594,Clull Scroll 3594
 3595,CASKET_MEDIUM_3595,Keskikokoinen 3595
-3596,CLUE_SCROLL_MEDIUM_3596,Clull Scroll 3596 Nayta tarkat tiedot
+3596,CLUE_SCROLL_MEDIUM_3596,Clull Scroll 3596
 3597,CASKET_MEDIUM_3597,Keskikokoinen 3597
-3598,CLUE_SCROLL_MEDIUM_3598,Clull Scroll 3598 Nayta tarkat tiedot
+3598,CLUE_SCROLL_MEDIUM_3598,Clull Scroll 3598
 3599,CLUE_SCROLL_MEDIUM_3599,Scroll 399
 3600,CASKET_MEDIUM_3600,Keskikokoinen kasketti 3600
 3601,CLUE_SCROLL_MEDIUM_3601,Clull Scroll keskipitka 3601
@@ -2212,15 +2212,15 @@
 3607,CLUE_SCROLL_MEDIUM_3607,Scroll 3607
 3608,KEY_MEDIUM_3608,Keskeinen 3608
 3609,CLUE_SCROLL_MEDIUM_3609,Scroll 3609
-3610,CLUE_SCROLL_MEDIUM_3610,Clull Medical 3610 Nayta tarkat tiedot
-3611,CLUE_SCROLL_MEDIUM_3611,Clull Medical 3611 Nayta tarkat tiedot
-3612,CLUE_SCROLL_MEDIUM_3612,Clull Medical 3612 Nayta tarkat tiedot
-3613,CLUE_SCROLL_MEDIUM_3613,Clull Medical 3613 Nayta tarkat tiedot
+3610,CLUE_SCROLL_MEDIUM_3610,Clull Medical 3610
+3611,CLUE_SCROLL_MEDIUM_3611,Clull Medical 3611
+3612,CLUE_SCROLL_MEDIUM_3612,Clull Medical 3612
+3613,CLUE_SCROLL_MEDIUM_3613,Clull Medical 3613
 3614,CLUE_SCROLL_MEDIUM_3614,Clull Scroll keskipitka 3614
-3615,CLUE_SCROLL_MEDIUM_3615,Clull Scroll 3615 Nayta tarkat tiedot
+3615,CLUE_SCROLL_MEDIUM_3615,Clull Scroll 3615
 3616,CLUE_SCROLL_MEDIUM_3616,Clull Scroll keskipitka 3616
 3617,CLUE_SCROLL_MEDIUM_3617,Clull Scroll keskipitka 3617
-3618,CLUE_SCROLL_MEDIUM_3618,Clull Scroll 3618 Nayta tarkat tiedot
+3618,CLUE_SCROLL_MEDIUM_3618,Clull Scroll 3618
 3678,FLAMTAER_HAMMER,Flamtaer Hammer
 3680,SHOE,Kengat
 3681,SHOE_3681,Kengat 3681
@@ -2229,7 +2229,7 @@
 3684,SHOE_3684,Kengat 3684
 3685,SHOE_3685,Kengat 3685
 3686,FREMENNIK,Fremennik
-3688,UNSTRUNG_LYRE,Unstrung lyre Nayta tarkat tiedot
+3688,UNSTRUNG_LYRE,Unstrung lyre
 3689,LYRE,lyyreja
 3690,ENCHANTED_LYRE,Lumottu lyre
 3691,ENCHANTED_LYRE1,Lumottu lyre1
@@ -2398,7 +2398,7 @@
 4018,MONKEY_WRENCH,Apina wrench
 4020,MAMULET_MOULD,Mamulet Mould
 4021,MSPEAK_AMULET,mspeak amulet
-4022,MSPEAK_AMULET_4022,mspeak amulet 4022 Nayta tarkat tiedot
+4022,MSPEAK_AMULET_4022,mspeak amulet 4022
 4023,MONKEY_TALISMAN,Apina Talisman
 4024,NINJA_MONKEY_GREEGREE,Ninja Monkey Greegree
 4025,NINJA_MONKEY_GREEGREE_4025,ninja apina 4025
@@ -2451,7 +2451,7 @@
 4105,MYSTIC_GLOVES_DARK,Mystiset kasineet tummat
 4107,MYSTIC_BOOTS_DARK,Mystiset saappaat tummia
 4109,MYSTIC_HAT_LIGHT,Mystinen hattuvalo
-4111,MYSTIC_ROBE_TOP_LIGHT,Myst Robe Top Light Nayta tarkat tiedot
+4111,MYSTIC_ROBE_TOP_LIGHT,Myst Robe Top Light
 4113,MYSTIC_ROBE_BOTTOM_LIGHT,Mystinen pohjavalo
 4115,MYSTIC_GLOVES_LIGHT,Mystinen valo
 4117,MYSTIC_BOOTS_LIGHT,Mystiset kengat
@@ -2551,7 +2551,7 @@
 4235,NEW_CRYSTAL_SHIELD_4235,Kilpi 4235
 4236,SIGNED_OAK_BOW,Allekirjoittanut Taak Gow
 4237,NETTLEWATER,Nettlewater
-4238,PUDDLE_OF_SLIME,Puddle of slime Nayta tarkat tiedot
+4238,PUDDLE_OF_SLIME,Puddle of slime
 4239,NETTLE_TEA,Vahan teeta
 4240,NETTLE_TEA_4240,Teeta 4240
 4241,NETTLES,Nettleja
@@ -2595,7 +2595,7 @@
 4283,PETITION_FORM,vetoomusmuoto
 4284,BEDSHEET,Sangyt
 4285,BEDSHEET_4285,Sanky 4285
-4286,BUCKET_OF_SLIME,Bucket of slime Nayta tarkat tiedot
+4286,BUCKET_OF_SLIME,Bucket of slime
 4287,RAW_BEEF_4287,Naudanliha 4287
 4289,RAW_CHICKEN_4289,Kana 4289
 4291,COOKED_CHICKEN_4291,Kana 4291
@@ -2661,7 +2661,7 @@
 4411,TEAM49_CAPE,49 pistetta
 4413,TEAM50_CAPE,Joukkue 50
 4415,BLUNT_AXE,Blunt Axe
-4416,HERBAL_TINCTURE,Herbal tinctures Nayta tarkat tiedot
+4416,HERBAL_TINCTURE,Herbal tinctures
 4417,GUTHIX_REST4,Guthix Re4
 4419,GUTHIX_REST3,Gluthix Re3
 4421,GUTHIX_REST2,Gluthix levat2
@@ -2729,8 +2729,8 @@
 4516,CASTLEWARS_CLOAK_4516,Linnavaatteet 4516
 4517,GIANT_FROG_LEGS,Jattimaiset sammakkojalat
 4519,SWAMP_WALLBEAST,Swamp Wallbeast
-4520,SWAMP_CAVE_SLIME,Swamp cave slime Nayta tarkat tiedot
-4521,SWAMP_CAVE_BUG,Swamp Cave Bug Nayta tarkat tiedot
+4520,SWAMP_CAVE_SLIME,Swamp cave slime
+4521,SWAMP_CAVE_BUG,Swamp Cave Bug
 4522,OIL_LAMP,aljylamppu
 4524,OIL_LAMP_4524,aljylamppu 4524
 4525,EMPTY_OIL_LAMP,Tyhja lamppu
@@ -2840,7 +2840,7 @@
 4683,UNHOLY_SYMBOL_4683,Epapyha symboli 4683
 4684,LINEN,Linja
 4686,EMBALMING_MANUAL,Kasikirjoitus
-4687,BUCKET_OF_SAP,Bucket of Sap Nayta tarkat tiedot
+4687,BUCKET_OF_SAP,Bucket of Sap
 4689,PILE_OF_SALT,Suolan kasa
 4691,SPHINXS_TOKEN,Spinx-tunnukset
 4692,GOLD_LEAF,Kultalehti
@@ -2862,21 +2862,21 @@
 4712,AHRIMS_ROBETOP,Ahrims Robetop (kaytetty)
 4714,AHRIMS_ROBESKIRT,Ahrims Robeskirt
 4716,DHAROKS_HELM,daharoks kypara
-4718,DHAROKS_GREATAXE,Dharoks Greataxe Nayta tarkat tiedot
-4720,DHAROKS_PLATEBODY,dharoks platebody Nayta tarkat tiedot
+4718,DHAROKS_GREATAXE,Dharoks Greataxe
+4720,DHAROKS_PLATEBODY,dharoks platebody
 4722,DHAROKS_PLATELEGS,dharoks verihiutaleita
 4724,GUTHANS_HELM,Guthans Helm
-4726,GUTHANS_WARSPEAR,Guthans Warspear Nayta tarkat tiedot
-4728,GUTHANS_PLATEBODY,Guthans platebody Nayta tarkat tiedot
+4726,GUTHANS_WARSPEAR,Guthans Warspear
+4728,GUTHANS_PLATEBODY,Guthans platebody
 4730,GUTHANS_CHAINSKIRT,Guthans Chainskirt
 4732,KARILS_COIF,Karil Coif
-4734,KARILS_CROSSBOW,Karils crossbow Nayta tarkat tiedot
-4736,KARILS_LEATHERTOP,Karils Nathertop Nayta tarkat tiedot
-4738,KARILS_LEATHERSKIRT,Karils Natherskirt Nayta tarkat tiedot
+4734,KARILS_CROSSBOW,Karils crossbow
+4736,KARILS_LEATHERTOP,Karils Nathertop
+4738,KARILS_LEATHERSKIRT,Karils Natherskirt
 4740,BOLT_RACK,Bolt Rack
 4745,TORAGS_HELM,Torags Helm
 4747,TORAGS_HAMMERS,Torags vasara
-4749,TORAGS_PLATEBODY,Torags platebody Nayta tarkat tiedot
+4749,TORAGS_PLATEBODY,Torags platebody
 4751,TORAGS_PLATELEGS,Torags platelegs
 4753,VERACS_HELM,Veracs Helm
 4755,VERACS_FLAIL,Veracs Flail
@@ -2925,7 +2925,7 @@
 4853,FAYRG_BONEMEAL,Fayrg Boneme
 4854,RAURG_BONEMEAL,Raurg Boneme
 4855,OURG_BONEMEAL,Meidan Boneme
-4856,AHRIMS_HOOD_100,Ahrims hood 100 Nayta tarkat tiedot
+4856,AHRIMS_HOOD_100,Ahrims hood 100
 4857,AHRIMS_HOOD_75,Ahrims: 75
 4858,AHRIMS_HOOD_50,Ahrims 50
 4859,AHRIMS_HOOD_25,Ahrims: 25
@@ -2950,16 +2950,16 @@
 4882,DHAROKS_HELM_50,Helm 50
 4883,DHAROKS_HELM_25,Helm 25
 4884,DHAROKS_HELM_0,Helm 0
-4886,DHAROKS_GREATAXE_100,Dharoks Greataxe Nayta tarkat tiedot 100 100 100
+4886,DHAROKS_GREATAXE_100,Dharoks Greataxe 100 100 100
 4887,DHAROKS_GREATAXE_75,Suuret 75
-4888,DHAROKS_GREATAXE_50,Dharoks Greataxe Nayta tarkat tiedot 50
-4889,DHAROKS_GREATAXE_25,Dharoks Greataxe Nayta tarkat tiedot 25 25
-4890,DHAROKS_GREATAXE_0,Dharoks Greataxe Nayta tarkat tiedot 0
-4892,DHAROKS_PLATEBODY_100,dharoks platebody Nayta tarkat tiedot 100 100 100
+4888,DHAROKS_GREATAXE_50,Dharoks Greataxe 50
+4889,DHAROKS_GREATAXE_25,Dharoks Greataxe 25 25
+4890,DHAROKS_GREATAXE_0,Dharoks Greataxe 0
+4892,DHAROKS_PLATEBODY_100,dharoks platebody 100 100 100
 4893,DHAROKS_PLATEBODY_75,Laatikko 75
-4894,DHAROKS_PLATEBODY_50,dharoks platebody Nayta tarkat tiedot 50
+4894,DHAROKS_PLATEBODY_50,dharoks platebody 50
 4895,DHAROKS_PLATEBODY_25,Dharoks platebody 25
-4896,DHAROKS_PLATEBODY_0,dharoks platebody Nayta tarkat tiedot 0
+4896,DHAROKS_PLATEBODY_0,dharoks platebody 0
 4898,DHAROKS_PLATELEGS_100,dharoks verihiutaleita 100 100 100
 4899,DHAROKS_PLATELEGS_75,dharoks verihiutaleita 75
 4900,DHAROKS_PLATELEGS_50,dharoks verihiutaleita 50
@@ -2970,12 +2970,12 @@
 4906,GUTHANS_HELM_50,Guthans Helm 50
 4907,GUTHANS_HELM_25,Guthans Helm 25
 4908,GUTHANS_HELM_0,Guthans Helm 0
-4910,GUTHANS_WARSPEAR_100,Guthans Warspear Nayta tarkat tiedot 100 100 100
+4910,GUTHANS_WARSPEAR_100,Guthans Warspear 100 100 100
 4911,GUTHANS_WARSPEAR_75,Sodankaynti 75
 4912,GUTHANS_WARSPEAR_50,Guthans Warspear 50 Ilmaiseksi Netista
 4913,GUTHANS_WARSPEAR_25,Guthans Warspear 25 (kaytetty)
-4914,GUTHANS_WARSPEAR_0,Guthans Warspear 0 Nayta tarkat tiedot
-4916,GUTHANS_PLATEBODY_100,Guthans platebody Nayta tarkat tiedot 100 100 100
+4914,GUTHANS_WARSPEAR_0,Guthans Warspear 0
+4916,GUTHANS_PLATEBODY_100,Guthans platebody 100 100 100
 4917,GUTHANS_PLATEBODY_75,Guthans platebody 75
 4918,GUTHANS_PLATEBODY_50,Guthans platebody 50
 4919,GUTHANS_PLATEBODY_25,Guthans platebody 25
@@ -2985,26 +2985,26 @@
 4924,GUTHANS_CHAINSKIRT_50,Guthans Chainskirt 50
 4925,GUTHANS_CHAINSKIRT_25,Guthans-ketju 25
 4926,GUTHANS_CHAINSKIRT_0,Guthans Chainskirt 0
-4928,KARILS_COIF_100,Karils Coif 100 Nayta tarkat tiedot
+4928,KARILS_COIF_100,Karils Coif 100
 4929,KARILS_COIF_75,Karilit 75
 4930,KARILS_COIF_50,Karilit 50
 4931,KARILS_COIF_25,Karilit 25
 4932,KARILS_COIF_0,Karilit 0
-4934,KARILS_CROSSBOW_100,Karils crossbow 100 Nayta tarkat tiedot
+4934,KARILS_CROSSBOW_100,Karils crossbow 100
 4935,KARILS_CROSSBOW_75,Karils crossbow 75
 4936,KARILS_CROSSBOW_50,Karils crossbow 50
 4937,KARILS_CROSSBOW_25,Karils Crossbow 25 (kaytetty)
 4938,KARILS_CROSSBOW_0,Karils Crossbow 0 (kaytetty)
-4940,KARILS_LEATHERTOP_100,Karils Nathertop Nayta tarkat tiedot 100 100 100
+4940,KARILS_LEATHERTOP_100,Karils Nathertop 100 100 100
 4941,KARILS_LEATHERTOP_75,Karils Nathertop 75
-4942,KARILS_LEATHERTOP_50,Karils Nathertop Nayta tarkat tiedot 50
+4942,KARILS_LEATHERTOP_50,Karils Nathertop 50
 4943,KARILS_LEATHERTOP_25,Karils Nathertop 25 (kaytetty)
-4944,KARILS_LEATHERTOP_0,Karils Nathertop Nayta tarkat tiedot 0
-4946,KARILS_LEATHERSKIRT_100,Karils Natherskirt Nayta tarkat tiedot 100 100 100
+4944,KARILS_LEATHERTOP_0,Karils Nathertop 0
+4946,KARILS_LEATHERSKIRT_100,Karils Natherskirt 100 100 100
 4947,KARILS_LEATHERSKIRT_75,Karils Natherskirt 75
-4948,KARILS_LEATHERSKIRT_50,Karils Natherskirt Nayta tarkat tiedot 50
+4948,KARILS_LEATHERSKIRT_50,Karils Natherskirt 50
 4949,KARILS_LEATHERSKIRT_25,Karils Natherskirt 25
-4950,KARILS_LEATHERSKIRT_0,Karils Natherskirt Nayta tarkat tiedot 0
+4950,KARILS_LEATHERSKIRT_0,Karils Natherskirt 0
 4952,TORAGS_HELM_100,Helmi 100
 4953,TORAGS_HELM_75,Helm 75
 4954,TORAGS_HELM_50,Torags Helm 50
@@ -3015,7 +3015,7 @@
 4960,TORAGS_HAMMERS_50,Torags vasara 50
 4961,TORAGS_HAMMERS_25,Vasarat 25
 4962,TORAGS_HAMMERS_0,Torags vasara 0
-4964,TORAGS_PLATEBODY_100,Torags platebody Nayta tarkat tiedot 100 100 100
+4964,TORAGS_PLATEBODY_100,Torags platebody 100 100 100
 4965,TORAGS_PLATEBODY_75,Torags platebody 75
 4966,TORAGS_PLATEBODY_50,Torags platebody 50
 4967,TORAGS_PLATEBODY_25,Torags platebody 25
@@ -3197,7 +3197,7 @@
 5368,MAGIC_SEEDLING_W,Taianomainen W
 5369,SPIRIT_SEEDLING_W,Siemensyaja W
 5370,OAK_SAPLING,Taak Sapling
-5371,WILLOW_SAPLING,Willow sapling Nayta tarkat tiedot
+5371,WILLOW_SAPLING,Willow sapling
 5372,MAPLE_SAPLING,Maple Sapling
 5373,YEW_SAPLING,Juutalainen Sapling
 5374,MAGIC_SAPLING,Taikuri
@@ -3277,7 +3277,7 @@
 5500,PINEAPPLE_SAPLING,Pineapple Sapling
 5501,PAPAYA_SAPLING,Papaya Sapling
 5502,PALM_SAPLING,Palm Sapling
-5503,CALQUAT_SAPLING,calquat sapling Nayta tarkat tiedot
+5503,CALQUAT_SAPLING,calquat sapling
 5504,STRAWBERRY,mansikka
 5506,OLD_MANS_MESSAGE,Vanhojen miesten viesti
 5507,STRANGE_BOOK,Outo kirja
@@ -3384,13 +3384,13 @@
 5631,BLACK_DARTP_5631,Mustaa 5631
 5632,MITHRIL_DARTP_5632,Mithril Dartp 5632 (kaytetty)
 5633,ADAMANT_DARTP_5633,ADAMUS 5633
-5634,RUNE_DARTP_5634,Dartp 5634 Nayta tarkat tiedot
+5634,RUNE_DARTP_5634,Dartp 5634
 5635,BRONZE_DARTP_5635,Kehittaja Dartp 5635
 5636,IRON_DARTP_5636,Rautaa 5636
 5637,STEEL_DARTP_5637,Teras 5637
 5638,BLACK_DARTP_5638,musta 5638
 5639,MITHRIL_DARTP_5639,Mithril Dartp 5639 (sav.
-5640,ADAMANT_DARTP_5640,Damant dartp 5640 Nayta tarkat tiedot
+5640,ADAMANT_DARTP_5640,Damant dartp 5640
 5641,RUNE_DARTP_5641,Dartp 5641
 5642,BRONZE_JAVELINP_5642,Kehittaja Javelinp 5642
 5643,IRON_JAVELINP_5643,Rautaa 5643
@@ -3536,7 +3536,7 @@
 5895,MOONLIGHT_MEADM3,Moonlight Meadm3
 5897,MOONLIGHT_MEADM4,Moonlight Meadm4
 5899,AXEMANS_FOLLYM1,Axemans tyhma 1 1
-5901,AXEMANS_FOLLYM2,Axemans Follym2 Nayta tarkat tiedot
+5901,AXEMANS_FOLLYM2,Axemans Follym2
 5903,AXEMANS_FOLLYM3,Axemans Follym3
 5905,AXEMANS_FOLLYM4,Axemans tyhma 4 4
 5907,CHEFS_DELIGHTM1,Kokki ilahduttaa 1 1
@@ -3643,7 +3643,7 @@
 6085,RED_DYE_BELLOWS,Punainen vari Bellows
 6086,BLUE_DYE_BELLOWS,Sininen dye bellows
 6087,YELLOW_DYE_BELLOWS,Keltainen dye bellows
-6088,GREEN_DYE_BELLOWS,Green dye bellows Nayta tarkat tiedot
+6088,GREEN_DYE_BELLOWS,Green dye bellows
 6089,BLUE_TOAD,sininen
 6090,RED_TOAD,punainen
 6091,YELLOW_TOAD,Keltainen
@@ -3683,7 +3683,7 @@
 6130,ROCKSHELL_LEGS,Rockshellin jalat
 6131,SPINED_HELM,pyarahtanyt kypara
 6133,SPINED_BODY,spined body
-6135,SPINED_CHAPS,Spined Chaps Nayta tarkat tiedot
+6135,SPINED_CHAPS,Spined Chaps
 6137,SKELETAL_HELM,Skeletal Helm
 6139,SKELETAL_TOP,Skeletal top
 6141,SKELETAL_BOTTOMS,Luonnon pohjat
@@ -3907,7 +3907,7 @@
 6579,ONYX_AMULET_U,Onyx Amulet
 6581,ONYX_AMULET,Onyx Amulet
 6583,RING_OF_STONE,Kiven sormus
-6585,AMULET_OF_FURY,Amulet of Fury Nayta tarkat tiedot
+6585,AMULET_OF_FURY,Amulet of Fury
 6587,WHITE_CLAWS,Valkoiset kynnet
 6589,WHITE_BATTLEAXE,Valkoinen taistelu
 6591,WHITE_DAGGER,Valkoinen koira
@@ -3986,7 +3986,7 @@
 6693,CRUSHED_NEST,murskattu pesa
 6695,DESERT_LIZARD,Aavikko Lizard
 6696,ICE_COOLER,Jaakylmampaa
-6697,PAT_OF_BUTTER,Pat of Butter Nayta tarkat tiedot
+6697,PAT_OF_BUTTER,Pat of Butter
 6699,BURNT_POTATO,Polttava peruna
 6701,BAKED_POTATO,Paistettua perunaa
 6703,POTATO_WITH_BUTTER,Perunaa voilla
@@ -4038,7 +4038,7 @@
 6768,POISONED_CHEESE,Myrkytetty juusto
 6769,MUSIC_SCROLL,Musiikkia
 6770,DIRECTIONS,Suuntaa
-6771,POT_OF_WEEDS,Pat of weeds Nayta tarkat tiedot
+6771,POT_OF_WEEDS,Pat of weeds
 6772,SMOULDERING_POT,Smouldering Pot
 6773,RAT_POLE,Rotta
 6774,RAT_POLE_6774,Rotta 6774
@@ -4063,16 +4063,16 @@
 6796,LAMP_6796,Lamppu 6796
 6797,WATERING_CAN_6797,Vesivoima 6797
 6798,EARTH_WARRIOR_CHAMPION_SCROLL,Maapallon Soturin Mestari
-6799,GHOUL_CHAMPION_SCROLL,Ghoul Champion Scroll Nayta tarkat tiedot
+6799,GHOUL_CHAMPION_SCROLL,Ghoul Champion Scroll
 6800,GIANT_CHAMPION_SCROLL,Jattilainen Champion Scroll
 6801,GOBLIN_CHAMPION_SCROLL,Goblinin mestaruussarja
 6802,HOBGOBLIN_CHAMPION_SCROLL,Hobgoblinin mestari
 6803,IMP_CHAMPION_SCROLL,MM-kisat
-6804,JOGRE_CHAMPION_SCROLL,Jogre Champion Scroll Nayta tarkat tiedot
+6804,JOGRE_CHAMPION_SCROLL,Jogre Champion Scroll
 6805,LESSER_DEMON_CHAMPION_SCROLL,Vahemman Den Champion
-6806,SKELETON_CHAMPION_SCROLL,Skeleton Champion Scroll Nayta tarkat tiedot
-6807,ZOMBIE_CHAMPION_SCROLL,Zombie Champion Scroll Nayta tarkat tiedot
-6808,LEONS_CHAMPION_SCROLL,Leons Champion Scroll Nayta tarkat tiedot
+6806,SKELETON_CHAMPION_SCROLL,Skeleton Champion Scroll
+6807,ZOMBIE_CHAMPION_SCROLL,Zombie Champion Scroll
+6808,LEONS_CHAMPION_SCROLL,Leons Champion Scroll
 6809,GRANITE_LEGS,graniittijalat
 6810,WYVERN_BONEMEAL,Wyvern Bonemeal
 6811,SKELETAL_WYVERN,Skeletal Wyvern
@@ -4152,7 +4152,7 @@
 6891,ARENA_BOOK,Areenan kirja
 6893,LEATHER_BOOTS_6893,Kengat 6893
 6894,ADAMANT_KITESHIELD_6894,Kiteshield 6894
-6895,ADAMANT_MED_HELM_6895,Adamant Med Helm 6895 Nayta tarkat tiedot
+6895,ADAMANT_MED_HELM_6895,Adamant Med Helm 6895
 6896,EMERALD_6896,Smaragdi 6896
 6897,RUNE_LONGSWORD_6897,Pitkasana 6897
 6898,CYLINDER,Sylinteria
@@ -4173,7 +4173,7 @@
 6918,INFINITY_HAT,Infinity hattu
 6920,INFINITY_BOOTS,Loputtomat saappaat
 6922,INFINITY_GLOVES,Infinity kasineet
-6924,INFINITY_BOTTOMS,Infinity bottoms Nayta tarkat tiedot
+6924,INFINITY_BOTTOMS,Infinity bottoms
 6926,BONES_TO_PEACHES,Luita paarynalle
 6945,SANDY_HAND,Hiekkakasi
 6946,BEER_SOAKED_HAND,Olut liotettu kasi
@@ -4241,7 +4241,7 @@
 7074,CHOPPED_GARLIC,Valkosipuli
 7076,UNCOOKED_EGG,Keittamatan muna
 7078,SCRAMBLED_EGG,Hajotettu muna
-7080,SLICED_MUSHROOMS,Slicked Mushrooms Nayta tarkat tiedot
+7080,SLICED_MUSHROOMS,Slicked Mushrooms
 7082,FRIED_MUSHROOMS,Paistettuja sienia
 7084,FRIED_ONIONS,Paistettuja sipulia
 7086,CHOPPED_TUNA,tonnikalaa
@@ -4266,7 +4266,7 @@
 7110,STRIPY_PIRATE_SHIRT,Piraattipaita
 7112,PIRATE_BANDANA,Merirosvo Banna
 7114,PIRATE_BOOTS,Merirosvon saappaat
-7116,PIRATE_LEGGINGS,Pirate leggings Nayta tarkat tiedot
+7116,PIRATE_LEGGINGS,Pirate leggings
 7118,CANISTER,Kanit
 7119,CANNON_BALL_7119,Sarja 7119
 7120,RAMROD,Ramrod
@@ -4276,7 +4276,7 @@
 7126,PIRATE_LEGGINGS_7126,Merirosvot 7126
 7128,STRIPY_PIRATE_SHIRT_7128,Piraattipaita 7128
 7130,PIRATE_BANDANA_7130,Merirosvo Banna 7130
-7132,PIRATE_LEGGINGS_7132,Pirate leggings Nayta tarkat tiedot 7132
+7132,PIRATE_LEGGINGS_7132,Pirate leggings 7132
 7134,STRIPY_PIRATE_SHIRT_7134,Piraattipaita 7134
 7136,PIRATE_BANDANA_7136,Merirosvot 7136
 7138,PIRATE_LEGGINGS_7138,Merirosvot 7138
@@ -4333,7 +4333,7 @@
 7225,IRON_SPIT,Rautainen spit
 7226,BURNT_CHOMPY,Polttava kopti
 7228,COOKED_CHOMPY_7228,Kokkaus 7228
-7230,SKEWERED_CHOMPY,Skewered chompy Nayta tarkat tiedot
+7230,SKEWERED_CHOMPY,Skewered chompy
 7236,CLUE_SCROLL_EASY_7236,Helppoa 7236
 7237,CASKET_EASY_7237,Helppoa 7237
 7238,CLUE_SCROLL_EASY_7238,Helppoa 7238
@@ -4378,7 +4378,7 @@
 7277,CHALLENGE_SCROLL_MEDIUM_7277,Haasteen keskikokoinen 7277
 7278,CLUE_SCROLL_MEDIUM_7278,Clull Scroll keskiarvo 7278
 7279,CHALLENGE_SCROLL_MEDIUM_7279,Haasteen keskiarvo 7279
-7280,CLUE_SCROLL_MEDIUM_7280,Clull Medical 7280 Nayta tarkat tiedot
+7280,CLUE_SCROLL_MEDIUM_7280,Clull Medical 7280
 7281,CHALLENGE_SCROLL_MEDIUM_7281,Haasteen keskiarvo 72
 7282,CLUE_SCROLL_MEDIUM_7282,Clull Scroll keskikokoinen 7282
 7283,CHALLENGE_SCROLL_MEDIUM_7283,Haasteen keskikokoinen 7283
@@ -4390,9 +4390,9 @@
 7289,CASKET_MEDIUM_7289,Keskikokoinen 7289
 7290,CLUE_SCROLL_MEDIUM_7290,Clull Scroll keskipitka 7290
 7291,CASKET_MEDIUM_7291,Keskikokoinen 7291
-7292,CLUE_SCROLL_MEDIUM_7292,Clull Medical 7292 Nayta tarkat tiedot
+7292,CLUE_SCROLL_MEDIUM_7292,Clull Medical 7292
 7293,CASKET_MEDIUM_7293,Keskikokoinen 7293
-7294,CLUE_SCROLL_MEDIUM_7294,Clull Medical 7294 Nayta tarkat tiedot
+7294,CLUE_SCROLL_MEDIUM_7294,Clull Medical 7294
 7295,CASKET_MEDIUM_7295,Keskikokoinen 7295
 7296,CLUE_SCROLL_MEDIUM_7296,Sarjakuva 7296
 7297,KEY_MEDIUM_7297,Keskeinen 7297
@@ -4491,7 +4491,7 @@
 7439,SPATULA,Spatula
 7441,FRYING_PAN,Pannun paistaminen
 7443,SKEWER,Skewer
-7445,ROLLING_PIN,Rolling Pin Nayta tarkat tiedot
+7445,ROLLING_PIN,Rolling Pin
 7447,KITCHEN_KNIFE,Keittian veitsi
 7449,MEAT_TENDERISER,Lihalajike
 7451,CLEAVER,Cleaver
@@ -4519,7 +4519,7 @@
 7476,BRULEE_SUPREME,Brolee Supreme
 7477,EVIL_CHICKENS_EGG,pahoja kanoja
 7478,DRAGON_TOKEN,Lohikaarme Token
-7479,SPICY_STEW,Spicy Stew Nayta tarkat tiedot
+7479,SPICY_STEW,Spicy Stew
 7480,RED_SPICE_4,Punainen mauste 4
 7481,RED_SPICE_3,Punainen mauste 3
 7482,RED_SPICE_2,Punainen mauste 2
@@ -4544,7 +4544,7 @@
 7510,DWARVEN_ROCK_CAKE_7510,Kakku 7510
 7511,SLOP_OF_COMPROMISE,Kompromissin liukuminen
 7512,SOGGY_BREAD,Soggy Leipaa
-7513,SPICY_MAGGOTS,Spicy Maggots Nayta tarkat tiedot
+7513,SPICY_MAGGOTS,Spicy Maggots
 7514,DYED_ORANGE,Vasynyt oranssi
 7515,BREADCRUMBS,Leipakarhut
 7516,KELP,kelp
@@ -4594,7 +4594,7 @@
 7572,RED_BANANA,Punainen banaani
 7573,TCHIKI_MONKEY_NUTS,tchiki apina pahkinaita
 7574,SLICED_RED_BANANA,Punainen banaani
-7575,TCHIKI_NUT_PASTE,tchiki nut paste Nayta tarkat tiedot
+7575,TCHIKI_NUT_PASTE,tchiki nut paste
 7576,SNAKE_CORPSE,Kaarmeen ruumiit
 7577,RAW_STUFFED_SNAKE,raakaa kaarmetta
 7578,ODD_STUFFED_SNAKE,Kummallinen kaarme
@@ -4638,7 +4638,7 @@
 7616,ITEM_7616,7616
 7617,ITEM_7617,7617
 7618,ITEM_7618,7618
-7622,BUCKET_OF_RUBBLE,Bucket of Robble Nayta tarkat tiedot
+7622,BUCKET_OF_RUBBLE,Bucket of Robble
 7624,BUCKET_OF_RUBBLE_7624,Rubble 7624
 7626,BUCKET_OF_RUBBLE_7626,Rubble 7626
 7628,PLASTER_FRAGMENT,Pirjojen fragmentti
@@ -5052,7 +5052,7 @@
 8108,WOODEN_BENCH,Puinen penkki
 8109,OAK_BENCH,Taak Bench
 8110,CARVED_OAK_BENCH,Tammi-penkki
-8111,TEAK_DINING_BENCH,Teak Dining Bench Nayta tarkat tiedot
+8111,TEAK_DINING_BENCH,Teak Dining Bench
 8112,CARVED_TEAK_BENCH,Teak Bench, tunnetuin esittaja
 8113,MAHOGANY_BENCH,Mahogaaninen penkki
 8114,GILDED_BENCH,Kultainen penkki
@@ -5381,10 +5381,10 @@
 8459,BAGGED_MARIGOLDS,Laukku marigolds
 8461,BAGGED_ROSES,Ruusut pussissa
 8463,CONSTRUCTION_GUIDE,Rakennusohjaus
-8464,RUNE_HERALDIC_HELM,Heraldic Helm Nayta tarkat tiedot
+8464,RUNE_HERALDIC_HELM,Heraldic Helm
 8466,RUNE_HERALDIC_HELM_8466,Heraldic Helm 8466 (kaytetty)
 8468,RUNE_HERALDIC_HELM_8468,Heraldic Helm 8468 (kaytetty)
-8470,RUNE_HERALDIC_HELM_8470,Heraldic Helm 8470 Nayta tarkat tiedot
+8470,RUNE_HERALDIC_HELM_8470,Heraldic Helm 8470
 8472,RUNE_HERALDIC_HELM_8472,Heraldic Helm 8472 (kaytetty)
 8474,RUNE_HERALDIC_HELM_8474,Heraldic Helm 8474 (kaytetty)
 8476,RUNE_HERALDIC_HELM_8476,Heraldic Helm 8476
@@ -5394,7 +5394,7 @@
 8484,RUNE_HERALDIC_HELM_8484,Heraldic Helm 8484 (kaytetty)
 8486,RUNE_HERALDIC_HELM_8486,Heraldic Helm 8486 (kaytetty)
 8488,RUNE_HERALDIC_HELM_8488,Heraldic Helm 8488 (kaytetty)
-8490,RUNE_HERALDIC_HELM_8490,Heraldic Helm 8490 Nayta tarkat tiedot
+8490,RUNE_HERALDIC_HELM_8490,Heraldic Helm 8490
 8492,RUNE_HERALDIC_HELM_8492,Heraldic Helm 8492 (kaytetty)
 8494,RUNE_HERALDIC_HELM_8494,Heraldic Helm 849
 8496,CRUDE_CHAIR,Julma tuoli
@@ -5690,7 +5690,7 @@
 9038,STONE_STATUETTE,Kivipatsas
 9040,GOLD_SEAL,Kultainen sinetti
 9042,STONE_SEAL,Kivi sinetti
-9044,PHARAOHS_SCEPTRE,Pharaohs Sceptre Nayta tarkat tiedot
+9044,PHARAOHS_SCEPTRE,Pharaohs Sceptre
 9045,PHARAOHS_SCEPTRE_9045,Farao-skeptikko 9045
 9046,PHARAOHS_SCEPTRE_9046,Farao-skeptikko 9046
 9047,PHARAOHS_SCEPTRE_9047,Farao-skeptikko 9047
@@ -5794,7 +5794,7 @@
 9297,ADAMANT_BOLTS_P_9297,Adamant Bolts P 9297
 9298,RUNITE_BOLTS_P_9298,P 9298 pultit
 9299,SILVER_BOLTS_P_9299,Hopeinen p 9299
-9300,BLURITE_BOLTS_P_9300,Blurite bolts p 9300 Nayta tarkat tiedot
+9300,BLURITE_BOLTS_P_9300,Blurite bolts p 9300
 9301,IRON_BOLTS_P_9301,Rautapultit p 9301
 9302,STEEL_BOLTS_P_9302,Teraspultit p 9302
 9303,MITHRIL_BOLTS_P_9303,mithril bolts p 9303
@@ -5880,7 +5880,7 @@
 9533,VEGETABLE_BATTA_9533,Kasvihuone 9533
 9535,CHEESETOM_BATTA_9535,Juustoa 9535
 9538,TOAD_CRUNCHIES_9538,nyrkkeily 9538
-9540,SPICY_CRUNCHIES_9540,Spicy crunchies Nayta tarkat tiedot 9540
+9540,SPICY_CRUNCHIES_9540,Spicy crunchies 9540
 9542,WORM_CRUNCHIES_9542,Madonkuoria 9542
 9544,CHOCCHIP_CRUNCHIES_9544,Kroatia 9544
 9547,WORM_HOLE_9547,Madon reika 9547
@@ -6053,9 +6053,9 @@
 9765,RUNECRAFT_CAPE,Esiintyjat: Drecraft Cape
 9766,RUNECRAFT_CAPET,Levy-yhtian Capet
 9767,RUNECRAFT_HOOD,Esiintyjat: Ruecrafthood
-9768,HITPOINTS_CAPE,Hitpoints cape Nayta tarkat tiedot
+9768,HITPOINTS_CAPE,Hitpoints cape
 9769,HITPOINTS_CAPET,Hitpoints Capet
-9770,HITPOINTS_HOOD,Hitpoints hood Nayta tarkat tiedot
+9770,HITPOINTS_HOOD,Hitpoints hood
 9771,AGILITY_CAPE,Agility Cape
 9772,AGILITY_CAPET,Agility Capet
 9773,AGILITY_HOOD,Agility hood
@@ -6068,7 +6068,7 @@
 9780,CRAFTING_CAPE,Kehittaja Cape
 9781,CRAFTING_CAPET,Valmistaja Capet
 9782,CRAFTING_HOOD,Ajaminen hood
-9783,FLETCHING_CAPE,Fletching Cape Nayta tarkat tiedot
+9783,FLETCHING_CAPE,Fletching Cape
 9784,FLETCHING_CAPET,Fletching Capet
 9785,FLETCHING_HOOD,Fletching hood
 9786,SLAYER_CAPE,Saveltaja Cape
@@ -6080,8 +6080,8 @@
 9792,MINING_CAPE,Kaivosvoimat
 9793,MINING_CAPET,Kaivos kapteeni
 9794,MINING_HOOD,Miinukset
-9795,SMITHING_CAPE,Smithing Cape Nayta tarkat tiedot
-9796,SMITHING_CAPET,Smithing Capet Nayta tarkat tiedot
+9795,SMITHING_CAPE,Smithing Cape
+9796,SMITHING_CAPET,Smithing Capet
 9797,SMITHING_HOOD,Smithing hood
 9798,FISHING_CAPE,Kalastuskaappi
 9799,FISHING_CAPET,Kalastuslautakunta
@@ -6093,7 +6093,7 @@
 9805,FIREMAKING_CAPET,Tulipalovalmistaja
 9806,FIREMAKING_HOOD,Tulipalot
 9807,WOODCUTTING_CAPE,Metsastyskorkki
-9808,WOODCUT_CAPET,Woodcut Capet Nayta tarkat tiedot
+9808,WOODCUT_CAPET,Woodcut Capet
 9809,WOODCUTTING_HOOD,Metsastaja The Woodcutting
 9810,FARMING_CAPE,Viljelijan kapteeni
 9811,FARMING_CAPET,Maanviljelyn kapteeni
@@ -6102,7 +6102,7 @@
 9814,QUEST_POINT_HOOD,Pyyda ilmaista hood
 9817,OAK_CAPE_RACK,Taak Cape Rack (kaytetty)
 9818,TEAK_CAPE_RACK,Teak Cape Rack (kaytetty)
-9819,MAHOGANY_CAPE_RACK,Mahogany Cape Rack Nayta tarkat tiedot
+9819,MAHOGANY_CAPE_RACK,Mahogany Cape Rack
 9820,GILDED_CAPE_RACK,Kultainen Cape Rack
 9821,MARBLE_CAPE_RACK,Marble Cape
 9822,MAGICAL_CAPE_RACK,Maaginen Cape Rack
@@ -6126,12 +6126,12 @@
 9840,TEAK_TREASURE_CHEST,Teak aarrearkku
 9841,MAHOGANY_TREASURE_CHEST,Mahoganin aarrearkku
 9842,COSTUME_ROOM,Pukuhuone
-9843,OAK_CAPE_RACK_9843,Taak Cape Rack 9843 Nayta tarkat tiedot
+9843,OAK_CAPE_RACK_9843,Taak Cape Rack 9843
 9844,TEAK_CAPE_RACK_9844,Teak Cape Rack 9844 (kaytetty)
 9845,MAHOGANY_CAPE_RACK_9845,Mahogany Cape Rack 9845 (kaytetty)
 9846,GILDED_CAPE_RACK_9846,Kullattu kapteeni 9846
-9847,MARBLE_CAPE_RACK_9847,Marble Cape Rack 9847 Nayta tarkat tiedot
-9848,MAGIC_CAPE_RACK,Magic Cape Rack Nayta tarkat tiedot
+9847,MARBLE_CAPE_RACK_9847,Marble Cape Rack 9847
+9848,MAGIC_CAPE_RACK,Magic Cape Rack
 9849,OAK_TOY_BOX_9849,Lelulaatikko 9849
 9850,TEAK_TOY_BOX_9850,Lelulaatikko 9850
 9851,MAHOGANY_TOY_BOX_9851,Lelulaatikko 9851
@@ -6151,7 +6151,7 @@
 9865,OAK_FANCY_DRESS_BOX,Ihana puku laatikko
 9866,TEAK_FANCY_DRESS_BOX,Teak Fancy -vaatteet
 9867,MAHOGANY_FANCY_DRESS_BOX,Mahogany Fancy -vaatteet
-9901,GOUTWEEDY_LUMP,Goutweedy Lump Nayta tarkat tiedot
+9901,GOUTWEEDY_LUMP,Goutweedy Lump
 9902,HARDY_GOUT_TUBERS,Kova Gout Tubers
 9903,FARMING_MANUAL,Manuaalinen maatalous
 9904,SAILING_BOOK,Purjehduskirja
@@ -6175,7 +6175,7 @@
 9923,SKELETON_LEGGINGS,Skeleton Legings
 9924,SKELETON_SHIRT,Skeleton paita
 9925,SKELETON_MASK,Skeleton Mask
-9932,AUGUSTES_SAPLING,Augustes sapling Nayta tarkat tiedot
+9932,AUGUSTES_SAPLING,Augustes sapling
 9933,BALLOON_STRUCTURE,Ilmapallon rakenne
 9934,ORIGAMI_BALLOON,Origamipallo
 9935,YELLOW_BALLOON,Keltainen ilmapallo
@@ -6272,13 +6272,13 @@
 10069,SPOTTED_CAPE,Hamahakki
 10071,SPOTTIER_CAPE,Spottier Cape
 10073,SPOTTED_CAPE_10073,Kapteeni 10073
-10074,SPOTTIER_CAPE_10074,Spottier Cape 10074 Nayta tarkat tiedot
+10074,SPOTTIER_CAPE_10074,Spottier Cape 10074
 10075,GLOVES_OF_SILENCE,Hiljaisuuden hanskat
 10077,SPIKY_VAMBRACES,Spiky Vambra
 10079,GREEN_SPIKY_VAMBRACES,Vihreat vampyyrit
 10081,BLUE_SPIKY_VAMBRACES,Sininen Spiky Vambras
 10083,RED_SPIKY_VAMBRACES,Punainen spiky vampyyri
-10085,BLACK_SPIKY_VAMBRACES,Black Spiky Vambras Nayta tarkat tiedot
+10085,BLACK_SPIKY_VAMBRACES,Black Spiky Vambras
 10087,STRIPY_FEATHER,Stripy Feather
 10088,RED_FEATHER,Punainen hayhen
 10089,BLUE_FEATHER,Sininen hayhen
@@ -6295,7 +6295,7 @@
 10107,LONG_KEBBIT_SPIKE,Pitka Kebbit Spike
 10109,KEBBIT_TEETH,Kebbitin hampaat
 10111,KEBBIT_TEETH_DUST,Kebbitin hampaat
-10113,KEBBIT_CLAWS,Kebbit Claws Nayta tarkat tiedot
+10113,KEBBIT_CLAWS,Kebbit Claws
 10115,DARK_KEBBIT_FUR,Tumma Kebbit Fur
 10117,POLAR_KEBBIT_FUR,Polar Kebbit Fur
 10119,FELDIP_WEASEL_FUR,Feldip Weasel Fur
@@ -6470,16 +6470,16 @@
 10348,_3RD_AGE_PLATEBODY,3. ikalaatikko
 10350,_3RD_AGE_FULL_HELMET,3. taysi kypara
 10352,_3RD_AGE_KITESHIELD,3. ika kiteshield
-10354,AMULET_OF_GLORY_T4,Amulet of glory Nayta tarkat tiedot
+10354,AMULET_OF_GLORY_T4,Amulet of glory
 10356,AMULET_OF_GLORY_T3,Kirkkauden t3
-10358,AMULET_OF_GLORY_T2,Amulet of glory t2 Nayta tarkat tiedot
+10358,AMULET_OF_GLORY_T2,Amulet of glory t2
 10360,AMULET_OF_GLORY_T1,Kirkkauden t1
 10362,AMULET_OF_GLORY_T,Amulet of glory t
 10364,STRENGTH_AMULET_T,Amulet t
 10366,AMULET_OF_MAGIC_T,Maaginen t
-10368,ZAMORAK_BRACERS,zamorak bracers Nayta tarkat tiedot
+10368,ZAMORAK_BRACERS,zamorak bracers
 10370,ZAMORAK_DHIDE_BODY,zamorak dhide -keho
-10372,ZAMORAK_CHAPS,Zamorak Chaps Nayta tarkat tiedot
+10372,ZAMORAK_CHAPS,Zamorak Chaps
 10374,ZAMORAK_COIF,zamorak coif
 10376,GUTHIX_BRACERS,Guthix Bracers
 10378,GUTHIX_DHIDE_BODY,guthix dhide-keho
@@ -6521,7 +6521,7 @@
 10450,ZAMORAK_CLOAK,Zamorak Cloak
 10452,SARADOMIN_MITRE,Saradomin Mitre
 10454,GUTHIX_MITRE,Guthix mitre
-10456,ZAMORAK_MITRE,zamorak mitre Nayta tarkat tiedot
+10456,ZAMORAK_MITRE,zamorak mitre
 10458,SARADOMIN_ROBE_TOP,Saradomin Robe Top
 10460,ZAMORAK_ROBE_TOP,zamorak pube top
 10462,GUTHIX_ROBE_TOP,Guthix Robe Top
@@ -6740,7 +6740,7 @@
 10963,COATED_FROGS_LEGS,Pinnoitettuja sammakkoja
 10964,BAT_SHISH,Bat shish
 10965,FINGERS,Sormet
-10966,GRUBS__LA_MODE,Grebs la mode Nayta tarkat tiedot
+10966,GRUBS__LA_MODE,Grebs la mode
 10967,ROAST_FROG,Paistettua sammakkoa
 10968,MUSHROOMS,Mushrooms
 10969,FILLETS,Taytteet
@@ -6796,7 +6796,7 @@
 11029,EASTER_EGG_11029,Itamuna 11029
 11030,EASTER_EGG_11030,Itamuna 11030
 11031,DAMP_PLANKS,Damp Planes
-11032,CRUDE_CARVING,Crude caring Nayta tarkat tiedot
+11032,CRUDE_CARVING,Crude caring
 11033,CRUDER_CARVING,Crader Carre
 11034,SVENS_LAST_MAP,Viimeinen kartta
 11035,WINDSWEPT_LOGS,Tuulivoimaloita
@@ -6875,7 +6875,7 @@
 11153,DREAM_VIAL_HERB,Haaveena Herb
 11154,DREAM_POTION,Unelmien runo
 11155,GROUND_ASTRAL_RUNE,Astraali juoksi
-11156,ASTRAL_RUNE_SHARDS,Astral rune shards Nayta tarkat tiedot
+11156,ASTRAL_RUNE_SHARDS,Astral rune shards
 11157,DREAMY_LAMP,Unelma lamppu
 11158,CYRISUSS_CHEST,Syrisoksen rintama
 11159,HUNTER_KIT,Metsastaja Kit
@@ -7018,7 +7018,7 @@
 11402,MITHRIL_HASTAKP,Mithril hastakp
 11403,MITHRIL_HASTAP_11403,Mithril hastap 11403
 11405,MITHRIL_HASTAP_11405,Mithril hastap 11405
-11407,ADAMANT_HASTAP,Damant hastap Nayta tarkat tiedot
+11407,ADAMANT_HASTAP,Damant hastap
 11409,ADAMANT_HASTAKP,Damant hastakp
 11410,ADAMANT_HASTAP_11410,Adamant hastap 11410
 11412,ADAMANT_HASTAP_11412,Adamant hastap 11412
@@ -7056,10 +7056,10 @@
 11479,FISHING_MIX1,Kalastus 1
 11481,SUPER_ENERGY_MIX2,Energiamix2
 11483,SUPER_ENERGY_MIX1,Energiamix1
-11485,SUPER_STR_MIX2,Super str mix2 Nayta tarkat tiedot
-11487,SUPER_STR_MIX1,Super str mix1 Nayta tarkat tiedot
-11489,MAGIC_ESSENCE_MIX2,Magic Essence mix2 Nayta tarkat tiedot
-11491,MAGIC_ESSENCE_MIX1,Magic Essence mix1 Nayta tarkat tiedot
+11485,SUPER_STR_MIX2,Super str mix2
+11487,SUPER_STR_MIX1,Super str mix1
+11489,MAGIC_ESSENCE_MIX2,Magic Essence mix2
+11491,MAGIC_ESSENCE_MIX1,Magic Essence mix1
 11493,SUPER_RESTORE_MIX2,Super Returning Mix2
 11495,SUPER_RESTORE_MIX1,Super Returning mix1
 11497,SUPER_DEF_MIX2,Super des mix2
@@ -7136,9 +7136,9 @@
 11723,SUPER_RANGING_3,Super vaihtelee 3
 11724,SUPER_RANGING_2,Super vaihtelee 2
 11725,SUPER_RANGING_1,Super vaihtelee 1
-11726,SUPER_MAGIC_POTION_4,Super Magic Point 4 Nayta tarkat tiedot
-11727,SUPER_MAGIC_POTION_3,Super Magic Potion 3 Nayta tarkat tiedot
-11728,SUPER_MAGIC_POTION_2,Super Magic Potion 2 Nayta tarkat tiedot
+11726,SUPER_MAGIC_POTION_4,Super Magic Point 4
+11727,SUPER_MAGIC_POTION_3,Super Magic Potion 3
+11728,SUPER_MAGIC_POTION_2,Super Magic Potion 2
 11729,SUPER_MAGIC_POTION_1,supermaaginen runo 1 1
 11730,OVERLOAD_4,Ylimaarainen 4
 11731,OVERLOAD_3,Ylimaarainen 3
@@ -7200,21 +7200,21 @@
 11789,MYSTIC_STEAM_STAFF,Mystinen hayryn henkilakunta
 11791,STAFF_OF_THE_DEAD,Kuolleiden henkilakunta
 11793,AGILITY_JUMP_11793,Hyppy 11793
-11794,GODSWORD_SHARDS_1__2,Godsword shards Nayta tarkat tiedot 1 2
-11796,GODSWORD_SHARDS_1__3,Godsword shards Nayta tarkat tiedot 1 3
-11798,GODSWORD_BLADE,Godsword Blade Nayta tarkat tiedot
-11800,GODSWORD_SHARDS_2__3,Godsword Sards 2 3 Nayta tarkat tiedot
-11802,ARMADYL_GODSWORD,Aradyl Godsword Nayta tarkat tiedot
-11804,BANDOS_GODSWORD,Bands Godsword Nayta tarkat tiedot
-11806,SARADOMIN_GODSWORD,Saradomin Godsword Nayta tarkat tiedot
+11794,GODSWORD_SHARDS_1__2,Godsword shards 1 2
+11796,GODSWORD_SHARDS_1__3,Godsword shards 1 3
+11798,GODSWORD_BLADE,Godsword Blade
+11800,GODSWORD_SHARDS_2__3,Godsword Sards 2 3
+11802,ARMADYL_GODSWORD,Aradyl Godsword
+11804,BANDOS_GODSWORD,Bands Godsword
+11806,SARADOMIN_GODSWORD,Saradomin Godsword
 11808,ZAMORAK_GODSWORD,zamorak-jumalan miekka
 11810,ARMADYL_HILT,Armeija hilt
 11812,BANDOS_HILT,Bandi hilt
 11814,SARADOMIN_HILT,Saradomin hilt
 11816,ZAMORAK_HILT,zamorak hilt
 11818,GODSWORD_SHARD_1,Jumalten miekka 1
-11820,GODSWORD_SHARD_2,Godsword Shiard 2 Nayta tarkat tiedot
-11822,GODSWORD_SHARD_3,Godsword Shiard 3 Nayta tarkat tiedot
+11820,GODSWORD_SHARD_2,Godsword Shiard 2
+11822,GODSWORD_SHARD_3,Godsword Shiard 3
 11824,ZAMORAKIAN_SPEAR,zamorakian keihas
 11826,ARMADYL_HELMET,Aradyl kypara
 11828,ARMADYL_CHESTPLATE,Aradyl Rintakeha
@@ -7229,9 +7229,9 @@
 11847,BLACK_HWEEN_MASK,Mustaa maskia
 11848,RANCID_TURKEY,Rancid Turkki
 11849,MARK_OF_GRACE,Merkki Grace
-11850,GRACEFUL_HOOD,Graceful hood Nayta tarkat tiedot
+11850,GRACEFUL_HOOD,Graceful hood
 11851,GRACEFUL_HOOD_11851,Alkuperainen nimi: Gracefulhood 11851
-11852,GRACEFUL_CAPE,Graceful cape Nayta tarkat tiedot
+11852,GRACEFUL_CAPE,Graceful cape
 11853,GRACEFUL_CAPE_11853,Kiinnitys 11853
 11854,GRACEFUL_TOP,Grace Top
 11855,GRACEFUL_TOP_11855,Top 11855
@@ -7293,7 +7293,7 @@
 11926,ODIUM_WARD,Odium-palkinto
 11928,ODIUM_SHARD_1,Odium shard 1
 11929,ODIUM_SHARD_2,Odium shard 2 (kaytetty)
-11930,ODIUM_SHARD_3,Odium shard 3 Nayta tarkat tiedot
+11930,ODIUM_SHARD_3,Odium shard 3
 11931,MALEDICTION_SHARD_1,Hamahakki 1
 11932,MALEDICTION_SHARD_2,Hamahakki 2
 11933,MALEDICTION_SHARD_3,Hamahakki 3
@@ -7311,14 +7311,14 @@
 11959,BLACK_CHINCHOMPA,musta chinchompa
 11960,EXTENDED_ANTIFIRE_MIX2,Pidennetty antifire mix2
 11962,EXTENDED_ANTIFIRE_MIX1,Antifirma sekoitus1
-11964,AMULET_OF_GLORY_T6,Amulet of glory Nayta tarkat tiedot
-11966,AMULET_OF_GLORY_T5,Amulet of glory Nayta tarkat tiedot
+11964,AMULET_OF_GLORY_T6,Amulet of glory
+11966,AMULET_OF_GLORY_T5,Amulet of glory
 11968,SKILLS_NECKLACE6,Taito 6
 11970,SKILLS_NECKLACE5,taito 5
 11972,COMBAT_BRACELET6,Rannekello 6
 11974,COMBAT_BRACELET5,Rannekello 5
-11976,AMULET_OF_GLORY5,Amulet of glory5 Nayta tarkat tiedot
-11978,AMULET_OF_GLORY6,Amulet of glory6 Nayta tarkat tiedot
+11976,AMULET_OF_GLORY5,Amulet of glory5
+11978,AMULET_OF_GLORY6,Amulet of glory6
 11980,RING_OF_WEALTH_5,Rikkaus 5
 11982,RING_OF_WEALTH_4,Rikkaus 4
 11984,RING_OF_WEALTH_3,Rikkaus 3
@@ -7401,7 +7401,7 @@
 12071,CLUE_SCROLL_MEDIUM_12071,Clull Scroll keskipitka 12071
 12072,CHALLENGE_SCROLL_MEDIUM_12072,Challer Croll Media 12072
 12073,CLUE_SCROLL_ELITE,Clull eliitti
-12074,CLUE_SCROLL_ELITE_12074,Clull elite 12074 Nayta tarkat tiedot
+12074,CLUE_SCROLL_ELITE_12074,Clull elite 12074
 12075,CLUE_SCROLL_ELITE_12075,Clull elite 12075
 12076,CLUE_SCROLL_ELITE_12076,Clull elite 12076
 12077,CLUE_SCROLL_ELITE_12077,Clull eliitti 12077
@@ -7409,24 +7409,24 @@
 12079,CLUE_SCROLL_ELITE_12079,Clull elite 12079
 12080,CLUE_SCROLL_ELITE_12080,Clull elite 12080
 12081,CLUE_SCROLL_ELITE_12081,Clull eliitti 12081
-12082,CLUE_SCROLL_ELITE_12082,Clull elite 12082 Nayta tarkat tiedot
+12082,CLUE_SCROLL_ELITE_12082,Clull elite 12082
 12083,CLUE_SCROLL_ELITE_12083,Clull eliitti 12083
 12084,CASKET_ELITE,Kasketti eliitti
 12085,CLUE_SCROLL_ELITE_12085,Clull elite 12085
 12086,CLUE_SCROLL_ELITE_12086,Clull elite 12086
-12087,CLUE_SCROLL_ELITE_12087,Clull elite 12087 Nayta tarkat tiedot
+12087,CLUE_SCROLL_ELITE_12087,Clull elite 12087
 12088,CLUE_SCROLL_ELITE_12088,Clull elite 12088
 12089,CLUE_SCROLL_ELITE_12089,Clull eliitti 12089
-12090,CLUE_SCROLL_ELITE_12090,Clull elite 12090 Nayta tarkat tiedot
+12090,CLUE_SCROLL_ELITE_12090,Clull elite 12090
 12091,CLUE_SCROLL_ELITE_12091,Clull elite 12091
 12092,CLUE_SCROLL_ELITE_12092,Clull eliitti 12092
 12093,CLUE_SCROLL_ELITE_12093,Clull eliitti 12093
 12094,CLUE_SCROLL_ELITE_12094,Clull eliitti 12094
-12095,CLUE_SCROLL_ELITE_12095,Clull elite 12095 Nayta tarkat tiedot
+12095,CLUE_SCROLL_ELITE_12095,Clull elite 12095
 12096,CLUE_SCROLL_ELITE_12096,Clull eliitti 12096
-12097,CLUE_SCROLL_ELITE_12097,Clull elite 12097 Nayta tarkat tiedot
-12098,CLUE_SCROLL_ELITE_12098,Clull elite 12098 Nayta tarkat tiedot
-12099,CLUE_SCROLL_ELITE_12099,Clull elite 12099 Nayta tarkat tiedot
+12097,CLUE_SCROLL_ELITE_12097,Clull elite 12097
+12098,CLUE_SCROLL_ELITE_12098,Clull elite 12098
+12099,CLUE_SCROLL_ELITE_12099,Clull elite 12099
 12100,CLUE_SCROLL_ELITE_12100,Clull eliitti 12100
 12101,CLUE_SCROLL_ELITE_12101,Clull elite 12101
 12102,CLUE_SCROLL_ELITE_12102,Clull elite 12102
@@ -7434,10 +7434,10 @@
 12104,CLUE_SCROLL_ELITE_12104,Clull elite 12104
 12105,CLUE_SCROLL_ELITE_12105,Clull elite 12105
 12106,CLUE_SCROLL_ELITE_12106,Clull elite 12106
-12107,CLUE_SCROLL_ELITE_12107,Clull elite 12107 Nayta tarkat tiedot
+12107,CLUE_SCROLL_ELITE_12107,Clull elite 12107
 12108,CLUE_SCROLL_ELITE_12108,Clull elite 12108
 12109,CLUE_SCROLL_ELITE_12109,Clull elite 12109
-12110,CLUE_SCROLL_ELITE_12110,Clull elite 12110 Nayta tarkat tiedot
+12110,CLUE_SCROLL_ELITE_12110,Clull elite 12110
 12111,CLUE_SCROLL_ELITE_12111,Clull eliitti 12111
 12112,CASKET_ELITE_12112,Kasketti 12112
 12113,CLUE_SCROLL_ELITE_12113,Clull eliitti 12113
@@ -7454,20 +7454,20 @@
 12124,CLUE_SCROLL_ELITE_12124,Clull eliitti 12124
 12125,CLUE_SCROLL_ELITE_12125,Clull elite 12125
 12126,CLUE_SCROLL_ELITE_12126,Clull eliitti 12126
-12127,CLUE_SCROLL_ELITE_12127,Clull elite 12127 Nayta tarkat tiedot
+12127,CLUE_SCROLL_ELITE_12127,Clull elite 12127
 12128,CHALLENGE_SCROLL_ELITE,Scroll eliitti
 12129,CASKET_ELITE_12129,Kasketti 12129
-12130,CLUE_SCROLL_ELITE_12130,Clull elite 12130 Nayta tarkat tiedot
+12130,CLUE_SCROLL_ELITE_12130,Clull elite 12130
 12131,CASKET_ELITE_12131,Kasketti 12131
 12132,CLUE_SCROLL_ELITE_12132,Clull eliitti 12132
 12133,CLUE_SCROLL_ELITE_12133,Clull eliitti 12133
 12134,CLUE_SCROLL_ELITE_12134,Clull eliitti 12134
 12135,CLUE_SCROLL_ELITE_12135,Clull eliitti 12135
-12136,CLUE_SCROLL_ELITE_12136,Clull elite 12136 Nayta tarkat tiedot
+12136,CLUE_SCROLL_ELITE_12136,Clull elite 12136
 12137,CLUE_SCROLL_ELITE_12137,Clull eliitti 12137
 12138,CLUE_SCROLL_ELITE_12138,Clull eliitti 12138
 12139,CHALLENGE_SCROLL_ELITE_12139,Haasteen eliitti 12139
-12140,CLUE_SCROLL_ELITE_12140,Clull elite 12140 Nayta tarkat tiedot
+12140,CLUE_SCROLL_ELITE_12140,Clull elite 12140
 12141,CLUE_SCROLL_ELITE_12141,Clull eliitti 12141
 12142,CLUE_SCROLL_ELITE_12142,Clull eliitti 12142
 12143,CLUE_SCROLL_ELITE_12143,Clull eliitti 12143
@@ -7484,7 +7484,7 @@
 12154,CLUE_SCROLL_ELITE_12154,Clull eliitti 12154
 12155,CLUE_SCROLL_ELITE_12155,Clull eliitti 12155
 12156,CLUE_SCROLL_ELITE_12156,Clull eliitti 12156
-12157,CLUE_SCROLL_ELITE_12157,Clull elite 12157 Nayta tarkat tiedot
+12157,CLUE_SCROLL_ELITE_12157,Clull elite 12157
 12158,CLUE_SCROLL_ELITE_12158,Clull eliitti 12158
 12159,CLUE_SCROLL_ELITE_12159,Clull eliitti 12159
 12160,CASKET_ELITE_12160,Kasketti 12160
@@ -7809,7 +7809,7 @@
 12656,JUNK,roskaa
 12657,JUNK_12657,12657
 12658,IBANS_STAFF_U,Ibanin henkilakunta
-12659,CLAN_WARS_CAPE,Clan Wars Cape Nayta tarkat tiedot
+12659,CLAN_WARS_CAPE,Clan Wars Cape
 12660,CLAN_WARS_CAPE_12660,Klaanien sota 12660
 12661,CLAN_WARS_CAPE_12661,Klassiset sodat 12661
 12662,CLAN_WARS_CAPE_12662,Klassiset sodat 12662
@@ -7861,9 +7861,9 @@
 12712,DESERT_HABITAT,Aavikon elinymparista
 12713,POLAR_HABITAT,Polaarinen elinymparista
 12714,VOLCANIC_HABITAT,vulkaaninen elinymparista
-12715,OAK_SCRATCHING_POST,Taak Scratching Post Nayta tarkat tiedot
-12716,TEAK_SCRATCHING_POST,Teak Scratching Post Nayta tarkat tiedot
-12717,MAHOGANY_SCRATCHING_POST,Mahogany scratching post Nayta tarkat tiedot
+12715,OAK_SCRATCHING_POST,Taak Scratching Post
+12716,TEAK_SCRATCHING_POST,Teak Scratching Post
+12717,MAHOGANY_SCRATCHING_POST,Mahogany scratching post
 12718,SIMPLE_ARENA,Yksinkertainen areena
 12719,ADVANCED_ARENA,Advanced Arena
 12720,GLORIOUS_ARENA,Hyva areena
@@ -7916,7 +7916,7 @@
 12782,SENNTISTEN_TELEPORT,Lahetetty teleport
 12783,RING_OF_WEALTH_SCROLL,Sormus rikkaudesta
 12785,RING_OF_WEALTH_I,Rikkaus I
-12786,MAGIC_SHORTBOW_SCROLL,Magic shortbow scroll Nayta tarkat tiedot
+12786,MAGIC_SHORTBOW_SCROLL,Magic shortbow scroll
 12788,MAGIC_SHORTBOW_I,Lyhythihainen I
 12789,CLUE_BOX,Laatikko
 12791,RUNE_POUCH,Juokse pussi
@@ -7951,7 +7951,7 @@
 12831,BLESSED_SPIRIT_SHIELD,Siunattu henkikilpi
 12833,HOLY_ELIXIR,Pyha Elixir
 12835,COMMUNITY_PUMPKIN,Yhteistyakumppanuus
-12836,GRIM_REAPERS_DIARY,Grem Reapers Diary Nayta tarkat tiedot
+12836,GRIM_REAPERS_DIARY,Grem Reapers Diary
 12837,GRIM_ROBE,grillipuu
 12838,WILL_AND_TESTAMENT,Will ja testamentti
 12839,HUMAN_BONES,Ihmisen luut
@@ -7964,7 +7964,7 @@
 12846,TARGET_TELEPORT_SCROLL,Kohde teleport scroll
 12848,GRANITE_MAUL_12848,Maul 12848
 12849,GRANITE_CLAMP,granaattiomena
-12851,AMULET_OF_THE_DAMNED_FULL,Amulet of the damned full Nayta tarkat tiedot
+12851,AMULET_OF_THE_DAMNED_FULL,Amulet of the damned full
 12853,AMULET_OF_THE_DAMNED,Helvetin amuletti
 12854,FLAMTAER_BAG,Flamtaer laukku
 12855,HUNTERS_HONOUR,Metsastajan kunnia
@@ -8045,21 +8045,21 @@
 12986,STEEL_SET_SK,Teras Sk
 12988,BLACK_SET_LG,Mustaa lg
 12990,BLACK_SET_SK,Musta Sk
-12992,BLACK_TRIMMED_SET_LG,Black Trimmed Set lg Nayta tarkat tiedot
+12992,BLACK_TRIMMED_SET_LG,Black Trimmed Set lg
 12994,BLACK_TRIMMED_SET_SK,Black Trimmed Set Sk
-12996,BLACK_GOLDTRIMMED_SET_LG,Black Goldtrimmed Nayta tarkat tiedot
+12996,BLACK_GOLDTRIMMED_SET_LG,Black Goldtrimmed
 12998,BLACK_GOLDTRIMMED_SET_SK,Black Goldtrimmed Sk
 13000,MITHRIL_SET_LG,Mithril set lg
 13002,MITHRIL_SET_SK,Mithril Sk
 13004,MITHRIL_TRIMMED_SET_LG,Mithril Trimmed lg
 13006,MITHRIL_TRIMMED_SET_SK,Mithril Sk
-13008,MITHRIL_GOLDTRIMMED_SET_LG,Mithril Goldtrimmed Nayta tarkat tiedot
+13008,MITHRIL_GOLDTRIMMED_SET_LG,Mithril Goldtrimmed
 13010,MITHRIL_GOLDTRIMMED_SET_SK,Mithril Goldtrimmed Sk
 13012,ADAMANT_SET_LG,Adamant Set lg
 13014,ADAMANT_SET_SK,Adamant Sk
 13016,ADAMANT_TRIMMED_SET_LG,ADAMANT FIMMANT STLG
 13018,ADAMANT_TRIMMED_SET_SK,Adamant Trimmed Sk
-13020,ADAMANT_GOLDTRIMMED_SET_LG,Adamant Goldtrimmed Nayta tarkat tiedot
+13020,ADAMANT_GOLDTRIMMED_SET_LG,Adamant Goldtrimmed
 13022,ADAMANT_GOLDTRIMMED_SET_SK,Damant Goldtrimmed Sk
 13024,RUNE_ARMOUR_SET_LG,Panssarivaunu lg
 13026,RUNE_ARMOUR_SET_SK,Panssarivaunu Sk
@@ -8077,8 +8077,8 @@
 13050,GUTHIX_ARMOUR_SET_SK,Guthixin panssarointi
 13052,ARMADYL_RUNE_ARMOUR_SET_LG,Armeija-arkkitehtuuri asetettu lg
 13054,ARMADYL_RUNE_ARMOUR_SET_SK,Aradyl rune panssarointi
-13056,BANDOS_RUNE_ARMOUR_SET_LG,Bands rune armur Nayta tarkat tiedot
-13058,BANDOS_RUNE_ARMOUR_SET_SK,Bands rune armur set sk Nayta tarkat tiedot
+13056,BANDOS_RUNE_ARMOUR_SET_LG,Bands rune armur
+13058,BANDOS_RUNE_ARMOUR_SET_SK,Bands rune armur set sk
 13060,ANCIENT_RUNE_ARMOUR_SET_LG,Muinainen panssari asetettu
 13062,ANCIENT_RUNE_ARMOUR_SET_SK,Vanha panssarivaunu Sk
 13064,COMBAT_POTION_SET,Polttoaineen asettaminen
@@ -8252,7 +8252,7 @@
 13281,MAX_HOOD,max hood
 13283,GRAVEDIGGER_MASK,Mask Gravedigger
 13284,GRAVEDIGGER_TOP,Gravedigger top
-13285,GRAVEDIGGER_LEGGINGS,Gravedigger leggings Nayta tarkat tiedot
+13285,GRAVEDIGGER_LEGGINGS,Gravedigger leggings
 13286,GRAVEDIGGER_BOOTS,Gravediggerin saappaat
 13287,GRAVEDIGGER_GLOVES,Gravedigger kasineet
 13288,ANTIPANTIES,Antipanssit
@@ -8264,7 +8264,7 @@
 13307,BLOOD_MONEY,Veren raha
 13317,DEADMANS_CHEST,Kuolleiden rintama
 13318,DEADMANS_LEGS,Kuolleet jalat
-13319,DEADMANS_CAPE,Deadmans Cape Nayta tarkat tiedot
+13319,DEADMANS_CAPE,Deadmans Cape
 13320,HERON,Herttua
 13321,ROCK_GOLEM,Rock Golem
 13322,BEAVER,Beaver
@@ -8285,7 +8285,7 @@
 13337,ACCUMULATOR_MAX_CAPE,Max Cape
 13338,ACCUMULATOR_MAX_HOOD,Accumulator max
 13339,SACRED_EEL,Pyha Eel
-13340,AGILITY_CAPE_13340,Agility cap 13340 Nayta tarkat tiedot
+13340,AGILITY_CAPE_13340,Agility cap 13340
 13341,AGILITY_CAPET_13341,Agility Capet 13341
 13342,MAX_CAPE_13342,Max Cape 13342
 13343,BLACK_SANTA_HAT,Mustaa Santa
@@ -8316,12 +8316,12 @@
 13368,SHAYZIEN_BOOTS_3,Shayzien saappaat 3 3
 13369,SHAYZIEN_HELM_3,Shayzien Helm 3
 13370,SHAYZIEN_GREAVES_3,Shayzien 3
-13371,SHAYZIEN_PLATEBODY_3,Shayzien Platebody 3 Nayta tarkat tiedot
+13371,SHAYZIEN_PLATEBODY_3,Shayzien Platebody 3
 13372,SHAYZIEN_GLOVES_4,Shayzien kasineet 4
 13373,SHAYZIEN_BOOTS_4,Shayzien saappaat 4 4
 13374,SHAYZIEN_HELM_4,Shayzien Helm 4
 13375,SHAYZIEN_GREAVES_4,Shayzien 4
-13376,SHAYZIEN_PLATEBODY_4,Shayzien Platebody 4 Nayta tarkat tiedot
+13376,SHAYZIEN_PLATEBODY_4,Shayzien Platebody 4
 13377,SHAYZIEN_GLOVES_5,Shayzien kasineet 5
 13378,SHAYZIEN_BOOTS_5,Shayzien saappaat 5 5
 13379,SHAYZIEN_HELM_5,Shayzien Helm 5
@@ -8333,7 +8333,7 @@
 13387,XERICIAN_TOP,Xerician top
 13389,XERICIAN_ROBE,Xerician puku
 13391,LIZARDMAN_FANG,Lizardman Fang
-13392,XERICS_TALISMAN_INERT,xerics talisman inert Nayta tarkat tiedot
+13392,XERICS_TALISMAN_INERT,xerics talisman inert
 13393,XERICS_TALISMAN,Talisman xerics
 13394,GANG_MEETING_INFO,Tapaaminen info
 13395,INTELLIGENCE,alykkyys
@@ -8572,7 +8572,7 @@
 13660,CHRONICLE,Kronikka
 13663,BUNNY_TOP,Bunny top
 13664,BUNNY_LEGS,Bunny jalat
-13665,BUNNY_PAWS,Bunny Paws Nayta tarkat tiedot
+13665,BUNNY_PAWS,Bunny Paws
 13666,DEADMAN_TELEPORT_TABLET,Deadman teleport tabletti
 13667,GRACEFUL_HOOD_13667,Alkuperainen nimi: Gracefulhood 13667
 13668,GRACEFUL_HOOD_13668,Alkuperainen nimi: Gracefulhood 13668
@@ -8599,7 +8599,7 @@
 16893,NEW_CRYSTAL_HALBERD_FULL_16893,Kristallivahti tayteen 16893
 17152,DEAD_ORB_17152,Kuollut 17152
 19473,BAG_FULL_OF_GEMS,Laukku taynna helmia
-19476,ACHIEVEMENT_DIARY_CAPE,Diary Cape Nayta tarkat tiedot
+19476,ACHIEVEMENT_DIARY_CAPE,Diary Cape
 19478,LIGHT_BALLISTA,Valoa ballista
 19481,HEAVY_BALLISTA,raskas ballista
 19484,DRAGON_JAVELIN,Lohikaarme Javelin
@@ -8609,7 +8609,7 @@
 19492,ZENYTE_BRACELET,Zenyte-ranneke
 19493,ZENYTE,Zenyte
 19496,UNCUT_ZENYTE,Leikkaus Zenyte
-19501,ZENYTE_AMULET_U,Zenyte amulet u Nayta tarkat tiedot
+19501,ZENYTE_AMULET_U,Zenyte amulet u
 19505,MYSTERIOUS_NOTE,Salaperainen muistiinpano
 19507,MYSTERIOUS_NOTE_19507,Alkuperainen nimi: 19507
 19509,MYSTERIOUS_NOTE_19509,Alkuperainen nimi: 19509
@@ -8686,7 +8686,7 @@
 19665,DAMAGED_MONKEY_TAIL,vaurioitunut apina
 19668,MINECART_CONTROL_SCROLL,Mincart Control Scroll
 19669,REDWOOD_LOGS,Punapuun loki
-19672,REDWOOD_PYRE_LOGS,Redwood pyre logs Nayta tarkat tiedot
+19672,REDWOOD_PYRE_LOGS,Redwood pyre logs
 19675,ARCLIGHT,Arclight
 19677,ANCIENT_SHARD,Muinainen paita
 19679,DARK_TOTEM_BASE,Tumma toteamuspohja
@@ -8717,21 +8717,21 @@
 19734,CLUE_SCROLL_MEDIUM_19734,Alkuperainen nimi: Clull Medical 19734
 19735,CHALLENGE_SCROLL_MEDIUM_19735,Challer Croll Medical 19735 (kaytetty)
 19736,CLUE_SCROLL_MEDIUM_19736,Alkuperainen nimi: Clull Medical 19736
-19737,CHALLENGE_SCROLL_MEDIUM_19737,Challer Croll Medical 19737 Nayta tarkat tiedot
+19737,CHALLENGE_SCROLL_MEDIUM_19737,Challer Croll Medical 19737
 19738,CLUE_SCROLL_MEDIUM_19738,Alkuperainen nimi: Clull Medical 19738
 19739,CHALLENGE_SCROLL_MEDIUM_19739,Challer Croll Medical 19739 (kaytetty)
-19740,CLUE_SCROLL_MEDIUM_19740,Clull Scroll 19740 Nayta tarkat tiedot
-19741,CHALLENGE_SCROLL_MEDIUM_19741,Challer Croll Medical 19741 Nayta tarkat tiedot
+19740,CLUE_SCROLL_MEDIUM_19740,Clull Scroll 19740
+19741,CHALLENGE_SCROLL_MEDIUM_19741,Challer Croll Medical 19741
 19742,CLUE_SCROLL_MEDIUM_19742,Alkuperainen nimi: Clull Medical 19742
-19743,CHALLENGE_SCROLL_MEDIUM_19743,Challer Croll Medical 19743 Nayta tarkat tiedot
+19743,CHALLENGE_SCROLL_MEDIUM_19743,Challer Croll Medical 19743
 19744,CLUE_SCROLL_MEDIUM_19744,Alkuperainen nimi: Clull Medical 19744
 19745,CHALLENGE_SCROLL_MEDIUM_19745,Challer Scroll Medical 19745 (kaytetty)
 19746,CLUE_SCROLL_MEDIUM_19746,Clull Scroll 19746 (kaytetty)
-19747,CHALLENGE_SCROLL_MEDIUM_19747,Challer Scroll Medical 19747 Nayta tarkat tiedot
+19747,CHALLENGE_SCROLL_MEDIUM_19747,Challer Scroll Medical 19747
 19748,CLUE_SCROLL_MEDIUM_19748,Alkuperainen nimi: Clull Medical 19748
-19749,CHALLENGE_SCROLL_MEDIUM_19749,Challer Croll Medical 19749 Nayta tarkat tiedot
-19750,CLUE_SCROLL_MEDIUM_19750,Clull Scroll 19750 Nayta tarkat tiedot
-19751,CHALLENGE_SCROLL_MEDIUM_19751,Challer Croll Medical 19751 Nayta tarkat tiedot
+19749,CHALLENGE_SCROLL_MEDIUM_19749,Challer Croll Medical 19749
+19750,CLUE_SCROLL_MEDIUM_19750,Clull Scroll 19750
+19751,CHALLENGE_SCROLL_MEDIUM_19751,Challer Croll Medical 19751
 19752,CLUE_SCROLL_MEDIUM_19752,Clull Scroll 19752 (kaytetty)
 19753,CHALLENGE_SCROLL_MEDIUM_19753,Challer Croll Medical 19753 (kaytetty)
 19754,CLUE_SCROLL_MEDIUM_19754,Clue Scroll 19754 (kaytetty)
@@ -8780,16 +8780,16 @@
 19797,CLUE_SCROLL_ELITE_19797,Alkuperainen nimi: Scroll Elite 19797
 19798,CLUE_SCROLL_ELITE_19798,Alkuperainen nimi: Scroll Elite 19798
 19799,CLUE_SCROLL_ELITE_19799,Alkuperainen nimi: Scroll Elite 19799
-19800,CLUE_SCROLL_ELITE_19800,Scroll elite 19800 Nayta tarkat tiedot
+19800,CLUE_SCROLL_ELITE_19800,Scroll elite 19800
 19801,CLUE_SCROLL_ELITE_19801,Alkuperainen nimi: Scroll Elite 19801
-19802,CLUE_SCROLL_ELITE_19802,Clull elite 19802 Nayta tarkat tiedot
-19803,CLUE_SCROLL_ELITE_19803,Clull elite 19803 Nayta tarkat tiedot
-19804,CLUE_SCROLL_ELITE_19804,Scroll elite 19804 Nayta tarkat tiedot
-19805,CLUE_SCROLL_ELITE_19805,Scroll elite 19805 Nayta tarkat tiedot
-19806,CLUE_SCROLL_ELITE_19806,Clull elite 19806 Nayta tarkat tiedot
-19807,CLUE_SCROLL_ELITE_19807,Clull elite 19807 Nayta tarkat tiedot
-19808,CLUE_SCROLL_ELITE_19808,Scroll elite 19808 Nayta tarkat tiedot
-19809,CLUE_SCROLL_ELITE_19809,Scroll elite 19809 Nayta tarkat tiedot
+19802,CLUE_SCROLL_ELITE_19802,Clull elite 19802
+19803,CLUE_SCROLL_ELITE_19803,Clull elite 19803
+19804,CLUE_SCROLL_ELITE_19804,Scroll elite 19804
+19805,CLUE_SCROLL_ELITE_19805,Scroll elite 19805
+19806,CLUE_SCROLL_ELITE_19806,Clull elite 19806
+19807,CLUE_SCROLL_ELITE_19807,Clull elite 19807
+19808,CLUE_SCROLL_ELITE_19808,Scroll elite 19808
+19809,CLUE_SCROLL_ELITE_19809,Scroll elite 19809
 19810,CLUE_SCROLL_ELITE_19810,Alkuperainen nimi: Scroll Elite 19810
 19811,CLUE_SCROLL_ELITE_19811,Alkuperainen nimi: Scroll Elite 19811
 19812,KEY_ELITE,Keskeinen eliitti
@@ -8886,9 +8886,9 @@
 19903,PUZZLE_BOX_HARD_19903,Puzz Box 19903
 19904,CLUE_SCROLL_HARD_19904,Clue Scroll Hard 1990
 19905,CHALLENGE_SCROLL_HARD_19905,Haasteet kovaa 19905
-19906,CLUE_SCROLL_HARD_19906,Clue Hard 19906 Nayta tarkat tiedot
+19906,CLUE_SCROLL_HARD_19906,Clue Hard 19906
 19907,CHALLENGE_SCROLL_HARD_19907,Haasteet kovaa 19907
-19908,CLUE_SCROLL_HARD_19908,Clue Hard 19908 Nayta tarkat tiedot
+19908,CLUE_SCROLL_HARD_19908,Clue Hard 19908
 19909,CHALLENGE_SCROLL_HARD_19909,Haasteet kovaa 19909
 19910,CLUE_SCROLL_HARD_19910,Clue Scroll kova 19910
 19911,PUZZLE_BOX_HARD_19911,Puzz Box kova 19911
@@ -8923,7 +8923,7 @@
 19994,RANGER_GLOVES,Saveltaja Gloves
 19997,HOLY_WRAPS,Pyhat kaarit
 20000,DRAGON_SCIMITAR_OR,Lohikaarmeen tai
-20002,DRAGON_SCIMITAR_ORNAMENT_KIT,Dragon scimitar ornament kit Nayta tarkat tiedot
+20002,DRAGON_SCIMITAR_ORNAMENT_KIT,Dragon scimitar ornament kit
 20005,RING_OF_NATURE,Luonnon sormus
 20008,FANCY_TIARA,Ihana Tiara
 20011,_3RD_AGE_AXE,3-vuotias Axe
@@ -8941,14 +8941,14 @@
 20047,SAMURAI_BOOTS,Samurain saappaat
 20050,OBSIDIAN_CAPE_R,Toissijainen r
 20053,HALF_MOON_SPECTACLES,Puolikuun spektaakkelit
-20056,ALE_OF_THE_GODS,Ale of Gods Nayta tarkat tiedot
+20056,ALE_OF_THE_GODS,Ale of Gods
 20059,BUCKET_HELM_G,Helm G
 20062,TORTURE_ORNAMENT_KIT,Kidutuskoriste
 20065,OCCULT_ORNAMENT_KIT,Occult Ornament
 20068,ARMADYL_GODSWORD_ORNAMENT_KIT,Alkuperainen nimi: Godsword Ornament Kit
 20071,BANDOS_GODSWORD_ORNAMENT_KIT,Godsword Ornament Kit (kaytetty)
 20074,SARADOMIN_GODSWORD_ORNAMENT_KIT,Saradomin Godsword Ornament Kit (kaytetty)
-20077,ZAMORAK_GODSWORD_ORNAMENT_KIT,zamorak Godsword Ornament Kit Nayta tarkat tiedot
+20077,ZAMORAK_GODSWORD_ORNAMENT_KIT,zamorak Godsword Ornament Kit
 20080,MUMMYS_HEAD,Muumi paa
 20083,MUMMYS_BODY,Muumi vartalo
 20086,MUMMYS_HANDS,Muumi kadet
@@ -9006,7 +9006,7 @@
 20240,CRIER_COAT,Crier takki
 20243,CRIER_BELL,Saveltaja Bell
 20246,BLACK_LEPRECHAUN_HAT,Musta leprechaun hattu
-20249,CLUELESS_SCROLL,Clueless Scroll Nayta tarkat tiedot
+20249,CLUELESS_SCROLL,Clueless Scroll
 20251,ARCEUUS_BANNER,Arceuus banneri
 20254,HOSIDIUS_BANNER,Hosidius banneri
 20257,LOVAKENGJ_BANNER,Lovakengj banneri
@@ -9049,7 +9049,7 @@
 20406,DRAGON_SCIMITAR_20406,Lohikaarme 20406
 20407,DRAGON_DAGGER_20407,Lohikaarme 20407
 20408,DARK_BOW_20408,Pimea keula 20408
-20415,ADAMANT_PLATEBODY_20415,Adamant Platebody 20415 Nayta tarkat tiedot
+20415,ADAMANT_PLATEBODY_20415,Adamant Platebody 20415
 20416,ADAMANT_PLATELEGS_20416,Adamant Platelegs 20416
 20417,BLUE_DHIDE_BODY_20417,Sininen dhide-keho 20417
 20418,BLUE_DHIDE_CHAPS_20418,Blue dhide Chaps 20418
@@ -9107,7 +9107,7 @@
 20520,ELDER_CHAOS_ROBE,Vanhin kaaospuu
 20523,CATALYTIC_RUNE_PACK,Katalyyttinen pakkaus
 20524,ELEMENTAL_RUNE_PACK,Elementaalinen pakkaus
-20525,ADAMANT_ARROW_PACK,Adamant Arrow Pack Nayta tarkat tiedot
+20525,ADAMANT_ARROW_PACK,Adamant Arrow Pack
 20526,BLOODY_KEY,Verinen avain
 20527,SURVIVAL_TOKEN,selviytyminen Token
 20532,STASH_UNITS_EASY,Stash-yksikat helposti
@@ -9133,7 +9133,7 @@
 20555,RUNE_2H_SWORD_20555,2h miekka 20555
 20556,APPRENTICE_WAND_20556,Oppilasmaara 20556
 20557,GRANITE_MAUL_20557,granaattiomena 20557
-20558,MAGIC_SHORTBOW_20558,Magic shortbow 20558 Nayta tarkat tiedot
+20558,MAGIC_SHORTBOW_20558,Magic shortbow 20558
 20559,DRAGON_2H_SWORD_20559,2. miekka 20559
 20560,MASTER_WAND_20560,Mestariseina 20560
 20561,ADAMANT_FULL_HELM_20561,Taysi Helm 20561
@@ -9147,8 +9147,8 @@
 20571,WARRIOR_HELM_20571,Helm 20571
 20572,ARCHER_HELM_20572,Helm 20572
 20573,FARSEER_HELM_20573,Helm 20573
-20574,INFINITY_TOP_20574,Infinity top 20574 Nayta tarkat tiedot
-20575,INFINITY_BOTTOMS_20575,Infinity bottoms 20575 Nayta tarkat tiedot
+20574,INFINITY_TOP_20574,Infinity top 20574
+20575,INFINITY_BOTTOMS_20575,Infinity bottoms 20575
 20576,_3RD_AGE_ROBE_TOP_20576,3. ikavuosi 20576
 20577,_3RD_AGE_ROBE_20577,3. ikavuosi 20577
 20578,CLIMBING_BOOTS_20578,Kiipeilijat 20578
@@ -9239,7 +9239,7 @@
 20693,PHOENIX,Phoenix
 20695,BRUMA_ROOT,bruma juuret
 20696,BRUMA_KINDLING,bruma kiltti
-20697,REJUVENATION_POTION_UNF,Rejuvenation Potion Unf Nayta tarkat tiedot
+20697,REJUVENATION_POTION_UNF,Rejuvenation Potion Unf
 20698,BRUMA_HERB,Bruce Herb
 20699,REJUVENATION_POTION_4,Uudelleenjulkaisu 4
 20700,REJUVENATION_POTION_3,Uudelleensyntyminen 3
@@ -9257,7 +9257,7 @@
 20720,BRUMA_TORCH,Briuma Torch
 20722,EMERALD_LANTERN_20722,Emerald Lantern 2072
 20724,IMBUED_HEART,Sydanta Imbus
-20727,LEAFBLADED_BATTLEAXE,Leafbladed Battleaxe Nayta tarkat tiedot
+20727,LEAFBLADED_BATTLEAXE,Leafbladed Battleaxe
 20730,MIST_BATTLESTAFF,Arvostettu taistelu
 20733,MYSTIC_MIST_STAFF,Mystisen sumun henkilakunta
 20736,DUST_BATTLESTAFF,palytaistelu
@@ -9328,8 +9328,8 @@
 20867,RAW_KYREN_FISH_6,Raaka-aineet 6
 20868,KYREN_FISH_6,Kalat 6
 20869,BURNT_BAT,Polttolepakko
-20870,RAW_GUANIC_BAT_0,Raw Guanic Bat 0 Nayta tarkat tiedot
-20871,GUANIC_BAT_0,guanic bat 0 Nayta tarkat tiedot
+20870,RAW_GUANIC_BAT_0,Raw Guanic Bat 0
+20871,GUANIC_BAT_0,guanic bat 0
 20872,RAW_PRAEL_BAT_1,Raaka-Prael Bat 1
 20873,PRAEL_BAT_1,Prinsessa 1
 20874,RAW_GIRAL_BAT_2,Raw Giral Bat 2 (kaytetty)
@@ -9358,7 +9358,7 @@
 20904,GRIMY_GOLPAR,Hyva golpar
 20905,GOLPAR,Golpar
 20906,GOLPAR_SEED,Golparin siemenet
-20907,GRIMY_BUCHU_LEAF,Grey Buchu Leaf Nayta tarkat tiedot
+20907,GRIMY_BUCHU_LEAF,Grey Buchu Leaf
 20908,BUCHU_LEAF,Buchu Leaf
 20909,BUCHU_SEED,Buchu Siemen
 20910,STINKHORN_MUSHROOM,stinkhorn mushroom
@@ -9382,7 +9382,7 @@
 20928,TWISTED_4,Kierratetty 4
 20929,TWISTED_POTION_1,Kierretty positio 1 1
 20930,TWISTED_POTION_2,Kierretty positio 2 2
-20931,TWISTED_POTION_3,Twisted Potion 3 Nayta tarkat tiedot
+20931,TWISTED_POTION_3,Twisted Potion 3
 20932,TWISTED_POTION_4,Twisted Potion 4 (kaytetty)
 20933,TWISTED_1_20933,Kierratys 1 20933
 20934,TWISTED_2_20934,Kierratys 2 20934
@@ -9650,7 +9650,7 @@
 21343,MINING_GLOVES,Kaivoskasineet
 21345,SUPERIOR_MINING_GLOVES,Superior kaivoskasineet
 21347,AMETHYST,Ametisti
-21350,AMETHYST_ARROWTIPS,Amethyst arrowtips Nayta tarkat tiedot
+21350,AMETHYST_ARROWTIPS,Amethyst arrowtips
 21352,AMETHYST_JAVELIN_HEADS,Ametyst Javelin Paat
 21354,HAND_FAN,Kasien fani
 21356,MINNOW,Minnow
@@ -9727,8 +9727,8 @@
 21515,OAK_BIRD_HOUSE,Lintujen talo
 21518,WILLOW_BIRD_HOUSE,Willow Bird House
 21521,TEAK_BIRD_HOUSE,Teak Bird House
-21524,CLUE_SCROLL_ELITE_21524,Clull elite 21524 Nayta tarkat tiedot
-21525,CLUE_SCROLL_ELITE_21525,Clull elite 21525 Nayta tarkat tiedot
+21524,CLUE_SCROLL_ELITE_21524,Clull elite 21524
+21525,CLUE_SCROLL_ELITE_21525,Clull elite 21525
 21526,CLUE_SCROLL_HARD_21526,Sarja 21526
 21527,CLUE_SCROLL_HARD_21527,Sarja 21527
 21528,SAWMILL_PROPOSAL,Saha-ehdotus
@@ -9940,18 +9940,18 @@
 21938,TOPAZ_DRAGON_BOLTS_E,Topazin lohikaarmeet e
 21940,SAPPHIRE_DRAGON_BOLTS_E,Lohikaarmeen lohikaarmeet E
 21942,EMERALD_DRAGON_BOLTS_E,Emerald Dragon Bolts
-21944,RUBY_DRAGON_BOLTS_E,Ruby dragon bolts e Nayta tarkat tiedot
+21944,RUBY_DRAGON_BOLTS_E,Ruby dragon bolts e
 21946,DIAMOND_DRAGON_BOLTS_E,Timantti lohikaarmeet E
 21948,DRAGONSTONE_DRAGON_BOLTS_E,Lohikaarmeen lohikaarmeet E
 21950,ONYX_DRAGON_BOLTS_E,Onyx lohikaarmeet
 21952,MAGIC_STOCK,Taikuri
-21955,OPAL_DRAGON_BOLTS,Opal dragon bolts Nayta tarkat tiedot
-21957,JADE_DRAGON_BOLTS,Jade dragon bolts Nayta tarkat tiedot
+21955,OPAL_DRAGON_BOLTS,Opal dragon bolts
+21957,JADE_DRAGON_BOLTS,Jade dragon bolts
 21959,PEARL_DRAGON_BOLTS,Hearl Dragon Bolts
 21961,TOPAZ_DRAGON_BOLTS,Topazin lohikaarme
-21963,SAPPHIRE_DRAGON_BOLTS,Sapphire Dragon Bolts Nayta tarkat tiedot
-21965,EMERALD_DRAGON_BOLTS,Emerald Dragon Bolts Nayta tarkat tiedot
-21967,RUBY_DRAGON_BOLTS,Ruby dragon bolts Nayta tarkat tiedot
+21963,SAPPHIRE_DRAGON_BOLTS,Sapphire Dragon Bolts
+21965,EMERALD_DRAGON_BOLTS,Emerald Dragon Bolts
+21967,RUBY_DRAGON_BOLTS,Ruby dragon bolts
 21969,DIAMOND_DRAGON_BOLTS,Timantti lohikaarme
 21971,DRAGONSTONE_DRAGON_BOLTS,Lohikaarmeen lohikaarme
 21973,ONYX_DRAGON_BOLTS,Onyx-lohikaarme
@@ -9964,7 +9964,7 @@
 21992,VORKI,vs.
 21994,SUPER_ANTIFIRE_MIX2,Tulipalontorjunta2
 21997,SUPER_ANTIFIRE_MIX1,Super antifirma sekoitus1
-22000,CLUE_SCROLL_ELITE_22000,Clull elite 22000 Nayta tarkat tiedot
+22000,CLUE_SCROLL_ELITE_22000,Clull elite 22000
 22001,CLUE_SCROLL_EASY_22001,Sarja helppo 22001
 22002,DRAGONFIRE_WARD,Lohikaarmeen paloi
 22003,DRAGONFIRE_WARD_22003,Lohikaarme 22003
@@ -10030,7 +10030,7 @@
 22092,DRAGON_KEY_22092,Lohikaarme 22092
 22093,ANCIENT_KEY,Vanha avain
 22094,WATER_CONTAINER,Vesisailia
-22095,SWAMP_PASTE_22095,Swamp paste 22095 Nayta tarkat tiedot
+22095,SWAMP_PASTE_22095,Swamp paste 22095
 22096,REVITALISATION_POTION,elvytyspositio
 22097,DRAGON_METAL_SHARD,Lohikaarmeen metallisuoja
 22100,DRAGON_METAL_SLICE,Lohikaarmeen metallia
@@ -10091,9 +10091,9 @@
 22224,EXTENDED_SUPER_ANTIFIRE_MIX1,Pidennetty pinnallinen tulipalo
 22227,BULLET_ARROW,Luoti Arrow
 22228,FIELD_ARROW,kenttaa nuoli
-22229,BLUNT_ARROW,Blunt arrow Nayta tarkat tiedot
+22229,BLUNT_ARROW,Blunt arrow
 22230,BARBED_ARROW,Tsemppia nuolelle
-22231,DRAGON_BOOTS_ORNAMENT_KIT,Dragon Boots Ornament Kit Nayta tarkat tiedot
+22231,DRAGON_BOOTS_ORNAMENT_KIT,Dragon Boots Ornament Kit
 22234,DRAGON_BOOTS_G,Lohikaarme G
 22236,DRAGON_PLATEBODY_ORNAMENT_KIT,Dragon Platebody Ornament Kit (kaytetty)
 22239,DRAGON_KITESHIELD_ORNAMENT_KIT,Lohikaarme Kiteshield Ornament Kit
@@ -10264,7 +10264,7 @@
 22547,CRAWS_BOW_U,Cow U
 22550,CRAWS_BOW,Craws Bow
 22552,THAMMARONS_SCEPTRE_U,thammarons Skype
-22555,THAMMARONS_SCEPTRE,Thammarons Sceptre Nayta tarkat tiedot
+22555,THAMMARONS_SCEPTRE,Thammarons Sceptre
 22557,AMULET_OF_AVARICE,Avaricen amuletti
 22586,LOOTING_BAG_22586,Laukku 22586
 22588,OLD_MANS_COFFIN,Vanhat miehet Coffin
@@ -10282,7 +10282,7 @@
 22608,FIRE_OF_NOURISHMENT,Ravinnon tulipalo
 22609,FIRE_OF_UNSEASONAL_WARMTH,Unseasonal Lampa
 22610,VESTAS_SPEAR,Vestas Spear
-22613,VESTAS_LONGSWORD,Vestas longsword Nayta tarkat tiedot
+22613,VESTAS_LONGSWORD,Vestas longsword
 22616,VESTAS_CHAINBODY,Vestas-ketju
 22619,VESTAS_PLATESKIRT,vestas plateskirt
 22622,STATIUSS_WARHAMMER,Statius Warhammer
@@ -10385,7 +10385,7 @@
 22820,MOLCH_PEARL,Helmi Hearl
 22826,BLUEGILL,Bluegill
 22829,COMMON_TENCH,Yleinen tench
-22832,MOTTLED_EEL,Mottled Eel Nayta tarkat tiedot
+22832,MOTTLED_EEL,Mottled Eel
 22835,GREATER_SIREN,suurempia sireeneja
 22838,FISH_SACK,kalaa
 22840,GOLDEN_TENCH,Kultainen telkkari
@@ -10421,7 +10421,7 @@
 22949,BATTLEFRONT_TELEPORT,Taistelu teleport
 22951,BOOTS_OF_BRIMSTONE,Brimstonen saappaat
 22954,DEVOUT_BOOTS,Hyvat saappaat
-22957,DRAKES_CLAW,drakes claw Nayta tarkat tiedot
+22957,DRAKES_CLAW,drakes claw
 22960,DRAKES_TOOTH,Vetakaa hammas
 22963,BROKEN_DRAGON_HASTA,Lohikaarmeen hasta
 22966,HYDRAS_CLAW,Hydras Claw
@@ -10443,8 +10443,8 @@
 23007,TATTY_NOTE,Tatty Note
 23009,GIELINORS_FLORA__FLOWERS,Gielinors Flora Kukat
 23011,GIELINORS_FLORA__BUSHES,Gielinors Flora Bushs
-23013,GIELINORS_FLORA__HOPS,gielinors flora hops Nayta tarkat tiedot
-23015,GIELINORS_FLORA__ALLOTMENTS,gielinors flora allotments Nayta tarkat tiedot
+23013,GIELINORS_FLORA__HOPS,gielinors flora hops
+23015,GIELINORS_FLORA__ALLOTMENTS,gielinors flora allotments
 23017,GIELINORS_FLORA__HERBS,gielinors flora yrtteja
 23019,GIELINORS_FLORA__TREES,gielinors flora puita
 23021,GIELINORS_FLORA__FRUIT,Gielinors Flora Hedelmat
@@ -10506,7 +10506,7 @@
 23137,CLUE_SCROLL_MEDIUM_23137,Clull Scroll 23137 (kaytetty)
 23138,CLUE_SCROLL_MEDIUM_23138,Clull Scroll 23138 (kaytetty)
 23139,CLUE_SCROLL_MEDIUM_23139,Clull Scroll 23139 (kaytetty)
-23140,CLUE_SCROLL_MEDIUM_23140,Clull Scroll 23140 Nayta tarkat tiedot
+23140,CLUE_SCROLL_MEDIUM_23140,Clull Scroll 23140
 23141,CLUE_SCROLL_MEDIUM_23141,Clull Scroll 23141 (kaytetty)
 23142,CLUE_SCROLL_MEDIUM_23142,Clull Scroll 23142 (kaytetty)
 23143,CLUE_SCROLL_MEDIUM_23143,Clull Scroll 23143 (kaytetty)
@@ -10721,7 +10721,7 @@
 23609,AVAS_ACCUMULATOR_23609,Kasvattaja 23609
 23611,ARMADYL_CROSSBOW_23611,Ristipuku 23611
 23613,STAFF_OF_THE_DEAD_23613,Kuolleiden henkilakunta 23613
-23615,VESTAS_LONGSWORD_23615,Vestas longsword 23615 Nayta tarkat tiedot
+23615,VESTAS_LONGSWORD_23615,Vestas longsword 23615
 23617,ZURIELS_STAFF_23617,Henkilakunta 23617
 23619,MORRIGANS_JAVELIN_23619,Javelin 23619
 23620,STATIUSS_WARHAMMER_23620,Sotahammari 23620
@@ -10738,7 +10738,7 @@
 23637,TORAGS_HELM_23637,Helm 23637
 23638,GUTHANS_HELM_23638,Helm 23638
 23639,DHAROKS_HELM_23639,Helm 23639
-23640,AMULET_OF_FURY_23640,Amulet of Fury 23640 Nayta tarkat tiedot
+23640,AMULET_OF_FURY_23640,Amulet of Fury 23640
 23642,BLESSED_SPIRIT_SHIELD_23642,Siunattu henkikilpi 23642
 23644,ETERNAL_BOOTS_23644,Ikuiset saappaat 23644
 23646,BANDOS_TASSETS_23646,bandia 23646
@@ -10758,7 +10758,7 @@
 23675,CRYSTAL_AXE_INACTIVE,Kristalli-Axe Inactive
 23677,DRAGON_PICKAXE_OR,Lohikaarmeen tai
 23680,CRYSTAL_PICKAXE,Kriittinen pickaxe
-23682,CRYSTAL_PICKAXE_INACTIVE,Crystal pickaxe inactive Nayta tarkat tiedot
+23682,CRYSTAL_PICKAXE_INACTIVE,Crystal pickaxe inactive
 23685,DIVINE_SUPER_COMBAT_POTION4,Jumalallinen supertaistelun piste 4
 23688,DIVINE_SUPER_COMBAT_POTION3,Jumalallinen supertaistelupomo 3
 23691,DIVINE_SUPER_COMBAT_POTION2,Jumalallinen supertaistelupomo2
@@ -10789,7 +10789,7 @@
 23762,CRYSTAL_HARPOON,Kristalliharpoon
 23764,CRYSTAL_HARPOON_INACTIVE,Harpoon inaktiivinen
 23768,CRYSTAL_IMPLING_JAR,Crystal impling jar
-23770,CLUE_SCROLL_ELITE_23770,Clull elite 23770 Nayta tarkat tiedot
+23770,CLUE_SCROLL_ELITE_23770,Clull elite 23770
 23771,PRIFDDINAS_TELEPORT,Priifdinasin teleportti
 23773,SCRAWLED_NOTES,Raakattu muistiinpanoja
 23775,HAND_MIRROR_23775,Peili 23775
@@ -10803,7 +10803,7 @@
 23783,GREEN_CRYSTAL_23783,Vihrea kristalli 23783
 23784,FRACTURED_CRYSTAL_23784,Kristalli 23784
 23785,ARDOUGNE_KNIGHT_HELM,Ardougen Knight Helm
-23787,ARDOUGNE_KNIGHT_PLATEBODY,Ardougne Knight Platebody Nayta tarkat tiedot
+23787,ARDOUGNE_KNIGHT_PLATEBODY,Ardougne Knight Platebody
 23789,ARDOUGNE_KNIGHT_PLATELEGS,Ardougne Knight -laatta
 23791,ARDOUGNE_KNIGHT_TABARD,Ardougen Knight Tabard
 23792,BLUE_LIQUID,Sininen neste
@@ -10859,7 +10859,7 @@
 23857,CORRUPTED_BOW_PERFECTED,Korruptoitunut keula taydellistaa
 23858,CORRUPTED_TELEPORT_CRYSTAL,Korruptoitunut teleport kristalli
 23859,GAUNTLET_CAPE,Gauntlet cape
-23861,CRYSTAL_SCEPTRE,Crystal Sceptre Nayta tarkat tiedot
+23861,CRYSTAL_SCEPTRE,Crystal Sceptre
 23862,CRYSTAL_AXE_23862,Kristallikirves 23862
 23863,CRYSTAL_PICKAXE_23863,Crystal pickaxe 23863
 23864,CRYSTAL_HARPOON_23864,Harpoon 23864
@@ -10919,7 +10919,7 @@
 23929,CRYSTAL_OF_IORWERTH,Iorwerthin kristalli
 23931,CRYSTAL_OF_TRAHAEARN,Trahaearnin kristalli
 23933,CRYSTAL_OF_CADARN,Cadarnin kristalli
-23935,CRYSTAL_OF_CRWYS,Crystal of crwys Nayta tarkat tiedot
+23935,CRYSTAL_OF_CRWYS,Crystal of crwys
 23937,CRYSTAL_OF_MEILYR,Kristalli Meilyr
 23939,CRYSTAL_OF_HEFIN,Hefinin kristalli
 23941,CRYSTAL_OF_AMLODD,Amloddin kristalli
@@ -11138,9 +11138,9 @@
 24367,CABBAGE_24367,Kaapeli 24367
 24370,TWISTED_SLAYER_HELMET,Twist slayer kypara
 24372,TWISTED_DRAGON_TROPHY,Twisted Lohikaarme Trophy
-24374,TWISTED_RUNE_TROPHY,Twisted rune trophy Nayta tarkat tiedot
-24376,TWISTED_ADAMANT_TROPHY,Twisted adamant trophy Nayta tarkat tiedot
-24378,TWISTED_MITHRIL_TROPHY,Twisted mithril trophy Nayta tarkat tiedot
+24374,TWISTED_RUNE_TROPHY,Twisted rune trophy
+24376,TWISTED_ADAMANT_TROPHY,Twisted adamant trophy
+24378,TWISTED_MITHRIL_TROPHY,Twisted mithril trophy
 24380,TWISTED_STEEL_TROPHY,Twisted Teras Trophy
 24382,TWISTED_IRON_TROPHY,Twisted rauta trophy
 24384,TWISTED_BRONZE_TROPHY,Twisted pronssi trophy
@@ -11161,7 +11161,7 @@
 24416,RUNE_POUCH_L,Juokse pussi l
 24417,INQUISITORS_MACE,Inkvisitors mace
 24418,GRAVESTONE,Hautakivi
-24419,INQUISITORS_GREAT_HELM,Inkvisitors Great Helm Nayta tarkat tiedot
+24419,INQUISITORS_GREAT_HELM,Inkvisitors Great Helm
 24420,INQUISITORS_HAUBERK,Inkvisiittorit Kuberk
 24421,INQUISITORS_PLATESKIRT,Inkvisiittorit Plateskirt
 24422,NIGHTMARE_STAFF,Painajainen henkilakunta
@@ -11185,7 +11185,7 @@
 24442,BAKERY_STORAGE_KEY,Leipomo-avain
 24443,GINGERBREAD_GNOME,Gingerbread Gnome
 24444,TWISTED_SLAYER_HELMET_I,Twist Slayer Helmet I
-24460,TWISTED_TELEPORT_SCROLL,Twisted teleport scroll Nayta tarkat tiedot
+24460,TWISTED_TELEPORT_SCROLL,Twisted teleport scroll
 24463,TWISTED_BLUEPRINTS,Twisted Blueprints
 24466,TWISTED_HORNS,Kierretyt sarvet
 24469,TWISTED_RELIC_HUNTER_T1_ARMOUR_SET,Twist Relic Hunter t1 Arms
@@ -11262,7 +11262,7 @@
 24613,BLIGHTED_ENTANGLE_SACK,Entangle Sack
 24615,BLIGHTED_TELEPORT_SPELL_SACK,Levy-yhtia teleport spell sack
 24617,VESTAS_BLIGHTED_LONGSWORD,Vestas paljastui pitkalla miekalla
-24619,VESTAS_LONGSWORD_INACTIVE,Vestas longsword inactive Nayta tarkat tiedot
+24619,VESTAS_LONGSWORD_INACTIVE,Vestas longsword inactive
 24621,BLIGHTED_VENGEANCE_SACK,Levy-yhtia: Kostopussi
 24623,DIVINE_BATTLEMAGE_POTION4,jumalallinen taistelu 4
 24626,DIVINE_BATTLEMAGE_POTION3,Taivaallinen Potion3
@@ -11301,7 +11301,7 @@
 24693,RUBY_SICKLE_B,Ruby Sirle B
 24695,ENCHANTED_RUBY_SICKLE_B,Lumottu ruby sirle b
 24697,BLISTERWOOD_SICKLE,blisterwood sirle
-24699,BLISTERWOOD_FLAIL,blisterwood flail Nayta tarkat tiedot
+24699,BLISTERWOOD_FLAIL,blisterwood flail
 24701,DARK_SQUIRREL,Tumma Squirrel
 24702,VYRE,Vilja
 24703,COIN_POUCH_24703,Pussi 24703
@@ -11310,8 +11310,8 @@
 24708,VAMPYRE,Vampyyri
 24709,HALLOWED_CRYSTAL_SHARD,Hallowed kristallisuoja
 24711,HALLOWED_MARK,Hallowed mark
-24719,HALLOWED_TOKEN,Hallow token Nayta tarkat tiedot
-24721,HALLOWED_GRAPPLE,Hallowed grapple Nayta tarkat tiedot
+24719,HALLOWED_TOKEN,Hallow token
+24721,HALLOWED_GRAPPLE,Hallowed grapple
 24723,HALLOWED_FOCUS,Hallowed fokus
 24725,HALLOWED_SYMBOL,Hallowed-symboli
 24727,HALLOWED_HAMMER,Hallow vasara
@@ -11334,7 +11334,7 @@
 24757,GRACEFUL_GLOVES_24757,Hyvat kasineet 24757
 24758,GRACEFUL_BOOTS_24758,Hyvat saappaat 24758
 24760,GRACEFUL_BOOTS_24760,Hyvat saappaat 24760
-24761,STRANGE_HALLOWED_TOME,Hallowed Tome Nayta tarkat tiedot
+24761,STRANGE_HALLOWED_TOME,Hallowed Tome
 24763,MYSTERIOUS_PAGE,Salaperainen sivu
 24765,MYSTERIOUS_PAGE_24765,Mystinen sivu 24765
 24767,MYSTERIOUS_PAGE_24767,Sivut 24767
@@ -11343,7 +11343,7 @@
 24773,CLUE_SCROLL_ELITE_24773,Clull elite 24773
 24774,BLOOD_PINT,Veri Pint
 24777,BLOOD_SHARD,Verenvuodatus
-24780,AMULET_OF_BLOOD_FURY,Amulet of blood fury Nayta tarkat tiedot
+24780,AMULET_OF_BLOOD_FURY,Amulet of blood fury
 24782,RAW_MYSTERY_MEAT,Raaka mysteerinen liha
 24785,COOKED_MYSTERY_MEAT,Mysteerinen liha
 24788,PAT_OF_NOT_GARLIC_BUTTER,Ei valkosipulin voita
@@ -11401,7 +11401,7 @@
 24880,AMYS_SAW,Amnes naki
 24882,PLANK_SACK,Suunnittelija Sack
 24884,SUPPLY_CRATE_24884,Tarjontakerros 24884
-24885,HOSIDIUS_BLUEPRINTS,Hosidius Blueprints Nayta tarkat tiedot
+24885,HOSIDIUS_BLUEPRINTS,Hosidius Blueprints
 24886,WOODEN_TABLE_24886,Puupayta 24886
 24887,OAK_TABLE,Tammipayta
 24888,TEAK_TABLE_24888,Tabletti 24888
@@ -11460,7 +11460,7 @@
 24941,BP_OBJ,BP:n
 24942,REINFORCED_GOGGLES,Vahvistettu goggles
 24944,SOURHOG_FOOT,Sourhon jalka
-24946,HALLOWED_SACK,Hallowed sack Nayta tarkat tiedot
+24946,HALLOWED_SACK,Hallowed sack
 24949,MOONCLAN_TELEPORT,Moonclan teleport
 24951,OURANIA_TELEPORT,Ourania-teleportti
 24953,WATERBIRTH_TELEPORT,Vedensisainen teleportti
@@ -11505,8 +11505,8 @@
 25037,TRAILBLAZER_BOOTS_T1,Trackblazer-saappaat t1
 25042,TRAILBLAZER_DRAGON_TROPHY,Trackblazer Lohikaarme
 25044,TRAILBLAZER_RUNE_TROPHY,trailblazer trophy
-25046,TRAILBLAZER_ADAMANT_TROPHY,Trackblazer Adamant Trophy Nayta tarkat tiedot
-25048,TRAILBLAZER_MITHRIL_TROPHY,Trackblazer Mithril Trophy Nayta tarkat tiedot
+25046,TRAILBLAZER_ADAMANT_TROPHY,Trackblazer Adamant Trophy
+25048,TRAILBLAZER_MITHRIL_TROPHY,Trackblazer Mithril Trophy
 25050,TRAILBLAZER_STEEL_TROPHY,Trablazer Teras Trophy
 25052,TRAILBLAZER_IRON_TROPHY,trailblazer rautaa
 25054,TRAILBLAZER_BRONZE_TROPHY,Trackblazer pronssi trophy
@@ -11526,11 +11526,11 @@
 25083,GRACEFUL_GLOVES_25083,Hyvat kasineet 25083
 25084,GRACEFUL_BOOTS_25084,Hyvat saappaat 25084
 25086,GRACEFUL_BOOTS_25086,Hyvat saappaat 25086
-25087,TRAILBLAZER_TELEPORT_SCROLL,Trablazer teleport scroll Nayta tarkat tiedot
+25087,TRAILBLAZER_TELEPORT_SCROLL,Trablazer teleport scroll
 25090,TRAILBLAZER_TOOL_ORNAMENT_KIT,Trablazer Tool Ornament Kit
 25093,TRAILBLAZER_GLOBE,Lahde: Trablazer Globe
 25096,TRAILBLAZER_RUG,Trablazer Rug
-25099,TRAILBLAZER_GRACEFUL_ORNAMENT_KIT,Trackblazer Graceful Ornament Kit Nayta tarkat tiedot
+25099,TRAILBLAZER_GRACEFUL_ORNAMENT_KIT,Trackblazer Graceful Ornament Kit
 25102,FAIRY_MUSHROOM,Reilu mushroom
 25104,CRYSTAL_OF_MEMORIES,muistojen kristalli
 25106,EXTRADIMENSIONAL_BAG,ulottuvuuksien laukku
@@ -11571,7 +11571,7 @@
 25185,PURPLE_SLAYER_HELMET_I_25185,Purple Slayer -kypara 25185
 25187,TURQUOISE_SLAYER_HELMET_I_25187,turkoosin teurastajakypara, 25187
 25189,HYDRA_SLAYER_HELMET_I_25189,hydra slayer kypara 2189
-25191,TWISTED_SLAYER_HELMET_I_25191,Twisted slayer helmet i 25191 Nayta tarkat tiedot
+25191,TWISTED_SLAYER_HELMET_I_25191,Twisted slayer helmet i 25191
 25193,GRANITE_RING_I_25193,Graniittisormus 25193
 25195,BLUE_CAPE_25195,Sininen 25195
 25196,SOUL_FRAGMENT,Sielun fragmentti
@@ -11651,7 +11651,7 @@
 25286,MOULDY_SAWDUST,Mould Saddust
 25287,ROTTEN_MEAT,Kaantynyt liha
 25288,STALE_BREAD,Leipaa Stale
-25289,GOBLIN_STEW,Goblin Stew Nayta tarkat tiedot
+25289,GOBLIN_STEW,Goblin Stew
 25290,GOBLIN_GIFTS,Goblin-lahjat
 25314,GIANT_BOULDER,Jattilainen Boulder
 25316,GOBLIN_DECORATIONS,Goblinin koristeet
@@ -11714,7 +11714,7 @@
 25430,GOLD_KEY_BLACK,Kultainen musta
 25432,GOLD_KEY_PURPLE,Kultainen Purple
 25434,ZEALOTS_ROBE_TOP,Tsealots Robe Top
-25436,ZEALOTS_ROBE_BOTTOM,Tsealots Robe Baottom Nayta tarkat tiedot
+25436,ZEALOTS_ROBE_BOTTOM,Tsealots Robe Baottom
 25438,ZEALOTS_HELM,Tsealots Helm
 25440,ZEALOTS_BOOTS,Innokkaat saappaat
 25442,BRONZE_LOCKS,Pronssi lukot
@@ -11742,7 +11742,7 @@
 25486,URSINE_CHAINMACE_U,Virtsan ketju
 25487,URSINE_CHAINMACE,Virtsan ketju
 25488,ACCURSED_SCEPTRE_U,Kiireinen Septre
-25489,ACCURSED_SCEPTRE,Accursed Sceptre Nayta tarkat tiedot
+25489,ACCURSED_SCEPTRE,Accursed Sceptre
 25490,VOIDWAKER,Tyhjia
 25491,ACCURSED_SCEPTRE_AU,Skype Au
 25492,ACCURSED_SCEPTRE_A,Kiireinen Skype A
@@ -11751,11 +11751,11 @@
 25495,CRYSTAL_HELM_BETA,Kristalli Helm Beta
 25496,CRYSTAL_BODY_BETA,Kehon beta
 25497,CRYSTAL_LEGS_BETA,Kristalli jalka beta
-25498,CLUE_SCROLL_ELITE_25498,Clull elite 25498 Nayta tarkat tiedot
-25499,CLUE_SCROLL_ELITE_25499,Clull elite 25499 Nayta tarkat tiedot
+25498,CLUE_SCROLL_ELITE_25498,Clull elite 25498
+25499,CLUE_SCROLL_ELITE_25499,Clull elite 25499
 25500,CURSED_BANANA,Kirottu banaani
 25502,BANANA_CAPE,Banaani cape
-25515,DHAROKS_PLATEBODY_25515,Dharoks platebody 25515 Nayta tarkat tiedot
+25515,DHAROKS_PLATEBODY_25515,Dharoks platebody 25515
 25516,DHAROKS_GREATAXE_25516,Mahtavuus 25516
 25517,VOLATILE_NIGHTMARE_STAFF_25517,Painajainen 25517
 25518,ANCESTRAL_HAT_25518,Hattu 25518
@@ -11783,7 +11783,7 @@
 25565,HARPOONFISH,Harponfish
 25566,CRYSTALLISED_HARPOONFISH,Kiteytetty Harpoonfish
 25567,THE_DESERT_TROUT__SHIPS_LOG,Autiomaa-alusten loki
-25569,SPIRIT_ANGLERS_RESEARCH_NOTES,Anglers Research Nayta tarkat tiedot
+25569,SPIRIT_ANGLERS_RESEARCH_NOTES,Anglers Research
 25571,DAMP_EGG,Kosketa munaa
 25574,TOME_OF_WATER,Veden tomi
 25576,TOME_OF_WATER_EMPTY,Vesi tyhja
@@ -11849,7 +11849,7 @@
 25670,RAW_CATFISH,Raakakakala
 25672,CATFISH,Kalastus
 25674,RUINED_CATFISH,Havitetty katkara
-25676,BARRONITE_SHARDS,barronite shards Nayta tarkat tiedot
+25676,BARRONITE_SHARDS,barronite shards
 25684,BARRONITE_DEPOSIT,Barronite talletus
 25686,ANCIENT_GLOBE,Muinainen maailma
 25688,ANCIENT_LEDGER,Vanha ledge
@@ -11859,7 +11859,7 @@
 25696,MIND_CORE,Mielen ydin
 25698,BODY_CORE,Kehon ydin
 25700,CHAOS_CORE,Kaaos ydin
-25702,UNGAEL_LAB_NOTES,Ungael Lab Nayta tarkat tiedot
+25702,UNGAEL_LAB_NOTES,Ungael Lab
 25704,LITHKREN_VAULT_NOTES,Lithkren Holt muistiinpanoja
 25706,DUSTY_NOTE,palyinen muistiinpano
 25708,BOARD_GAME_PIECE_25708,Pelipeli 25708
@@ -11887,8 +11887,8 @@
 25734,HOLY_GHRAZI_RAPIER,Pyha Ghrazi Rapier
 25736,HOLY_SCYTHE_OF_VITUR,Pyha vitsaus
 25738,HOLY_SCYTHE_OF_VITUR_UNCHARGED,Pyha vitsaus turmelemattomasta
-25739,SANGUINE_SCYTHE_OF_VITUR,Sanguine scythe of vitur Nayta tarkat tiedot
-25741,SANGUINE_SCYTHE_OF_VITUR_UNCHARGED,Sanguine scythe of vitur Nayta tarkat tiedot
+25739,SANGUINE_SCYTHE_OF_VITUR,Sanguine scythe of vitur
+25741,SANGUINE_SCYTHE_OF_VITUR_UNCHARGED,Sanguine scythe of vitur
 25742,HOLY_ORNAMENT_KIT,Pyha koriste
 25744,SANGUINE_ORNAMENT_KIT,Sanguine ornamentti
 25746,SANGUINE_DUST,Sanguine palya
@@ -11919,8 +11919,8 @@
 25783,CLUE_SCROLL_MEDIUM_25783,Clull Scroll keskikokoinen 25783
 25784,CLUE_SCROLL_MEDIUM_25784,Clull Scroll 25784
 25785,CHALLENGE_SCROLL_MEDIUM_25785,Challer Scroll Media 25785
-25786,CLUE_SCROLL_ELITE_25786,Clull elite 25786 Nayta tarkat tiedot
-25787,CLUE_SCROLL_ELITE_25787,Clull elite 25787 Nayta tarkat tiedot
+25786,CLUE_SCROLL_ELITE_25786,Clull elite 25786
+25787,CLUE_SCROLL_ELITE_25787,Clull elite 25787
 25788,CLUE_SCROLL_EASY_25788,Sarja on helppo 25788
 25789,CLUE_SCROLL_EASY_25789,Sarja on helppo 25789
 25790,CLUE_SCROLL_HARD_25790,Vinkkeja kovaan 25790
@@ -12035,20 +12035,20 @@
 25979,KERIS_PARTISAN,Keris Partisan
 25981,KERIS_PARTISAN_OF_BREACHING,Keris Partisan rikkomisesta
 25985,ELIDINIS_WARD,Elidinis-palkittu
-25990,SIGIL_OF_RESILIENCE,Sigil of Resilience Nayta tarkat tiedot
+25990,SIGIL_OF_RESILIENCE,Sigil of Resilience
 25991,SIGIL_OF_RESILIENCE_25991,Kestavyys 25991
 25993,SIGIL_OF_CONSISTENCY,Johdonmukaisuuden sigil
 25994,SIGIL_OF_CONSISTENCY_25994,Johdonmukaisuus 25994
 25996,SIGIL_OF_THE_FORMIDABLE_FIGHTER,Sigil of the Mahtava taistelija
 25997,SIGIL_OF_THE_FORMIDABLE_FIGHTER_25997,Sigil of the Mahtava havittaja 25997
-25999,SIGIL_OF_THE_RIGOROUS_RANGER,Sigil of the Rigorous Nayta tarkat tiedot
-26000,SIGIL_OF_THE_RIGOROUS_RANGER_26000,Sigil of the RIGOROUDER 26000 Nayta tarkat tiedot
-26002,SIGIL_OF_THE_METICULOUS_MAGE,sigil of the meticulous mage Nayta tarkat tiedot
-26003,SIGIL_OF_THE_METICULOUS_MAGE_26003,Sigil of the Meticulous Magge 26003 Nayta tarkat tiedot
+25999,SIGIL_OF_THE_RIGOROUS_RANGER,Sigil of the Rigorous
+26000,SIGIL_OF_THE_RIGOROUS_RANGER_26000,Sigil of the RIGOROUDER 26000
+26002,SIGIL_OF_THE_METICULOUS_MAGE,sigil of the meticulous mage
+26003,SIGIL_OF_THE_METICULOUS_MAGE_26003,Sigil of the Meticulous Magge 26003
 26005,SIGIL_OF_FORTIFICATION,linnoituksen sigil
 26006,SIGIL_OF_FORTIFICATION_26006,linnoitus 26006
-26008,SIGIL_OF_BARROWS,Sigil of barrows Nayta tarkat tiedot
-26009,SIGIL_OF_BARROWS_26009,Sigil of barrows 26009 Nayta tarkat tiedot
+26008,SIGIL_OF_BARROWS,Sigil of barrows
+26009,SIGIL_OF_BARROWS_26009,Sigil of barrows 26009
 26011,SIGIL_OF_DEFT_STRIKES,Sigil of Deft Lakkoja
 26012,SIGIL_OF_DEFT_STRIKES_26012,Sigil of Deft -lakko 26012
 26014,SIGIL_OF_FREEDOM,vapauden sigil
@@ -12061,18 +12061,18 @@
 26024,SIGIL_OF_THE_SMITH_26024,Smith 26024 aanta
 26026,SIGIL_OF_THE_ALCHEMIST,Alkemistin sigil
 26027,SIGIL_OF_THE_ALCHEMIST_26027,Alkemisti 26027
-26029,SIGIL_OF_THE_FLETCHER,Sigil of the Fletcher Nayta tarkat tiedot
-26030,SIGIL_OF_THE_FLETCHER_26030,Sigil of the Fletcher 26030 Nayta tarkat tiedot
-26032,SIGIL_OF_THE_CHEF,Sigil of the Chef Nayta tarkat tiedot
+26029,SIGIL_OF_THE_FLETCHER,Sigil of the Fletcher
+26030,SIGIL_OF_THE_FLETCHER_26030,Sigil of the Fletcher 26030
+26032,SIGIL_OF_THE_CHEF,Sigil of the Chef
 26033,SIGIL_OF_THE_CHEF_26033,Kokki 26033
 26035,SIGIL_OF_THE_CRAFTSMAN,Sigil of the kasityalainen
 26036,SIGIL_OF_THE_CRAFTSMAN_26036,Kasikirjoittaja 26036
-26038,SIGIL_OF_THE_ABYSS,Sigil of the Abyss Nayta tarkat tiedot
-26039,SIGIL_OF_THE_ABYSS_26039,Sigil of the Abyss 26039 Nayta tarkat tiedot
-26041,SIGIL_OF_STAMINA,Sigil of Stamina Nayta tarkat tiedot
+26038,SIGIL_OF_THE_ABYSS,Sigil of the Abyss
+26039,SIGIL_OF_THE_ABYSS_26039,Sigil of the Abyss 26039
+26041,SIGIL_OF_STAMINA,Sigil of Stamina
 26042,SIGIL_OF_STAMINA_26042,Kestavyys 26042
-26044,SIGIL_OF_THE_POTION_MASTER,sigil of the potion master Nayta tarkat tiedot
-26045,SIGIL_OF_THE_POTION_MASTER_26045,sigil of the potion master 26045 Nayta tarkat tiedot
+26044,SIGIL_OF_THE_POTION_MASTER,sigil of the potion master
+26045,SIGIL_OF_THE_POTION_MASTER_26045,sigil of the potion master 26045
 26047,SIGIL_OF_THE_ETERNAL_JEWELLER,ikuinen koru
 26048,SIGIL_OF_THE_ETERNAL_JEWELLER_26048,ikuinen jalokivi 26048
 26050,SIGIL_OF_THE_TREASURE_HUNTER,Aarteenmetsastaja
@@ -12089,27 +12089,27 @@
 26066,SIGIL_OF_BINDING_26066,Sitova 26066
 26068,SIGIL_OF_ESCAPING,Sigil pakenee
 26069,SIGIL_OF_ESCAPING_26069,Pakeneminen 26069
-26071,SIGIL_OF_THE_RUTHLESS_RANGER,Sigil of the armless ranger Nayta tarkat tiedot
+26071,SIGIL_OF_THE_RUTHLESS_RANGER,Sigil of the armless ranger
 26072,SIGIL_OF_THE_RUTHLESS_RANGER_26072,Sigil of the Ruthless -sarja 26072
 26074,SIGIL_OF_THE_FERAL_FIGHTER,Taistelijan sigil
 26075,SIGIL_OF_THE_FERAL_FIGHTER_26075,Taistelija 26075
-26077,SIGIL_OF_THE_MENACING_MAGE,Sigil of the Changing Magge Nayta tarkat tiedot
-26078,SIGIL_OF_THE_MENACING_MAGE_26078,sigil of the sacing mage 26078 Nayta tarkat tiedot
+26077,SIGIL_OF_THE_MENACING_MAGE,Sigil of the Changing Magge
+26078,SIGIL_OF_THE_MENACING_MAGE_26078,sigil of the sacing mage 26078
 26080,SIGIL_OF_PROSPERITY,Hyvinvoinnin sigil
 26081,SIGIL_OF_PROSPERITY_26081,Hyvinvointi 26081
 26083,SIGIL_OF_THE_DWARVES,kaapiaiden sigil
 26084,SIGIL_OF_THE_DWARVES_26084,kaapiat 26084
-26086,SIGIL_OF_THE_ELVES,Sigil of the Elves Nayta tarkat tiedot
-26087,SIGIL_OF_THE_ELVES_26087,Sigil of the elves 26087 Nayta tarkat tiedot
+26086,SIGIL_OF_THE_ELVES,Sigil of the Elves
+26087,SIGIL_OF_THE_ELVES_26087,Sigil of the elves 26087
 26089,SIGIL_OF_THE_BARBARIANS,barbaarien sigil
 26090,SIGIL_OF_THE_BARBARIANS_26090,Barbaareja 26090
 26092,SIGIL_OF_THE_GNOMES,Gnomien sigil
 26093,SIGIL_OF_THE_GNOMES_26093,Gnomeja 26093
 26095,SIGIL_OF_NATURE,Luonnon sigil
 26096,SIGIL_OF_NATURE_26096,Luonto 26096
-26098,SIGIL_OF_DEVOTION,Sigil of Devotion Nayta tarkat tiedot
+26098,SIGIL_OF_DEVOTION,Sigil of Devotion
 26099,SIGIL_OF_DEVOTION_26099,Omistautuminen 26099
-26101,SIGIL_OF_THE_FORAGER,sigil of the forager Nayta tarkat tiedot
+26101,SIGIL_OF_THE_FORAGER,sigil of the forager
 26102,SIGIL_OF_THE_FORAGER_26102,Edeltaja 26102
 26104,SIGIL_OF_GARMENTS,sigil vaatteita
 26105,SIGIL_OF_GARMENTS_26105,vaatteita 26105
@@ -12117,7 +12117,7 @@
 26108,SIGIL_OF_SLAUGHTER_26108,Teurastus 26108
 26110,SIGIL_OF_THE_FORTUNE_FARMER,Onnellisuuden viljelija
 26111,SIGIL_OF_THE_FORTUNE_FARMER_26111,Onnellisuusviljelija 26111
-26113,SIGIL_OF_VERSATILITY,Sigil of Versatility Nayta tarkat tiedot
+26113,SIGIL_OF_VERSATILITY,Sigil of Versatility
 26114,SIGIL_OF_VERSATILITY_26114,Versatiliteetti 26114
 26116,SIGIL_OF_THE_SERPENT,Kaarmeen sigil
 26117,SIGIL_OF_THE_SERPENT_26117,Kaarme 26117
@@ -12127,11 +12127,11 @@
 26123,SIGIL_OF_PRESERVATION_26123,Sailytys 26123
 26125,SIGIL_OF_FINALITY,Lopullisuuden sigil
 26126,SIGIL_OF_FINALITY_26126,Lopullisuus 26126
-26128,SIGIL_OF_PIOUS_PROTECTION,sigil of huous protection Nayta tarkat tiedot
+26128,SIGIL_OF_PIOUS_PROTECTION,sigil of huous protection
 26129,SIGIL_OF_PIOUS_PROTECTION_26129,Haikaiseva suoja 26129
 26131,SIGIL_OF_AGGRESSION,Aggression sigil
 26132,SIGIL_OF_AGGRESSION_26132,Aggressio 26132
-26134,SIGIL_OF_RAMPAGE,Sigil of Rampage Nayta tarkat tiedot
+26134,SIGIL_OF_RAMPAGE,Sigil of Rampage
 26135,SIGIL_OF_RAMPAGE_26135,Rampaus 26135
 26137,SIGIL_OF_THE_SKILLER,Taitajan sigil
 26138,SIGIL_OF_THE_SKILLER_26138,Osaaja 26138
@@ -12201,7 +12201,7 @@
 26229,ANCIENT_CEREMONIAL_BOOTS,Muinaiset seremonialliset saappaat
 26231,NIHIL_SHARD,Nihil shard
 26233,ANCIENT_GODSWORD,Vanhat jumalat
-26235,ZARYTE_VAMBRACES,zaryte vambraces Nayta tarkat tiedot
+26235,ZARYTE_VAMBRACES,zaryte vambraces
 26237,ZARYTE_BOW,zaryte bow
 26239,ZARYTE_BOW_26239,zaryte keula 26239
 26241,VIRTUS_MASK,Virus maski
@@ -12269,7 +12269,7 @@
 26368,NIHIL_DUST,Nihil palya
 26370,ANCIENT_HILT,Vanha hiltti
 26372,NIHIL_HORN,Nihil Horn
-26374,ZARYTE_CROSSBOW,zaryte crossbow Nayta tarkat tiedot
+26374,ZARYTE_CROSSBOW,zaryte crossbow
 26376,TORVA_FULL_HELM_DAMAGED,Torva Full Helm
 26378,TORVA_PLATEBODY_DAMAGED,Torva Platebody vaurioitui
 26380,TORVA_PLATELEGS_DAMAGED,Torva-laatikot vaurioituneet
@@ -12318,10 +12318,10 @@
 26503,SHATTERED_RELICS_BRONZE_TROPHY,Relics Bronze Trophyn savyt
 26505,SHATTERED_RELICS_IRON_TROPHY,Relics Rauta Trophy
 26507,SHATTERED_RELICS_STEEL_TROPHY,Relics Teras Trophy
-26509,SHATTERED_RELICS_MITHRIL_TROPHY,Relics mithril trophy Nayta tarkat tiedot
-26511,SHATTERED_RELICS_ADAMANT_TROPHY,Relics adamant trophy Nayta tarkat tiedot
-26513,SHATTERED_RELICS_RUNE_TROPHY,Relics rune trophy Nayta tarkat tiedot
-26515,SHATTERED_RELICS_DRAGON_TROPHY,Relics dragon trophy Nayta tarkat tiedot
+26509,SHATTERED_RELICS_MITHRIL_TROPHY,Relics mithril trophy
+26511,SHATTERED_RELICS_ADAMANT_TROPHY,Relics adamant trophy
+26513,SHATTERED_RELICS_RUNE_TROPHY,Relics rune trophy
+26515,SHATTERED_RELICS_DRAGON_TROPHY,Relics dragon trophy
 26517,SHATTERED_CANE,Sarkynyt karkki
 26520,CANNON_BASE_OR,tykkipohja tai
 26522,CANNON_STAND_OR,Sailyta tai
@@ -12376,9 +12376,9 @@
 26611,ZEKES_CHALLENGE_SCROLL,Tsekes Challens
 26613,CAPT_ARNAVS_CHEST,Arnavs Rintakeha
 26615,BUCKET_COOKOUT,Bucket Coout
-26617,BUCKET_OF_WATER_COOKOUT,Bucket of Water Cookout Nayta tarkat tiedot
+26617,BUCKET_OF_WATER_COOKOUT,Bucket of Water Cookout
 26619,POT_COOKOUT,Kokkaaminen
-26621,POT_OF_FLOUR_COOKOUT,Pot of Flour Cookout Nayta tarkat tiedot
+26621,POT_OF_FLOUR_COOKOUT,Pot of Flour Cookout
 26623,TOMATO_COOKOUT,Tomaatti Kokkaa
 26625,CHEESE_COOKOUT,Juusto Kokkaa
 26627,BANANA_COOKOUT,Banaani Cookout
@@ -12449,7 +12449,7 @@
 26704,BLIGHTED_WAVE_SACK,Aallot Sack
 26705,BLIGHTED_SURGE_SACK,Levy-yhtia Surge Sck
 26706,SCROLL_OF_IMBUING,Imbuingin kierros
-26707,DRAGON_CLAWS_ORNAMENT_KIT,Dragon Claws Ornament Kit Nayta tarkat tiedot
+26707,DRAGON_CLAWS_ORNAMENT_KIT,Dragon Claws Ornament Kit
 26708,DRAGON_CLAWS_OR,lohikaarmeita tai
 26709,DRAGON_WARHAMMER_ORNAMENT_KIT,Lahella majoitusliiketta Dragon Warhammer Ornament Kit
 26710,DRAGON_WARHAMMER_OR,Lohikaarmeen tai
@@ -12533,7 +12533,7 @@
 26801,CATALYTIC_TIARA,Tiara katalyyttinen
 26804,ELEMENTAL_TIARA,Alkuperaisnimi Tiara
 26807,ABYSSAL_GREEN_DYE,Abyssal Green
-26809,ABYSSAL_BLUE_DYE,Abyssal blue dye Nayta tarkat tiedot
+26809,ABYSSAL_BLUE_DYE,Abyssal blue dye
 26811,ABYSSAL_RED_DYE,Abyssal punainen vari
 26813,ABYSSAL_NEEDLE,Abyssal Neula
 26815,RING_OF_THE_ELEMENTS,Elementtien sormus
@@ -12541,17 +12541,17 @@
 26820,GUARDIANS_EYE,Vartijat silmat
 26822,ABYSSAL_LANTERN,Abyssal Lantern
 26824,ABYSSAL_LANTERN_NORMAL_LOGS,Abyssal Lantern Normaalit Lokit
-26826,ABYSSAL_LANTERN_BLUE_LOGS,Abyssal Lantern Blue Los Nayta tarkat tiedot
+26826,ABYSSAL_LANTERN_BLUE_LOGS,Abyssal Lantern Blue Los
 26828,ABYSSAL_LANTERN_RED_LOGS,Abyssal Lantern Red Los
 26830,ABYSSAL_LANTERN_WHITE_LOGS,Abyssal lyhty valkoiset lokit
-26832,ABYSSAL_LANTERN_PURPLE_LOGS,Abyssal lantern purple logs Nayta tarkat tiedot
+26832,ABYSSAL_LANTERN_PURPLE_LOGS,Abyssal lantern purple logs
 26834,ABYSSAL_LANTERN_GREEN_LOGS,Abyssal Lantern Vihreat Lokit
 26836,ABYSSAL_LANTERN_OAK_LOGS,Abyssal Lantern Taak Los
 26838,ABYSSAL_LANTERN_WILLOW_LOGS,Abyssal Lantern Willow
-26840,ABYSSAL_LANTERN_MAPLE_LOGS,Abyssal Lantern Maple Los Nayta tarkat tiedot
-26842,ABYSSAL_LANTERN_YEW_LOGS,Abyssal Lantern Lew Los Nayta tarkat tiedot
-26844,ABYSSAL_LANTERN_BLISTERWOOD_LOGS,Abyssal Lantern blisterwood logs Nayta tarkat tiedot
-26846,ABYSSAL_LANTERN_MAGIC_LOGS,Abyssal Lantern Magic Los Nayta tarkat tiedot
+26840,ABYSSAL_LANTERN_MAPLE_LOGS,Abyssal Lantern Maple Los
+26842,ABYSSAL_LANTERN_YEW_LOGS,Abyssal Lantern Lew Los
+26844,ABYSSAL_LANTERN_BLISTERWOOD_LOGS,Abyssal Lantern blisterwood logs
+26846,ABYSSAL_LANTERN_MAGIC_LOGS,Abyssal Lantern Magic Los
 26848,ABYSSAL_LANTERN_REDWOOD_LOGS,Abyssal Lantern Redwood -lokit
 26850,HAT_OF_THE_EYE,Hattu silmasta
 26852,ROBE_TOP_OF_THE_EYE,Puku silman paalla
@@ -12621,9 +12621,9 @@
 26939,CRATE_RING,Ryhma sormus
 26941,POLYELEMENTAL_GUARDIAN_STONE,Polyelementtisuojelija
 26942,MESSAGE_26942,26942
-26943,CLUE_SCROLL_ELITE_26943,Clull elite 26943 Nayta tarkat tiedot
-26944,CLUE_SCROLL_ELITE_26944,Clull elite 26944 Nayta tarkat tiedot
-26945,PHARAOHS_SCEPTRE_UNCHARGED,Pharaohs Sceptre Uncharged Nayta tarkat tiedot
+26943,CLUE_SCROLL_ELITE_26943,Clull elite 26943
+26944,CLUE_SCROLL_ELITE_26944,Clull elite 26944
+26945,PHARAOHS_SCEPTRE_UNCHARGED,Pharaohs Sceptre Uncharged
 26948,PHARAOHS_SCEPTRE_26948,Farao-skeptikko 26948
 26950,PHARAOHS_SCEPTRE_26950,Farao-skeptikko 26950
 26952,SCARAB_MOULD,Sarjab Mould
@@ -12674,7 +12674,7 @@
 27025,SMITHS_TROUSERS,Smiths housut
 27027,SMITHS_BOOTS,Smiths Boots
 27029,SMITHS_GLOVES,Smiths kasineet
-27031,SMITHS_GLOVES_I,Smiths gloves i Nayta tarkat tiedot
+27031,SMITHS_GLOVES_I,Smiths gloves i
 27033,GIANTS_FOUNDRY_TESTER,Jattilaiset testaajat
 27035,FLOWER_CROWN,Kruunun kukka
 27037,LEGENDARY_RED_ROSE_SEED,Legendaarinen punainen ruusu
@@ -12779,14 +12779,14 @@
 27255,MENAPHITE_ORNAMENT_KIT,Menaphite Ornament Kit
 27257,ICTHLARINS_SHROUD_TIER_1,icthlarins shroud tier 1
 27259,ICTHLARINS_SHROUD_TIER_2,icthlarins shroud taso 2
-27261,ICTHLARINS_SHROUD_TIER_3,icthlarins shroud tier 3 Nayta tarkat tiedot
+27261,ICTHLARINS_SHROUD_TIER_3,icthlarins shroud tier 3
 27263,ICTHLARINS_SHROUD_TIER_4,icthlarins pehmea taso 4
-27265,ICTHLARINS_SHROUD_TIER_5,icthlarins shroud tier 5 Nayta tarkat tiedot
+27265,ICTHLARINS_SHROUD_TIER_5,icthlarins shroud tier 5
 27267,ICTHLARINS_HOOD_TIER_5,icthlarins hood tier 5
 27269,ARMADYLEAN_PLATE,Aradylean lautanen
-27272,LILY_OF_THE_SANDS,Lily of the Sands Nayta tarkat tiedot
+27272,LILY_OF_THE_SANDS,Lily of the Sands
 27275,TUMEKENS_SHADOW,Tumekens Shadow
-27277,TUMEKENS_SHADOW_UNCHARGED,Tumekens Shadow Uncharged Nayta tarkat tiedot
+27277,TUMEKENS_SHADOW_UNCHARGED,Tumekens Shadow Uncharged
 27279,THREAD_OF_ELIDINIS,Esiintyjat: Elidinis
 27281,DIVINE_RUNE_POUCH,Jumaluuspussi
 27283,BREACH_OF_THE_SCARAB,Hurjauksen rikkominen
@@ -12802,7 +12802,7 @@
 27299,ANTIQUE_LAMP_27299,Lamppu 27299
 27300,AKILAS_JOURNAL,Akile paivakirja
 27302,HETS_CAPTURE,Lampa kiinni
-27304,APMEKENS_CAPTURE,Apmekens Nayta tarkat tiedot
+27304,APMEKENS_CAPTURE,Apmekens
 27306,SCABARAS_CAPTURE,scabaras vangittu
 27308,CRONDIS_CAPTURE,Crondis Capture
 27310,THE_WARDENS,Vartijat
@@ -12953,7 +12953,7 @@
 27554,PERFECT_GINGERBREAD,Taydellinen Gingerbread
 27555,BROKEN_GINGERBREAD,Rikkinainen Gingerbread
 27556,VERY_BROKEN_GINGERBREAD,Erittain rikki gingerbread
-27557,SHATTERED_GINGERBREAD,Shattered Gingerbread Nayta tarkat tiedot
+27557,SHATTERED_GINGERBREAD,Shattered Gingerbread
 27558,SACK_OF_COAL,Kivihiilen sakki
 27559,SNOWBALL_27559,Lumipallo 27559
 27560,GOLDEN_SNOWBALL,Kultainen lumipallo
