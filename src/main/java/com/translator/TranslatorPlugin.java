@@ -157,12 +157,15 @@ public class TranslatorPlugin extends Plugin
 
             //worn items
             if (entry.getWidget() != null && WidgetInfo.TO_GROUP(entry.getWidget().getId()) == WidgetID.EQUIPMENT_GROUP_ID) {
+                System.out.println("wornitem");
                 translateMenuEntrys(this.itemsMap, entry, entry.getWidget().getChild(1).getItemId());
             }
             //items
             else if (entry.getItemId() > 0) {
+                System.out.println(entry.getActor() + "actor");
+                System.out.println(entry.getIdentifier() + "id");
+                System.out.println("item");
                 translateMenuEntrys(this.itemsMap, entry, entry.getItemId());
-
             }
             //ground items
             else if (entry.getType() == MenuAction.EXAMINE_ITEM_GROUND | entry.getType() == MenuAction.GROUND_ITEM_THIRD_OPTION ) {
@@ -181,7 +184,7 @@ public class TranslatorPlugin extends Plugin
                     translateMenuEntrys(this.npcMap, entry, entry.getNpc().getId());
                 }
                 //object
-                else if (entry.getIdentifier() > 0 & entry.getType() != MenuAction.CC_OP & entry.getType() != MenuAction.RUNELITE & entry.getType() != MenuAction.WALK) {
+                else if (entry.getIdentifier() > 0 & entry.getType() != MenuAction.CC_OP & entry.getType() != MenuAction.RUNELITE & entry.getType() != MenuAction.WALK && entry.getType() != MenuAction.CC_OP_LOW_PRIORITY) {
                     System.out.println("object");
                     translateMenuEntrys(this.objectMap, entry, entry.getIdentifier());
                 }
@@ -196,24 +199,50 @@ public class TranslatorPlugin extends Plugin
 
     public void translateMenuEntrys(HashMap<String, String> words, MenuEntry menuEntry, Integer id){
 
-        if (menuEntry.getTarget().length() > 0) {
-            String[] subStrings = menuEntry.getTarget().split(">");
+        String target = menuEntry.getTarget();
+
+        if (target.length() > 0) {
+
+            String[] subStrings = target.split(">");
+            System.out.println(target);
             String translated = words.get(id.toString());
 
 
             int colStart = subStrings[0].length() + 1;
-            String colour = menuEntry.getTarget().substring(0, colStart);
+            String colour = target.substring(0, colStart);
+
+
 
 
             if (subStrings.length > 2) {
-                int combatStart = menuEntry.getTarget().split("<")[1].length() + 1;
-                String combat = menuEntry.getTarget().substring(combatStart);
+                //npc with combat lvl
+                int combatStart = target.split("<")[1].length() + 1;
+                String combat = target.substring(combatStart);
                 if (translated != null) {
                     menuEntry.setTarget(colour + translated + combat);
                 }
 
+
+
             } else {
-                if (translated != null) {
+                //ground items x amount
+                String[] itemSubStrings = target.split("\\(");
+
+
+                if (itemSubStrings.length > 1){
+                    int amountStart = target.split("\\(")[0].length() - 1;
+                    String amount = target.substring(amountStart);
+
+
+                    if (translated != null) {
+                        menuEntry.setTarget(colour + translated + amount);
+                    }
+
+                }
+
+                else if (translated != null) {
+                    //items
+                    System.out.println(menuEntry.getType());
                     menuEntry.setTarget(colour + translated);
                 }
 
@@ -223,4 +252,40 @@ public class TranslatorPlugin extends Plugin
     }
 
 
+
+    /*
+    @Subscribe
+    public void onInteractingChanged(InteractingChanged event)
+    {
+        if (event.getTarget() == null || event.getSource() != client.getLocalPlayer()) {
+            return;
+        }
+        actor = event.getTarget();
+
+    }
+
+    @Subscribe
+    public void onGameTick(GameTick event)
+    {
+        if (actor != null)
+        {
+            checkWidgetDialogs();
+        }
+    }
+
+    private void checkWidgetDialogs()
+    {
+        Widget npcTextWidget = client.getWidget(WidgetInfo.DIALOG_NPC_TEXT);
+        String npcDialogText = (npcTextWidget != null) ? npcTextWidget.getText() : null;
+        Widget playerTextWidget = client.getWidget(WidgetInfo.DIALOG_PLAYER_TEXT);
+        String playerDialogText = (playerTextWidget != null) ? playerTextWidget.getText() : null;
+        System.out.println(npcDialogText);
+        System.out.println(npcTextWidget.getId());
+        System.out.println(npcTextWidget.getType());
+        System.out.println(playerDialogText);
+
+
+        npcTextWidget.setText("amongus");
+
+    }*/
 }
