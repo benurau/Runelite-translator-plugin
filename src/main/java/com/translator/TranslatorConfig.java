@@ -32,9 +32,7 @@ import net.runelite.client.config.ConfigItem;
 public interface TranslatorConfig extends Config
 {
     enum SelectLanguage{
-        Finnish,
-        German,
-        Swedish
+        Finnish
     }
     @ConfigItem(
             keyName = "Select Language",

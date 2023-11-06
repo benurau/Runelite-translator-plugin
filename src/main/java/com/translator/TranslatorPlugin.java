@@ -73,7 +73,7 @@ public class TranslatorPlugin extends Plugin
     private HashMap<String, String> itemsMap;
     private HashMap<String, String> npcMap;
     private HashMap<String, String> objectMap;
-
+    private HashMap<String, String> dialogueMap;
     private Actor actor;
 
 
@@ -81,6 +81,29 @@ public class TranslatorPlugin extends Plugin
     protected void startUp() throws Exception
     {
         updateLanguage();
+    }
+
+
+    public static HashMap<String, String> parseDialogue(String filepath) {
+        try {
+            File myObj = new File(filepath);
+            HashMap<String, String> words = new HashMap<String, String>();
+
+            Scanner myReader = new Scanner(myObj, "UTF-8");
+            while (myReader.hasNextLine()) {
+                String data = myReader.nextLine();
+                String[] temp = data.split(";");
+                if (temp.length > 1) {
+                    words.put(temp[0], temp[1]);
+                }
+            }
+            myReader.close();
+            return words;
+        } catch (FileNotFoundException e) {
+            System.out.println("An error occurred.");
+            e.printStackTrace();
+            return null;
+        }
     }
 
     public static HashMap<String, String> parse(String filepath) {
@@ -94,19 +117,17 @@ public class TranslatorPlugin extends Plugin
                 String[] temp = data.split(",");
                 if (temp.length > 2) {
                     words.put(temp[0], temp[2]);
+                    System.out.println(temp[0] + temp[2] + "\n");
                 }
             }
-
             myReader.close();
             return words;
-
         } catch (FileNotFoundException e) {
             System.out.println("An error occurred.");
             e.printStackTrace();
             return null;
         }
     }
-
 
     @Subscribe
     public void onConfigChanged(ConfigChanged event)
@@ -115,9 +136,7 @@ public class TranslatorPlugin extends Plugin
         {
             return;
         }
-
         updateLanguage();
-
     }
 
     private void updateLanguage()
@@ -128,8 +147,9 @@ public class TranslatorPlugin extends Plugin
                 itemsMap = parse("src/main/java/com/translator/translated_languages/fi_items.txt");
                 npcMap = parse("src/main/java/com/translator/translated_languages/fi_npc.txt");
                 objectMap = parse("src/main/java/com/translator/translated_languages/fi_object.txt");
+                dialogueMap = parseDialogue("src/main/java/com/translator/translated_languages/fi_dialogue.txt");
                 break;
-            case German:
+            /*case German:
                 itemsMap = parse("src/main/java/com/translator/translated_languages/de_items.txt");
                 npcMap = parse("src/main/java/com/translator/translated_languages/de_npc.txt");
                 objectMap = parse("src/main/java/com/translator/translated_languages/de_object.txt");
@@ -138,22 +158,18 @@ public class TranslatorPlugin extends Plugin
                 itemsMap = parse("src/main/java/com/translator/translated_languages/swe_items.txt");
                 npcMap = parse("src/main/java/com/translator/translated_languages/swe_npc.txt");
                 objectMap = parse("src/main/java/com/translator/translated_languages/swe_object.txt");
-                break;
+                break;*/
         }
     }
 
-
     @Subscribe
-    public void onMenuOpened (MenuOpened event)
+    public void onMenuOpened(MenuOpened event)
     {
         MenuEntry[] menuEntries = client.getMenuEntries();
         MenuEntry[] newMenuEntries = Arrays.copyOf(menuEntries, menuEntries.length);
 
-
-
         for (int idx = 1; idx < newMenuEntries.length; idx++) {
             MenuEntry entry = newMenuEntries[idx];
-
 
             //worn items
             if (entry.getWidget() != null && WidgetInfo.TO_GROUP(entry.getWidget().getId()) == WidgetID.EQUIPMENT_GROUP_ID) {
@@ -188,72 +204,49 @@ public class TranslatorPlugin extends Plugin
                     System.out.println("object");
                     translateMenuEntrys(this.objectMap, entry, entry.getIdentifier());
                 }
-
             }
         }
         client.setMenuEntries(newMenuEntries);
-
-
     }
-
 
     public void translateMenuEntrys(HashMap<String, String> words, MenuEntry menuEntry, Integer id){
 
         String target = menuEntry.getTarget();
 
         if (target.length() > 0) {
-
-            String[] subStrings = target.split(">");
-            System.out.println(target);
             String translated = words.get(id.toString());
-
-
+            String[] subStrings = target.split(">");
             int colStart = subStrings[0].length() + 1;
             String colour = target.substring(0, colStart);
-
-
-
 
             if (subStrings.length > 2) {
                 //npc with combat lvl
                 int combatStart = target.split("<")[1].length() + 1;
                 String combat = target.substring(combatStart);
+
                 if (translated != null) {
                     menuEntry.setTarget(colour + translated + combat);
                 }
-
-
-
             } else {
                 //ground items x amount
                 String[] itemSubStrings = target.split("\\(");
-
 
                 if (itemSubStrings.length > 1){
                     int amountStart = target.split("\\(")[0].length() - 1;
                     String amount = target.substring(amountStart);
 
-
                     if (translated != null) {
                         menuEntry.setTarget(colour + translated + amount);
                     }
-
                 }
-
                 else if (translated != null) {
                     //items
-                    System.out.println(menuEntry.getType());
                     menuEntry.setTarget(colour + translated);
                 }
-
             }
         }
-
     }
 
-
-
-    /*
     @Subscribe
     public void onInteractingChanged(InteractingChanged event)
     {
@@ -279,13 +272,15 @@ public class TranslatorPlugin extends Plugin
         String npcDialogText = (npcTextWidget != null) ? npcTextWidget.getText() : null;
         Widget playerTextWidget = client.getWidget(WidgetInfo.DIALOG_PLAYER_TEXT);
         String playerDialogText = (playerTextWidget != null) ? playerTextWidget.getText() : null;
-        System.out.println(npcDialogText);
-        System.out.println(npcTextWidget.getId());
-        System.out.println(npcTextWidget.getType());
-        System.out.println(playerDialogText);
 
+        String npcdialogue = npcDialogText != null ? npcDialogText.replace("<br>", " ") : null;
+        String playerdialogue = playerDialogText != null ? playerDialogText.replace("<br>", " ") : null;
 
-        npcTextWidget.setText("amongus");
-
-    }*/
+        if (npcdialogue!= null && dialogueMap.get(npcdialogue) != null) {
+            npcTextWidget.setText(dialogueMap.get(npcdialogue));
+        }
+        if (playerdialogue!= null && dialogueMap.get(playerdialogue) != null) {
+            playerTextWidget.setText(dialogueMap.get(playerdialogue));
+        }
+    }
 }
