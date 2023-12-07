@@ -267,13 +267,14 @@ public class TranslatorPlugin extends Plugin
 
     private void checkWidgetDialogs()
     {
-        Widget npcTextWidget = client.getWidget(WidgetInfo.DIALOG_NPC_TEXT);
+        Widget npcTextWidget = client.getWidget(InterfaceID.DIALOG_NPC);
         String npcDialogText = (npcTextWidget != null) ? npcTextWidget.getText() : null;
-        Widget playerTextWidget = client.getWidget(WidgetInfo.DIALOG_PLAYER_TEXT);
+        Widget playerTextWidget = client.getWidget(InterfaceID.DIALOG_PLAYER);
         String playerDialogText = (playerTextWidget != null) ? playerTextWidget.getText() : null;
 
         String npcdialogue = npcDialogText != null ? npcDialogText.replace("<br>", " ") : null;
         String playerdialogue = playerDialogText != null ? playerDialogText.replace("<br>", " ") : null;
+
 
         if (npcdialogue!= null && dialogueMap.get(npcdialogue) != null) {
             npcTextWidget.setText(dialogueMap.get(npcdialogue));
