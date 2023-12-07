@@ -41,7 +41,7 @@ import net.runelite.client.plugins.Plugin;
 import net.runelite.client.plugins.PluginDescriptor;
 import net.runelite.api.events.MenuOpened;
 import net.runelite.api.widgets.Widget;
-import net.runelite.api.widgets.WidgetID;
+import net.runelite.api.widgets.InterfaceID;
 import net.runelite.api.widgets.WidgetInfo;
 import net.runelite.client.events.ConfigChanged;
 import net.runelite.api.events.GameTick;
@@ -171,7 +171,7 @@ public class TranslatorPlugin extends Plugin
             MenuEntry entry = newMenuEntries[idx];
 
             //worn items
-            if (entry.getWidget() != null && WidgetInfo.TO_GROUP(entry.getWidget().getId()) == WidgetID.EQUIPMENT_GROUP_ID) {
+            if (entry.getWidget() != null && WidgetInfo.TO_GROUP(entry.getWidget().getId()) == InterfaceID.EQUIPMENT) {
                 System.out.println("wornitem");
                 translateMenuEntrys(this.itemsMap, entry, entry.getWidget().getChild(1).getItemId());
             }
