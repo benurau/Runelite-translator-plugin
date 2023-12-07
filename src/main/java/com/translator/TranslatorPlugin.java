@@ -57,7 +57,7 @@ import java.util.Scanner;
 
 @PluginDescriptor(
         name = "translator",
-        description = "translate npc, items and objects",
+        description = "translate npc, items, objects and dialogue",
         tags = {"actions"}
 )
 public class TranslatorPlugin extends Plugin
@@ -117,7 +117,6 @@ public class TranslatorPlugin extends Plugin
                 String[] temp = data.split(",");
                 if (temp.length > 2) {
                     words.put(temp[0], temp[2]);
-                    System.out.println(temp[0] + temp[2] + "\n");
                 }
             }
             myReader.close();
