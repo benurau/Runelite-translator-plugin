@@ -42,7 +42,7 @@ import net.runelite.client.plugins.PluginDescriptor;
 import net.runelite.api.events.MenuOpened;
 import net.runelite.api.widgets.Widget;
 import net.runelite.api.widgets.InterfaceID;
-import net.runelite.api.widgets.WidgetInfo;
+import net.runelite.api.widgets.ComponentID;
 import net.runelite.client.events.ConfigChanged;
 import net.runelite.api.events.GameTick;
 import net.runelite.api.events.InteractingChanged;
@@ -170,13 +170,8 @@ public class TranslatorPlugin extends Plugin
         for (int idx = 1; idx < newMenuEntries.length; idx++) {
             MenuEntry entry = newMenuEntries[idx];
 
-            //worn items
-            if (entry.getWidget() != null && WidgetInfo.TO_GROUP(entry.getWidget().getId()) == InterfaceID.EQUIPMENT) {
-                System.out.println("wornitem");
-                translateMenuEntrys(this.itemsMap, entry, entry.getWidget().getChild(1).getItemId());
-            }
-            //items
-            else if (entry.getItemId() > 0) {
+
+            if (entry.getItemId() > 0) {
                 System.out.println(entry.getActor() + "actor");
                 System.out.println(entry.getIdentifier() + "id");
                 System.out.println("item");
@@ -267,11 +262,11 @@ public class TranslatorPlugin extends Plugin
 
     private void checkWidgetDialogs()
     {
-        Widget npcTextWidget = client.getWidget(InterfaceID.DIALOG_NPC);
+        Widget npcTextWidget = client.getWidget(ComponentID.DIALOG_NPC_TEXT);
         String npcDialogText = (npcTextWidget != null) ? npcTextWidget.getText() : null;
-        Widget playerTextWidget = client.getWidget(InterfaceID.DIALOG_PLAYER);
+        Widget playerTextWidget = client.getWidget(ComponentID.DIALOG_PLAYER_TEXT);
         String playerDialogText = (playerTextWidget != null) ? playerTextWidget.getText() : null;
-
+        System.out.println(npcDialogText);
         String npcdialogue = npcDialogText != null ? npcDialogText.replace("<br>", " ") : null;
         String playerdialogue = playerDialogText != null ? playerDialogText.replace("<br>", " ") : null;
 
