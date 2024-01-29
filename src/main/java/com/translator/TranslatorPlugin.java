@@ -140,25 +140,10 @@ public class TranslatorPlugin extends Plugin
 
     private void updateLanguage()
     {
-        switch (config.selectLanguage())
-        {
-            case Finnish:
-                itemsMap = parse("src/main/java/com/translator/translated_languages/fi_items.txt");
-                npcMap = parse("src/main/java/com/translator/translated_languages/fi_npc.txt");
-                objectMap = parse("src/main/java/com/translator/translated_languages/fi_object.txt");
-                dialogueMap = parseDialogue("src/main/java/com/translator/translated_languages/fi_dialogue.txt");
-                break;
-            /*case German:
-                itemsMap = parse("src/main/java/com/translator/translated_languages/de_items.txt");
-                npcMap = parse("src/main/java/com/translator/translated_languages/de_npc.txt");
-                objectMap = parse("src/main/java/com/translator/translated_languages/de_object.txt");
-                break;
-            case Swedish:
-                itemsMap = parse("src/main/java/com/translator/translated_languages/swe_items.txt");
-                npcMap = parse("src/main/java/com/translator/translated_languages/swe_npc.txt");
-                objectMap = parse("src/main/java/com/translator/translated_languages/swe_object.txt");
-                break;*/
-        }
+        itemsMap = parse("/"+ config.selectLanguage() +"_items.txt");
+        npcMap = parse("/"+ config.selectLanguage() +"_npc.txt");
+        objectMap = parse("/"+ config.selectLanguage() +"_object.txt");
+        dialogueMap = parseDialogue("/"+ config.selectLanguage() +"_dialogue.txt");
     }
 
     @Subscribe
