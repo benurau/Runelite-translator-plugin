@@ -29,31 +29,23 @@ import net.runelite.api.Actor;
 import net.runelite.api.Client;
 import net.runelite.api.MenuAction;
 import net.runelite.api.MenuEntry;
-import net.runelite.api.NPC;
-import net.runelite.api.NpcID;
-import net.runelite.api.Player;
-import net.runelite.api.events.InteractingChanged;
-import net.runelite.api.events.MenuEntryAdded;
-import net.runelite.api.events.NpcDespawned;
-import net.runelite.client.config.ConfigManager;
-import net.runelite.client.eventbus.Subscribe;
-import net.runelite.client.plugins.Plugin;
-import net.runelite.client.plugins.PluginDescriptor;
-import net.runelite.api.events.MenuOpened;
-import net.runelite.api.widgets.Widget;
-import net.runelite.api.widgets.InterfaceID;
-import net.runelite.api.widgets.ComponentID;
-import net.runelite.client.events.ConfigChanged;
 import net.runelite.api.events.GameTick;
 import net.runelite.api.events.InteractingChanged;
-import net.runelite.api.Actor;
+import net.runelite.api.events.MenuOpened;
+import net.runelite.api.widgets.ComponentID;
+import net.runelite.api.widgets.Widget;
+import net.runelite.client.config.ConfigManager;
+import net.runelite.client.eventbus.Subscribe;
+import net.runelite.client.events.ConfigChanged;
+import net.runelite.client.plugins.Plugin;
+import net.runelite.client.plugins.PluginDescriptor;
 
 import javax.inject.Inject;
-import java.io.File;
-import java.io.FileNotFoundException;
+import java.io.*;
 import java.util.Arrays;
 import java.util.HashMap;
-import java.util.Scanner;
+
+
 
 @PluginDescriptor(
         name = "translator",
@@ -84,44 +76,38 @@ public class TranslatorPlugin extends Plugin
     }
 
 
-    public static HashMap<String, String> parseDialogue(String filepath) {
-        try {
-            File myObj = new File(filepath);
-            HashMap<String, String> words = new HashMap<String, String>();
+    public HashMap<String, String> parseDialogue(String filepath) {
+        HashMap<String, String> words = new HashMap<String, String>();
 
-            Scanner myReader = new Scanner(myObj, "UTF-8");
-            while (myReader.hasNextLine()) {
-                String data = myReader.nextLine();
-                String[] temp = data.split(";");
+        try (BufferedReader br = new BufferedReader(new InputStreamReader(getClass().getResourceAsStream(filepath)))) {
+            String line;
+            while ((line = br.readLine()) != null) {
+                String[] temp = line.split(";");
                 if (temp.length > 1) {
                     words.put(temp[0], temp[1]);
                 }
             }
-            myReader.close();
             return words;
-        } catch (FileNotFoundException e) {
+        } catch (IOException e) {
             System.out.println("An error occurred.");
             e.printStackTrace();
             return null;
         }
     }
 
-    public static HashMap<String, String> parse(String filepath) {
-        try {
-            File myObj = new File(filepath);
-            HashMap<String, String> words = new HashMap<String, String>();
+    public HashMap<String, String> parse(String filepath) {
+        HashMap<String, String> words = new HashMap<String, String>();
 
-            Scanner myReader = new Scanner(myObj, "UTF-8");
-            while (myReader.hasNextLine()) {
-                String data = myReader.nextLine();
-                String[] temp = data.split(",");
+        try (BufferedReader br = new BufferedReader(new InputStreamReader(getClass().getResourceAsStream(filepath)))) {
+            String line;
+            while ((line = br.readLine()) != null) {
+                String[] temp = line.split(",");
                 if (temp.length > 2) {
                     words.put(temp[0], temp[2]);
                 }
             }
-            myReader.close();
             return words;
-        } catch (FileNotFoundException e) {
+        } catch (IOException e) {
             System.out.println("An error occurred.");
             e.printStackTrace();
             return null;
