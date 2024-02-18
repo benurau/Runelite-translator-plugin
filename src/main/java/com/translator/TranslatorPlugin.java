@@ -148,6 +148,10 @@ public class TranslatorPlugin extends Plugin
             if (entry.getItemId() > 0) {
                 translateMenuEntrys(this.itemsMap, entry, entry.getItemId());
             }
+            //equipped item
+            if (entry.getWidget() != null && entry.getWidget().getId() <= 25362457 && entry.getWidget().getId() >= 25362447) {
+                translateMenuEntrys(this.itemsMap, entry, entry.getWidget().getChild(1).getItemId());
+            }
             //ground items
             else if (entry.getType() == MenuAction.EXAMINE_ITEM_GROUND | entry.getType() == MenuAction.GROUND_ITEM_THIRD_OPTION ) {
                 translateMenuEntrys(this.itemsMap, entry, entry.getIdentifier());
