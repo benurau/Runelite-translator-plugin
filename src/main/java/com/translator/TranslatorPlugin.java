@@ -141,32 +141,24 @@ public class TranslatorPlugin extends Plugin
         for (int idx = 1; idx < newMenuEntries.length; idx++) {
             MenuEntry entry = newMenuEntries[idx];
 
-
             if (entry.getItemId() > 0) {
-                System.out.println(entry.getActor() + "actor");
-                System.out.println(entry.getIdentifier() + "id");
-                System.out.println("item");
                 translateMenuEntrys(this.itemsMap, entry, entry.getItemId());
             }
             //ground items
             else if (entry.getType() == MenuAction.EXAMINE_ITEM_GROUND | entry.getType() == MenuAction.GROUND_ITEM_THIRD_OPTION ) {
-                System.out.println("ground item");
                 translateMenuEntrys(this.itemsMap, entry, entry.getIdentifier());
             }
             //not item
             else if (entry.getItemId() == -1) {
                 //player
                 if (entry.getPlayer() != null) {
-                    System.out.println("player");
                 }
                 //npc
                 else if (entry.getNpc() != null) {
-                    System.out.println("npc");
                     translateMenuEntrys(this.npcMap, entry, entry.getNpc().getId());
                 }
                 //object
                 else if (entry.getIdentifier() > 0 & entry.getType() != MenuAction.CC_OP & entry.getType() != MenuAction.RUNELITE & entry.getType() != MenuAction.WALK && entry.getType() != MenuAction.CC_OP_LOW_PRIORITY) {
-                    System.out.println("object");
                     translateMenuEntrys(this.objectMap, entry, entry.getIdentifier());
                 }
             }
@@ -175,7 +167,6 @@ public class TranslatorPlugin extends Plugin
     }
 
     public void translateMenuEntrys(HashMap<String, String> words, MenuEntry menuEntry, Integer id){
-
         String target = menuEntry.getTarget();
 
         if (target.length() > 0) {
@@ -199,7 +190,6 @@ public class TranslatorPlugin extends Plugin
                 if (itemSubStrings.length > 1){
                     int amountStart = target.split("\\(")[0].length() - 1;
                     String amount = target.substring(amountStart);
-
                     if (translated != null) {
                         menuEntry.setTarget(colour + translated + amount);
                     }
@@ -219,7 +209,6 @@ public class TranslatorPlugin extends Plugin
             return;
         }
         actor = event.getTarget();
-
     }
 
     @Subscribe
@@ -237,10 +226,8 @@ public class TranslatorPlugin extends Plugin
         String npcDialogText = (npcTextWidget != null) ? npcTextWidget.getText() : null;
         Widget playerTextWidget = client.getWidget(ComponentID.DIALOG_PLAYER_TEXT);
         String playerDialogText = (playerTextWidget != null) ? playerTextWidget.getText() : null;
-        System.out.println(npcDialogText);
         String npcdialogue = npcDialogText != null ? npcDialogText.replace("<br>", " ") : null;
         String playerdialogue = playerDialogText != null ? playerDialogText.replace("<br>", " ") : null;
-
 
         if (npcdialogue!= null && dialogueMap.get(npcdialogue) != null) {
             npcTextWidget.setText(dialogueMap.get(npcdialogue));
