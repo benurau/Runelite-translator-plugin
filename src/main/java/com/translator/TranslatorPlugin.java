@@ -34,11 +34,13 @@ import net.runelite.api.events.InteractingChanged;
 import net.runelite.api.events.MenuOpened;
 import net.runelite.api.widgets.ComponentID;
 import net.runelite.api.widgets.Widget;
+import net.runelite.api.ItemComposition;
 import net.runelite.client.config.ConfigManager;
 import net.runelite.client.eventbus.Subscribe;
 import net.runelite.client.events.ConfigChanged;
 import net.runelite.client.plugins.Plugin;
 import net.runelite.client.plugins.PluginDescriptor;
+import net.runelite.client.game.ItemManager;
 
 import javax.inject.Inject;
 import java.io.*;
@@ -59,6 +61,8 @@ public class TranslatorPlugin extends Plugin
     private TranslatorConfig config;
     @Inject
     private Client client;
+    @Inject
+    private ItemManager itemManager;
     @Provides
     TranslatorConfig provideConfig(ConfigManager configManager) {return configManager.getConfig(TranslatorConfig.class);}
 
@@ -166,11 +170,26 @@ public class TranslatorPlugin extends Plugin
         client.setMenuEntries(newMenuEntries);
     }
 
+    public String notedItemsCheck(HashMap<String, String> words, Integer id){
+        String translated = null;
+        if (words == itemsMap) {
+            final ItemComposition itemComp = itemManager.getItemComposition(id);
+            if (itemComp.getNote() == 799) {
+                translated = words.get(String.valueOf(itemComp.getLinkedNoteId()));
+            }
+        }
+        return translated;
+    }
+
     public void translateMenuEntrys(HashMap<String, String> words, MenuEntry menuEntry, Integer id){
         String target = menuEntry.getTarget();
 
         if (target.length() > 0) {
             String translated = words.get(id.toString());
+            String notedId = notedItemsCheck(words, id);
+            if (notedId != null){
+                translated = notedId;
+            }
             String[] subStrings = target.split(">");
             int colStart = subStrings[0].length() + 1;
             String colour = target.substring(0, colStart);
