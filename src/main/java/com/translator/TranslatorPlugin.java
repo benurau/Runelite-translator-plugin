@@ -144,7 +144,6 @@ public class TranslatorPlugin extends Plugin
 
         for (int idx = 1; idx < newMenuEntries.length; idx++) {
             MenuEntry entry = newMenuEntries[idx];
-
             //item
             if (entry.getItemId() > 0) {
                 translateMenuEntrys(this.itemsMap, entry, entry.getItemId());
@@ -208,12 +207,11 @@ public class TranslatorPlugin extends Plugin
                     menuEntry.setTarget(colour + translated + combat);
                 }
             } else {
-                //ground items x amount
                 String[] itemSubStrings = target.split("\\(");
-
+                //amount after item
                 if (itemSubStrings.length > 1){
-                    int amountStart = target.split("\\(")[0].length() - 1;
-                    String amount = target.substring(amountStart);
+                    String amount = "("+itemSubStrings[itemSubStrings.length-1];
+                    System.out.println(amount);
                     if (translated != null) {
                         menuEntry.setTarget(colour + translated + amount);
                     }
@@ -241,20 +239,20 @@ public class TranslatorPlugin extends Plugin
         if (actor != null)
         {
             checkWidgetDialogs();
-            checkWidgetOptionDialogs();
+            //checkWidgetOptionDialogs(); messes with questhelper
         }
     }
 
     private void checkWidgetOptionDialogs()
     {
         Widget playerOptionsWidget = client.getWidget(ComponentID.DIALOG_OPTION_OPTIONS);
-        //String playerOptionsText = (playerTextWidget != null) ? playerTextWidget.getText() : null;
         Widget[] optionWidgets = playerOptionsWidget.getChildren();
-        for (Widget i: optionWidgets){
-            String optionText = i.getText() != null ? i.getText().replace("<br>", " ") : null;
-            System.out.println(dialogueMap.get(optionText));
-            if (optionText != null && dialogueMap.get(optionText) != null){
-                i.setText(dialogueMap.get(optionText));
+        if (optionWidgets != null) {
+            for (Widget i : optionWidgets) {
+                String optionText = i.getText() != null ? i.getText().replace("<br>", " ") : null;
+                if (optionText != null && dialogueMap.get(optionText) != null) {
+                    i.setText(dialogueMap.get(optionText));
+                }
             }
         }
     }

@@ -3827,7 +3827,7 @@
 6422,air rune  ,ilmahaarniska
 6424,water rune  ,vesiriimu
 6426,earth rune  ,maan riimu
-6428,fire rune  ,tulihaarniska
+6428,fire rune  ,tuli riimu
 6430,chaos rune  ,kaaoksen riimu
 6432,death rune  ,kuoleman riimu
 6434,law rune  ,lakiriimu

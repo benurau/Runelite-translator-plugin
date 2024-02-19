@@ -958,8 +958,8 @@
 1993,GLARIALS_TOMB,Gloriaaliset haudat
 1994,CHEST_,Rintakeha
 1995,CHEST_,Rintakeha
-1996,ROCK,rock rock rock rock rock
-1997,ROCK_,rock rock rock rock rock
+1996,ROCK,kivi rock
+1997,ROCK_,kivi rock
 1998,ROPE,Kayha
 1999,CRATE_,Kreikkalainen
 2000,DOOR_,Oven ovi
@@ -1381,8 +1381,8 @@
 2578,PALM_TREE_,Palmupuu
 2579,SCORCHED_EARTH,Maan piikki
 2580,SCORCHED_EARTH_,Maan piikki
-2581,ROCK_,rock rock rock rock rock
-2582,ROCK_,rock rock rock rock rock
+2581,ROCK_,kivi rock
+2582,ROCK_,kivi rock
 2583,FUNGUS_COVERED_CAVERN_WALL,Sini katettu seina
 2584,ROCKS_,Kivia
 2585,HAND_HOLDS,Kadet kiinni
@@ -1481,10 +1481,10 @@
 2691,MINE_DOOR_ENTRANCE_,Oven sisaankaynti
 2692,PRISON_DOOR_,Vankilan ovi
 2693,BANK_CHEST,Pankin rintama
-2694,ROCK_,rock rock rock rock rock
-2695,ROCK_,rock rock rock rock rock
-2696,ROCK_,rock rock rock rock rock
-2697,ROCK_,rock rock rock rock rock
+2694,ROCK_,kivi rock
+2695,ROCK_,kivi rock
+2696,ROCK_,kivi rock
+2697,ROCK_,kivi rock
 2698,MINE_CAVE,Minun luola
 2699,MINE_CAVE_,Minun luola
 2700,TENT_DOOR,Teltan ovi
@@ -1565,9 +1565,9 @@
 2832,BATTLEMENT,Taistelu
 2833,LADDER_,Tikkaat
 2834,BATTLEMENT_,Taistelu
-2835,ROCK_,rock rock rock rock rock
-2836,ROCK_,rock rock rock rock rock
-2837,ROCK_,rock rock rock rock rock
+2835,ROCK_,kivi rock
+2836,ROCK_,kivi rock
+2837,ROCK_,kivi rock
 2842,MAGICAL_SHIELD,Maaginen kilpi
 2844,SEWER_VALVE,Variventtiili
 2845,SEWER_VALVE_,Variventtiili
@@ -1844,7 +1844,7 @@
 3359,WELL_,Hyvin hyvin
 3360,CRATE_,Kreikkalainen
 3362,WINDOW_,ikkuna ikkuna ikkunan ikkuna
-3364,ROCK_,rock rock rock rock rock
+3364,ROCK_,kivi rock
 3365,PROTRUDING_ROCKS,Protruding rocks
 3366,ONION,On
 3367,PRISON_DOOR_,Vankilan ovi
@@ -2474,7 +2474,7 @@
 4523,FIREPLACE_SPACE,Palopaikka
 4524,CURTAIN_SPACE,Avaruuden verho
 4525,PORTAL_,Portaali
-4526,ROCK_,rock rock rock rock rock
+4526,ROCK_,kivi rock
 4527,POND,Pond
 4528,STATUE_,Patsas
 4529,DUNGEON_ENTRANCE,Dungeonin sisaankaynti
@@ -3027,9 +3027,9 @@
 5597,WEATHER_VANE_,Saa
 5598,WATER_BARREL,Veden tynnyri
 5599,WATER_BARREL_,Veden tynnyri
-5604,ROCK_,rock rock rock rock rock
-5605,ROCK_,rock rock rock rock rock
-5606,ROCK_,rock rock rock rock rock
+5604,ROCK_,kivi rock
+5605,ROCK_,kivi rock
+5606,ROCK_,kivi rock
 5608,SPIT_ROAST_,Spit Roast
 5609,COOKING_POTS,Keittaminen Pots
 5610,COOKING_POTS_,Keittaminen Pots
@@ -3083,8 +3083,8 @@
 5831,ANTIQUES_SHOP_STALL,Antiikkikaupat pysahtyvat
 5842,BOULDER_,Boulder
 5843,BOULDER_,Boulder
-5844,ROCK_,rock rock rock rock rock
-5845,ROCK_,rock rock rock rock rock
+5844,ROCK_,kivi rock
+5845,ROCK_,kivi rock
 5846,ROPE_,Kayha
 5847,ROCKSLIDE_,Rockslideja
 5848,TALL_TREE,Pitka puu
@@ -3151,9 +3151,9 @@
 5979,WALL_OF_FLAME_,Tulimuurin seina
 5980,WALL_OF_FLAME_,Tulimuurin seina
 5981,FIRE_,Tulipalo
-5985,ROCK_,rock rock rock rock rock
+5985,ROCK_,kivi rock
 5986,SMALL_ROCK,Pieni kivi
-5987,ROCK_,rock rock rock rock rock
+5987,ROCK_,kivi rock
 5989,MINERAL_VEIN,mineraalisuoni
 5990,MINERAL_VEIN_,mineraalisuoni
 5991,MINERAL_VEIN_,mineraalisuoni
@@ -3466,8 +3466,8 @@
 6615,PINBOARD,Pinkki
 6616,CRATE_,Kreikkalainen
 6620,HOLE_,Reika
-6622,ROCK_,rock rock rock rock rock
-6623,ROCK_,rock rock rock rock rock
+6622,ROCK_,kivi rock
+6623,ROCK_,kivi rock
 6624,DOOR_,Oven ovi
 6625,DOOR_,Oven ovi
 6626,DOOR_,Oven ovi
@@ -3508,9 +3508,9 @@
 6704,BOULDERS_,Boulders
 6705,MUSHROOMS_,Mushrooms
 6706,MUSHROOMS_,Mushrooms
-6707,ROCK_,rock rock rock rock rock
+6707,ROCK_,kivi rock
 6708,SMALL_ROCK_,Pieni kivi
-6709,ROCK_,rock rock rock rock rock
+6709,ROCK_,kivi rock
 6727,HEDGE_,Hedge
 6728,HEDGE_,Hedge
 6729,HEDGE_,Hedge
@@ -5205,9 +5205,9 @@
 8927,WELL_,Hyvin hyvin
 8929,CAVE_ENTRANCE_,Luolan sisaankaynti
 8930,CAVE_ENTRANCE_,Luolan sisaankaynti
-8950,ROCK_,rock rock rock rock rock
-8951,ROCK_,rock rock rock rock rock
-8952,ROCK_,rock rock rock rock rock
+8950,ROCK_,kivi rock
+8951,ROCK_,kivi rock
+8952,ROCK_,kivi rock
 8954,FLAG,Lippu
 8955,FLAG_,Lippu
 8956,IRON_LADDER_,Rautaa tikkaat
@@ -5787,7 +5787,7 @@
 10033,WALL_SUPPORT_,Seinan tuki
 10034,TRAP_,Ansa
 10035,LOW_WALL_,Alhainen seina
-10036,ROCK_,rock rock rock rock rock
+10036,ROCK_,kivi rock
 10037,ROPE_,Kayha
 10038,ROPE_,Kayha
 10041,TREE_,Puu puu puu puu puu
@@ -6166,13 +6166,13 @@
 10774,STAIRS_,Portaat
 10775,STAIRS_,Portaat
 10776,STAIRS_,Portaat
-10782,ROCK_,rock rock rock rock rock
-10783,ROCK_,rock rock rock rock rock
-10784,ROCK_,rock rock rock rock rock
-10785,ROCK_,rock rock rock rock rock
-10786,ROCK_,rock rock rock rock rock
-10787,ROCK_,rock rock rock rock rock
-10788,ROCK_,rock rock rock rock rock
+10782,ROCK_,kivi rock
+10783,ROCK_,kivi rock
+10784,ROCK_,kivi rock
+10785,ROCK_,kivi rock
+10786,ROCK_,kivi rock
+10787,ROCK_,kivi rock
+10788,ROCK_,kivi rock
 10790,BOULDER_,Boulder
 10791,BOULDER_,Boulder
 10792,STONES,Kivia
@@ -6344,8 +6344,8 @@
 11080,SCAFFOLD_,Scaffold
 11081,LADDER_,Tikkaat
 11082,WHEELBARROW_,pyarailya
-11097,ROCK_,rock rock rock rock rock
-11098,ROCK_,rock rock rock rock rock
+11097,ROCK_,kivi rock
+11098,ROCK_,kivi rock
 11112,DEAD_TREE_,Kuollut puu
 11113,BUSH_,Bush
 11141,MAGIC_SPELL,Maaginen loitsu
@@ -7105,8 +7105,8 @@
 12583,ROCKSLIDE_,Rockslideja
 12584,ROCKSLIDE_,Rockslideja
 12585,ROCKSLIDE_,Rockslideja
-12588,ROCK_,rock rock rock rock rock
-12589,ROCK_,rock rock rock rock rock
+12588,ROCK_,kivi rock
+12589,ROCK_,kivi rock
 12590,ROCKS_,Kivia
 12591,ROCKSLIDE_,Rockslideja
 12592,ROCKSLIDE_,Rockslideja
@@ -7154,7 +7154,7 @@
 12770,CAVE_ENTRANCE_,Luolan sisaankaynti
 12771,CAVE_ENTRANCE_,Luolan sisaankaynti
 12773,WOODEN_BOARDS_,Puinen lautakunta
-12774,ROCK_,rock rock rock rock rock
+12774,ROCK_,kivi rock
 12775,MARIUS,Merella
 12776,LOW_FENCE,Alhainen aita
 12777,TRAPDOOR_,Trapdoor
@@ -8387,10 +8387,10 @@
 14811,CREEPER_,Luoja
 14812,CREEPER_,Luoja
 14813,CREEPER_,Luoja
-14814,ROCK_,rock rock rock rock rock
-14815,ROCK_,rock rock rock rock rock
-14816,ROCK_,rock rock rock rock rock
-14817,ROCK_,rock rock rock rock rock
+14814,ROCK_,kivi rock
+14815,ROCK_,kivi rock
+14816,ROCK_,kivi rock
+14817,ROCK_,kivi rock
 14825,OBELISK_,obeliski
 14826,OBELISK_,obeliski
 14827,OBELISK_,obeliski
@@ -8602,8 +8602,8 @@
 15195,CREVICE_,Luovuus
 15196,CREVICE_,Luovuus
 15197,CREVICE_,Luovuus
-15198,ROCK_,rock rock rock rock rock
-15199,ROCK_,rock rock rock rock rock
+15198,ROCK_,kivi rock
+15199,ROCK_,kivi rock
 15201,HOLE_,Reika
 15202,HOLE_,Reika
 15204,DOOR_,Oven ovi
@@ -8617,9 +8617,9 @@
 15214,STEAM_VENT,hayryventtiili
 15215,STEAM_VENT_,hayryventtiili
 15216,ROPESWING,kaysia
-15217,ROCK_,rock rock rock rock rock
-15218,ROCK_,rock rock rock rock rock
-15219,ROCK_,rock rock rock rock rock
+15217,ROCK_,kivi rock
+15218,ROCK_,kivi rock
+15219,ROCK_,kivi rock
 15222,PLATFORM_,alusta alusta
 15223,PLATFORM_,alusta alusta
 15224,PLATFORM_,alusta alusta
@@ -8794,7 +8794,7 @@
 15407,PORTAL_SPACE_,Portaali avaruus
 15408,PORTAL_SPACE_,Portaali avaruus
 15409,CENTREPIECE_SPACE_,Keskipitka avaruus
-15410,ROCK_,rock rock rock rock rock
+15410,ROCK_,kivi rock
 15412,STEPPING_STONE_,Askel kivi
 15413,TEMP_STONE__ZIP,Kivi Zip
 15414,TROPICAL_TREE_,Trooppinen puu
@@ -8874,8 +8874,8 @@
 15522,SIGNPOST_,Merkinta
 15523,TRAPDOOR_,Trapdoor
 15524,BARREL_,Tynnyri
-15536,ROCK_,rock rock rock rock rock
-15537,ROCK_,rock rock rock rock rock
+15536,ROCK_,kivi rock
+15537,ROCK_,kivi rock
 15541,SNAKE,Kaarme
 15542,SNAKE_,Kaarme
 15543,SNAKE_,Kaarme
@@ -9208,10 +9208,10 @@
 16062,TROPICAL_TREE_,Trooppinen puu
 16066,VINE_,viinikaynnakset
 16071,TROPICAL_TREE_,Trooppinen puu
-16077,ROCK_,rock rock rock rock rock
-16078,ROCK_,rock rock rock rock rock
-16079,ROCK_,rock rock rock rock rock
-16080,ROCK_,rock rock rock rock rock
+16077,ROCK_,kivi rock
+16078,ROCK_,kivi rock
+16079,ROCK_,kivi rock
+16080,ROCK_,kivi rock
 16100,EXIT_,exit
 16104,SIGNPOST_,Merkinta
 16105,ENERGY_BARRIER_,Energian esteet
@@ -9222,7 +9222,7 @@
 16112,SHIPS_LADDER_,Laivojen tikkaat
 16113,TRAPDOOR_,Trapdoor
 16114,TRAPDOOR_,Trapdoor
-16115,ROCK_,rock rock rock rock rock
+16115,ROCK_,kivi rock
 16116,CLOSED_CHEST_,Suljettu rinta
 16117,OPEN_CHEST_,Avoin rintama
 16118,CLOSED_CHEST_,Suljettu rinta
@@ -9233,7 +9233,7 @@
 16132,PASSAGEWAY_,Passilla
 16133,PASSAGEWAY_,Passilla
 16134,PASSAGEWAY_,Passilla
-16136,ROCK_,rock rock rock rock rock
+16136,ROCK_,kivi rock
 16168,TRAPDOOR_,Trapdoor
 16169,TABLE_,poyta
 16170,TABLE_,poyta
@@ -9802,19 +9802,19 @@
 17344,LAVA_,La
 17345,LAVA_,La
 17348,TABLE_,poyta
-17350,ROCK_,rock rock rock rock rock
-17351,ROCK_,rock rock rock rock rock
-17352,ROCK_,rock rock rock rock rock
-17353,ROCK_,rock rock rock rock rock
-17354,ROCK_,rock rock rock rock rock
-17355,ROCK_,rock rock rock rock rock
-17356,ROCK_,rock rock rock rock rock
-17357,ROCK_,rock rock rock rock rock
-17358,ROCK_,rock rock rock rock rock
+17350,ROCK_,kivi rock
+17351,ROCK_,kivi rock
+17352,ROCK_,kivi rock
+17353,ROCK_,kivi rock
+17354,ROCK_,kivi rock
+17355,ROCK_,kivi rock
+17356,ROCK_,kivi rock
+17357,ROCK_,kivi rock
+17358,ROCK_,kivi rock
 17362,URN,UR
-17364,ROCK_,rock rock rock rock rock
+17364,ROCK_,kivi rock
 17365,SMALL_ROCK_,Pieni kivi
-17366,ROCK_,rock rock rock rock rock
+17366,ROCK_,kivi rock
 17367,STONE_TABLET_,Tabletti kivi
 17368,FLOOR_,Lattian lattia
 17370,RIFT_,Riisia
@@ -9953,7 +9953,7 @@
 17676,WALL_,Seinaseina
 17677,WALL_,Seinaseina
 17678,WALL_,Seinaseina
-17679,ROCK_,rock rock rock rock rock
+17679,ROCK_,kivi rock
 17680,WALL_,Seinaseina
 17681,WALL_,Seinaseina
 17682,WALL_,Seinaseina
@@ -10047,9 +10047,9 @@
 17955,BOAT_,veneella
 17956,BOAT_CHUTE,Vene chute
 17957,BOAT_CHUTE_,Vene chute
-17958,ROCK_,rock rock rock rock rock
-17959,ROCK_,rock rock rock rock rock
-17960,ROCK_,rock rock rock rock rock
+17958,ROCK_,kivi rock
+17959,ROCK_,kivi rock
+17960,ROCK_,kivi rock
 17961,BOAT_,veneella
 17962,DAEYALT_ROCKS,Daeyalt-kivia
 17963,DAEYALT_ROCKS_,Daeyalt-kivia
@@ -10059,9 +10059,9 @@
 17967,MINE_CART_,Mun Cart
 17968,MINE_CART_,Mun Cart
 17969,MINE_CART_,Mun Cart
-17970,ROCK_,rock rock rock rock rock
-17971,ROCK_,rock rock rock rock rock
-17972,ROCK_,rock rock rock rock rock
+17970,ROCK_,kivi rock
+17971,ROCK_,kivi rock
+17972,ROCK_,kivi rock
 17973,DOOR_,Oven ovi
 17974,LADDER_,Tikkaat
 17975,LADDER_,Tikkaat
@@ -10518,9 +10518,9 @@
 18866,DECKCHAIR,Kannen tuoli
 18869,CELL_WALL_WINDOW,Seinan ikkuna
 18870,CELL_WALL_WINDOW_,Seinan ikkuna
-18871,ROCK_,rock rock rock rock rock
-18872,ROCK_,rock rock rock rock rock
-18873,ROCK_,rock rock rock rock rock
+18871,ROCK_,kivi rock
+18872,ROCK_,kivi rock
+18873,ROCK_,kivi rock
 18874,DANGER_SIGN_,Vaarallisuusmerkki
 18875,CACTUS_,Kaktus
 18876,SIGN_POST,Kirjoittaja post
@@ -10681,7 +10681,7 @@
 19128,BASKET_,Koripallo
 19129,BASKET_,Koripallo
 19130,AIR_BALLOON,Ilmapallo
-19131,ROCK_,rock rock rock rock rock
+19131,ROCK_,kivi rock
 19132,BASKET_,Koripallo
 19145,ALTAR_,alttari
 19156,BASKET_,Koripallo
@@ -11755,9 +11755,9 @@
 21560,EXIT_CAVERN,Lahde Cavern
 21569,MUSHROOMS_,Mushrooms
 21570,MUSHROOMS_,Mushrooms
-21571,ROCK_,rock rock rock rock rock
+21571,ROCK_,kivi rock
 21572,SMALL_ROCK_,Pieni kivi
-21573,ROCK_,rock rock rock rock rock
+21573,ROCK_,kivi rock
 21574,BOULDERS_,Boulders
 21575,BOULDERS_,Boulders
 21578,STAIRCASE_,Portaikko
@@ -12160,9 +12160,9 @@
 22542,LARGE_STALAGMITE,Suuri stalagmiitti
 22543,CONNECTED_STALAGMITES,Liittyvat stalagmiitit
 22545,MOLANISK,Molanisk
-22549,ROCK_,rock rock rock rock rock
-22550,ROCK_,rock rock rock rock rock
-22551,ROCK_,rock rock rock rock rock
+22549,ROCK_,kivi rock
+22550,ROCK_,kivi rock
+22551,ROCK_,kivi rock
 22552,JUTTING_WALL_,Seinan juuttuminen
 22556,HOLE_,Reika
 22557,TUNNEL_,Tunneli
@@ -12440,10 +12440,10 @@
 23117,DEVICE,Laitteen laite
 23122,ROPE_SWING_,Kayha Swing
 23123,ROPE_SWING_,Kayha Swing
-23124,ROCK_,rock rock rock rock rock
-23125,ROCK_,rock rock rock rock rock
-23126,ROCK_,rock rock rock rock rock
-23127,ROCK_,rock rock rock rock rock
+23124,ROCK_,kivi rock
+23125,ROCK_,kivi rock
+23126,ROCK_,kivi rock
+23127,ROCK_,kivi rock
 23128,ROPESWING_,kaysia
 23129,ROPESWING_,kaysia
 23130,ROPESWING_,kaysia
@@ -12465,7 +12465,7 @@
 23158,CAVE_,Luola
 23163,BOULDERS_,Boulders
 23164,BOULDERS_,Boulders
-23165,ROCK_,rock rock rock rock rock
+23165,ROCK_,kivi rock
 23166,CAVE_ENTRANCE_,Luolan sisaankaynti
 23167,CAVE_ENTRANCE_,Luolan sisaankaynti
 23168,CAVE_,Luola
@@ -12744,12 +12744,12 @@
 23971,STONE_SIGNPOST_,Kivimerkki
 23972,DOOR_,Oven ovi
 23973,DOOR_,Oven ovi
-23976,ROCK_,rock rock rock rock rock
-23977,ROCK_,rock rock rock rock rock
-23978,ROCK_,rock rock rock rock rock
-23979,ROCK_,rock rock rock rock rock
-23980,ROCK_,rock rock rock rock rock
-23981,ROCK_,rock rock rock rock rock
+23976,ROCK_,kivi rock
+23977,ROCK_,kivi rock
+23978,ROCK_,kivi rock
+23979,ROCK_,kivi rock
+23980,ROCK_,kivi rock
+23981,ROCK_,kivi rock
 23982,CITY_GATE_,Kaupungin portti
 23983,CITY_GATE_,Kaupungin portti
 23984,CITY_GATE_,Kaupungin portti
@@ -13144,15 +13144,15 @@
 24690,BOX_,laatikko
 24691,STACKED_BOXES,Pinottuja laatikoita
 24692,BOXES_,Laatikot
-24693,ROCK_,rock rock rock rock rock
-24694,ROCK_,rock rock rock rock rock
-24695,ROCK_,rock rock rock rock rock
-24696,ROCK_,rock rock rock rock rock
-24697,ROCK_,rock rock rock rock rock
-24698,ROCK_,rock rock rock rock rock
-24699,ROCK_,rock rock rock rock rock
-24700,ROCK_,rock rock rock rock rock
-24701,ROCK_,rock rock rock rock rock
+24693,ROCK_,kivi rock
+24694,ROCK_,kivi rock
+24695,ROCK_,kivi rock
+24696,ROCK_,kivi rock
+24697,ROCK_,kivi rock
+24698,ROCK_,kivi rock
+24699,ROCK_,kivi rock
+24700,ROCK_,kivi rock
+24701,ROCK_,kivi rock
 24706,SKELETON_,Skeleton
 24707,SKELETON_,Skeleton
 24708,SKELETON_,Skeleton
@@ -13194,7 +13194,7 @@
 24778,WINDOW_,ikkuna ikkuna ikkunan ikkuna
 24779,BEARD_,parta
 24780,PENDANT,Riippuu
-24781,ROCK_,rock rock rock rock rock
+24781,ROCK_,kivi rock
 24795,NAILS,Kynsia
 24796,NAILS_,Kynsia
 24799,MOUSE_HOLE_,Hiiren reika
@@ -13362,9 +13362,9 @@
 25155,FIRE_,Tulipalo
 25156,FIRE_,Tulipalo
 25157,JENKINS,Jyvaskylat
-25158,ROCK_,rock rock rock rock rock
-25159,ROCK_,rock rock rock rock rock
-25160,ROCK_,rock rock rock rock rock
+25158,ROCK_,kivi rock
+25159,ROCK_,kivi rock
+25160,ROCK_,kivi rock
 25161,WALL_,Seinaseina
 25169,TREE_,Puu puu puu puu puu
 25170,WHITE_TREE_,Valkoinen puu
@@ -13471,8 +13471,8 @@
 25419,BLUEBELLS_,Bluebells
 25420,SUNFLOWER_,auringonkukka
 25421,SUNFLOWERS_,Aurinkokukkia
-25422,ROCK_,rock rock rock rock rock
-25423,ROCK_,rock rock rock rock rock
+25422,ROCK_,kivi rock
+25423,ROCK_,kivi rock
 25424,BROKEN_ROCK,Rikkinainen rock
 25425,TENDRILS_,Helmia
 25426,TENDRILS_,Helmia
@@ -13923,11 +13923,11 @@
 26368,BIG_HOLE,Suuri aukko
 26369,ROPE_,Kayha
 26370,ROPE_,Kayha
-26372,ROCK_,rock rock rock rock rock
-26373,ROCK_,rock rock rock rock rock
+26372,ROCK_,kivi rock
+26373,ROCK_,kivi rock
 26374,ROPE_,Kayha
-26376,ROCK_,rock rock rock rock rock
-26377,ROCK_,rock rock rock rock rock
+26376,ROCK_,kivi rock
+26377,ROCK_,kivi rock
 26378,ROPE_,Kayha
 26379,PILLAR_,Pylvas
 26380,PILLAR_,Pylvas
@@ -15270,7 +15270,7 @@
 29099,MYSTERIOUS_RUINS_,Salaperaisia raunioita
 29100,WELL_,Hyvin hyvin
 29101,BARREL_,Tynnyri
-29102,ROCK_,rock rock rock rock rock
+29102,ROCK_,kivi rock
 29103,BANK_DEPOSIT_BOX_,Pankki tallettaa
 29104,BANK_DEPOSIT_BOX_,Pankki tallettaa
 29105,BANK_DEPOSIT_BOX_,Pankki tallettaa
@@ -16181,10 +16181,10 @@
 30514,COMPOST_BIN_,Saveltaja Bin
 30515,COMPOST_BIN_,Saveltaja Bin
 30516,COMPOST_BIN_,Saveltaja Bin
-30519,ROCK_,rock rock rock rock rock
+30519,ROCK_,kivi rock
 30520,MUSHROOM_,Mushroom
-30521,ROCK_,rock rock rock rock rock
-30522,ROCK_,rock rock rock rock rock
+30521,ROCK_,kivi rock
+30522,ROCK_,kivi rock
 30523,DRIFTWOOD_,Ajopuu
 30524,FOOTPRINTS_,Jalanjalkia
 30525,FOOTPRINTS_,Jalanjalkia
@@ -16342,8 +16342,8 @@
 30854,BURNT_TREE_,Poltettu puu
 30855,DEAD_TREE_STUMP,Kuollut puu
 30856,DEAD_TREE_STUMP_,Kuollut puu
-30857,ROCK_,rock rock rock rock rock
-30858,ROCK_,rock rock rock rock rock
+30857,ROCK_,kivi rock
+30858,ROCK_,kivi rock
 30865,WILHELM,Wilhelm
 30866,SKELETON_,Skeleton
 30867,CHEST_,Rintakeha
@@ -16793,15 +16793,15 @@
 31764,ROPE_,Kayha
 31765,HOLE_,Reika
 31766,CAVE_,Luola
-31781,ROCK_,rock rock rock rock rock
-31782,ROCK_,rock rock rock rock rock
-31783,ROCK_,rock rock rock rock rock
-31784,ROCK_,rock rock rock rock rock
-31785,ROCK_,rock rock rock rock rock
-31786,ROCK_,rock rock rock rock rock
-31787,ROCK_,rock rock rock rock rock
-31788,ROCK_,rock rock rock rock rock
-31789,ROCK_,rock rock rock rock rock
+31781,ROCK_,kivi rock
+31782,ROCK_,kivi rock
+31783,ROCK_,kivi rock
+31784,ROCK_,kivi rock
+31785,ROCK_,kivi rock
+31786,ROCK_,kivi rock
+31787,ROCK_,kivi rock
+31788,ROCK_,kivi rock
+31789,ROCK_,kivi rock
 31790,VINE_LADDER_,Viini tikkaat
 31791,HOLE_,Reika
 31792,ROOTS_,Juuret
@@ -18968,10 +18968,10 @@
 35849,CHEST_,Rintakeha
 35853,ROCKS_,Kivia
 35854,ROCKS_,Kivia
-35855,ROCK_,rock rock rock rock rock
-35856,ROCK_,rock rock rock rock rock
-35857,ROCK_,rock rock rock rock rock
-35858,ROCK_,rock rock rock rock rock
+35855,ROCK_,kivi rock
+35856,ROCK_,kivi rock
+35857,ROCK_,kivi rock
+35858,ROCK_,kivi rock
 35859,ROCKS_,Kivia
 35860,ROCKS_,Kivia
 35861,MUSHROOMS_,Mushrooms
@@ -19233,7 +19233,7 @@
 36604,CRYSTAL_OUTCROP_,Kristalli Outcrop
 36605,BUSH_,Bush
 36606,COOKING_POTS_,Keittaminen Pots
-36607,ROCK_,rock rock rock rock rock
+36607,ROCK_,kivi rock
 36608,BOOKCASE_,Kirjasto
 36609,FLAGPOLE_,Lippu
 36610,CHAIR_,Tuoli
@@ -20616,10 +20616,10 @@
 40389,OPENING_,Avaaminen
 40390,STAIRS_,Portaat
 40391,OPENING_,Avaaminen
-40396,ROCK_,rock rock rock rock rock
-40397,ROCK_,rock rock rock rock rock
-40398,ROCK_,rock rock rock rock rock
-40399,ROCK_,rock rock rock rock rock
+40396,ROCK_,kivi rock
+40397,ROCK_,kivi rock
+40398,ROCK_,kivi rock
+40399,ROCK_,kivi rock
 40400,ARCHWAY_,Arkkitehti
 40401,ARCHWAY_,Arkkitehti
 40402,ARCHWAY_,Arkkitehti
@@ -20892,9 +20892,9 @@
 40942,GALLOWS_,Gallows
 40944,HEROIC_STATUE_,Sankarillinen patsas
 40945,STONE_TABLE_,Kivipayta
-40946,ROCK_,rock rock rock rock rock
+40946,ROCK_,kivi rock
 40947,SMALL_ROCK_,Pieni kivi
-40948,ROCK_,rock rock rock rock rock
+40948,ROCK_,kivi rock
 40949,FURNACE_,Furnace
 40950,DEAD_TREE_,Kuollut puu
 40951,DEAD_TREE_,Kuollut puu
@@ -21153,8 +21153,8 @@
 41314,SPIRIT_ANGLER_STATS,Angler Stats
 41315,BANK_CHEST_,Pankin rintama
 41316,FIRE_,Tulipalo
-41317,ROCK_,rock rock rock rock rock
-41318,ROCK_,rock rock rock rock rock
+41317,ROCK_,kivi rock
+41318,ROCK_,kivi rock
 41319,ALTAR_,alttari
 41326,SHANTAY_PASS_,Shantay Pass
 41327,SLEEPING_BAG_,Nukkuva laukku
@@ -21240,9 +21240,9 @@
 41550,ROCKS_,Kivia
 41551,BARRONITE_CRUSHER,Barronite Crusher
 41558,CAVE_,Luola
-41562,ROCK_,rock rock rock rock rock
+41562,ROCK_,kivi rock
 41563,SMALL_ROCK_,Pieni kivi
-41564,ROCK_,rock rock rock rock rock
+41564,ROCK_,kivi rock
 41571,CHARM_OF_FISHING,Kalastuksen viehatys
 41572,CHARM_OF_PREPARATION,Valmistautumisen viehatys
 41573,CHARM_OF_DEFENCE,Puolustuksen viehatys
@@ -21680,12 +21680,12 @@
 42368,BOULDERS_,Boulders
 42369,BOULDERS_,Boulders
 42370,BOULDERS_,Boulders
-42371,ROCK_,rock rock rock rock rock
-42372,ROCK_,rock rock rock rock rock
-42373,ROCK_,rock rock rock rock rock
-42374,ROCK_,rock rock rock rock rock
-42375,ROCK_,rock rock rock rock rock
-42376,ROCK_,rock rock rock rock rock
+42371,ROCK_,kivi rock
+42372,ROCK_,kivi rock
+42373,ROCK_,kivi rock
+42374,ROCK_,kivi rock
+42375,ROCK_,kivi rock
+42376,ROCK_,kivi rock
 42377,PINE,manty
 42378,PINE_,manty
 42379,PINE_,manty
@@ -22062,7 +22062,7 @@
 43657,ELK_KELP_,Elk kelp
 43675,PINEAPPLE,Ananas
 43676,HEAD,Paa
-43677,ROCK_,rock rock rock rock rock
+43677,ROCK_,kivi rock
 43689,FOUNTAIN_,Lahde
 43692,PORTAL_,Portaali
 43693,PORTAL_,Portaali
