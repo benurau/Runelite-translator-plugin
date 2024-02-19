@@ -335,38 +335,38 @@
 590,BANK_TABLE,Pankkipayta
 591,BANK_TABLE_,Pankkipayta
 592,BATHROOM_TABLE,Kylpyhuonepayta
-593,TABLE,paytapaytapayta
-594,TABLE_,paytapaytapayta
-595,TABLE_,paytapaytapayta
-596,TABLE_,paytapaytapayta
-597,TABLE_,paytapaytapayta
-598,TABLE_,paytapaytapayta
-599,TABLE_,paytapaytapayta
-600,TABLE_,paytapaytapayta
-601,TABLE_,paytapaytapayta
-602,TABLE_,paytapaytapayta
-603,TABLE_,paytapaytapayta
-604,TABLE_,paytapaytapayta
-605,TABLE_,paytapaytapayta
-606,TABLE_,paytapaytapayta
-607,TABLE_,paytapaytapayta
+593,TABLE,poyta
+594,TABLE_,poyta
+595,TABLE_,poyta
+596,TABLE_,poyta
+597,TABLE_,poyta
+598,TABLE_,poyta
+599,TABLE_,poyta
+600,TABLE_,poyta
+601,TABLE_,poyta
+602,TABLE_,poyta
+603,TABLE_,poyta
+604,TABLE_,poyta
+605,TABLE_,poyta
+606,TABLE_,poyta
+607,TABLE_,poyta
 608,STUDY_DESK,Tutkimustyapayta
 609,WORKBENCH,Tyapaikka
 610,WORKBENCH_,Tyapaikka
 611,PICNIC_BENCH,Piknik Bench
 612,COUNTER,Counter
-613,TABLE_,paytapaytapayta
-614,TABLE_,paytapaytapayta
+613,TABLE_,poyta
+614,TABLE_,poyta
 615,SMALL_TABLE,Pieni payta
-616,TABLE_,paytapaytapayta
+616,TABLE_,poyta
 617,COUNTER_,Counter
 618,CHEMISTRY_TABLE,Kemian payta
 619,CHEMISTRY_TABLE_,Kemian payta
-620,TABLE_,paytapaytapayta
-621,TABLE_,paytapaytapayta
-622,TABLE_,paytapaytapayta
-623,TABLE_,paytapaytapayta
-624,TABLE_,paytapaytapayta
+620,TABLE_,poyta
+621,TABLE_,poyta
+622,TABLE_,poyta
+623,TABLE_,poyta
+624,TABLE_,poyta
 628,SILVER_STALL,Silver Stall
 629,SILK_STALL,silkkia
 630,BAKERY_STALL,Leipomo Stall
@@ -938,7 +938,7 @@
 1898,CHAIR_,Tuoli
 1899,CHAIR_,Tuoli
 1900,SUIT_OF_ARMOUR_,Panssari
-1901,TABLE_,paytapaytapayta
+1901,TABLE_,poyta
 1939,TOWER,Torni
 1947,CRUMBLING_WALL,Murtuva seina
 1948,CRUMBLING_WALL_,Murtuva seina
@@ -1060,7 +1060,7 @@
 2133,SAFE,Turvallinen turvallinen
 2134,RACK_,Rack
 2135,BARREL_,Tynnyri
-2136,TABLE_,paytapaytapayta
+2136,TABLE_,poyta
 2137,BARREL_,Tynnyri
 2138,RACK_,Rack
 2141,TUNNEL,Tunneli
@@ -1187,10 +1187,10 @@
 2320,BAR_,baari baari
 2321,BAR_,baari baari
 2322,BAR_,baari baari
-2332,TABLE_,paytapaytapayta
-2333,TABLE_,paytapaytapayta
-2334,TABLE_,paytapaytapayta
-2335,TABLE_,paytapaytapayta
+2332,TABLE_,poyta
+2333,TABLE_,poyta
+2334,TABLE_,poyta
+2335,TABLE_,poyta
 2336,HOLE_,Reika
 2337,STURDY_DOOR,Vahva ovi
 2338,DOOR_,Oven ovi
@@ -1323,7 +1323,7 @@
 2493,MIRROR_,Peili
 2494,HANGER,Hanger
 2495,SEWING_MACHINE,ompelukone
-2496,TABLE_,paytapaytapayta
+2496,TABLE_,poyta
 2498,CLOTHES,vaatteita
 2499,CLOTH,Vaatteet
 2501,OIL_LAMP,aljylamppu
@@ -1411,7 +1411,7 @@
 2608,STAIRCASE_,Portaikko
 2609,STAIRCASE_,Portaikko
 2610,STAIRCASE_,Portaikko
-2611,TABLE_,paytapaytapayta
+2611,TABLE_,poyta
 2612,CUPBOARD_,cup
 2613,CUPBOARD_,cup
 2614,DYNAMITEP,dynamiitti
@@ -1443,8 +1443,8 @@
 2646,PICTURE,Kuva kuvakuva
 2647,PICTURE_,Kuva kuvakuva
 2648,PICTURE_,Kuva kuvakuva
-2649,TABLE_,paytapaytapayta
-2650,TABLE_,paytapaytapayta
+2649,TABLE_,poyta
+2650,TABLE_,poyta
 2652,SINCLAIR_MANSION_DRAIN,Sinclair Mansion Drin
 2654,SINCLAIR_FAMILY_FOUNTAIN,Sinclair perheen suihkulahde
 2655,SINCLAIR_FAMILY_CREST,Sinclair-perheen sekoitus
@@ -1502,7 +1502,7 @@
 2713,SHELVES_,Hyllyt
 2714,STUDY_DESK_,Tutkimustyapayta
 2715,HELLHOUND,Helvetti
-2716,TABLE_,paytapaytapayta
+2716,TABLE_,poyta
 2718,DEAD_BAT,Kuollut lepakko
 2720,HERBS,Yrtit
 2721,CABINET_,Kabinetti
@@ -1516,7 +1516,7 @@
 2729,DOLLS_AND_BALLS,Nukkeja ja palloja
 2730,FLOWERBED_,kukkia
 2731,FLOWERBED_,kukkia
-2783,TABLE_,paytapaytapayta
+2783,TABLE_,poyta
 2784,SWORD_CABINET_,Miekkakaappi
 2785,SWORD_IN_STONE,Miekka kivessa
 2786,CITY_GATE_,Kaupungin portti
@@ -1622,7 +1622,7 @@
 2903,CAVE_ENTRANCE_,Luolan sisaankaynti
 2904,CAVE_ENTRANCE_,Luolan sisaankaynti
 2905,CRATE_,Kreikkalainen
-2906,TABLE_,paytapaytapayta
+2906,TABLE_,poyta
 2907,BED_,sanky
 2908,FIRE_WALL,Palomuuri
 2909,FIRE_WALL_,Palomuuri
@@ -1650,7 +1650,7 @@
 2936,TOTEM_POLE_,Totem Pole
 2937,TOTEM_POLE_,Totem Pole
 2938,TOTEM_POLE_,Totem Pole
-2940,TABLE_,paytapaytapayta
+2940,TABLE_,poyta
 2941,SACRED_WATER,Pyha vesi
 2942,WATER_POOL,vetta
 2943,POLLUTED_WATER,saastunutta vetta
@@ -1705,7 +1705,7 @@
 2995,CLOSED_CHEST_,Suljettu rinta
 2996,CLOSED_CHEST_,Suljettu rinta
 2997,SWORD_CASE_,Miekka
-2998,TABLE_,paytapaytapayta
+2998,TABLE_,poyta
 3000,TIMBER_DEFENCE_,Puupuolustus
 3014,SINK_,Sininen
 3015,DISHES,astioita
@@ -2350,7 +2350,7 @@
 4269,WOODEN_TABLE,Puinen payta
 4270,WOODEN_TABLE_,Puinen payta
 4271,CHAIR_,Tuoli
-4272,TABLE_,paytapaytapayta
+4272,TABLE_,poyta
 4273,BAR_PUMPS_,Baari pumput
 4274,BAR_,baari baari
 4275,BARREL_,Tynnyri
@@ -2390,7 +2390,7 @@
 4369,SHELF_,hyllysta
 4370,SHELF_,hyllysta
 4371,SHELF_,hyllysta
-4372,TABLE_,paytapaytapayta
+4372,TABLE_,poyta
 4377,STANDARD_STAND,Standard stand
 4378,STANDARD_STAND_,Standard stand
 4380,IRON_LADDER,Rautaa tikkaat
@@ -2438,13 +2438,13 @@
 4448,CAVE_WALL,Luola Seina
 4449,STAIRCASE_,Portaikko
 4450,STAIRCASE_,Portaikko
-4458,TABLE_,paytapaytapayta
-4459,TABLE_,paytapaytapayta
-4460,TABLE_,paytapaytapayta
-4461,TABLE_,paytapaytapayta
-4462,TABLE_,paytapaytapayta
-4463,TABLE_,paytapaytapayta
-4464,TABLE_,paytapaytapayta
+4458,TABLE_,poyta
+4459,TABLE_,poyta
+4460,TABLE_,poyta
+4461,TABLE_,poyta
+4462,TABLE_,poyta
+4463,TABLE_,poyta
+4464,TABLE_,poyta
 4465,DOOR_,Oven ovi
 4466,DOOR_,Oven ovi
 4467,DOOR_,Oven ovi
@@ -2548,9 +2548,9 @@
 4647,LADDER_,Tikkaat
 4648,LADDER_,Tikkaat
 4650,FIREPLACE_,Palokunta
-4651,TABLE_,paytapaytapayta
-4652,TABLE_,paytapaytapayta
-4653,TABLE_,paytapaytapayta
+4651,TABLE_,poyta
+4652,TABLE_,poyta
+4653,TABLE_,poyta
 4656,STOOL_,Jalokivi
 4658,PLAQUE_,plakkia
 4659,PLAQUE_,plakkia
@@ -2943,7 +2943,7 @@
 5346,CHAIR_,Tuoli
 5347,CHAIR_,Tuoli
 5348,SMASHED_CHAIR_,Havitetty tuoli
-5349,TABLE_,paytapaytapayta
+5349,TABLE_,poyta
 5350,BAR_PUMPS_,Baari pumput
 5351,BAR_,baari baari
 5352,CART_,Cart
@@ -3103,7 +3103,7 @@
 5862,BURIAL_MOUND,hautaaminen
 5863,BURIAL_CAIRN,Hautausmaa Cairn
 5878,WOODEN_TABLE_,Puinen payta
-5879,TABLE_,paytapaytapayta
+5879,TABLE_,poyta
 5880,STOOL_,Jalokivi
 5881,STANDING_TORCH_,Pysyva soihtu
 5883,MUD,Muumi
@@ -3179,7 +3179,7 @@
 6072,CABINET_,Kabinetti
 6073,CABINET_,Kabinetti
 6074,CABINET_,Kabinetti
-6075,TABLE_,paytapaytapayta
+6075,TABLE_,poyta
 6076,DESK_,Tyapayta
 6077,DESK_,Tyapayta
 6078,DESK_,Tyapayta
@@ -3261,12 +3261,12 @@
 6193,DWARF_MIRROR,kaapiapeili
 6194,CHAIR_,Tuoli
 6195,CHAIR_,Tuoli
-6196,TABLE_,paytapaytapayta
-6197,TABLE_,paytapaytapayta
-6198,TABLE_,paytapaytapayta
-6199,TABLE_,paytapaytapayta
-6200,TABLE_,paytapaytapayta
-6201,TABLE_,paytapaytapayta
+6196,TABLE_,poyta
+6197,TABLE_,poyta
+6198,TABLE_,poyta
+6199,TABLE_,poyta
+6200,TABLE_,poyta
+6201,TABLE_,poyta
 6202,LAMP_,lamppu
 6203,LAMP_,lamppu
 6204,POOR_BED,Huono sanky
@@ -3274,11 +3274,11 @@
 6206,DWARVEN_CONSORTIUM_TABLE,Konsortiopayta
 6207,THRONE_,valtaistuin
 6208,THRONE_,valtaistuin
-6211,TABLE_,paytapaytapayta
+6211,TABLE_,poyta
 6212,TREE_STUMP_,Puu Stump
 6213,BARREL_,Tynnyri
 6230,MONEY_POT,Rahaa
-6231,TABLE_,paytapaytapayta
+6231,TABLE_,poyta
 6232,FOUNTAIN_,Lahde
 6236,STOP,Pysayta
 6237,PLANT_,Kasvilaitos
@@ -3290,7 +3290,7 @@
 6243,STAIRCASE_,Portaikko
 6244,STAIRCASE_,Portaikko
 6245,STAIRCASE_,Portaikko
-6246,TABLE_,paytapaytapayta
+6246,TABLE_,poyta
 6249,WELL_,Hyvin hyvin
 6250,BED_,sanky
 6255,TROUGH_,Kurkkaa
@@ -3787,10 +3787,10 @@
 7165,BENCH_,Bench
 7167,STOOL_,Jalokivi
 7168,STOOL_,Jalokivi
-7169,TABLE_,paytapaytapayta
+7169,TABLE_,poyta
 7170,SHELF_,hyllysta
 7171,SHELF_,hyllysta
-7175,TABLE_,paytapaytapayta
+7175,TABLE_,poyta
 7176,BOOKCASE_,Kirjasto
 7177,BOOKCASE_,Kirjasto
 7178,BOOKCASE_,Kirjasto
@@ -3895,7 +3895,7 @@
 7328,OLD_BOOKSHELF_,Vanha kirjahylly
 7329,OLD_BOOKSHELF_,Vanha kirjahylly
 7330,OLD_BOOKSHELF_,Vanha kirjahylly
-7331,TABLE_,paytapaytapayta
+7331,TABLE_,poyta
 7332,BUNSEN_BURNER,Bunsen polttaa
 7333,SHELVES_,Hyllyt
 7334,SHELVES_,Hyllyt
@@ -3931,16 +3931,16 @@
 7398,LEAFY_TREE_,Leafy puu
 7399,BED_,sanky
 7400,BED_,sanky
-7401,TABLE_,paytapaytapayta
-7402,TABLE_,paytapaytapayta
-7403,TABLE_,paytapaytapayta
+7401,TABLE_,poyta
+7402,TABLE_,poyta
+7403,TABLE_,poyta
 7404,CHAIR_,Tuoli
 7405,TEAK_TABLE,Teeta payta
 7406,TEAK_TABLE_,Teeta payta
-7407,TABLE_,paytapaytapayta
-7408,TABLE_,paytapaytapayta
+7407,TABLE_,poyta
+7408,TABLE_,poyta
 7409,VEGETABLE_STALL,Kasvihuone
-7417,TABLE_,paytapaytapayta
+7417,TABLE_,poyta
 7418,THRONE_,valtaistuin
 7419,CABINET_,Kabinetti
 7420,CABINET_,Kabinetti
@@ -3951,7 +3951,7 @@
 7425,MIRROR_,Peili
 7427,BATH_SCREEN_,Kylpynaytat
 7428,BATHTUB,kylpyamme
-7429,TABLE_,paytapaytapayta
+7429,TABLE_,poyta
 7430,BENCH_,Bench
 7431,BOOKCASE_,Kirjasto
 7433,OAK_CHAIR,Taak tuoli
@@ -5067,8 +5067,8 @@
 8695,DOOR_,Oven ovi
 8696,DOOR_,Oven ovi
 8699,SINK_,Sininen
-8700,TABLE_,paytapaytapayta
-8701,TABLE_,paytapaytapayta
+8700,TABLE_,poyta
+8701,TABLE_,poyta
 8702,WATER_BARREL_,Veden tynnyri
 8703,WATER_BARREL_,Veden tynnyri
 8712,FIREPLACE_,Palokunta
@@ -5097,13 +5097,13 @@
 8748,SPINNING_WHEEL_,Pyara pyarii
 8749,ALTAR_,alttari
 8750,COOKING_RANGE_,Keittamisalue
-8751,TABLE_,paytapaytapayta
+8751,TABLE_,poyta
 8752,BOOKCASE_,Kirjasto
 8753,BOOKCASE_,Kirjasto
 8754,BOOKCASE_,Kirjasto
 8767,ELVEN_LAMP_,Kymmenen lamppua
-8768,TABLE_,paytapaytapayta
-8769,TABLE_,paytapaytapayta
+8768,TABLE_,poyta
+8769,TABLE_,poyta
 8770,CHAIR_,Tuoli
 8771,PAINTING_,Maalaus
 8772,BENCH_,Bench
@@ -5315,7 +5315,7 @@
 9079,PINBALL_POST_,Pinball Post
 9080,PINBALL_POST_,Pinball Post
 9081,PINBALL_POST_,Pinball Post
-9082,TABLE_,paytapaytapayta
+9082,TABLE_,poyta
 9083,DYE_POTS,vareja
 9084,STAIRS_,Portaat
 9085,STOVE,Stove
@@ -5536,11 +5536,11 @@
 9406,POTATO_PLANTS_,Perunakasvit
 9407,POTATO_PLANTS_,Perunakasvit
 9408,POTATOES,Perunat
-9430,TABLE_,paytapaytapayta
-9431,TABLE_,paytapaytapayta
-9432,TABLE_,paytapaytapayta
-9433,TABLE_,paytapaytapayta
-9434,TABLE_,paytapaytapayta
+9430,TABLE_,poyta
+9431,TABLE_,poyta
+9432,TABLE_,poyta
+9433,TABLE_,poyta
+9434,TABLE_,poyta
 9436,BED_,sanky
 9437,BED_,sanky
 9439,FIREPLACE_,Palokunta
@@ -5603,9 +5603,9 @@
 9610,EASEL,Etta
 9611,BOOKCASE_,Kirjasto
 9612,BED_,sanky
-9613,TABLE_,paytapaytapayta
-9614,TABLE_,paytapaytapayta
-9615,TABLE_,paytapaytapayta
+9613,TABLE_,poyta
+9614,TABLE_,poyta
+9615,TABLE_,poyta
 9616,COUNTER_,Counter
 9617,WAREHOUSE_SHELVES,Varastohyllyt
 9618,WAREHOUSE_SHELVES_,Varastohyllyt
@@ -5626,7 +5626,7 @@
 9682,RANGE_,Etaisyys
 9683,RANGE_CHIMNEY,Esiintyjat: Chimney
 9684,SINK_,Sininen
-9685,TABLE_,paytapaytapayta
+9685,TABLE_,poyta
 9686,CLOTH_,Vaatteet
 9687,CLOTHES_MODEL_,Vaatteiden malli
 9688,CLOTHES_MODEL_,Vaatteiden malli
@@ -5639,7 +5639,7 @@
 9698,LARGE_TABLE_,Suuri payta
 9699,LARGE_TABLE_,Suuri payta
 9700,LARGE_TABLE_,Suuri payta
-9702,TABLE_,paytapaytapayta
+9702,TABLE_,poyta
 9703,CANDLESTICK_HOLDER_,Kynttilanjalka
 9704,CHAIR_,Tuoli
 9705,CHAIR_,Tuoli
@@ -5911,7 +5911,7 @@
 10255,BED_,sanky
 10256,SHELF_,hyllysta
 10257,SHELF_,hyllysta
-10258,TABLE_,paytapaytapayta
+10258,TABLE_,poyta
 10259,CHAIR_,Tuoli
 10260,DOOR_,Oven ovi
 10261,DOOR_,Oven ovi
@@ -6018,7 +6018,7 @@
 10410,WATER_CHANNEL_,Vesikanava
 10412,HOLE_,Reika
 10413,BED_,sanky
-10414,TABLE_,paytapaytapayta
+10414,TABLE_,poyta
 10415,ROLLED_UP_RUGS_,Kierratettyja mattoja
 10416,CREVICE_,Luovuus
 10417,CAVE_EXIT_,Cave Exit
@@ -6044,7 +6044,7 @@
 10486,COUNTER_,Counter
 10487,BLACKSMITHS_TOOLS_,Blacksmithin tyakalut
 10489,ARMOUR_,panssari
-10490,TABLE_,paytapaytapayta
+10490,TABLE_,poyta
 10491,CHAIR_,Tuoli
 10492,CHAIR_,Tuoli
 10493,LADDER_,Tikkaat
@@ -6062,7 +6062,7 @@
 10505,COOKING_POTS_,Keittaminen Pots
 10506,SHELF_,hyllysta
 10508,STONE_PEW,Kivi Pew
-10509,TABLE_,paytapaytapayta
+10509,TABLE_,poyta
 10510,BOOKCASE_,Kirjasto
 10511,BED_,sanky
 10512,BED_,sanky
@@ -6184,7 +6184,7 @@
 10804,TRAPDOOR_,Trapdoor
 10805,SANDYS_DESK,Hiekkapayta
 10807,SANDYS_COFFEE_MUG,Hiekkakahvi Mug
-10808,TABLE_,paytapaytapayta
+10808,TABLE_,poyta
 10809,WASTE_PAPER_BIN,Jatepaperin bin
 10813,COUNTER_,Counter
 10814,SANDPIT,Hiekkaa
@@ -6378,8 +6378,8 @@
 11199,LADDER_,Tikkaat
 11200,LADDER_,Tikkaat
 11201,LADDER_,Tikkaat
-11202,TABLE_,paytapaytapayta
-11203,TABLE_,paytapaytapayta
+11202,TABLE_,poyta
+11203,TABLE_,poyta
 11204,PLAQUE_,plakkia
 11205,PLAQUE_,plakkia
 11206,PLAQUE_,plakkia
@@ -6571,11 +6571,11 @@
 11497,SPOOKY_PICTURE_,Spooky kuva
 11498,STAIRCASE_,Portaikko
 11499,STAIRCASE_,Portaikko
-11500,TABLE_,paytapaytapayta
-11501,TABLE_,paytapaytapayta
-11502,TABLE_,paytapaytapayta
-11503,TABLE_,paytapaytapayta
-11504,TABLE_,paytapaytapayta
+11500,TABLE_,poyta
+11501,TABLE_,poyta
+11502,TABLE_,poyta
+11503,TABLE_,poyta
+11504,TABLE_,poyta
 11510,DEAD_TREE_,Kuollut puu
 11511,STAIRCASE_,Portaikko
 11546,STRANGE_MACHINE_,Kummallinen kone
@@ -6583,7 +6583,7 @@
 11548,STRANGE_MACHINE_,Kummallinen kone
 11549,STRANGE_MACHINE_,Kummallinen kone
 11550,STRANGE_MACHINE_,Kummallinen kone
-11551,TABLE_,paytapaytapayta
+11551,TABLE_,poyta
 11589,BARREL_,Tynnyri
 11590,BARREL_,Tynnyri
 11599,CRATE_,Kreikkalainen
@@ -6595,7 +6595,7 @@
 11615,STANDARD_,Standard standard standard standard standard standard standard standard standard standard
 11616,DOOR_,Oven ovi
 11617,DOOR_,Oven ovi
-11619,TABLE_,paytapaytapayta
+11619,TABLE_,poyta
 11620,LONGHALL_DOOR,Pitka ovi
 11621,LONGHALL_DOOR_,Pitka ovi
 11624,LONGHALL_DOOR_,Pitka ovi
@@ -6766,7 +6766,7 @@
 11889,STAIRCASE_,Portaikko
 11890,STAIRCASE_,Portaikko
 11891,SINISTER_BARREL,Sinister barrel
-11892,TABLE_,paytapaytapayta
+11892,TABLE_,poyta
 11893,BOOKCASE_,Kirjasto
 11894,BOOKCASE_,Kirjasto
 11895,THORNS,Thorns
@@ -6844,9 +6844,9 @@
 12103,CRATE_,Kreikkalainen
 12104,CRATES_,Kreikkalaiset
 12105,CRATE_,Kreikkalainen
-12106,TABLE_,paytapaytapayta
+12106,TABLE_,poyta
 12107,BARREL_,Tynnyri
-12108,TABLE_,paytapaytapayta
+12108,TABLE_,poyta
 12109,WALL_,Seinaseina
 12110,GAG_BANNER,Gag banner
 12111,DAIRY_COW_,Maitolehma
@@ -6957,9 +6957,9 @@
 12353,BARRIER_,Esiintyjat
 12355,PORTAL_,Portaali
 12356,PORTAL_,Portaali
-12386,TABLE_,paytapaytapayta
-12387,TABLE_,paytapaytapayta
-12388,TABLE_,paytapaytapayta
+12386,TABLE_,poyta
+12387,TABLE_,poyta
+12388,TABLE_,poyta
 12389,LADDER_,Tikkaat
 12390,LADDER_,Tikkaat
 12391,LADDER_,Tikkaat
@@ -6996,7 +6996,7 @@
 12447,LARGE_DOOR_,Suuri ovi
 12448,LARGE_DOOR_,Suuri ovi
 12449,LARGE_DOOR_,Suuri ovi
-12450,TABLE_,paytapaytapayta
+12450,TABLE_,poyta
 12451,CHEST_,Rintakeha
 12452,CHEST_,Rintakeha
 12453,SKULLS,Kallot
@@ -7069,9 +7069,9 @@
 12538,STAIRCASE_,Portaikko
 12539,BOOKCASE_,Kirjasto
 12540,BOOKCASE_,Kirjasto
-12541,TABLE_,paytapaytapayta
+12541,TABLE_,poyta
 12543,LARGE_TABLE_,Suuri payta
-12544,TABLE_,paytapaytapayta
+12544,TABLE_,poyta
 12545,BOXES_,Laatikot
 12546,CRATE_,Kreikkalainen
 12547,CRATE_,Kreikkalainen
@@ -7116,7 +7116,7 @@
 12609,SINK_,Sininen
 12610,WASHBASIN,Pesuallas
 12611,RANGE_,Etaisyys
-12612,TABLE_,paytapaytapayta
+12612,TABLE_,poyta
 12617,GATE_,Portti
 12639,GATE_,Portti
 12655,SMALL_FURNACE_,Pieni uuni
@@ -7128,7 +7128,7 @@
 12719,GATE_,Portti
 12723,COLONY_GATE,siirtomaa portti
 12725,COLONY_GATE_,siirtomaa portti
-12734,TABLE_,paytapaytapayta
+12734,TABLE_,poyta
 12735,CLOSED_CHEST_,Suljettu rinta
 12736,OPEN_CHEST_,Avoin rintama
 12737,BROKEN_WALL_,Rikkinainen seina
@@ -7188,7 +7188,7 @@
 12818,GATE_,Portti
 12820,EXIT_PATH,Poistuva tie
 12844,PILE_OF_BRICKS_,Tiilien kasa
-12855,TABLE_,paytapaytapayta
+12855,TABLE_,poyta
 12856,DOOR_,Oven ovi
 12857,BAR_PUMPS_,Baari pumput
 12872,TRAPDOOR_,Trapdoor
@@ -7203,7 +7203,7 @@
 12881,BOOKCASE_,Kirjasto
 12882,BOOKCASE_,Kirjasto
 12883,BOOKCASE_,Kirjasto
-12884,TABLE_,paytapaytapayta
+12884,TABLE_,poyta
 12885,CHAIR_,Tuoli
 12886,CHAIR_,Tuoli
 12887,CHAIR_,Tuoli
@@ -7222,7 +7222,7 @@
 12941,FOUNTAIN_,Lahde
 12943,SQIRK_TREE,Sqirk puu
 12961,CRATE_,Kreikkalainen
-12962,TABLE_,paytapaytapayta
+12962,TABLE_,poyta
 12963,CRATE_,Kreikkalainen
 12964,LADDER_,Tikkaat
 12965,LADDER_,Tikkaat
@@ -7231,8 +7231,8 @@
 12968,BARREL_,Tynnyri
 12969,COOKING_POT_,Keittaminen Pot
 12970,BED_,sanky
-12971,TABLE_,paytapaytapayta
-12972,TABLE_,paytapaytapayta
+12971,TABLE_,poyta
+12972,TABLE_,poyta
 12973,CHAIR_,Tuoli
 12974,SINK_,Sininen
 12977,CRATE_,Kreikkalainen
@@ -8013,13 +8013,13 @@
 14040,BONZOS_TABLE,Bonzos-payta
 14041,BONZOS_TABLE_,Bonzos-payta
 14043,BARREL_,Tynnyri
-14044,TABLE_,paytapaytapayta
+14044,TABLE_,poyta
 14045,BED_,sanky
-14049,TABLE_,paytapaytapayta
+14049,TABLE_,poyta
 14050,CHAIR_,Tuoli
 14051,SMALL_TABLE_,Pieni payta
 14106,ROCKS_,Kivia
-14163,TABLE_,paytapaytapayta
+14163,TABLE_,poyta
 14169,FIRE_,Tulipalo
 14171,EMBERS,Jattilaiset
 14173,OLAFS_BOAT,Olafsin laiva
@@ -8096,7 +8096,7 @@
 14359,SHELVES_,Hyllyt
 14360,CAULDRON_,Cauldron
 14362,CHARMS_,Vihreat
-14363,TABLE_,paytapaytapayta
+14363,TABLE_,poyta
 14364,ROCKING_CHAIR_,Rokkituoli
 14366,COUNTER_,Counter
 14367,BANK_BOOTH_,Pankki Booth
@@ -8357,8 +8357,8 @@
 14759,ROOTS_,Juuret
 14760,ROOTS_,Juuret
 14761,ROOTS_,Juuret
-14762,TABLE_,paytapaytapayta
-14763,TABLE_,paytapaytapayta
+14762,TABLE_,poyta
+14763,TABLE_,poyta
 14764,STOOL_,Jalokivi
 14765,GRAVESTONE_,Hautakivi
 14766,GRAVESTONE_,Hautakivi
@@ -8412,8 +8412,8 @@
 14848,GAP_,Kuilu
 14849,CHAIR_,Tuoli
 14850,CHAIR_,Tuoli
-14851,TABLE_,paytapaytapayta
-14852,TABLE_,paytapaytapayta
+14851,TABLE_,poyta
+14852,TABLE_,poyta
 14853,CHAIR_,Tuoli
 14854,CHEST_,Rintakeha
 14855,BED_,sanky
@@ -8507,7 +8507,7 @@
 15039,STOOL_,Jalokivi
 15040,COUNTER_,Counter
 15041,PICNIC_TABLE,Piknik-payta
-15044,TABLE_,paytapaytapayta
+15044,TABLE_,poyta
 15045,BAR_PUMPS_,Baari pumput
 15046,WAREHOUSE_SHELVES_,Varastohyllyt
 15047,WAREHOUSE_SHELVES_,Varastohyllyt
@@ -8539,7 +8539,7 @@
 15083,HERBS_,Yrtit
 15088,BENCH_,Bench
 15091,CHAIR_,Tuoli
-15092,TABLE_,paytapaytapayta
+15092,TABLE_,poyta
 15093,STOOL_,Jalokivi
 15094,BED_,sanky
 15095,BED_,sanky
@@ -8574,7 +8574,7 @@
 15134,DYED_FABRIC,Vasynyt kangas
 15135,DYED_FABRIC_,Vasynyt kangas
 15136,DYED_FABRIC_,Vasynyt kangas
-15137,TABLE_,paytapaytapayta
+15137,TABLE_,poyta
 15138,DYE_POTS_,vareja
 15139,CLOTH_,Vaatteet
 15140,CLOTHES_MODEL_,Vaatteiden malli
@@ -8955,9 +8955,9 @@
 15677,BANK_TABLE_,Pankkipayta
 15678,SINK_,Sininen
 15679,STOOL_,Jalokivi
-15680,TABLE_,paytapaytapayta
+15680,TABLE_,poyta
 15683,BED_,sanky
-15684,TABLE_,paytapaytapayta
+15684,TABLE_,poyta
 15685,COOKING_SHELVES_,Kokkaa hyllyt
 15686,COOKING_SHELVES_,Kokkaa hyllyt
 15690,PORTRAIT_,muotokuva
@@ -8979,7 +8979,7 @@
 15713,DRILLING_MACHINE,Porauskone
 15714,DRILLING_MACHINE_,Porauskone
 15715,BROKEN_DRILLING_MACHINE,Rikki porauskone
-15719,TABLE_,paytapaytapayta
+15719,TABLE_,poyta
 15720,CRATE_,Kreikkalainen
 15721,CRATE_,Kreikkalainen
 15722,SMALL_CHEST,Pieni rintakeha
@@ -9160,7 +9160,7 @@
 15971,SCRAPEY_TREE_,Scrapey puu
 15978,JUNGLE_PLANT_,Viidakkokasvi
 15981,CHAIR_,Tuoli
-15982,TABLE_,paytapaytapayta
+15982,TABLE_,poyta
 15983,KETTLE,Key
 15984,WAITING_ROOM_DOOR,Odota huoneen ovea
 15985,DEPOSIT_BOX,Tallenna laatikko
@@ -9235,8 +9235,8 @@
 16134,PASSAGEWAY_,Passilla
 16136,ROCK_,rock rock rock rock rock
 16168,TRAPDOOR_,Trapdoor
-16169,TABLE_,paytapaytapayta
-16170,TABLE_,paytapaytapayta
+16169,TABLE_,poyta
+16170,TABLE_,poyta
 16177,WATERLILY_,Vetta
 16178,WATERLILY_,Vetta
 16179,WATERLILY_,Vetta
@@ -9366,7 +9366,7 @@
 16559,CRATE_,Kreikkalainen
 16560,CRATE_,Kreikkalainen
 16561,CRATE_,Kreikkalainen
-16562,TABLE_,paytapaytapayta
+16562,TABLE_,poyta
 16564,CRATE_,Kreikkalainen
 16565,CRATE_,Kreikkalainen
 16566,BARREL_,Tynnyri
@@ -9483,12 +9483,12 @@
 16734,STAIRS_,Portaat
 16735,LADDER_,Tikkaat
 16736,LADDER_,Tikkaat
-16737,TABLE_,paytapaytapayta
-16738,TABLE_,paytapaytapayta
-16739,TABLE_,paytapaytapayta
-16740,TABLE_,paytapaytapayta
-16741,TABLE_,paytapaytapayta
-16742,TABLE_,paytapaytapayta
+16737,TABLE_,poyta
+16738,TABLE_,poyta
+16739,TABLE_,poyta
+16740,TABLE_,poyta
+16741,TABLE_,poyta
+16742,TABLE_,poyta
 16743,CHAIR_,Tuoli
 16744,CHAIR_,Tuoli
 16745,STOOL_,Jalokivi
@@ -9504,9 +9504,9 @@
 16812,COOKER_,Kokkaa
 16813,RACK_,Rack
 16814,STOOL_,Jalokivi
-16815,TABLE_,paytapaytapayta
-16827,TABLE_,paytapaytapayta
-16828,TABLE_,paytapaytapayta
+16815,TABLE_,poyta
+16827,TABLE_,poyta
+16828,TABLE_,poyta
 16829,TRANSPORT_PLATFORM,Kuljetusalusta
 16831,TRANSPORT_PLATFORM_,Kuljetusalusta
 16833,TRANSPORT_PLATFORM_,Kuljetusalusta
@@ -9597,7 +9597,7 @@
 16971,SHELF_,hyllysta
 16972,SHELF_,hyllysta
 16973,SHELF_,hyllysta
-16974,TABLE_,paytapaytapayta
+16974,TABLE_,poyta
 16975,WALLCHART,Seinakartta
 16978,CHART_,Chart
 16979,CHART_,Chart
@@ -9684,7 +9684,7 @@
 17141,HEALTHORG_STATUE,Terveyspatsas
 17143,STAIRCASE_,Portaikko
 17144,BOXES_,Laatikot
-17145,TABLE_,paytapaytapayta
+17145,TABLE_,poyta
 17146,CHAIR_,Tuoli
 17148,LADDER_,Tikkaat
 17149,LADDER_,Tikkaat
@@ -9716,7 +9716,7 @@
 17232,DRAWERS_,laatikot
 17233,DRAWERS_,laatikot
 17234,CHAIR_,Tuoli
-17235,TABLE_,paytapaytapayta
+17235,TABLE_,poyta
 17236,HAMMOCK_,Hampaat
 17237,TORCH_,Torch
 17238,ASPIDISTRA_PLANT,Aspider-kasvi
@@ -9765,7 +9765,7 @@
 17295,HOISTED_SAIL_,Purjehtija purjehtii
 17296,BARREL_,Tynnyri
 17297,BARREL_,Tynnyri
-17299,TABLE_,paytapaytapayta
+17299,TABLE_,poyta
 17300,CUPBOARD_,cup
 17301,CUPBOARD_,cup
 17302,CUPBOARD_,cup
@@ -9801,7 +9801,7 @@
 17343,LAVA_,La
 17344,LAVA_,La
 17345,LAVA_,La
-17348,TABLE_,paytapaytapayta
+17348,TABLE_,poyta
 17350,ROCK_,rock rock rock rock rock
 17351,ROCK_,rock rock rock rock rock
 17352,ROCK_,rock rock rock rock rock
@@ -9898,8 +9898,8 @@
 17509,WASTE_PIPES_,Jateputket
 17510,WASTE_PIPES_,Jateputket
 17511,WASTE_PIPES_,Jateputket
-17545,TABLE_,paytapaytapayta
-17546,TABLE_,paytapaytapayta
+17545,TABLE_,poyta
+17546,TABLE_,poyta
 17547,CHAIR_,Tuoli
 17548,CHAIR_,Tuoli
 17549,CHAIR_,Tuoli
@@ -9940,10 +9940,10 @@
 17658,CRATE_,Kreikkalainen
 17659,STAIRCASE_,Portaikko
 17660,STAIRCASE_,Portaikko
-17661,TABLE_,paytapaytapayta
-17662,TABLE_,paytapaytapayta
+17661,TABLE_,poyta
+17662,TABLE_,poyta
 17663,CHAIR_,Tuoli
-17666,TABLE_,paytapaytapayta
+17666,TABLE_,poyta
 17667,STOOL_,Jalokivi
 17668,BUNK_BED_,Punainen sanky
 17669,BUNK_BED_,Punainen sanky
@@ -9974,7 +9974,7 @@
 17759,CHAIR_,Tuoli
 17760,CHAIR_,Tuoli
 17761,CHAIR_,Tuoli
-17762,TABLE_,paytapaytapayta
+17762,TABLE_,poyta
 17763,BOOKCASE_,Kirjasto
 17764,BENCH_,Bench
 17765,GRANDFATHER_CLOCK_,Isoisa kello
@@ -10124,7 +10124,7 @@
 18048,DOOR_,Oven ovi
 18049,STAIRCASE_,Portaikko
 18050,STAIRCASE_,Portaikko
-18051,TABLE_,paytapaytapayta
+18051,TABLE_,poyta
 18052,BROKEN_RUNE_CASE,Rikkinainen tapaus
 18053,RUBBLE_,Rubble
 18054,BARRICADE_,barrikadi
@@ -10132,10 +10132,10 @@
 18056,ROCKY_SURFACE,Kallioinen pinta
 18057,DOOR_,Oven ovi
 18058,DOOR_,Oven ovi
-18059,TABLE_,paytapaytapayta
+18059,TABLE_,poyta
 18060,TRAPDOOR_TABLE,Trapdoor-payta
 18061,TRAPDOOR_TUNNEL,Ansan tunneli
-18062,TABLE_,paytapaytapayta
+18062,TABLE_,poyta
 18063,TRAPDOOR_TABLE_,Trapdoor-payta
 18064,TRAPDOOR_TABLE_,Trapdoor-payta
 18065,POTS_,Potit
@@ -10545,7 +10545,7 @@
 18898,FOOTPRINTS_,Jalanjalkia
 18899,FOOTPRINTS_,Jalanjalkia
 18900,FOOTPRINTS_,Jalanjalkia
-18902,TABLE_,paytapaytapayta
+18902,TABLE_,poyta
 18903,LADDER_,Tikkaat
 18904,LADDER_,Tikkaat
 18907,CHEST_,Rintakeha
@@ -10686,7 +10686,7 @@
 19145,ALTAR_,alttari
 19156,BASKET_,Koripallo
 19157,BED_,sanky
-19158,TABLE_,paytapaytapayta
+19158,TABLE_,poyta
 19159,BOOKCASE_,Kirjasto
 19161,BASKET_,Koripallo
 19162,FRAME,Kehys
@@ -10898,7 +10898,7 @@
 19924,CAVE_ENTRANCE_,Luolan sisaankaynti
 19925,ROCKY_OUTCROP_,Rocky Outcrop
 19926,CAVE_ENTRANCE_,Luolan sisaankaynti
-19928,TABLE_,paytapaytapayta
+19928,TABLE_,poyta
 19929,CHAIR_,Tuoli
 19930,LEFTOVERS,Vasemmisto
 19931,CHEST_,Rintakeha
@@ -10970,9 +10970,9 @@
 20050,GATE_,Portti
 20056,TRELLIS_,Trellis
 20057,TRELLIS_,Trellis
-20058,TABLE_,paytapaytapayta
+20058,TABLE_,poyta
 20059,STOOL_,Jalokivi
-20060,TABLE_,paytapaytapayta
+20060,TABLE_,poyta
 20061,SHELF_,hyllysta
 20062,SHELF_,hyllysta
 20063,A_BUNK_BED,Bunk Sanky
@@ -11135,7 +11135,7 @@
 20348,SPICE_STALL_,Mausteet Stall
 20349,MARKET_STALL_,Markkinat pysahtyvat
 20350,TEA_STALL_,Teeta Stall
-20351,TABLE_,paytapaytapayta
+20351,TABLE_,poyta
 20352,CHAIR_,Tuoli
 20353,LADDER_,Tikkaat
 20354,LADDER_,Tikkaat
@@ -11520,7 +11520,7 @@
 20986,MUMMY_,Muumi
 20987,AN_ANONYMOUS_LOOKING_DOOR_,Anonyymi nakainen ovi
 20995,GOLFCART,Golfcart
-20996,TABLE_,paytapaytapayta
+20996,TABLE_,poyta
 20999,CHAIR_,Tuoli
 21000,MAP_,Kartta
 21001,INTERROGATION_CHAIR,Tuolin kuulustelu
@@ -11691,12 +11691,12 @@
 21355,LARGE_GEYSER,Suuri geeli
 21356,SMALL_GEYSER,Pieni geeli
 21358,BANK_TABLE_,Pankkipayta
-21359,TABLE_,paytapaytapayta
-21360,TABLE_,paytapaytapayta
+21359,TABLE_,poyta
+21360,TABLE_,poyta
 21361,SMASHED_CHAIR_,Havitetty tuoli
 21362,BED_,sanky
-21388,TABLE_,paytapaytapayta
-21389,TABLE_,paytapaytapayta
+21388,TABLE_,poyta
+21389,TABLE_,poyta
 21390,SACKS_,Sakkia
 21393,THRONE_,valtaistuin
 21394,BELL_,Kello
@@ -11785,9 +11785,9 @@
 21601,GATE_,Portti
 21603,BROKEN_BARREL_,Rikkinainen barreli
 21607,CHAIR_,Tuoli
-21608,TABLE_,paytapaytapayta
-21609,TABLE_,paytapaytapayta
-21610,TABLE_,paytapaytapayta
+21608,TABLE_,poyta
+21609,TABLE_,poyta
+21610,TABLE_,poyta
 21611,BED_,sanky
 21612,CRATE_,Kreikkalainen
 21614,SHELF_,hyllysta
@@ -11855,7 +11855,7 @@
 21781,LADDER_,Tikkaat
 21782,LADDER_,Tikkaat
 21792,RANGE_,Etaisyys
-21793,TABLE_,paytapaytapayta
+21793,TABLE_,poyta
 21794,SHELVES_,Hyllyt
 21795,FIREPLACE_,Palokunta
 21800,CRACK_,Crack
@@ -11985,8 +11985,8 @@
 22156,CHAIR_,Tuoli
 22157,CHAIR_,Tuoli
 22158,BENCH_,Bench
-22159,TABLE_,paytapaytapayta
-22160,TABLE_,paytapaytapayta
+22159,TABLE_,poyta
+22160,TABLE_,poyta
 22161,POTTED_PLANT_,Potting kasvi
 22162,LARDER_,Jarjestaja
 22164,LADDER_,Tikkaat
@@ -12076,7 +12076,7 @@
 22426,CRATE_,Kreikkalainen
 22427,CRATE_,Kreikkalainen
 22430,SACK_,Saa
-22431,TABLE_,paytapaytapayta
+22431,TABLE_,poyta
 22432,LADDER_,Tikkaat
 22433,LADDER_,Tikkaat
 22434,LADDER_,Tikkaat
@@ -12205,10 +12205,10 @@
 22669,BENCH_,Bench
 22670,STOOL_,Jalokivi
 22671,SHELF_,hyllysta
-22672,TABLE_,paytapaytapayta
+22672,TABLE_,poyta
 22676,CHAIR_,Tuoli
-22677,TABLE_,paytapaytapayta
-22678,TABLE_,paytapaytapayta
+22677,TABLE_,poyta
+22678,TABLE_,poyta
 22679,BED_,sanky
 22680,BED_,sanky
 22681,CHEST_,Rintakeha
@@ -12217,11 +12217,11 @@
 22684,LADDER_,Tikkaat
 22685,SHELF_,hyllysta
 22686,SHELF_,hyllysta
-22690,TABLE_,paytapaytapayta
+22690,TABLE_,poyta
 22691,STOOL_,Jalokivi
 22692,CHAIR_,Tuoli
-22693,TABLE_,paytapaytapayta
-22694,TABLE_,paytapaytapayta
+22693,TABLE_,poyta
+22694,TABLE_,poyta
 22695,BED_,sanky
 22696,BED_,sanky
 22697,CHEST_,Rintakeha
@@ -12232,7 +12232,7 @@
 22702,SHELF_,hyllysta
 22703,CHAIR_,Tuoli
 22704,CHAIR_,Tuoli
-22705,TABLE_,paytapaytapayta
+22705,TABLE_,poyta
 22706,CARVING,veistaa
 22707,CARVING_,veistaa
 22708,CARVING_,veistaa
@@ -12355,9 +12355,9 @@
 22827,WORKBENCH_,Tyapaikka
 22828,BEETLE,Beetle
 22829,FROG,sammakko
-22830,TABLE_,paytapaytapayta
-22831,TABLE_,paytapaytapayta
-22832,TABLE_,paytapaytapayta
+22830,TABLE_,poyta
+22831,TABLE_,poyta
+22832,TABLE_,poyta
 22833,SHELF_,hyllysta
 22834,SHELF_,hyllysta
 22835,FUNGUS_SEAT,Fungus-istuin
@@ -12365,12 +12365,12 @@
 22841,BUST_,Bust
 22842,BUST_,Bust
 22843,CHAIR_,Tuoli
-22844,TABLE_,paytapaytapayta
-22845,TABLE_,paytapaytapayta
-22846,TABLE_,paytapaytapayta
-22847,TABLE_,paytapaytapayta
-22848,TABLE_,paytapaytapayta
-22849,TABLE_,paytapaytapayta
+22844,TABLE_,poyta
+22845,TABLE_,poyta
+22846,TABLE_,poyta
+22847,TABLE_,poyta
+22848,TABLE_,poyta
+22849,TABLE_,poyta
 22855,BOOKSHELF_,Kirjahylly
 22856,FUNGUS_DOORMAT,Fungus ovi
 22857,FUNGUS_DOORMAT_,Fungus ovi
@@ -12477,7 +12477,7 @@
 23174,CAMPING_GEAR,Leirintavalineet
 23175,CAMPING_FIRE,Leirinta tulipalo
 23176,SLEEPING_BAG,Nukkuva laukku
-23177,TABLE_,paytapaytapayta
+23177,TABLE_,poyta
 23178,STOOL_,Jalokivi
 23179,STOOL_,Jalokivi
 23180,BARREL_,Tynnyri
@@ -12765,7 +12765,7 @@
 24000,RACK_,Rack
 24001,SHELVES_,Hyllyt
 24002,BARREL_,Tynnyri
-24003,TABLE_,paytapaytapayta
+24003,TABLE_,poyta
 24004,WATERPUMP_,Vesipumppu
 24005,SHOP_COUNTER_,Myymala Counter
 24006,CABINET_,Kabinetti
@@ -12774,7 +12774,7 @@
 24018,BANNER_,Bankki
 24020,TREADMILL,Treadmill
 24021,SPINNING_POLE,Spinning Pole
-24025,TABLE_,paytapaytapayta
+24025,TABLE_,poyta
 24036,STATUE_,Patsas
 24037,STATUE_,Patsas
 24038,STATUE_,Patsas
@@ -12819,13 +12819,13 @@
 24083,LADDER_,Tikkaat
 24084,LADDER_,Tikkaat
 24085,LADDER_,Tikkaat
-24086,TABLE_,paytapaytapayta
+24086,TABLE_,poyta
 24087,BOXES_,Laatikot
 24088,CRATES_,Kreikkalaiset
 24089,STOOL_,Jalokivi
 24090,BED_,sanky
-24091,TABLE_,paytapaytapayta
-24092,TABLE_,paytapaytapayta
+24091,TABLE_,poyta
+24092,TABLE_,poyta
 24096,SUIT_OF_ARMOUR_,Panssari
 24098,NOTICE_BOARD,Huomioi lauta
 24099,NOTICE_BOARD_,Huomioi lauta
@@ -12863,7 +12863,7 @@
 24219,BRICKS_,Tiilit
 24222,CRUMBLING_WALL_,Murtuva seina
 24229,BOW_CABINET_,Bow Cabinet
-24230,TABLE_,paytapaytapayta
+24230,TABLE_,poyta
 24248,STAIRCASE_,Portaikko
 24249,STAIRCASE_,Portaikko
 24250,STAIRCASE_,Portaikko
@@ -12904,7 +12904,7 @@
 24330,BAR_,baari baari
 24331,BAR_,baari baari
 24332,BAR_,baari baari
-24333,TABLE_,paytapaytapayta
+24333,TABLE_,poyta
 24340,OLD_BOOKSHELF_,Vanha kirjahylly
 24341,OLD_BOOKSHELF_,Vanha kirjahylly
 24342,OLD_BOOKSHELF_,Vanha kirjahylly
@@ -12918,10 +12918,10 @@
 24352,LADDER_,Tikkaat
 24353,MANGLE_,mangle
 24354,MANGLE_,mangle
-24355,TABLE_,paytapaytapayta
+24355,TABLE_,poyta
 24358,STAIRCASE_,Portaikko
 24359,STAIRCASE_,Portaikko
-24360,TABLE_,paytapaytapayta
+24360,TABLE_,poyta
 24362,TANNING_LINE_,Tanning line
 24363,DOOR_,Oven ovi
 24364,DOOR_,Oven ovi
@@ -13119,7 +13119,7 @@
 24661,DISPLAY_CASE_,Nayta
 24663,DISPLAY_CASE_,Nayta
 24666,CANDLES_,Kynttilat
-24667,TABLE_,paytapaytapayta
+24667,TABLE_,poyta
 24668,WARDROBE_,Wardrobe
 24669,WARDROBE_,Wardrobe
 24670,WARDROBE_,Wardrobe
@@ -13135,7 +13135,7 @@
 24681,DRAWERS_,laatikot
 24682,DRAWERS_,laatikot
 24683,CHAIR_,Tuoli
-24684,TABLE_,paytapaytapayta
+24684,TABLE_,poyta
 24685,DOOR_,Oven ovi
 24686,DOOR_,Oven ovi
 24687,STAIRCASE_,Portaikko
@@ -13325,7 +13325,7 @@
 25044,WARDROBE_,Wardrobe
 25045,LADDER_,Tikkaat
 25046,BOOKSHELVES_,Kirjahyllyt
-25047,TABLE_,paytapaytapayta
+25047,TABLE_,poyta
 25048,CHAIR_,Tuoli
 25080,COLUMN_,Kolumni
 25081,COLUMN_,Kolumni
@@ -13508,7 +13508,7 @@
 25600,BARREL_,Tynnyri
 25601,BENCH_,Bench
 25602,BOW_CABINET_,Bow Cabinet
-25603,TABLE_,paytapaytapayta
+25603,TABLE_,poyta
 25604,STAIRCASE_,Portaikko
 25605,THRONE_,valtaistuin
 25606,LADDER_,Tikkaat
@@ -13519,7 +13519,7 @@
 25611,SHELVES_,Hyllyt
 25612,SHELVES_,Hyllyt
 25614,CRYSTAL_BALL_,Kristallipallo
-25615,TABLE_,paytapaytapayta
+25615,TABLE_,poyta
 25616,CHAIR_,Tuoli
 25620,NOVICE_FLAG,Noviisi lippu
 25621,INTERMEDIATE_FLAG,Valimeren lippu
@@ -13614,8 +13614,8 @@
 25730,RANGE_,Etaisyys
 25731,GRANDFATHER_CLOCK_,Isoisa kello
 25732,DRAGONS_HEAD_,Lohikaarmeen paa
-25733,TABLE_,paytapaytapayta
-25734,TABLE_,paytapaytapayta
+25733,TABLE_,poyta
+25734,TABLE_,poyta
 25735,BED_,sanky
 25736,SHELF_,hyllysta
 25737,SHELF_,hyllysta
@@ -13644,7 +13644,7 @@
 25774,WORKBENCH_,Tyapaikka
 25775,CRATE_,Kreikkalainen
 25776,CRATES_,Kreikkalaiset
-25778,TABLE_,paytapaytapayta
+25778,TABLE_,poyta
 25779,STATUE_,Patsas
 25780,BARREL_,Tynnyri
 25781,COOKING_SHELVES_,Kokkaa hyllyt
@@ -13700,10 +13700,10 @@
 25886,BED_,sanky
 25889,SIR_TRISTRAM,Tristram
 25927,BOOKCASE_,Kirjasto
-25928,TABLE_,paytapaytapayta
+25928,TABLE_,poyta
 25929,SINK_,Sininen
-25930,TABLE_,paytapaytapayta
-25931,TABLE_,paytapaytapayta
+25930,TABLE_,poyta
+25931,TABLE_,poyta
 25932,BAR_PUMPS_,Baari pumput
 25933,SHELVES_,Hyllyt
 25934,SHELVES_,Hyllyt
@@ -13727,7 +13727,7 @@
 25956,COURT_JUDGE,Tuomioistuimen tuomioistuin
 25981,LOCKED_GATE,lukittu portti
 26017,STAIRS_,Portaat
-26020,TABLE_,paytapaytapayta
+26020,TABLE_,poyta
 26042,GATE_,Portti
 26043,DESK_,Tyapayta
 26044,DESK_,Tyapayta
@@ -13740,7 +13740,7 @@
 26051,STAIRS_,Portaat
 26053,BOOKCASE_,Kirjasto
 26073,STATUE_,Patsas
-26074,TABLE_,paytapaytapayta
+26074,TABLE_,poyta
 26075,CHAIR_,Tuoli
 26076,CHAIR_,Tuoli
 26077,CHAIR_,Tuoli
@@ -13769,7 +13769,7 @@
 26137,FLY_PAPER,Lentava paperi
 26140,GRAMOPHONE_,Graphone
 26141,GRAMOPHONE_,Graphone
-26142,TABLE_,paytapaytapayta
+26142,TABLE_,poyta
 26143,SPINNING_WHEEL_,Pyara pyarii
 26144,BOIL_,Keitetty
 26145,BOIL_,Keitetty
@@ -13792,9 +13792,9 @@
 26194,LEVER_,Vinkkeja
 26198,BIRTHDAY_CAKE,Syntymapaivakakku
 26199,GRINDER,Hirvia
-26201,TABLE_,paytapaytapayta
-26202,TABLE_,paytapaytapayta
-26203,TABLE_,paytapaytapayta
+26201,TABLE_,poyta
+26202,TABLE_,poyta
+26203,TABLE_,poyta
 26205,DOOR_,Oven ovi
 26206,SEED_VAULT,siemenia
 26207,LARGE_DOOR_,Suuri ovi
@@ -14217,8 +14217,8 @@
 27203,STAIRS_,Portaat
 27204,STAIRS_,Portaat
 27205,MEDPACK_BOX,Medpackin laatikko
-27209,TABLE_,paytapaytapayta
-27210,TABLE_,paytapaytapayta
+27209,TABLE_,poyta
+27210,TABLE_,poyta
 27214,LECTERN_,Lecter
 27215,TRAINING_DUMMY,Harjoittelu Dummy
 27216,ARCHERY_TARGET_,Arkkitehtuurin kohde
@@ -14258,7 +14258,7 @@
 27292,BANK_BOOTH_,Pankki Booth
 27335,BED_,sanky
 27336,BED_,sanky
-27337,TABLE_,paytapaytapayta
+27337,TABLE_,poyta
 27338,BED_,sanky
 27339,BED_,sanky
 27340,IVORY_TABLE,Norsunluupayta
@@ -14273,10 +14273,10 @@
 27349,IVORY_TABLE_,Norsunluupayta
 27350,IVORY_TABLE_,Norsunluupayta
 27351,IVORY_TABLE_,Norsunluupayta
-27353,TABLE_,paytapaytapayta
-27354,TABLE_,paytapaytapayta
-27356,TABLE_,paytapaytapayta
-27357,TABLE_,paytapaytapayta
+27353,TABLE_,poyta
+27354,TABLE_,poyta
+27356,TABLE_,poyta
+27357,TABLE_,poyta
 27358,BOOKCASE_,Kirjasto
 27359,BOOKCASE_,Kirjasto
 27360,BOOKCASE_,Kirjasto
@@ -14365,8 +14365,8 @@
 27511,BENCH_,Bench
 27512,CHAIR_,Tuoli
 27513,CHAIR_,Tuoli
-27514,TABLE_,paytapaytapayta
-27515,TABLE_,paytapaytapayta
+27514,TABLE_,poyta
+27515,TABLE_,poyta
 27516,RANGE_,Etaisyys
 27517,RANGE_,Etaisyys
 27518,BAR_,baari baari
@@ -14395,7 +14395,7 @@
 27541,PIANO_,piano
 27542,CUPBOARD_,cup
 27543,POTS_,Potit
-27544,TABLE_,paytapaytapayta
+27544,TABLE_,poyta
 27545,DRAWERS_,laatikot
 27546,STOOL_,Jalokivi
 27547,STOOL_,Jalokivi
@@ -14435,14 +14435,14 @@
 27682,CHAIR_,Tuoli
 27683,CHAIR_,Tuoli
 27684,CHAIR_,Tuoli
-27685,TABLE_,paytapaytapayta
-27686,TABLE_,paytapaytapayta
-27687,TABLE_,paytapaytapayta
-27688,TABLE_,paytapaytapayta
-27689,TABLE_,paytapaytapayta
-27690,TABLE_,paytapaytapayta
-27691,TABLE_,paytapaytapayta
-27692,TABLE_,paytapaytapayta
+27685,TABLE_,poyta
+27686,TABLE_,poyta
+27687,TABLE_,poyta
+27688,TABLE_,poyta
+27689,TABLE_,poyta
+27690,TABLE_,poyta
+27691,TABLE_,poyta
+27692,TABLE_,poyta
 27696,STAIRS_,Portaat
 27697,BEER_BARRELS,Oluen tynnyreita
 27698,BROKEN_TABLE,Rikkinainen payta
@@ -14452,8 +14452,8 @@
 27702,SHELVES_,Hyllyt
 27703,CUPBOARD_,cup
 27704,CUPBOARD_,cup
-27705,TABLE_,paytapaytapayta
-27706,TABLE_,paytapaytapayta
+27705,TABLE_,poyta
+27706,TABLE_,poyta
 27707,SINK_,Sininen
 27708,SINK_,Sininen
 27709,POTS_,Potit
@@ -14880,12 +14880,12 @@
 28348,BOOKSHELF_,Kirjahylly
 28349,BOOKSHELF_,Kirjahylly
 28350,BOOKSHELF_,Kirjahylly
-28363,TABLE_,paytapaytapayta
-28364,TABLE_,paytapaytapayta
-28365,TABLE_,paytapaytapayta
-28366,TABLE_,paytapaytapayta
-28367,TABLE_,paytapaytapayta
-28368,TABLE_,paytapaytapayta
+28363,TABLE_,poyta
+28364,TABLE_,poyta
+28365,TABLE_,poyta
+28366,TABLE_,poyta
+28367,TABLE_,poyta
+28368,TABLE_,poyta
 28385,PARCHMENT,Parch
 28386,PARCHMENT_,Parch
 28387,PARCHMENT_,Parch
@@ -14902,22 +14902,22 @@
 28398,BOOKS_,kirjoja
 28399,BOOKS_,kirjoja
 28400,BOOKS_,kirjoja
-28401,TABLE_,paytapaytapayta
-28402,TABLE_,paytapaytapayta
-28403,TABLE_,paytapaytapayta
-28404,TABLE_,paytapaytapayta
+28401,TABLE_,poyta
+28402,TABLE_,poyta
+28403,TABLE_,poyta
+28404,TABLE_,poyta
 28406,SPIRIT_PUMP,Henki pumppaa
 28407,SPIRIT_PUMP_,Henki pumppaa
 28408,BARREL_,Tynnyri
 28409,BARREL_,Tynnyri
-28411,TABLE_,paytapaytapayta
-28412,TABLE_,paytapaytapayta
-28413,TABLE_,paytapaytapayta
-28414,TABLE_,paytapaytapayta
-28415,TABLE_,paytapaytapayta
-28416,TABLE_,paytapaytapayta
-28417,TABLE_,paytapaytapayta
-28418,TABLE_,paytapaytapayta
+28411,TABLE_,poyta
+28412,TABLE_,poyta
+28413,TABLE_,poyta
+28414,TABLE_,poyta
+28415,TABLE_,poyta
+28416,TABLE_,poyta
+28417,TABLE_,poyta
+28418,TABLE_,poyta
 28419,BED_,sanky
 28420,BED_,sanky
 28421,BED_,sanky
@@ -14925,9 +14925,9 @@
 28423,SHELF_,hyllysta
 28424,SHELF_,hyllysta
 28425,SHELF_,hyllysta
-28426,TABLE_,paytapaytapayta
-28427,TABLE_,paytapaytapayta
-28428,TABLE_,paytapaytapayta
+28426,TABLE_,poyta
+28427,TABLE_,poyta
+28428,TABLE_,poyta
 28429,BANK_BOOTH_,Pankki Booth
 28430,BANK_BOOTH_,Pankki Booth
 28431,BANK_BOOTH_,Pankki Booth
@@ -14983,7 +14983,7 @@
 28520,DOUBLE_BED_,Kaksinkertainen sanky
 28521,SLEEPING_BAG_,Nukkuva laukku
 28522,GLASS_TABLE,Lasillinen
-28523,TABLE_,paytapaytapayta
+28523,TABLE_,poyta
 28524,WORK_TABLE,Tyapayta
 28525,SMALL_TABLE_,Pieni payta
 28526,WHEELY_TABLE,Pyara payta
@@ -15180,8 +15180,8 @@
 28858,ROPE_LADDER_,kaysi tikkaat
 28859,SERVANTS_MONEYBAG,Palvelijoiden rahalaukut
 28861,BANK_CHEST_,Pankin rintama
-28862,TABLE_,paytapaytapayta
-28863,TABLE_,paytapaytapayta
+28862,TABLE_,poyta
+28863,TABLE_,poyta
 28864,COUNTER_,Counter
 28865,FUNERAL_PYRE_,Hautajaiset pyre
 28866,FUNERAL_PYRE_,Hautajaiset pyre
@@ -15464,7 +15464,7 @@
 29331,GOLDEN_GNOME,Kultainen gnome
 29332,CART_TUNNEL_,Cart Tunnel
 29333,CART_TUNNEL_,Cart Tunnel
-29334,TABLE_,paytapaytapayta
+29334,TABLE_,poyta
 29335,COMBAT_DUMMY_SPACE,Dummy Space
 29336,COMBAT_DUMMY,Taistele Dummy
 29337,UNDEAD_COMBAT_DUMMY,Kuolleet taistelut
@@ -15978,7 +15978,7 @@
 30139,STAIRCASE_,Portaikko
 30141,WARDROBE_,Wardrobe
 30142,WARDROBE_,Wardrobe
-30145,TABLE_,paytapaytapayta
+30145,TABLE_,poyta
 30146,SHELVES_,Hyllyt
 30147,BUCKET_,Bucket
 30148,FERN_,fern
@@ -16349,7 +16349,7 @@
 30867,CHEST_,Rintakeha
 30868,SKROOM_,Skroom
 30869,CAVE_ENTRANCE_,Luolan sisaankaynti
-30871,TABLE_,paytapaytapayta
+30871,TABLE_,poyta
 30872,BROKEN_TABLE_,Rikkinainen payta
 30878,CAVE_EXIT_,Cave Exit
 30914,ROWBOAT_,Rivivene
@@ -16699,12 +16699,12 @@
 31572,LOG_STORAGE,Sailytys
 31579,LADDER_,Tikkaat
 31580,LADDER_,Tikkaat
-31581,TABLE_,paytapaytapayta
+31581,TABLE_,poyta
 31582,BANK_COUNTER_,pankkivastainen
 31583,DEADMAN_SUPPLY_CHEST,Deadman toimittaa rintaa
 31584,MYSTERIOUS_RUINS_,Salaperaisia raunioita
 31585,SPADE_,Spa
-31587,TABLE_,paytapaytapayta
+31587,TABLE_,poyta
 31606,CAVE_ENTRANCE_,Luolan sisaankaynti
 31607,MYSTERIOUS_RUINS_,Salaperaisia raunioita
 31609,STAIRS_,Portaat
@@ -16874,7 +16874,7 @@
 31879,TOTEM_POLE_,Totem Pole
 31880,FOUNTAIN_OF_HEROES,Sankarien lahde
 31881,FOUNTAIN_OF_HEROES_,Sankarien lahde
-31882,TABLE_,paytapaytapayta
+31882,TABLE_,poyta
 31885,CURTAIN_,verhot
 31887,SHELVES_,Hyllyt
 31888,BRAZIER_,Brazier
@@ -17187,7 +17187,7 @@
 32506,OBELISK_,obeliski
 32507,MAGIC_GATE,Maaginen portti
 32508,UNSTABLE_ALTAR,Epavakaa alttari
-32509,TABLE_,paytapaytapayta
+32509,TABLE_,poyta
 32511,BROKEN_BED,Rikki sanky
 32513,BROKEN_TABLE_,Rikkinainen payta
 32516,BROKEN_BRAZIER,Rikkinainen Brazier
@@ -17621,8 +17621,8 @@
 33517,REFINERY_,Jalostamo
 33518,REFINERY_,Jalostamo
 33519,REFINERY_,Jalostamo
-33520,TABLE_,paytapaytapayta
-33521,TABLE_,paytapaytapayta
+33520,TABLE_,poyta
+33521,TABLE_,poyta
 33522,CUPBOARD_,cup
 33523,RUNIC_ALTAR,Juokseva alttari
 33524,RUNIC_ALTAR_,Juokseva alttari
@@ -17653,10 +17653,10 @@
 33557,DOOR_,Oven ovi
 33558,CRATE_,Kreikkalainen
 33559,CRATES_,Kreikkalaiset
-33560,TABLE_,paytapaytapayta
-33561,TABLE_,paytapaytapayta
-33562,TABLE_,paytapaytapayta
-33563,TABLE_,paytapaytapayta
+33560,TABLE_,poyta
+33561,TABLE_,poyta
+33562,TABLE_,poyta
+33563,TABLE_,poyta
 33565,CRATE_,Kreikkalainen
 33567,DEAD_BODY,Kuollut ruumis
 33568,THANA,Thaimaassa
@@ -18633,7 +18633,7 @@
 34933,DEAD_TREE_,Kuollut puu
 34934,DEAD_TREE_,Kuollut puu
 34935,DEAD_TREE_,Kuollut puu
-34936,TABLE_,paytapaytapayta
+34936,TABLE_,poyta
 34937,BUCKET_,Bucket
 34938,SPEAR_WALL_,Kevyt seina
 34939,DRAWERS_,laatikot
@@ -18641,7 +18641,7 @@
 34941,CHEST_,Rintakeha
 34942,CHEST_,Rintakeha
 34943,SINK_,Sininen
-34944,TABLE_,paytapaytapayta
+34944,TABLE_,poyta
 34947,PORTAL_,Portaali
 34948,GANGPLANK_,Gangplank
 34949,GANGPLANK_,Gangplank
@@ -18986,7 +18986,7 @@
 35870,BROKEN_CART_,Rikkinainen Cart
 35871,BARRICADE_,barrikadi
 35872,SACK_,Saa
-35873,TABLE_,paytapaytapayta
+35873,TABLE_,poyta
 35874,BENCH_,Bench
 35875,COOKING_POTS_,Keittaminen Pots
 35876,COOKING_POTS_,Keittaminen Pots
@@ -19197,7 +19197,7 @@
 36560,CLOSED_BANK_BOOTH_,Suljettu pankki
 36561,ARMOUR_STAND_,Arkkitehti seisoo
 36563,SAND_PIT_,Hiekka Pit
-36564,TABLE_,paytapaytapayta
+36564,TABLE_,poyta
 36566,DUMMY_,Dummy
 36567,TABLE_SAW,Nayta payta
 36568,MARKET_STALL_,Markkinat pysahtyvat
@@ -19499,7 +19499,7 @@
 37591,BARROWS_PORTAL,Barrows portaali
 37592,APE_ATOLL_DUNGEON_PORTAL,ape atoll dungeon portaali
 37593,WEISS_PORTAL_,Weiss portaali
-37594,TABLE_,paytapaytapayta
+37594,TABLE_,poyta
 37595,DRAYNOR_MANOR_PORTAL_,draynor manor portaali
 37596,BATTLEFRONT_PORTAL_,Taisteluportaali
 37597,MIND_ALTAR_PORTAL_,Alttarin portaali
@@ -19511,7 +19511,7 @@
 37603,BARROWS_PORTAL_,Barrows portaali
 37604,APE_ATOLL_DUNGEON_PORTAL_,ape atoll dungeon portaali
 37605,WEISS_PORTAL_,Weiss portaali
-37606,TABLE_,paytapaytapayta
+37606,TABLE_,poyta
 37607,DRAYNOR_MANOR_PORTAL_,draynor manor portaali
 37608,BATTLEFRONT_PORTAL_,Taisteluportaali
 37609,MIND_ALTAR_PORTAL_,Alttarin portaali
@@ -19553,16 +19553,16 @@
 37825,STONE_POOL,Kivi
 37826,BRAZIER_,Brazier
 37827,CRATE_,Kreikkalainen
-37828,TABLE_,paytapaytapayta
-37829,TABLE_,paytapaytapayta
-37830,TABLE_,paytapaytapayta
+37828,TABLE_,poyta
+37829,TABLE_,poyta
+37830,TABLE_,poyta
 37831,STAIRS_,Portaat
 37832,STAIRS_,Portaat
 37833,STAIRS_,Portaat
 37834,CANDLES_,Kynttilat
 37835,STAIRS_,Portaat
 37836,STAIRS_,Portaat
-37839,TABLE_,paytapaytapayta
+37839,TABLE_,poyta
 37840,BENCH_,Bench
 37841,BENCH_,Bench
 37842,STATUE_,Patsas
@@ -19920,9 +19920,9 @@
 38986,STAIRS_,Portaat
 38987,STAIRS_,Portaat
 39064,BOX_,laatikko
-39065,TABLE_,paytapaytapayta
-39066,TABLE_,paytapaytapayta
-39067,TABLE_,paytapaytapayta
+39065,TABLE_,poyta
+39066,TABLE_,poyta
+39067,TABLE_,poyta
 39068,STAIRS_,Portaat
 39069,STAIRS_,Portaat
 39070,STATUE_,Patsas
@@ -19938,17 +19938,17 @@
 39095,DAEYALT_ESSENCE_,daeyaltin ydin
 39117,MINE_CART_,Mun Cart
 39118,PLINTH_,Plinssi
-39126,TABLE_,paytapaytapayta
-39127,TABLE_,paytapaytapayta
-39128,TABLE_,paytapaytapayta
-39129,TABLE_,paytapaytapayta
-39130,TABLE_,paytapaytapayta
-39131,TABLE_,paytapaytapayta
-39132,TABLE_,paytapaytapayta
-39133,TABLE_,paytapaytapayta
-39134,TABLE_,paytapaytapayta
-39135,TABLE_,paytapaytapayta
-39136,TABLE_,paytapaytapayta
+39126,TABLE_,poyta
+39127,TABLE_,poyta
+39128,TABLE_,poyta
+39129,TABLE_,poyta
+39130,TABLE_,poyta
+39131,TABLE_,poyta
+39132,TABLE_,poyta
+39133,TABLE_,poyta
+39134,TABLE_,poyta
+39135,TABLE_,poyta
+39136,TABLE_,poyta
 39137,STOOL_,Jalokivi
 39138,STOOL_,Jalokivi
 39152,LAMP_,lamppu
@@ -20014,22 +20014,22 @@
 39448,BAR_,baari baari
 39449,BAR_,baari baari
 39450,STOOL_,Jalokivi
-39451,TABLE_,paytapaytapayta
-39452,TABLE_,paytapaytapayta
+39451,TABLE_,poyta
+39452,TABLE_,poyta
 39453,HAT_STAND_,Hattu seisoo
 39458,RANGE_,Etaisyys
 39459,SINK_,Sininen
 39460,COFFIN_,coffin
 39461,COFFIN_,coffin
 39462,SEWING_MACHINE_,ompelukone
-39463,TABLE_,paytapaytapayta
-39464,TABLE_,paytapaytapayta
-39465,TABLE_,paytapaytapayta
+39463,TABLE_,poyta
+39464,TABLE_,poyta
+39465,TABLE_,poyta
 39481,DOOR_,Oven ovi
 39482,DOOR_,Oven ovi
 39483,SOFA_,Sohva
-39484,TABLE_,paytapaytapayta
-39485,TABLE_,paytapaytapayta
+39484,TABLE_,poyta
+39485,TABLE_,poyta
 39487,COFFIN_,coffin
 39488,WARDROBE_,Wardrobe
 39489,SINK_,Sininen
@@ -20116,7 +20116,7 @@
 39698,FLOWERS_,Kukat
 39699,FLOWERS_,Kukat
 39700,FLOWERS_,Kukat
-39716,TABLE_,paytapaytapayta
+39716,TABLE_,poyta
 39718,STOOL_,Jalokivi
 39719,HOLE_,Reika
 39720,WELL_,Hyvin hyvin
@@ -20298,11 +20298,11 @@
 39926,DRAWERS_,laatikot
 39927,DRAWERS_,laatikot
 39928,BROKEN_TABLE_,Rikkinainen payta
-39929,TABLE_,paytapaytapayta
-39930,TABLE_,paytapaytapayta
-39931,TABLE_,paytapaytapayta
-39932,TABLE_,paytapaytapayta
-39933,TABLE_,paytapaytapayta
+39929,TABLE_,poyta
+39930,TABLE_,poyta
+39931,TABLE_,poyta
+39932,TABLE_,poyta
+39933,TABLE_,poyta
 39934,BROKEN_SHELVES,Rikkinaiset hyllyt
 39935,SHELVES_,Hyllyt
 39936,SHELVES_,Hyllyt
@@ -20329,18 +20329,18 @@
 39957,CHAIR_,Tuoli
 39958,CHAIR_,Tuoli
 39959,CHAIR_,Tuoli
-39960,TABLE_,paytapaytapayta
-39961,TABLE_,paytapaytapayta
-39962,TABLE_,paytapaytapayta
-39963,TABLE_,paytapaytapayta
-39964,TABLE_,paytapaytapayta
-39965,TABLE_,paytapaytapayta
-39966,TABLE_,paytapaytapayta
-39967,TABLE_,paytapaytapayta
-39968,TABLE_,paytapaytapayta
-39969,TABLE_,paytapaytapayta
-39970,TABLE_,paytapaytapayta
-39971,TABLE_,paytapaytapayta
+39960,TABLE_,poyta
+39961,TABLE_,poyta
+39962,TABLE_,poyta
+39963,TABLE_,poyta
+39964,TABLE_,poyta
+39965,TABLE_,poyta
+39966,TABLE_,poyta
+39967,TABLE_,poyta
+39968,TABLE_,poyta
+39969,TABLE_,poyta
+39970,TABLE_,poyta
+39971,TABLE_,poyta
 39972,BED_,sanky
 39973,BED_,sanky
 39974,BED_,sanky
@@ -20351,11 +20351,11 @@
 39979,BROKEN_RANGE_,Rikkinainen alue
 39980,BROKEN_RANGE_,Rikkinainen alue
 40016,BROKEN_TABLE_,Rikkinainen payta
-40017,TABLE_,paytapaytapayta
-40018,TABLE_,paytapaytapayta
-40019,TABLE_,paytapaytapayta
-40020,TABLE_,paytapaytapayta
-40021,TABLE_,paytapaytapayta
+40017,TABLE_,poyta
+40018,TABLE_,poyta
+40019,TABLE_,poyta
+40020,TABLE_,poyta
+40021,TABLE_,poyta
 40022,BROKEN_SINK,Rikkinainen sinkki
 40023,SINK_,Sininen
 40024,COOKING_SHELVES_,Kokkaa hyllyt
@@ -20365,11 +20365,11 @@
 40028,COOKING_SHELVES_,Kokkaa hyllyt
 40029,COOKING_SHELVES_,Kokkaa hyllyt
 40030,BROKEN_TABLE_,Rikkinainen payta
-40031,TABLE_,paytapaytapayta
-40032,TABLE_,paytapaytapayta
-40033,TABLE_,paytapaytapayta
-40034,TABLE_,paytapaytapayta
-40035,TABLE_,paytapaytapayta
+40031,TABLE_,poyta
+40032,TABLE_,poyta
+40033,TABLE_,poyta
+40034,TABLE_,poyta
+40035,TABLE_,poyta
 40036,CUPBOARD_,cup
 40037,CUPBOARD_,cup
 40038,CUPBOARD_,cup
@@ -20419,17 +20419,17 @@
 40082,DRAWER_SPACE,Piirtaja Space
 40100,BROKEN_SINK_,Rikkinainen sinkki
 40101,BROKEN_TABLE_,Rikkinainen payta
-40102,TABLE_,paytapaytapayta
-40103,TABLE_,paytapaytapayta
-40104,TABLE_,paytapaytapayta
-40105,TABLE_,paytapaytapayta
-40106,TABLE_,paytapaytapayta
-40107,TABLE_,paytapaytapayta
-40108,TABLE_,paytapaytapayta
-40109,TABLE_,paytapaytapayta
-40110,TABLE_,paytapaytapayta
-40111,TABLE_,paytapaytapayta
-40112,TABLE_,paytapaytapayta
+40102,TABLE_,poyta
+40103,TABLE_,poyta
+40104,TABLE_,poyta
+40105,TABLE_,poyta
+40106,TABLE_,poyta
+40107,TABLE_,poyta
+40108,TABLE_,poyta
+40109,TABLE_,poyta
+40110,TABLE_,poyta
+40111,TABLE_,poyta
+40112,TABLE_,poyta
 40113,CUPBOARD_,cup
 40114,BROKEN_CUPBOARD,Rikkinainen kaappi
 40115,CUPBOARD_,cup
@@ -20521,7 +20521,7 @@
 40225,BROKEN_TABLE_,Rikkinainen payta
 40226,BROKEN_TABLE_,Rikkinainen payta
 40227,TABLE_HOTSPOT,Hotspot-payta
-40228,TABLE_,paytapaytapayta
+40228,TABLE_,poyta
 40229,CAMPBED,Leirintaalueet
 40230,CAMPBED_,Leirintaalueet
 40231,BED_HOTSPOT,Sanky Hotspot
@@ -20643,13 +20643,13 @@
 40420,BIG_DOOR_,Suuri ovi
 40421,TUNNEL_ENTRANCE_,Tunnelin sisaankaynti
 40422,TUNNEL_ENTRANCE_,Tunnelin sisaankaynti
-40423,TABLE_,paytapaytapayta
-40424,TABLE_,paytapaytapayta
+40423,TABLE_,poyta
+40424,TABLE_,poyta
 40425,SHELVES_,Hyllyt
 40426,WOOD_,puuta
 40430,ORNATE_VAMPYRE_COMBAT_DUMMY,Ornate Vampyre Battle Dummy
 40431,ORNATE_DRAGON_COMBAT_DUMMY,Lohikaarmeen taistelu
-40432,TABLE_,paytapaytapayta
+40432,TABLE_,poyta
 40433,TREE_,Puu puu puu puu puu
 40434,SUPPLIES_,Tarjoukset
 40435,SOUL_OBELISK,Sielu obeliski
@@ -20722,7 +20722,7 @@
 40727,BARREL_,Tynnyri
 40728,FIRE_,Tulipalo
 40729,STOOL_,Jalokivi
-40730,TABLE_,paytapaytapayta
+40730,TABLE_,poyta
 40731,TENT_,Telta
 40732,BROKEN_POTTERS_WHEEL,Rikkinaiset potterit
 40733,POTTERS_WHEEL_,Potters pyara
@@ -21147,7 +21147,7 @@
 41305,ROPE_LADDER_,kaysi tikkaat
 41308,BANNER_,Bankki
 41309,BOOK_TABLE,Kirjan payta
-41310,TABLE_,paytapaytapayta
+41310,TABLE_,poyta
 41311,FERRY,Lautta
 41312,SPIRIT_ANGLER_DOCK,Alkuperaisnimi Angler Dock
 41314,SPIRIT_ANGLER_STATS,Angler Stats
@@ -21158,7 +21158,7 @@
 41319,ALTAR_,alttari
 41326,SHANTAY_PASS_,Shantay Pass
 41327,SLEEPING_BAG_,Nukkuva laukku
-41328,TABLE_,paytapaytapayta
+41328,TABLE_,poyta
 41329,BARREL_,Tynnyri
 41330,FISHING_ROD_,Kalastusvaatteet
 41332,CRATES_,Kreikkalaiset
@@ -21221,7 +21221,7 @@
 41483,BIG_DOOR_,Suuri ovi
 41484,BIG_DOOR_,Suuri ovi
 41493,BANK_CHEST_,Pankin rintama
-41494,TABLE_,paytapaytapayta
+41494,TABLE_,poyta
 41495,WORKBENCH_,Tyapaikka
 41511,MINE_CART_,Mun Cart
 41512,MINE_CART_,Mun Cart
@@ -21264,7 +21264,7 @@
 41604,BARREL_,Tynnyri
 41605,BOXES_,Laatikot
 41606,SIGNPOST_,Merkinta
-41607,TABLE_,paytapaytapayta
+41607,TABLE_,poyta
 41610,BUSH_,Bush
 41611,BUSH_,Bush
 41613,RED_BARRIER_,Punainen este
@@ -21283,9 +21283,9 @@
 41644,STOOL_,Jalokivi
 41645,LARDER_,Jarjestaja
 41646,WOODEN_BENCH_,Puinen penkki
-41647,TABLE_,paytapaytapayta
-41648,TABLE_,paytapaytapayta
-41649,TABLE_,paytapaytapayta
+41647,TABLE_,poyta
+41648,TABLE_,poyta
+41649,TABLE_,poyta
 41650,ALTAR_,alttari
 41651,PIANO_,piano
 41652,DUMMY_,Dummy
@@ -21311,8 +21311,8 @@
 41691,CLAN_BANNER_,Klan banneri
 41692,CLAN_BANNER_,Klan banneri
 41693,CLAN_BANNER_,Klan banneri
-41694,TABLE_,paytapaytapayta
-41695,TABLE_,paytapaytapayta
+41694,TABLE_,poyta
+41695,TABLE_,poyta
 41696,CHEST_,Rintakeha
 41697,COOKING_POTS_,Keittaminen Pots
 41701,CHURCH_PEW_,Kirkko
@@ -21360,10 +21360,10 @@
 41770,SHELVES_,Hyllyt
 41772,SHELVES_,Hyllyt
 41773,SHELVES_,Hyllyt
-41774,TABLE_,paytapaytapayta
-41775,TABLE_,paytapaytapayta
-41776,TABLE_,paytapaytapayta
-41777,TABLE_,paytapaytapayta
+41774,TABLE_,poyta
+41775,TABLE_,poyta
+41776,TABLE_,poyta
+41777,TABLE_,poyta
 41778,ROSES_,Ruusut
 41779,ROSES_,Ruusut
 41780,CABINET_,Kabinetti
@@ -21383,8 +21383,8 @@
 41799,BED_,sanky
 41800,BED_,sanky
 41801,CELL_DOOR_,solun ovi
-41802,TABLE_,paytapaytapayta
-41803,TABLE_,paytapaytapayta
+41802,TABLE_,poyta
+41803,TABLE_,poyta
 41804,SKELETON_,Skeleton
 41805,SKELETON_,Skeleton
 41806,STAIRCASE_,Portaikko
@@ -21454,14 +21454,14 @@
 41876,LIZARDMAN_EGGS_,Lizardmanin munat
 41877,GATE_,Portti
 41878,GATE_,Portti
-41879,TABLE_,paytapaytapayta
-41880,TABLE_,paytapaytapayta
+41879,TABLE_,poyta
+41880,TABLE_,poyta
 41881,MARK_OF_DARKNESS,Pimeyden merkki
 41883,HANGING_HAND_,Ripusta kasi
 41884,HANGING_HAND_,Ripusta kasi
-41892,TABLE_,paytapaytapayta
-41893,TABLE_,paytapaytapayta
-41894,TABLE_,paytapaytapayta
+41892,TABLE_,poyta
+41893,TABLE_,poyta
+41894,TABLE_,poyta
 41896,GIANT_VIAL_,Jattilainen Vial
 41897,GIANT_VIAL_,Jattilainen Vial
 41898,SHELF_,hyllysta
@@ -21535,10 +21535,10 @@
 42072,BARREL_,Tynnyri
 42073,BARREL_,Tynnyri
 42074,BARREL_,Tynnyri
-42080,TABLE_,paytapaytapayta
-42081,TABLE_,paytapaytapayta
-42082,TABLE_,paytapaytapayta
-42083,TABLE_,paytapaytapayta
+42080,TABLE_,poyta
+42081,TABLE_,poyta
+42082,TABLE_,poyta
+42083,TABLE_,poyta
 42084,WOODEN_CART_,Puinen puu
 42085,TREBUCHET_,Trebuchet
 42086,SHELVES_,Hyllyt
@@ -21582,7 +21582,7 @@
 42145,FABRIC_,Kankaat
 42146,HANGING_FLAG,Ripusta lippu
 42147,HANGING_FLAG_,Ripusta lippu
-42148,TABLE_,paytapaytapayta
+42148,TABLE_,poyta
 42149,CLOTHES_STAND,Vaatteet
 42150,CLOTH_,Vaatteet
 42151,BOW_CASE_,Keltainen
@@ -21616,8 +21616,8 @@
 42180,CEREMONIAL_PILLAR_,Seremoniallinen pilari
 42183,TOMBSTONE_,Hautakivi
 42184,BUNK_BED_,Punainen sanky
-42185,TABLE_,paytapaytapayta
-42186,TABLE_,paytapaytapayta
+42185,TABLE_,poyta
+42186,TABLE_,poyta
 42193,STAIRCASE_,Portaikko
 42194,STAIRCASE_,Portaikko
 42195,STAIRCASE_,Portaikko
@@ -22167,9 +22167,9 @@
 43803,RUBBLE_,Rubble
 43804,GUARDIAN_REMAINS_,Vartija jaa
 43805,GUARDIAN_REMAINS_,Vartija jaa
-43806,TABLE_,paytapaytapayta
-43807,TABLE_,paytapaytapayta
-43808,TABLE_,paytapaytapayta
+43806,TABLE_,poyta
+43807,TABLE_,poyta
+43808,TABLE_,poyta
 43809,GUARDIAN_OF_AIR_,Ilman huoltaja
 43810,GUARDIAN_OF_WATER_,Veden vartija
 43811,GUARDIAN_OF_EARTH_,Maapallon vartija
@@ -22299,7 +22299,7 @@
 44013,FLOWER_,Kukkia
 44014,FLOWER_,Kukkia
 44015,FLOWER_,Kukkia
-44019,TABLE_,paytapaytapayta
+44019,TABLE_,poyta
 44020,CUSHION,Cushion
 44021,FIRE_,Tulipalo
 44022,FIRE_,Tulipalo
@@ -22408,9 +22408,9 @@
 44290,CUSHION_,Cushion
 44291,CUSHION_,Cushion
 44292,CUSHION_,Cushion
-44293,TABLE_,paytapaytapayta
+44293,TABLE_,poyta
 44294,BROKEN_TABLE_,Rikkinainen payta
-44295,TABLE_,paytapaytapayta
+44295,TABLE_,poyta
 44296,OBELISK_,obeliski
 44551,RUBBLE_,Rubble
 44552,RUBBLE_,Rubble
@@ -23059,7 +23059,7 @@
 46494,WOODEN_BENCH_,Puinen penkki
 46495,FESTIVE_TABLE,Festivaalipayta
 46496,FESTIVE_TABLE_,Festivaalipayta
-46497,TABLE_,paytapaytapayta
+46497,TABLE_,poyta
 46499,DECORATED_FESTIVE_FIREPLACE,Festivaalin palokunta
 46500,COSY_CAT,Viilea kissa
 46509,EVERGREEN_,ikivihrea
@@ -23190,7 +23190,7 @@
 46794,ROCKSLIDE_,Rockslideja
 46795,ROCKSLIDE_,Rockslideja
 46796,ROCKSLIDE_,Rockslideja
-46802,TABLE_,paytapaytapayta
+46802,TABLE_,poyta
 46805,WELL_,Hyvin hyvin
 46807,TENT_,Telta
 46808,CAMPING_EQUIPMENT_,Leirintavalineet
