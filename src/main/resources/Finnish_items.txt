@@ -2,11 +2,11 @@
 1,toolkit ,tyokalupakki
 2,cannonball ,tykinkuula
 3,nulodions notes ,nulodions muistiinpanoja
-4,ammo mould ,ammumuotti
+4,ammo mould ,ammusmuotti
 5,instruction manual ,kayttoopas
 6,cannon base ,tykin tukikohta
 8,cannon stand ,tykin jalusta
-10,cannon barrels ,tykin piipuja
+10,cannon barrels ,tykin piippuja
 12,cannon furnace ,tykki uuni
 14,railing ,kaide
 15,holy table napkin ,pyhan poydan lautasliina
@@ -58,7 +58,7 @@
 77,khali brew ,khali-olut
 78,ice arrows ,jaan nuolet
 83,lever ,vipu
-84,staff of armadyl ,armadylin henkilokunta
+84,staff of armadyl ,armadylin keppi
 85,shiny key ,kiiltava avain
 86,pendant of lucien ,lucienin riipus
 87,armadyl pendant ,armadyyli riipus
@@ -76,47 +76,47 @@
 107,cadantine potion unf ,cadantine potion unf
 109,dwarf weed potion unf ,kaapio rikkaruohojuoma unf
 111,torstol potion unf ,torstol potion unf
-113,strength potion ,voimakas juoma
-115,strength potion ,voimakas juoma
-117,strength potion ,voimakas juoma
-119,strength potion ,voimakas juoma
-121,attack potion ,hyokkaysjuoma
-123,attack potion ,hyokkaysjuoma
-125,attack potion ,hyokkaysjuoma
+113,strength potion ,voima juoma
+115,strength potion ,voima juoma
+117,strength potion ,voima juoma
+119,strength potion ,voima juoma
+121,attack potion ,hyokkays juoma
+123,attack potion ,hyokkays juoma
+125,attack potion ,hyokkays juoma
 127,restore potion ,palauttaa juoma
 129,restore potion ,palauttaa juoma
 131,restore potion ,palauttaa juoma
-133,defence potion ,puolustusjuoma
-135,defence potion ,puolustusjuoma
-137,defence potion ,puolustusjuoma
-139,prayer potion ,rukousjuoma
-141,prayer potion ,rukousjuoma
-143,prayer potion ,rukousjuoma
-145,super attack ,superhyokkays
-147,super attack ,superhyokkays
-149,super attack ,superhyokkays
-151,fishing potion ,kalastusjuoma
-153,fishing potion ,kalastusjuoma
-155,fishing potion ,kalastusjuoma
-157,super strength ,Super voima
-159,super strength ,Super voima
-161,super strength ,Super voima
-163,super defence ,superpuolustus
-165,super defence ,superpuolustus
-167,super defence ,superpuolustus
+133,defence potion ,puolustus juoma
+135,defence potion ,puolustus juoma
+137,defence potion ,puolustus juoma
+139,prayer potion ,rukous juoma
+141,prayer potion ,rukous juoma
+143,prayer potion ,rukous juoma
+145,super attack ,superhyokkays juoma
+147,super attack ,superhyokkays juoma
+149,super attack ,superhyokkays juoma
+151,fishing potion ,kalastus juoma
+153,fishing potion ,kalastus juoma
+155,fishing potion ,kalastus juoma
+157,super strength ,Super voima juoma
+159,super strength ,Super voima juoma
+161,super strength ,Super voima juoma
+163,super defence ,superpuolustus juoma
+165,super defence ,superpuolustus juoma
+167,super defence ,superpuolustus juoma
 169,ranging potion ,vaihteleva juoma
 171,ranging potion ,vaihteleva juoma
 173,ranging potion ,vaihteleva juoma
-175,antipoison ,vastamyrkkya
-177,antipoison ,vastamyrkkya
-179,antipoison ,vastamyrkkya
-181,superantipoison ,superantimyrkkya
-183,superantipoison ,superantimyrkkya
-185,superantipoison ,superantimyrkkya
+175,antipoison ,vastamyrkkya  juoma
+177,antipoison ,vastamyrkkya juoma
+179,antipoison ,vastamyrkkya juoma
+181,superantipoison ,superantimyrkky juoma
+183,superantipoison ,superantimyrkky juoma
+185,superantipoison ,superantimyrkky juoma
 187,weapon poison ,aseen myrkkya
-189,zamorak brew ,zamorak hauduta
-191,zamorak brew ,zamorak hauduta
-193,zamorak brew ,zamorak hauduta
+189,zamorak brew ,zamorak haude
+191,zamorak brew ,zamorak haude
+193,zamorak brew ,zamorak haude
 195,potion ,juoma
 197,poison chalice ,myrkkymalja
 199,grimy guam leaf ,likainen guamin lehti
@@ -135,13 +135,13 @@
 225,limpwurt root ,limpwurtin juuri
 227,vial of water ,vesipullo
 229,vial ,injektiopullo
-231,snape grass ,kakarosruohoa
+231,snape grass ,kakaros ruohoa
 233,pestle and mortar ,survin ja laasti
 235,unicorn horn dust ,yksisarvisen sarven poly
 237,unicorn horn ,yksisarvisen sarvi
 239,white berries ,valkoisia marjoja
 241,dragon scale dust ,lohikaarmeen poly
-243,blue dragon scale ,sininen lohikaarme asteikolla
+243,blue dragon scale ,sininen lohikaarme suomu
 245,wine of zamorak ,zamorakin viini
 247,jangerberries ,jangermarjat
 249,guam leaf ,guamin lehtia
@@ -150,7 +150,7 @@
 255,harralander ,harralander
 257,ranarr weed ,ranarr weed
 259,irit leaf ,irit lehtia
-261,avantoe ,avatoe
+261,avantoe ,avantoe
 263,kwuarm ,kwuarm
 265,cadantine ,cadantine
 267,dwarf weed ,kaapio rikkakasvi
@@ -169,28 +169,28 @@
 282,sheep bones  ,lampaan luut
 283,sheep bones  ,lampaan luut
 284,plague jacket ,rutto takki
-285,plague trousers ,ruttohousut
-286,orange goblin mail ,oranssi goblin-posti
-287,blue goblin mail ,sininen goblin-posti
-288,goblin mail ,goblin-posti
+285,plague trousers ,rutto housut
+286,orange goblin mail ,oranssi goblin-puku
+287,blue goblin mail ,sininen goblin-puku
+288,goblin mail ,goblin-puku
 290,research package ,tutkimuspaketti
 291,research notes ,tutkimusmuistiinpanoja
 292,book on baxtorian ,kirja Baxtorianista
 293,key  ,avain
-294,glarials pebble ,glarials kivi
-295,glarials amulet ,glarials amuletti
-296,glarials urn ,glarialien urna
-297,glarials urn empty ,glariaalit urnat tyhjina
+294,glarials pebble ,glariaalin kivi
+295,glarials amulet ,glariaalin amuletti
+296,glarials urn ,glariaalin uurna
+297,glarials urn empty ,glariaalin tyhja uurna
 298,key  ,avain
 299,mithril seeds ,mithril siemenet
-300,rats tail ,rotan hantaa
+300,rats tail ,rotan hanta
 301,lobster pot ,hummerimerta
 303,small fishing net ,pieni kalaverkko
 305,big fishing net ,iso kalaverkko
 307,fishing rod ,onki
 309,fly fishing rod ,perho onki
 311,harpoon ,harppuuna
-313,fishing bait ,kalastussyotti
+313,fishing bait ,kalastus syotti
 314,feather ,sulka
 315,shrimps ,katkarapuja
 317,raw shrimps ,raakoja katkarapuja
@@ -230,20 +230,20 @@
 383,raw shark ,raaka hai
 385,shark ,Hai
 387,burnt shark ,palanut hai
-389,raw manta ray ,raaka manta ray
+389,raw manta ray ,raaka rausku
 391,manta ray ,rausku
-393,burnt manta ray ,palanut manta ray
+393,burnt manta ray ,palanut rausku
 395,raw sea turtle ,raaka merikilpikonna
 397,sea turtle ,merikilpikonna
 399,burnt sea turtle ,palanut merikilpikonna
-401,seaweed ,merilevaa
-403,edible seaweed ,syotavaa merilevaa
-405,casket ,ruumisarkku
+401,seaweed ,merileva
+403,edible seaweed ,syotava merileva
+405,casket ,arkku
 407,oyster ,osteri
 409,empty oyster ,tyhja osteri
 411,oyster pearl ,osteri helmi
 413,oyster pearls ,osteri helmia
-415,ethenea ,etenea
+415,ethenea ,ethenea
 416,liquid honey ,nestemaista hunajaa
 417,sulphuric broline ,rikkibroliini
 418,plague sample ,rutto nayte
@@ -288,12 +288,12 @@
 474,broken pickaxe  ,rikki hakku
 476,broken pickaxe  ,rikki hakku
 478,broken pickaxe  ,rikki hakku
-480,bronze pick head ,pronssinen poimintapaa
-482,iron pick head ,rautapoimin paa
-484,steel pick head ,teraksinen poimintapaa
-486,mithril pick head ,mithril poimi paa
-488,adamant pick head ,vankkumaton paa
-490,rune pick head ,rune pick paa
+480,bronze pick head ,pronssinen hakun paa
+482,iron pick head ,rautahakun paa
+484,steel pick head ,teraksinen hakun paa
+486,mithril pick head ,mithril hakun paa
+488,adamant pick head ,vankkumaton hakun paa
+490,rune pick head ,rune hakun paa
 492,axe handle ,kirveen varsi
 494,broken axe ,murtunut kirves
 496,broken axe  ,murtunut kirves
@@ -304,11 +304,11 @@
 506,broken axe  ,murtunut kirves
 508,bronze axe head ,pronssinen kirveen paa
 510,iron axe head ,rautakirveen paa
-512,steel axe head ,teraksinen kirvespaa
+512,steel axe head ,teraksinen kirveen paa
 514,black axe head ,musta kirveen paa
-516,mithril axe head ,mithril-kirveen paa
-518,adamant axe head ,jarkkymaton kirvespaa
-520,rune axe head ,riimukirveen paa
+516,mithril axe head ,mithril kirveen paa
+518,adamant axe head ,jarkkymaton kirveen paa
+520,rune axe head ,riimu kirveen paa
 522,enchanted beef ,lumoutunut naudanliha
 523,enchanted rat ,lumoutunut rotta
 524,enchanted bear ,lumoutunut karhu
@@ -322,35 +322,35 @@
 538,druids robe ,druidien viitta
 540,druids robe top ,druidien toppi
 542,monks robe ,munkkien viitta
-544,monks robe top ,munkkiviittainen toppi
-546,shade robe top ,varjostin toppi
+544,monks robe top ,munkkien toppi
+546,shade robe top ,varjoinen toppi
 548,shade robe ,varjoinen viitta
 550,newcomer map ,tulokas kartta
 552,ghostspeak amulet ,ghostspeak amuletti
 553,ghosts skull ,haamujen kallo
-554,fire rune ,tulirunko
-555,water rune ,vesiriimu
-556,air rune ,ilmarunko
+554,fire rune ,tulihaarniska
+555,water rune ,vesi riimu
+556,air rune ,ilma riimu
 557,earth rune ,maan riimu
 558,mind rune ,mielen riimu
-559,body rune ,kehon runo
+559,body rune ,kehon riimu
 560,death rune ,kuoleman riimu
 561,nature rune ,luonnon riimu
 562,chaos rune ,kaaoksen riimu
-563,law rune ,lakiriimu
+563,law rune ,laki riimu
 564,cosmic rune ,kosminen riimu
-565,blood rune ,veren rune
+565,blood rune ,veren riimu
 566,soul rune ,sielun riimu
 567,unpowered orb ,tehoton pallo
-569,fire orb ,tulipallo
-571,water orb ,vesipallo
-573,air orb ,ilmapallo
-575,earth orb ,maapallo
-577,blue wizard robe ,sininen velhon viitta
-579,blue wizard hat ,sininen velhohattu
+569,fire orb ,tuli pallo
+571,water orb ,vesi pallo
+573,air orb ,ilma pallo
+575,earth orb ,maa pallo
+577,blue wizard robe ,sinisen velhon viitta
+579,blue wizard hat ,sinisen velhohattu
 581,black robe ,musta viitta
-583,bailing bucket ,pelastuskauha
-585,bailing bucket  ,pelastuskauha
+583,bailing bucket ,pelastus sanko
+585,bailing bucket  ,pelastus sanko
 587,orb of protection ,suojapallo
 588,orbs of protection ,suojapallot
 589,gnome amulet ,gnome amuletti
@@ -383,7 +383,7 @@
 620,paramaya ticket  ,paramaya lippu
 621,ship ticket ,laivan lippu
 623,sword pommel ,miekan ponsi
-624,bervirius notes ,bervirius toteaa
+624,bervirius notes ,bervirius muistiinpanot
 625,wampum belt ,wampum vyo
 626,pink boots ,vaaleanpunaiset saappaat
 628,green boots ,vihreat saappaat
@@ -403,7 +403,7 @@
 656,pink hat ,pinkki hattu
 658,green hat ,vihrea hattu
 660,blue hat ,sininen hattu
-662,cream hat ,kermahattu
+662,cream hat ,kerma hattu
 664,turquoise hat ,turkoosi hattu
 666,portrait ,muotokuva
 667,blurite sword ,blurite miekka
@@ -428,7 +428,7 @@
 686,rusty sword ,ruosteinen miekka
 687,broken arrow ,katkennut nuoli
 688,buttons ,painikkeet
-689,broken staff ,rikkinainen henkilokunta
+689,broken staff ,rikkinainen keppi
 690,broken glass ,rikkoutunut lasi
 691,level  certificate ,tason todistus
 692,level  certificate ,tason todistus
@@ -452,7 +452,7 @@
 710,vase ,maljakko
 711,book on chemicals ,kirja kemikaaleista
 712,cup of tea ,kuppi teeta
-713,clue scroll ,vihje rullaa
+713,clue scroll ,vihje rulla
 714,radimus notes ,radimus muistiinpanoja
 715,radimus notes  ,radimus muistiinpanoja
 716,bullroarer ,harkamies
@@ -468,26 +468,26 @@
 726,golden bowl  ,kultainen kulho
 727,hollow reed ,ontto ruoko
 728,hollow reed  ,ontto ruoko
-729,shamans tome ,shamaanit tome
+729,shamans tome ,shamaanit kirja
 730,binding book ,sitova kirja
 731,enchanted vial ,lumottu pullo
 732,holy water ,pyha vesi
 733,smashed glass ,murskattu lasi
 735,yommi tree seeds ,yommi-puun siemenia
 736,yommi tree seeds  ,yommi-puun siemenia
-737,snakeweed mixture ,kaarmelevaseos
+737,snakeweed mixture ,kaarme leva seos
 738,ardrigal mixture ,ardrigal-seos
 739,bravery potion ,rohkea juoma
 740,blue hat  ,sininen hattu
 741,chunk of crystal ,pala kristallia
 742,hunk of crystal ,kristallin palanen
-743,lump of crystal ,kristallipala
+743,lump of crystal ,kristallin pala
 744,heart crystal ,sydamen kristalli
 745,heart crystal  ,sydamen kristalli
 746,dark dagger ,tumma tikari
 747,glowing dagger ,hehkuva tikari
 748,holy force ,pyha voima
-749,yommi totem ,yommi totem
+749,yommi totem ,yommi toteemi
 750,gilded totem ,kullattu toteemi
 751,gnomeball ,gnomeball
 753,cadava berries ,cadavan marjat
@@ -498,18 +498,18 @@
 759,weapon store key ,asekaupan avain
 761,intel report ,intel-raportti
 762,falador shield ,falador-kilpi
-763,broken shield ,rikki kilpi
+763,broken shield ,rikkinainen kilpi
 764,coal bag ,hiilipussi
-765,broken shield  ,rikki kilpi
+765,broken shield  ,rikkinainen kilpi
 766,gem bag ,helmi laukku
 767,phoenix crossbow ,phoenix varsijousi
 769,certificate ,todistus
 770,ardougne cloak ,ardougne viitta
-771,dramen branch ,dramen haara
-772,dramen staff ,Dramenin henkilokunta
+771,dramen branch ,dramen oksa
+772,dramen staff ,Dramenin keppi
 773,perfect ring ,taydellinen sormus
 774,perfect necklace ,taydellinen kaulakoru
-775,cooking gauntlets ,keittohanskoja
+775,cooking gauntlets ,ruuanlaitto kasineet
 776,goldsmith gauntlets ,kultasepan kasineet
 777,chaos gauntlets ,kaaoksen kasineet
 778,steel gauntlets ,teraksiset kasineet
@@ -520,9 +520,9 @@
 783,bark sample ,kuori nayte
 784,translation book ,kaannoskirja
 785,gloughs journal ,gloughs paivakirja
-786,hazelmeres scroll ,hazelmeres rullaa
+786,hazelmeres scroll ,hazelmeres rulla
 787,lumber order ,puun tilaus
-788,gloughs key ,gllows avain
+788,gloughs key ,gloughin avain
 789,twigs ,oksia
 790,twigs  ,oksia
 791,twigs  ,oksia
@@ -531,66 +531,66 @@
 794,invasion plans ,hyokkayssuunnitelmia
 795,war ship ,sotalaiva
 800,bronze thrownaxe ,pronssinen heittokirkko
-801,iron thrownaxe ,rauta-akku
-802,steel thrownaxe ,teraksinen heittohakki
-803,mithril thrownaxe ,mithril thrownaxe
-804,adamant thrownaxe ,jarkkymaton heittaja
-805,rune thrownaxe ,rune heitettyna
+801,iron thrownaxe ,rautainen heittokirves
+802,steel thrownaxe ,teraksinen heittokirves
+803,mithril thrownaxe ,mithril heittokirves
+804,adamant thrownaxe ,jarkkymaton heittokirves
+805,rune thrownaxe ,riimi heittokirves
 806,bronze dart ,pronssinen tikka
 807,iron dart ,rautainen tikka
 808,steel dart ,teraksinen tikka
 809,mithril dart ,mithril dart
-810,adamant dart ,tiukka tikka
-811,rune dart ,runon tikka
+810,adamant dart ,jarkkymaton tikka
+811,rune dart ,riimi tikka
 812,bronze dartp ,pronssinen tikka
-813,iron dart p ,rauta tikka s
+813,iron dart p ,rauta tikka
 814,steel dartp ,teras tikka
-815,mithril dartp ,mithril dartp
-816,adamant dartp ,jarkkymaton dartp
-817,rune dartp ,rune dartp
-818,poisoned dartp ,myrkytetty dartp
+815,mithril dartp ,mithril dart
+816,adamant dartp ,jarkkymaton dart
+817,rune dartp ,riimi dart
+818,poisoned dartp ,myrkytetty dart
 819,bronze dart tip ,pronssinen tikkakarki
 820,iron dart tip ,rautainen tikkakarki
 821,steel dart tip ,teraksinen tikkakarki
 822,mithril dart tip ,mithril tikan karki
-823,adamant dart tip ,tiukka tikkakarki
-824,rune dart tip ,runon tikkan karki
+823,adamant dart tip ,jarkkymaton tikkakarki
+824,rune dart tip ,riimi tikka karki
 825,bronze javelin ,pronssinen keihas
 826,iron javelin ,rauta keihas
 827,steel javelin ,teraksinen keihas
 828,mithril javelin ,mithril keihaan
-829,adamant javelin ,tiukka keihas
-830,rune javelin ,riimukeihaan
+829,adamant javelin ,jarkkymaton keihas
+830,rune javelin ,riimu keihas
 831,bronze javelinp ,pronssi keihas
 832,iron javelinp ,rauta keihas
 833,steel javelinp ,teraksinen keihas
 834,mithril javelinp ,mithril javelinp
-835,adamant javelinp ,tiukka keihas
-836,rune javelinp ,rune keihaanheitto
+835,adamant javelinp , keihas
+836,rune javelinp ,riimu keihaanheitto
 837,crossbow ,varsijousi
 839,longbow ,pitkajousi
-841,shortbow ,lyhytjousi
+841,shortbow ,shortbow
 843,oak shortbow ,tammi shortbow
 845,oak longbow ,tammi pitkajousi
 847,willow longbow ,paju pitkajousi
 849,willow shortbow ,paju shortbow
 851,maple longbow ,vaahtera pitkajousi
-853,maple shortbow ,vaahtera shortbow
+853,maple shortbow ,vaahtera lyhytjousi
 855,yew longbow ,marjakuusi pitkajousi
-857,yew shortbow ,marjakuusi shortbow
+857,yew shortbow ,marjakuusi lyhytjousi
 859,magic longbow ,maaginen pitkajousi
-861,magic shortbow ,maaginen shortbow
+861,magic shortbow ,maaginen lyhytjousi
 863,iron knife ,rauta veitsi
 864,bronze knife ,pronssinen veitsi
 865,steel knife ,teraksinen veitsi
-866,mithril knife ,mithril-veitsi
-867,adamant knife ,vankka veitsi
-868,rune knife ,riimuveitsi
+866,mithril knife ,mithril veitsi
+867,adamant knife ,jarkkymaton veitsi
+868,rune knife ,riimu veitsi
 869,black knife ,musta veitsi
 870,bronze knifep ,pronssinen veitsi
-871,iron knifep ,rautaveitsi
+871,iron knifep ,rauta veitsi
 872,steel knifep ,teraksinen veitsi
-873,mithril knifep ,mithril-veitsi
+873,mithril knifep ,mithril veitsi
 874,black knifep ,musta veitsi
 875,adamant knifep ,jarkkymaton veitsi
 876,rune knifep ,riimuveitsi
@@ -607,11 +607,11 @@
 887,steel arrowp ,teraksinen nuoli
 888,mithril arrow ,mithril-nuoli
 889,mithril arrowp ,mithril nuoli
-890,adamant arrow ,tiukka nuoli
-891,adamant arrowp ,tiukka nuoli
+890,adamant arrow ,jarkkymaton nuoli
+891,adamant arrowp ,jarkkymaton nuoli
 892,rune arrow ,riimu nuoli
 893,rune arrowp ,riimu nuoli
-942,bronze fire arrow lit ,pronssinen tulinuoli sytytetty
+942,bronze fire arrow lit ,sytytetty pronssinen nuoli
 943,worm ,mato
 945,throwing rope ,heittokoysi
 946,knife ,veitsi
@@ -619,7 +619,7 @@
 950,silk ,silkki
 952,spade ,lapio
 954,rope ,koysi
-956,flyer ,lentolehtinen
+956,flyer ,lento lehtinen
 958,grey wolf fur ,harmaa suden turkki
 960,plank ,lankku
 962,christmas cracker ,joulu kekseja
@@ -635,11 +635,11 @@
 981,disk of returning ,palautuslevy
 983,brass key ,messinki avain
 985,tooth half of key ,avaimen puolisko
-987,loop half of key ,silmukkaa avaimen puoliskoa
+987,loop half of key ,avaimen toinen puolisko
 989,crystal key ,kristalli avain
 991,muddy key ,mutainen avain
 993,sinister key ,synkka avain
-995,coins  ,kolikoita
+995,coins  ,kolikeita
 1005,white apron ,valkoinen esiliina
 1007,red cape ,punainen viitta
 1009,brass necklace ,messinki kaulakoru
@@ -655,7 +655,7 @@
 1029,purple cape ,violetti viitta
 1031,orange cape ,oranssi viitta
 1033,zamorak monk bottom ,zamorak munkin pohja
-1035,zamorak monk top ,zamorak munkkitoppi
+1035,zamorak monk top ,zamorak munkin toppi
 1037,bunny ears ,pupunkorvat
 1038,red partyhat ,punainen juhlahattu
 1040,yellow partyhat ,keltainen juhlahattu
@@ -665,81 +665,81 @@
 1048,white partyhat ,valkoinen juhlahattu
 1050,santa hat ,joulupukin hattu
 1052,cape of legends ,legendojen viitta
-1053,green halloween mask ,vihrea halloween-naamio
+1053,green halloween mask ,vihrea halloween naamio
 1055,blue halloween mask ,sininen halloween naamio
 1057,red halloween mask ,punainen halloween naamio
 1059,leather gloves ,nahkahanskat
 1061,leather boots ,nahkasaappaat
-1063,leather vambraces ,nahkaiset vambraces
-1065,green dhide vambraces ,vihreat dhide vambraces
-1067,iron platelegs ,rautaiset levyjalat
-1069,steel platelegs ,teraslevyjalat
-1071,mithril platelegs ,mithril-levyjalat
-1073,adamant platelegs ,jarkkymattomat levyjalat
-1075,bronze platelegs ,pronssiset levyjalat
-1077,black platelegs ,mustat levyjalat
-1079,rune platelegs ,riimulevyjalat
+1063,leather vambraces ,nahkaiset kyynarvarsisuoja
+1065,green dhide vambraces ,vihrea lohinahka kyynarvarsisuoja
+1067,iron platelegs ,rautaiset levyhousut
+1069,steel platelegs ,teras levyhousut
+1071,mithril platelegs ,mithril levyhousut
+1073,adamant platelegs ,jarkkymattomat levyhousut
+1075,bronze platelegs ,pronssiset levyhousut
+1077,black platelegs ,mustat levyhousut
+1079,rune platelegs ,riimu levyhousut
 1081,iron plateskirt ,rautainen levyhame
-1083,steel plateskirt ,teraslevyhame
+1083,steel plateskirt ,teras levyhame
 1085,mithril plateskirt ,mithril levyhame
 1087,bronze plateskirt ,pronssinen levyhame
 1089,black plateskirt ,musta levyhame
-1091,adamant plateskirt ,vankka levyhame
-1093,rune plateskirt ,riimulevyhame
+1091,adamant plateskirt ,jarkkymaton levyhame
+1093,rune plateskirt ,riimu levyhame
 1095,leather chaps ,nahkaiset housut
-1097,studded chaps ,nastoitettuja hakkeja
-1099,green dhide chaps ,vihreat dhide-housut
-1101,iron chainbody ,rautainen ketjurunko
-1103,bronze chainbody ,pronssinen ketjurunko
-1105,steel chainbody ,teraksinen ketjurunko
-1107,black chainbody ,musta ketjurunko
-1109,mithril chainbody ,mithril-ketjurunko
-1111,adamant chainbody ,vankka ketjurunko
-1113,rune chainbody ,rune ketjurunko
-1115,iron platebody ,rautainen levyrunko
-1117,bronze platebody ,pronssinen levyrunko
-1119,steel platebody ,teraslevyrunko
-1121,mithril platebody ,mithril levyrunko
-1123,adamant platebody ,vankka levyrunko
-1125,black platebody ,musta levyrunko
-1127,rune platebody ,riimulevyrunko
-1129,leather body ,nahkainen runko
-1131,hardleather body ,kovanahkainen runko
-1133,studded body ,nastoitettu runko
-1135,green dhide body ,vihrea dhide runko
-1137,iron med helm ,iron med ruori
-1139,bronze med helm ,pronssi med ruori
-1141,steel med helm ,teraksinen med ruori
-1143,mithril med helm ,mithril med helm
-1145,adamant med helm ,jarkkymaton laaketieteellinen ruori
-1147,rune med helm ,rune med ruori
-1149,dragon med helm ,lohikaarme med ruori
-1151,black med helm ,musta med ruori
-1153,iron full helm ,rautainen taysi ruori
-1155,bronze full helm ,pronssinen taysi ruori
-1157,steel full helm ,teraksinen taysi ruori
-1159,mithril full helm ,mithril taysi ruori
-1161,adamant full helm ,vankkumaton taysi ruori
-1163,rune full helm ,rune taysi ruori
-1165,black full helm ,musta taysi ruori
+1097,studded chaps ,nastoitetut housut
+1099,green dhide chaps ,vihreat lohinahka housut
+1101,iron chainbody ,rautainen ketjuhaarniska
+1103,bronze chainbody ,pronssinen ketjuhaarniska
+1105,steel chainbody ,teraksinen ketjuhaarniska
+1107,black chainbody ,musta ketjuhaarniska
+1109,mithril chainbody ,mithril ketjuhaarniska
+1111,adamant chainbody ,jarkkymaton ketjuhaarniska
+1113,rune chainbody ,riimu ketjuhaarniska
+1115,iron platebody ,rautainen levyhaarniska
+1117,bronze platebody ,pronssinen levyhaarniska
+1119,steel platebody ,teraslevyhaarniska
+1121,mithril platebody ,mithril levyhaarniska
+1123,adamant platebody ,jarkkymaton levyhaarniska
+1125,black platebody ,musta levyhaarniska
+1127,rune platebody ,riimu levyhaarniska
+1129,leather body ,nahkainen haarniska
+1131,hardleather body ,kovanahkainen haarniska
+1133,studded body ,nastoitettu haarniska
+1135,green dhide body ,vihrea lohinahka haarniska
+1137,iron med helm ,rauta potta
+1139,bronze med helm ,pronssi potta
+1141,steel med helm ,teraksinen potta
+1143,mithril med helm ,mithril potta
+1145,adamant med helm ,jarkkymaton potta
+1147,rune med helm ,riimu potta
+1149,dragon med helm ,lohikaarme potta
+1151,black med helm ,musta potta
+1153,iron full helm ,rautainen taysi kypara
+1155,bronze full helm ,pronssinen taysi kypara
+1157,steel full helm ,teraksinen taysi kypara
+1159,mithril full helm ,mithril taysi kypara
+1161,adamant full helm ,jarkkymaton taysi kypara
+1163,rune full helm ,riimu taysi kypara
+1165,black full helm ,musta taysi kypara
 1167,leather cowl ,nahkainen koppa
 1169,coif ,hilkka
 1171,wooden shield ,puinen kilpi
 1173,bronze sq shield ,pronssinen neliokilpi
-1175,iron sq shield ,iron sq kilpi
-1177,steel sq shield ,teras sq kilpi
+1175,iron sq shield ,rautainen neliokilpi
+1177,steel sq shield ,teraksinen neliokilpi
 1179,black sq shield ,musta neliokilpi
-1181,mithril sq shield ,mithril sq -kilpi
-1183,adamant sq shield ,adamant sq shield
-1185,rune sq shield ,rune sq kilpi
-1187,dragon sq shield ,dragon sq kilpi
+1181,mithril sq shield ,mithril neliokilpi
+1183,adamant sq shield ,jarkkymaton neliokilpi
+1185,rune sq shield ,riimnu neliokilpi
+1187,dragon sq shield ,lohikaarme neliokilpi
 1189,bronze kiteshield ,pronssinen leijakilpi
 1191,iron kiteshield ,rautainen leijakilpi
 1193,steel kiteshield ,teraksinen leijakilpi
 1195,black kiteshield ,musta leijakilpi
 1197,mithril kiteshield ,mithril kiteshield
-1199,adamant kiteshield ,vankka leijakilpi
-1201,rune kiteshield ,rune kiteshield
+1199,adamant kiteshield ,jarkkymaton leijakilpi
+1201,rune kiteshield ,riimu kiteshield
 1203,iron dagger ,rautainen tikari
 1205,bronze dagger ,pronssinen tikari
 1207,steel dagger ,teraksinen tikari
@@ -760,65 +760,65 @@
 1237,bronze spear ,pronssinen keihas
 1239,iron spear ,rautainen keihas
 1241,steel spear ,teraksinen keihas
-1243,mithril spear ,mithril-keihas
+1243,mithril spear ,mithril keihas
 1245,adamant spear ,jarkkymaton keihas
-1247,rune spear ,riimukeihas
+1247,rune spear ,riimu keihas
 1249,dragon spear ,lohikaarme keihas
 1251,bronze spearp ,pronssinen keihas
 1253,iron spearp ,rauta keihas
 1255,steel spearp ,teraksinen keihas
 1257,mithril spearp ,mithril keihas
 1259,adamant spearp ,jarkkymaton keihas
-1261,rune spearp ,riimukeihas
+1261,rune spearp ,riimu keihas
 1263,dragon spearp ,lohikaarmeen keihas
 1265,bronze pickaxe ,pronssinen hakku
-1267,iron pickaxe ,rautahakku
-1269,steel pickaxe ,terashakku
+1267,iron pickaxe ,rauta hakku
+1269,steel pickaxe ,teras hakku
 1271,adamant pickaxe ,jarkkymaton hakku
 1273,mithril pickaxe ,mithril hakku
-1275,rune pickaxe ,riimuhakku
+1275,rune pickaxe ,riimu hakku
 1277,bronze sword ,pronssinen miekka
 1279,iron sword ,rautainen miekka
 1281,steel sword ,teras miekka
 1283,black sword ,musta miekka
-1285,mithril sword ,mithrilin miekka
+1285,mithril sword ,mithril miekka
 1287,adamant sword ,jarkkymaton miekka
 1289,rune sword ,riimumiekka
-1291,bronze longsword ,pronssinen pitkamiekka
+1291,bronze longsword ,pronssinen pitka miekka
 1293,iron longsword ,rautainen pitka miekka
 1295,steel longsword ,teraksinen pitka miekka
 1297,black longsword ,musta pitka miekka
-1299,mithril longsword ,mithril pitkamiekka
-1301,adamant longsword ,vankka pitka miekka
+1299,mithril longsword ,mithril pitka miekka
+1301,adamant longsword ,jarkkymaton pitka miekka
 1303,rune longsword ,rune pitka miekka
-1305,dragon longsword ,lohikaarmeen pitka miekka
-1307,bronze h sword ,pronssi h-miekka
-1309,iron h sword ,rauta h miekka
-1311,steel h sword ,teras h miekka
-1313,black h sword ,musta h miekka
-1315,mithril h sword ,mithril h miekka
-1317,adamant h sword ,jarkkymaton h miekka
-1319,rune h sword ,riimu h miekka
+1305,dragon longsword ,lohikaarme pitka miekka
+1307,bronze h sword ,pronssi kahdenkaden miekka
+1309,iron h sword ,rauta kahdenkaden miekka
+1311,steel h sword ,teras kahdenkaden miekka
+1313,black h sword ,musta kahdenkaden miekka
+1315,mithril h sword ,mithril kahdenkaden miekka
+1317,adamant h sword ,jarkkymaton kahdenkaden miekka
+1319,rune h sword ,riimu kahdenkaden miekka
 1321,bronze scimitar ,pronssinen veitsi
-1323,iron scimitar ,rautainen simitar
-1325,steel scimitar ,terasleikkuri
-1327,black scimitar ,musta leikkuri
-1329,mithril scimitar ,mithril scimitar
-1331,adamant scimitar ,tiukka simitar
-1333,rune scimitar ,riimuleikkuri
+1323,iron scimitar ,rautainen kayramiekka
+1325,steel scimitar ,teras kayramiekka
+1327,black scimitar ,musta kayramiekka
+1329,mithril scimitar ,mithril kayramiekka
+1331,adamant scimitar ,jarkkymaton kayramiekka
+1333,rune scimitar ,riimu kayramiekka
 1335,iron warhammer ,rautainen sotavasara
 1337,bronze warhammer ,pronssinen sotavasara
 1339,steel warhammer ,teraksinen sotavasara
 1341,black warhammer ,musta sotavasara
-1343,mithril warhammer ,mithril warhammer
+1343,mithril warhammer ,mithril sotavasara
 1345,adamant warhammer ,jarkkymaton sotavasara
-1347,rune warhammer ,rune warhammer
-1349,iron axe ,rautakirves
+1347,rune warhammer ,riimusotavasara
+1349,iron axe ,rauta kirves
 1351,bronze axe ,pronssinen kirves
 1353,steel axe ,teraksinen kirves
 1355,mithril axe ,mithril kirves
 1357,adamant axe ,jarkkymaton kirves
-1359,rune axe ,riimukirves
+1359,rune axe ,riimu kirves
 1361,black axe ,musta kirves
 1363,iron battleaxe ,rautainen taistelukirves
 1365,steel battleaxe ,teraksinen taistelukirves
@@ -828,51 +828,51 @@
 1373,rune battleaxe ,riimu taistelukirves
 1375,bronze battleaxe ,pronssinen taistelukirves
 1377,dragon battleaxe ,lohikaarme taistelukirves
-1379,staff ,henkilostoa
-1381,staff of air ,ilman henkilokuntaa
-1383,staff of water ,vetta henkilokuntaa
-1385,staff of earth ,maan henkilokuntaa
-1387,staff of fire ,palohenkilokunta
-1389,magic staff ,maaginen henkilokunta
-1391,battlestaff ,taisteluhenkilokunta
-1393,fire battlestaff ,tulitaistelun esikunta
-1395,water battlestaff ,vesitaisteluhenkilokunta
-1397,air battlestaff ,ilmataistelun esikunta
-1399,earth battlestaff ,maan taisteluesikunta
-1401,mystic fire staff ,mystinen palohenkilokunta
-1403,mystic water staff ,mystinen vesihenkilosto
-1405,mystic air staff ,mystinen ilmahenkilosto
-1407,mystic earth staff ,mystisen maan henkilokunta
-1409,ibans staff ,ibansin henkilokunta
-1410,ibans staff  ,ibansin henkilokunta
+1379,staff ,keppi
+1381,staff of air ,ilma keppi
+1383,staff of water ,vesi keppi
+1385,staff of earth ,maa keppi
+1387,staff of fire ,tuli keppi
+1389,magic staff ,maaginen keppi
+1391,battlestaff ,taistelukeppi
+1393,fire battlestaff ,tuli taistelukeppi
+1395,water battlestaff ,vesi taistelukeppi
+1397,air battlestaff ,ilma taistelukeppi
+1399,earth battlestaff ,maa taistelukeppi
+1401,mystic fire staff ,mystinen tuli keppi
+1403,mystic water staff ,mystinen vesi keppi
+1405,mystic air staff ,mystinen ilma keppi
+1407,mystic earth staff ,mystinen maan keppi
+1409,ibans staff ,ivarin keppi
+1410,ibans staff  ,ivarin keppi
 1411,farmers fork ,maanviljelijoiden haarukka
 1413,halberd ,pertuska
 1415,warhammer ,sotavasara
 1417,javelin ,keihas
 1419,scythe ,viikate
-1420,iron mace ,rauta-musikka
+1420,iron mace ,rauta nuija
 1422,bronze mace ,pronssinen nuija
 1424,steel mace ,teraksinen nuija
 1426,black mace ,musta nuija
-1428,mithril mace ,mithril-musikka
+1428,mithril mace ,mithril musikka
 1430,adamant mace ,jarkkymaton nuija
-1432,rune mace ,riimunuija
+1432,rune mace ,riimu nuija
 1434,dragon mace ,lohikaarmeen nuija
-1436,rune essence ,riimuesanssi
-1438,air talisman ,ilmatalisman
-1440,earth talisman ,maan talisman
-1442,fire talisman ,tulitalisman
-1444,water talisman ,vesi talisman
-1446,body talisman ,kehon talisman
-1448,mind talisman ,mielen talisman
-1450,blood talisman ,veren talisman
-1452,chaos talisman ,kaaoksen talisman
-1454,cosmic talisman ,kosminen talisman
-1456,death talisman ,kuoleman talisman
-1458,law talisman ,laki talisman
-1462,nature talisman ,luonnon talisman
+1436,rune essence ,riimu esanssi
+1438,air talisman ,ilma talismaani
+1440,earth talisman ,maan talismaani
+1442,fire talisman ,tuli talismaani
+1444,water talisman ,vesi talismaani
+1446,body talisman ,kehon talismaani
+1448,mind talisman ,mielen talismaani
+1450,blood talisman ,veren talismaani
+1452,chaos talisman ,kaaoksen talismaani
+1454,cosmic talisman ,kosminen talismaani
+1456,death talisman ,kuoleman talismaani
+1458,law talisman ,laki talismaani
+1462,nature talisman ,luonnon talismaani
 1464,archery ticket ,jousiammunta lippu
-1465,weapon poison  ,aseen myrkkya
+1465,weapon poison  ,aseen myrkky
 1466,sea slug ,merietana
 1467,damp sticks ,kosteat tikut
 1468,dry sticks ,kuivat tikut
@@ -882,7 +882,7 @@
 1474,black bead ,musta helmi
 1476,white bead ,valkoinen helmi
 1478,amulet of accuracy ,tarkkuuden amuletti
-1480,rock  ,rock
+1480,rock  ,kivi
 1481,orb of light ,valopallo
 1482,orb of light  ,valopallo
 1483,orb of light  ,valopallo
@@ -890,21 +890,21 @@
 1485,oily cloth ,oljyinen kangas
 1486,piece of railing ,kaiteen pala
 1487,unicorn horn  ,yksisarvisen sarvi
-1488,paladins badge ,paladins -merkki
-1489,paladins badge  ,paladins -merkki
-1490,paladins badge  ,paladins -merkki
-1491,witchs cat ,noidat kissa
+1488,paladins badge ,paladins merkki
+1489,paladins badge  ,paladins merkki
+1490,paladins badge  ,paladins merkki
+1491,witchs cat ,noidan kissa
 1492,doll of iban ,ibanin nukke
 1493,old journal ,vanha paivakirja
 1494,history of iban ,ibanin historia
-1495,klanks gauntlets ,klanks hanskat
-1496,ibans dove ,ibans kyyhkynen
+1495,klanks gauntlets ,klanksin hanskat
+1496,ibans dove ,ivarin kyyhkynen
 1497,amulet of othanian ,Otanian amuletti
 1498,amulet of doomion ,doomionin amuletti
 1499,amulet of holthion ,holthionin amuletti
-1500,ibans shadow ,ibanien varjo
-1501,dwarf brew ,kaapiojuoma
-1502,ibans ashes ,ibans tuhkaa
+1500,ibans shadow ,ivarin varjo
+1501,dwarf brew ,kaapio juoma
+1502,ibans ashes ,ivarin tuhkaa
 1503,warrant ,lupa
 1504,hangover cure ,krapulan hoitoon
 1505,ardougne teleport scroll ,ardougne teleport rullaa
@@ -913,14 +913,14 @@
 1508,a scruffy note ,allottava muistiinpano
 1509,book  ,kirja
 1510,picture ,kuva
-1511,logs ,lokit
-1513,magic logs ,maagisia lokeja
+1511,logs ,tukki
+1513,magic logs ,maagiset tukit
 1515,yew logs ,marjakuusi tukit
 1517,maple logs ,vaahtera tukit
 1519,willow logs ,pajutukkeja
 1521,oak logs ,tammihirsia
-1523,lockpick ,lockpick
-1525,grimy snake weed ,likainen kaarmerikkaruoho
+1523,lockpick ,tiirikka
+1525,grimy snake weed ,likainen kaarme rikkaruoho
 1526,snake weed ,kaarme rikkakasvi
 1527,grimy ardrigal ,likainen ardrigal
 1528,ardrigal ,ardrigal
@@ -969,18 +969,18 @@
 1575,cat training medal ,kissan koulutusmitali
 1577,petes candlestick ,petes kynttilanjalka
 1579,thieves armband ,varkaiden kasivarsinauha
-1580,ice gloves ,jaakasineet
+1580,ice gloves ,jaa kasineet
 1581,blamish snail slime ,moittia etanan limaa
 1582,blamish oil ,moittia oljya
 1583,fire feather ,tuli hoyhen
 1584,id papers ,henkilollisyystodistukset
 1585,oily fishing rod ,oljyinen onki
 1586,miscellaneous key ,sekalainen avain
-1588,grips keyring ,tarttuu avainrenkaaseen
+1588,grips keyring ,gripsin avainrengas
 1590,dusty key ,polyinen avain
 1591,jail key ,vankilan avain
 1592,ring mould ,rengasmuotti
-1594,unholy mould ,epapyha home
+1594,unholy mould ,epapyha muotti
 1595,amulet mould ,amuletti muotti
 1597,necklace mould ,kaulakoru muotti
 1599,holy mould ,pyha muotti
@@ -999,7 +999,7 @@
 1625,uncut opal ,leikkaamaton opaali
 1627,uncut jade ,leikkaamaton jade
 1629,uncut red topaz ,leikkaamaton punainen topaasi
-1631,uncut dragonstone ,leikkaamaton lohikaarmekivi
+1631,uncut dragonstone ,leikkaamaton lohikaarme kivi
 1633,crushed gem ,murskattu helmi
 1635,gold ring ,Kultasormus
 1637,sapphire ring ,safiirisormus
@@ -1045,7 +1045,7 @@
 1734,thread ,lanka
 1735,shears ,sakset
 1737,wool ,villa
-1739,cowhide ,lehmannahkaa
+1739,cowhide ,lehman nahka
 1741,leather ,nahka
 1743,hard leather ,kova nahka
 1745,green dragon leather ,vihrea lohikaarmeen nahka
@@ -1056,7 +1056,7 @@
 1755,chisel ,taltta
 1757,brown apron ,ruskea esiliina
 1759,ball of wool ,lankakera
-1761,soft clay ,pehmeaa savea
+1761,soft clay ,pehmea savi
 1763,red dye ,punainen variaine
 1765,yellow dye ,keltainen variaine
 1767,blue dye ,sininen variaine
@@ -1064,11 +1064,11 @@
 1771,green dye ,vihrea variaine
 1773,purple dye ,violetti variaine
 1775,molten glass ,sulaa lasia
-1777,bow string ,jousinauha
+1777,bow string ,jousi nauha
 1779,flax ,pellava
 1781,soda ash ,sooda
 1783,bucket of sand ,ampari hiekkaa
-1785,glassblowing pipe ,lasinpuhallusputki
+1785,glassblowing pipe ,lasinpuhallus putki
 1787,unfired pot ,polttamaton kattila
 1789,unfired pie dish ,palamaton piirakkavuoka
 1791,unfired bowl ,polttamaton kulho
@@ -1089,14 +1089,14 @@
 1808,criminals thread ,rikollisten lanka
 1809,criminals thread  ,rikollisten lanka
 1810,criminals thread  ,rikollisten lanka
-1811,flypaper ,karpaspaperia
+1811,flypaper ,karpaspaperi
 1812,pungent pot ,pistava ruukku
 1813,criminals dagger ,rikollisten tikari
 1814,criminals dagger  ,rikollisten tikari
 1815,killers print ,tappajat tulostaa
 1816,annas print ,annas printti
 1817,bobs print ,bob printti
-1818,carols print ,lauluja painatus
+1818,carols print ,carolin printti
 1819,davids print ,Davids tulostaa
 1820,elizabeths print ,Elizabeth print
 1821,franks print ,frankit printti
@@ -1150,7 +1150,7 @@
 1895,slice of cake ,pala kakkua
 1897,chocolate cake ,suklaakakku
 1899,    chocolate cake ,suklaakakku
-1901,chocolate slice ,suklaaviipale
+1901,chocolate slice ,suklaakakkuviipale
 1903,burnt cake ,palanut kakku
 1905,asgarnian ale ,asgarnian ale
 1907,wizards mind bomb ,velhojen mielipommi
@@ -1160,25 +1160,25 @@
 1915,grog ,grogi
 1917,beer ,olut
 1919,beer glass ,olutlasi
-1921,bowl of water ,kulhoon vetta
+1921,bowl of water ,vesikulho
 1923,bowl ,kulho
 1925,bucket ,ampari
-1927,bucket of milk ,ampari maitoa
+1927,bucket of milk ,amparillinen maitoa
 1929,bucket of water ,amparillinen vetta
 1931,pot ,potti
-1933,pot of flour ,kattila jauhoja
+1933,pot of flour ,jauhopotta
 1935,jug ,kannu
 1937,jug of water ,kannu vetta
 1939,swamp tar ,suoterva
 1940,raw swamp paste ,raakaa suotahnaa
-1941,swamp paste ,suon tahna
+1941,swamp paste ,suotahna
 1942,potato ,peruna
 1944,egg ,kananmuna
-1946,flour ,jauhot
+1946,flour ,jauho
 1947,grain ,viljaa
 1949,chefs hat ,kokin hattu
 1951,redberries ,punaiset marjat
-1953,pastry dough ,leivonnainen taikina
+1953,pastry dough ,leivos taikina
 1955,cooking apple ,ruokaomena
 1957,onion ,sipuli
 1959,pumpkin ,kurpitsa
@@ -1187,17 +1187,17 @@
 1965,cabbage ,kaali
 1967,cabbage  ,kaali
 1969,spinach roll ,pinaattirulla
-1971,kebab ,kebab
+1971,kebab ,kebbe
 1973,chocolate bar ,suklaapatukka
 1975,chocolate dust ,suklaa polya
-1977,chocolatey milk ,suklaamainen maito
+1977,chocolatey milk ,suklainen maito
 1978,cup of tea  ,kuppi teeta
 1980,empty cup ,tyhja kuppi
 1982,tomato ,tomaatti
 1984,rotten apple ,mata omena
 1985,cheese ,juusto
 1987,grapes ,viinirypaleita
-1989,half full wine jug ,puoliksi taynna viinikannu
+1989,half full wine jug ,puolikas viini kannu
 1991,jug of bad wine ,kannu huonoa viinia
 1992,jug of bad wine  ,kannu huonoa viinia
 1993,jug of wine ,kannu viinia
@@ -1219,13 +1219,13 @@
 2023,cocktail guide ,cocktail-opas
 2025,cocktail shaker ,cocktail shaker
 2026,cocktail glass ,cocktail lasi
-2028,premade blurb sp ,premade blur sp
-2030,premade choc sdy ,premade choc sdy
-2032,premade dr dragon ,premade Dr Dragon
-2034,premade fr blast ,premade fr blast
-2036,premade p punch ,esivalmistettu p-rei'itys
-2038,premade sgg ,ennalta tehty sgg
-2040,premade wiz blzd ,premade wiz blzd
+2028,premade blurb sp ,esivalmistettu blur sp
+2030,premade choc sdy ,esivalmistettu choc sdy
+2032,premade dr dragon ,esivalmistettu dr Dragon
+2034,premade fr blast ,esivalmistettu fr blast
+2036,premade p punch ,esivalmistettu p punch
+2038,premade sgg ,esivalmistettutehty sgg
+2040,premade wiz blzd ,esivalmistettu wiz blzd
 2042,unfinished cocktail ,keskenerainen cocktail
 2044,unfinished cocktail  ,keskenerainen cocktail
 2046,unfinished cocktail  ,keskenerainen cocktail
@@ -1237,7 +1237,7 @@
 2058,unfinished cocktail  ,keskenerainen cocktail
 2060,unfinished cocktail  ,keskenerainen cocktail
 2062,unfinished cocktail  ,keskenerainen cocktail
-2064,blurberry special ,blurberry erikois
+2064,blurberry special ,blurberryn erikoinen
 2066,unfinished cocktail  ,keskenerainen cocktail
 2068,unfinished cocktail  ,keskenerainen cocktail
 2070,unfinished cocktail  ,keskenerainen cocktail
@@ -1251,7 +1251,7 @@
 2086,unfinished cocktail  ,keskenerainen cocktail
 2088,unfinished cocktail  ,keskenerainen cocktail
 2090,unfinished cocktail  ,keskenerainen cocktail
-2092,drunk dragon ,humalassa lohikaarme
+2092,drunk dragon ,lohis ottanut alkoholia
 2094,odd cocktail ,outo cocktail
 2096,odd cocktail  ,outo cocktail
 2098,odd cocktail  ,outo cocktail
@@ -1268,22 +1268,22 @@
 2120,lime ,lime
 2122,lime chunks ,limen paloja
 2124,lime slices ,limen viipaleita
-2126,dwellberries ,asutusmarjat
-2128,equa leaves ,yhtalaiset lehdet
-2130,pot of cream ,potti kermaa
+2126,dwellberries ,dwellimarja
+2128,equa leaves ,equa lehdet
+2130,pot of cream ,kuppi kermaa
 2132,raw beef ,raaka pihvi
 2134,raw rat meat ,raaka rotanliha
-2136,raw bear meat ,raakaa karhunlihaa
-2138,raw chicken ,raakaa kanaa
+2136,raw bear meat ,raaka karhunliha
+2138,raw chicken ,raaka kanaa
 2140,cooked chicken ,keitettya kanaa
 2142,cooked meat ,kokattu liha
 2144,burnt chicken ,poltettua kanaa
 2146,burnt meat ,palanut liha
-2148,raw lava eel ,raaka laavaankerias
+2148,raw lava eel ,raaka laava ankerias
 2149,lava eel ,laava ankerias
 2150,swamp toad ,suon rupikonna
 2152,toads legs ,rupikonnan jalat
-2154,equa toads legs ,equa rupikonnan jalat
+2154,equa toads legs ,equa rupikonnan housut
 2156,spicy toads legs ,mausteiset rupikonnan jalat
 2158,seasoned legs ,maustetut jalat
 2160,spicy worm ,mausteinen mato
@@ -1386,17 +1386,17 @@
 2343,cooked oomlie wrap ,keitetty oomlie-kaare
 2345,burnt oomlie wrap ,palanut oomlie-kaare
 2347,hammer ,vasara
-2349,bronze bar ,pronssitanko
-2351,iron bar ,rautatanko
-2353,steel bar ,terastanko
-2355,silver bar ,hopeapalkki
+2349,bronze bar ,pronssiharkko
+2351,iron bar ,rautaharkko
+2353,steel bar ,terasharkko
+2355,silver bar ,hopeaharkko
 2357,gold bar ,kultaharkko
-2359,mithril bar ,mithril baari
-2361,adamantite bar ,adamantite baari
-2363,runite bar ,runiittibaari
+2359,mithril bar ,mithrilharkko
+2361,adamantite bar ,jarkkymatonharkko
+2363,runite bar ,riimuharkko
 2365,perfect gold bar ,taydellinen kultaharkko
-2366,shield left half ,kilpi vasen puolisko
-2368,shield right half ,suojan oikea puolisko
+2366,shield left half ,kilven vasen puolisko
+2368,shield right half ,kilven oikea puolisko
 2370,steel studs ,terasnastat
 2372,ogre relic ,ogre jaanne
 2373,relic part  ,jaanne osa
@@ -1418,17 +1418,17 @@
 2389,vial  ,injektiopullo
 2390,vial  ,injektiopullo
 2391,ground bat bones ,jauhetut lepakon luut
-2393,tobans gold ,tobans kultaa
+2393,tobans gold ,tobansin kultaa
 2394,potion  ,juoma
 2395,magic ogre potion ,maaginen ogre juoma
-2396,spell scroll ,rullaa
-2397,shaman robe ,shamaani viitta
+2396,spell scroll ,spesiaalinen rulla
+2397,shaman robe ,shamaanin viitta
 2398,cave nightshade ,luola yovoide
 2399,silverlight key ,hopeinen avain
 2400,silverlight key  ,hopeinen avain
 2401,silverlight key  ,hopeinen avain
 2402,silverlight ,hopeavalo
-2403,hazeel scroll ,pahkinanruskea rulla
+2403,hazeel scroll ,hazelin rulla
 2404,chest key  ,arkun avain
 2405,carnillean armour ,karnillen panssari
 2406,hazeels mark ,hasselin merkki
@@ -1440,9 +1440,9 @@
 2412,saradomin cape ,saradomin viitta
 2413,guthix cape ,guthix viitta
 2414,zamorak cape ,zamorakin viitta
-2415,saradomin staff ,saradomin henkilokunta
-2416,guthix staff ,guthixin henkilokunta
-2417,zamorak staff ,zamorakin henkilokunta
+2415,saradomin staff ,saradomin keppi
+2416,guthix staff ,guthixin keppi
+2417,zamorak staff ,zamorakin keppi
 2418,bronze key ,pronssi avain
 2419,wig ,peruukki
 2421,wig  ,peruukki
@@ -1452,47 +1452,47 @@
 2425,vorkaths head ,vorkathin paa
 2426,burnt oomlie ,palanut oomlie
 2428,attack potion ,hyokkaysjuoma
-2430,restore potion ,palauttaa juoma
+2430,restore potion ,palautusjuoma
 2432,defence potion ,puolustusjuoma
 2434,prayer potion ,rukousjuoma
 2436,super attack ,superhyokkays
 2438,fishing potion ,kalastusjuoma
-2440,super strength ,Super voima
+2440,super strength ,Supervoima
 2442,super defence ,superpuolustus
-2444,ranging potion ,vaihteleva juoma
+2444,ranging potion ,jousipyssy juoma
 2446,antipoison ,vastamyrkkya
-2448,superantipoison ,superantimyrkkya
-2450,zamorak brew ,zamorak hauduta
+2448,superantipoison ,supervastamyrkky
+2450,zamorak brew ,zamorakin haude
 2452,antifire potion ,palontorjuntajuoma
 2454,antifire potion ,palontorjuntajuoma
 2456,antifire potion ,palontorjuntajuoma
 2458,antifire potion ,palontorjuntajuoma
-2460,assorted flowers ,erilaisia ​​kukkia
-2462,red flowers ,punaisia ​​kukkia
+2460,assorted flowers ,erilaisia kukkia
+2462,red flowers ,punaisia kukkia
 2464,blue flowers ,siniset kukat
-2466,yellow flowers ,keltaisia ​​kukkia
+2466,yellow flowers ,keltaisia kukkia
 2468,purple flowers ,violetit kukat
 2470,orange flowers ,oranssit kukat
-2472,mixed flowers ,sekakukkia
+2472,mixed flowers ,sekalaisiakukkia
 2474,white flowers ,valkoisia kukkia
 2476,black flowers ,mustia kukkia
 2481,lantadyme ,Lantadyme
 2483,lantadyme potion unf ,Lantadyme-juoma unf
 2485,grimy lantadyme ,likainen lantadyme
-2487,blue dhide vambraces ,siniset dhide vambraces
-2489,red dhide vambraces ,punaiset dhide vambraces
-2491,black dhide vambraces ,mustat dhide vambraces
-2493,blue dhide chaps ,siniset dhide-housut
-2495,red dhide chaps ,punaiset dhide-housut
-2497,black dhide chaps ,mustat dhide-housut
-2499,blue dhide body ,sininen dhide runko
-2501,red dhide body ,punainen dhide runko
-2503,black dhide body ,musta dhide runko
+2487,blue dhide vambraces ,siniset lohinahka kyynarsuojat
+2489,red dhide vambraces ,punaiset lohinahka kyynarsuojat
+2491,black dhide vambraces ,mustat lohinahka kyynarsuojat
+2493,blue dhide chaps ,siniset lohinahka housut
+2495,red dhide chaps ,punaiset lohinahka housut
+2497,black dhide chaps ,mustat lohinahka housut
+2499,blue dhide body ,sininen lohinahka haarniska
+2501,red dhide body ,punainen lohinahka haarniska
+2503,black dhide body ,musta lohinahka haarniska
 2505,blue dragon leather ,sininen lohikaarme nahka
 2507,red dragon leather ,punainen lohikaarme nahka
 2509,black dragon leather ,musta lohikaarmeen nahka
 2511,logs  ,lokit
-2513,dragon chainbody ,lohikaarmeen ketjurunko
+2513,dragon chainbody ,lohikaarmeen ketjuhaarniska
 2514,raw shrimps  ,raakoja katkarapuja
 2516,pot of flour  ,kattila jauhoja
 2518,rotten tomato ,mata tomaatti
@@ -1531,29 +1531,29 @@
 2577,ranger boots ,metsanvartijan saappaat
 2579,wizard boots ,velhojen saappaat
 2581,robin hood hat ,robin hood hattu
-2583,black platebody t ,musta levyrunko t
-2585,black platelegs t ,mustat levyjalat t
-2587,black full helm t ,musta taysi ruori t
+2583,black platebody t ,musta levyhaarniska t
+2585,black platelegs t ,mustat levyhousut t
+2587,black full helm t ,musta taysi kypara t
 2589,black kiteshield t ,musta kiteshield t
-2591,black platebody g ,musta levyrunko g
-2593,black platelegs g ,mustat levyjalat g
-2595,black full helm g ,musta taysi ruori g
+2591,black platebody g ,musta levyhaarniska g
+2593,black platelegs g ,mustat levyhousut g
+2595,black full helm g ,musta taysi kypara g
 2597,black kiteshield g ,musta kiteshield g
-2599,adamant platebody t ,jarkkymaton levyrunko t
-2601,adamant platelegs t ,jarkkymattomat levyjalat t
+2599,adamant platebody t ,jarkkymaton levyhaarniska t
+2601,adamant platelegs t ,jarkkymattomat levyhousut t
 2603,adamant kiteshield t ,adamant kiteshield t
-2605,adamant full helm t ,jarkkymaton taysi ruori t
-2607,adamant platebody g ,jarkkymaton levyrunko g
-2609,adamant platelegs g ,jarkkymattomat levyjalat g
+2605,adamant full helm t ,jarkkymaton taysi kypara t
+2607,adamant platebody g ,jarkkymaton levyhaarniska g
+2609,adamant platelegs g ,jarkkymattomat levyhousut g
 2611,adamant kiteshield g ,adamant kiteshield g
-2613,adamant full helm g ,vankkumaton taysi ruori g
-2615,rune platebody g ,riimulevyrunko g
-2617,rune platelegs g ,riimulevyjalat g
-2619,rune full helm g ,rune taysi ruori g
+2613,adamant full helm g ,vankkumaton taysi kypara g
+2615,rune platebody g ,riimulevyhaarniska g
+2617,rune platelegs g ,riimulevyhousut g
+2619,rune full helm g ,rune taysi kypara g
 2621,rune kiteshield g ,rune kiteshield g
 2623,rune platebody t ,rune platebody t
-2625,rune platelegs t ,riimulevyjalat t
-2627,rune full helm t ,rune taysi ruori t
+2625,rune platelegs t ,riimulevyhousut t
+2627,rune full helm t ,rune taysi kypara t
 2629,rune kiteshield t ,rune kiteshield t
 2631,highwayman mask ,highwayman maski
 2633,blue beret ,sininen baretti
@@ -1567,16 +1567,16 @@
 2649,brown headband ,ruskea paanauha
 2651,pirates hat ,merirosvojen hattu
 2653,zamorak platebody ,zamorak platebody
-2655,zamorak platelegs ,zamorakin levyjalat
-2657,zamorak full helm ,zamorak taysi ruori
+2655,zamorak platelegs ,zamorakin levyhousut
+2657,zamorak full helm ,zamorak taysi kypara
 2659,zamorak kiteshield ,zamorak kiteshield
-2661,saradomin platebody ,saradomin levyrunko
-2663,saradomin platelegs ,saradomin levyjalat
-2665,saradomin full helm ,saradomin taysi ruori
+2661,saradomin platebody ,saradomin levyhaarniska
+2663,saradomin platelegs ,saradomin levyhousut
+2665,saradomin full helm ,saradomin taysi kypara
 2667,saradomin kiteshield ,saradomin leijakilpi
-2669,guthix platebody ,guthix-levyrunko
-2671,guthix platelegs ,guthix-levyjalat
-2673,guthix full helm ,guthix taysi ruori
+2669,guthix platebody ,guthix-levyhaarniska
+2671,guthix platelegs ,guthix-levyhousut
+2673,guthix full helm ,guthix taysi kypara
 2675,guthix kiteshield ,guthix kiteshield
 2677,clue scroll easy ,clue scroll helppoa
 2678,clue scroll easy  ,clue scroll helppoa
@@ -1857,11 +1857,11 @@
 3046,magic potion ,taikajuoma
 3049,grimy toadflax ,likainen rupikonnapellava
 3051,grimy snapdragon ,likainen lohikaarme
-3053,lava battlestaff ,laava taisteluhenkilokunta
-3054,mystic lava staff ,mystinen laava henkilokunta
+3053,lava battlestaff ,laava taistelukeppi
+3054,mystic lava staff ,mystinen laava keppi
 3057,mime mask ,miimi naamio
 3058,mime top ,miimi toppi
-3059,mime legs ,miimi jalat
+3059,mime legs ,miimi housut
 3060,mime gloves ,miimi kasineet
 3061,mime boots ,miimi saappaat
 3062,strange box ,outo laatikko
@@ -1899,7 +1899,7 @@
 3136,cell key  ,solun avain
 3137,cell key  ,solun avain
 3138,potato cactus ,perunakaktus
-3140,dragon chainbody  ,lohikaarmeen ketjurunko
+3140,dragon chainbody  ,lohikaarmeen ketjuhaarniska
 3142,raw karambwan ,raaka karambwan
 3144,cooked karambwan ,keitetty karambwan
 3146,poison karambwan ,myrkkya karambwan
@@ -2022,8 +2022,8 @@
 3379,raw slimy eel ,raaka limainen ankerias
 3381,cooked slimy eel ,keitetty limainen ankerias
 3383,burnt eel ,palanut ankerias
-3385,splitbark helm ,splitbark ruori
-3387,splitbark body ,halkaistu runko
+3385,splitbark helm ,splitbark kypara
+3387,splitbark body ,halkaistu haarniska
 3389,splitbark legs ,halkaistuja jalkoja
 3391,splitbark gauntlets ,splitbark-hansikkaita
 3393,splitbark boots ,splitbark saappaat
@@ -2087,10 +2087,10 @@
 3478,zamorak plateskirt ,zamorak levyhame
 3479,saradomin plateskirt ,saradomin levyhame
 3480,guthix plateskirt ,guthix levyhame
-3481,gilded platebody ,kullattu levyrunko
-3483,gilded platelegs ,kullatut levyjalat
+3481,gilded platebody ,kullattu levyhaarniska
+3483,gilded platelegs ,kullatut levyhousut
 3485,gilded plateskirt ,kullattu levyhame
-3486,gilded full helm ,kullattu taysi ruori
+3486,gilded full helm ,kullattu taysi kypara
 3488,gilded kiteshield ,kullattu leijakilpi
 3490,clue scroll easy  ,clue scroll helppoa
 3491,clue scroll easy  ,clue scroll helppoa
@@ -2287,11 +2287,11 @@
 3744,wooden disk ,puinen levy
 3745,seers key ,nakijan avain
 3746,sticky red goop ,tahmea punainen patka
-3748,fremennik helm ,fremennik ruori
-3749,archer helm ,jousimiehen ruori
-3751,berserker helm ,berserkerin ruori
-3753,warrior helm ,soturi ruori
-3755,farseer helm ,farseerin ruori
+3748,fremennik helm ,fremennik kypara
+3749,archer helm ,jousimiehen kypara
+3751,berserker helm ,berserkerin kypara
+3753,warrior helm ,soturi kypara
+3755,farseer helm ,farseerin kypara
 3757,fremennik blade ,fremennik tera
 3758,fremennik shield ,fremennik-kilpi
 3759,fremennik cyan cloak ,fremennik syaani viitta
@@ -2426,7 +2426,7 @@
 4068,decorative sword ,koristeellinen miekka
 4069,decorative armour ,koristeellinen panssari
 4070,decorative armour  ,koristeellinen panssari
-4071,decorative helm ,koristeellinen ruori
+4071,decorative helm ,koristeellinen kypara
 4072,decorative shield ,koristeellinen kilpi
 4073,damp tinderbox ,kostea tinderbox
 4075,glowing fungus ,hehkuva sieni
@@ -2492,7 +2492,7 @@
 4164,facemask ,hengityssuojain
 4166,earmuffs ,kuulosuojaimet
 4168,nose peg ,nenatappi
-4170,slayers staff ,tappajien henkilokuntaa
+4170,slayers staff ,tappajien keppi
 4178,abyssal whip  ,syvennys piiska
 4179,stick ,keppi
 4180,dragon platelegs  ,lohikaarmeen lautaset
@@ -2511,7 +2511,7 @@
 4193,extended brush  ,pidennetty harja
 4194,torso ,torso
 4195,arms ,aseita
-4196,legs ,jalat
+4196,legs ,housut
 4197,decapitated head ,katkaistu paa
 4198,decapitated head  ,katkaistu paa
 4199,pickled brain ,marinoidut aivot
@@ -2660,7 +2660,7 @@
 4409,team cape ,joukkueen viitta
 4411,team cape ,joukkueen viitta
 4413,team cape ,joukkueen viitta
-4415,blunt axe ,tylsa ​​kirves
+4415,blunt axe ,tylsa kirves
 4416,herbal tincture ,yrttitinktuura
 4417,guthix rest ,guthix lepaa
 4419,guthix rest ,guthix lepaa
@@ -2716,18 +2716,18 @@
 4503,decorative sword  ,koristeellinen miekka
 4504,decorative armour  ,koristeellinen panssari
 4505,decorative armour  ,koristeellinen panssari
-4506,decorative helm  ,koristeellinen ruori
+4506,decorative helm  ,koristeellinen kypara
 4507,decorative shield  ,koristeellinen kilpi
 4508,decorative sword  ,koristeellinen miekka
 4509,decorative armour  ,koristeellinen panssari
 4510,decorative armour  ,koristeellinen panssari
-4511,decorative helm  ,koristeellinen ruori
+4511,decorative helm  ,koristeellinen kypara
 4512,decorative shield  ,koristeellinen kilpi
 4513,castlewars hood ,Castlewars huppu
 4514,castlewars cloak ,linnasodan viitta
 4515,castlewars hood  ,Castlewars huppu
 4516,castlewars cloak  ,linnasodan viitta
-4517,giant frog legs ,jattilaiset sammakon jalat
+4517,giant frog legs ,jattilaiset sammakon housut
 4519,swamp wallbeast ,suon muuripeto
 4520,swamp cave slime ,suon luolan limaa
 4521,swamp cave bug ,suon luola-bugi
@@ -2742,7 +2742,7 @@
 4535,empty oil lantern ,tyhja oljylyhty
 4537,oil lantern ,oljylyhty
 4539,oil lantern  ,oljylyhty
-4540,oil lantern frame ,oljylyhdyn runko
+4540,oil lantern frame ,oljylyhdyn haarniska
 4542,lantern lens ,lyhdyn linssi
 4544,bullseye lantern unf ,napakymppilyhty unf
 4546,bullseye lantern empty ,napakymppilyhty tyhja
@@ -2753,9 +2753,9 @@
 4559,deep blue sweets ,syvan sinisia makeisia
 4560,white sweets ,valkoisia makeisia
 4561,purple sweets ,violetit makeiset
-4562,red sweets ,punaisia ​​makeisia
+4562,red sweets ,punaisia makeisia
 4563,green sweets ,vihreita makeisia
-4564,pink sweets ,vaaleanpunaisia ​​makeisia
+4564,pink sweets ,vaaleanpunaisia makeisia
 4565,easter basket ,paasiaiskori
 4566,rubber chicken ,kuminen kana
 4567,gold helmet ,kultainen kypara
@@ -2830,7 +2830,7 @@
 4672,smoke diamond ,savutimantti
 4673,shadow diamond ,varjotimantti
 4674,gilded cross ,kullattu risti
-4675,ancient staff ,vanha henkilokunta
+4675,ancient staff ,vanha keppi
 4677,catspeak amulet ,catspeak amuletti
 4678,canopic jar ,canopic purkki
 4679,canopic jar  ,canopic purkki
@@ -2849,7 +2849,7 @@
 4695,mist rune ,sumuriimu
 4696,dust rune ,polyriimu
 4697,smoke rune ,savuruuna
-4698,mud rune ,mutarunko
+4698,mud rune ,mutahaarniska
 4699,lava rune ,laava riimu
 4700,sapphire lantern ,safiiri lyhty
 4701,sapphire lantern  ,safiiri lyhty
@@ -2858,14 +2858,14 @@
 4704,stone bowl ,kivinen kulho
 4707,crumbling tome ,mureneva teos
 4708,ahrims hood ,ahrims huppu
-4710,ahrims staff ,ahrims henkilokunta
+4710,ahrims staff ,ahrims keppi
 4712,ahrims robetop ,ahrims robetop
 4714,ahrims robeskirt ,ahrims kaapuhame
-4716,dharoks helm ,dharoksin ruori
+4716,dharoks helm ,dharoksin kypara
 4718,dharoks greataxe ,dharoks greataxe
-4720,dharoks platebody ,dharoksin levyrunko
-4722,dharoks platelegs ,dharoksin levyjalat
-4724,guthans helm ,guthanin ruori
+4720,dharoks platebody ,dharoksin levyhaarniska
+4722,dharoks platelegs ,dharoksin levyhousut
+4724,guthans helm ,guthanin kypara
 4726,guthans warspear ,guthans warspear
 4728,guthans platebody ,guthans platebody
 4730,guthans chainskirt ,guthanin ketjuhame
@@ -2874,11 +2874,11 @@
 4736,karils leathertop ,karils nahkatappi
 4738,karils leatherskirt ,karils nahkahame
 4740,bolt rack ,pulttiteline
-4745,torags helm ,torags ruori
+4745,torags helm ,torags kypara
 4747,torags hammers ,torags vasarat
-4749,torags platebody ,torags levyrunko
+4749,torags platebody ,torags levyhaarniska
 4751,torags platelegs ,torags levyjalkoja
-4753,veracs helm ,veracs ruori
+4753,veracs helm ,veracs kypara
 4755,veracs flail ,veracs flail
 4757,veracs brassard ,veracs brassard
 4759,veracs plateskirt ,verac levyhame
@@ -2930,11 +2930,11 @@
 4858,ahrims hood  ,ahrims huppu
 4859,ahrims hood  ,ahrims huppu
 4860,ahrims hood  ,ahrims huppu
-4862,ahrims staff  ,ahrims henkilokunta
-4863,ahrims staff  ,ahrims henkilokunta
-4864,ahrims staff  ,ahrims henkilokunta
-4865,ahrims staff  ,ahrims henkilokunta
-4866,ahrims staff  ,ahrims henkilokunta
+4862,ahrims staff  ,ahrims keppi
+4863,ahrims staff  ,ahrims keppi
+4864,ahrims staff  ,ahrims keppi
+4865,ahrims staff  ,ahrims keppi
+4866,ahrims staff  ,ahrims keppi
 4868,ahrims robetop  ,ahrims robetop
 4869,ahrims robetop  ,ahrims robetop
 4870,ahrims robetop  ,ahrims robetop
@@ -2945,31 +2945,31 @@
 4876,ahrims robeskirt  ,ahrims kaapuhame
 4877,ahrims robeskirt  ,ahrims kaapuhame
 4878,ahrims robeskirt  ,ahrims kaapuhame
-4880,dharoks helm  ,dharoksin ruori
-4881,dharoks helm  ,dharoksin ruori
-4882,dharoks helm  ,dharoksin ruori
-4883,dharoks helm  ,dharoksin ruori
-4884,dharoks helm  ,dharoksin ruori
+4880,dharoks helm  ,dharoksin kypara
+4881,dharoks helm  ,dharoksin kypara
+4882,dharoks helm  ,dharoksin kypara
+4883,dharoks helm  ,dharoksin kypara
+4884,dharoks helm  ,dharoksin kypara
 4886,dharoks greataxe  ,dharoks greataxe
 4887,dharoks greataxe  ,dharoks greataxe
 4888,dharoks greataxe  ,dharoks greataxe
 4889,dharoks greataxe  ,dharoks greataxe
 4890,dharoks greataxe  ,dharoks greataxe
-4892,dharoks platebody  ,dharoksin levyrunko
-4893,dharoks platebody  ,dharoksin levyrunko
-4894,dharoks platebody  ,dharoksin levyrunko
-4895,dharoks platebody  ,dharoksin levyrunko
-4896,dharoks platebody  ,dharoksin levyrunko
-4898,dharoks platelegs  ,dharoksin levyjalat
-4899,dharoks platelegs  ,dharoksin levyjalat
-4900,dharoks platelegs  ,dharoksin levyjalat
-4901,dharoks platelegs  ,dharoksin levyjalat
-4902,dharoks platelegs  ,dharoksin levyjalat
-4904,guthans helm  ,guthanin ruori
-4905,guthans helm  ,guthanin ruori
-4906,guthans helm  ,guthanin ruori
-4907,guthans helm  ,guthanin ruori
-4908,guthans helm  ,guthanin ruori
+4892,dharoks platebody  ,dharoksin levyhaarniska
+4893,dharoks platebody  ,dharoksin levyhaarniska
+4894,dharoks platebody  ,dharoksin levyhaarniska
+4895,dharoks platebody  ,dharoksin levyhaarniska
+4896,dharoks platebody  ,dharoksin levyhaarniska
+4898,dharoks platelegs  ,dharoksin levyhousut
+4899,dharoks platelegs  ,dharoksin levyhousut
+4900,dharoks platelegs  ,dharoksin levyhousut
+4901,dharoks platelegs  ,dharoksin levyhousut
+4902,dharoks platelegs  ,dharoksin levyhousut
+4904,guthans helm  ,guthanin kypara
+4905,guthans helm  ,guthanin kypara
+4906,guthans helm  ,guthanin kypara
+4907,guthans helm  ,guthanin kypara
+4908,guthans helm  ,guthanin kypara
 4910,guthans warspear  ,guthans warspear
 4911,guthans warspear  ,guthans warspear
 4912,guthans warspear  ,guthans warspear
@@ -3005,31 +3005,31 @@
 4948,karils leatherskirt  ,karils nahkahame
 4949,karils leatherskirt  ,karils nahkahame
 4950,karils leatherskirt  ,karils nahkahame
-4952,torags helm  ,torags ruori
-4953,torags helm  ,torags ruori
-4954,torags helm  ,torags ruori
-4955,torags helm  ,torags ruori
-4956,torags helm  ,torags ruori
+4952,torags helm  ,torags kypara
+4953,torags helm  ,torags kypara
+4954,torags helm  ,torags kypara
+4955,torags helm  ,torags kypara
+4956,torags helm  ,torags kypara
 4958,torags hammers  ,torags vasarat
 4959,torags hammers  ,torags vasarat
 4960,torags hammers  ,torags vasarat
 4961,torags hammers  ,torags vasarat
 4962,torags hammers  ,torags vasarat
-4964,torags platebody  ,torags levyrunko
-4965,torags platebody  ,torags levyrunko
-4966,torags platebody  ,torags levyrunko
-4967,torags platebody  ,torags levyrunko
-4968,torags platebody  ,torags levyrunko
+4964,torags platebody  ,torags levyhaarniska
+4965,torags platebody  ,torags levyhaarniska
+4966,torags platebody  ,torags levyhaarniska
+4967,torags platebody  ,torags levyhaarniska
+4968,torags platebody  ,torags levyhaarniska
 4970,torags platelegs  ,torags levyjalkoja
 4971,torags platelegs  ,torags levyjalkoja
 4972,torags platelegs  ,torags levyjalkoja
 4973,torags platelegs  ,torags levyjalkoja
 4974,torags platelegs  ,torags levyjalkoja
-4976,veracs helm  ,veracs ruori
-4977,veracs helm  ,veracs ruori
-4978,veracs helm  ,veracs ruori
-4979,veracs helm  ,veracs ruori
-4980,veracs helm  ,veracs ruori
+4976,veracs helm  ,veracs kypara
+4977,veracs helm  ,veracs kypara
+4978,veracs helm  ,veracs kypara
+4979,veracs helm  ,veracs kypara
+4980,veracs helm  ,veracs kypara
 4982,veracs flail  ,veracs flail
 4983,veracs flail  ,veracs flail
 4984,veracs flail  ,veracs flail
@@ -3102,7 +3102,7 @@
 5078,birds egg  ,linnun muna
 5087,varrock armour ,varrock panssari
 5089,sea snake ,merikaarme
-5093,morytania legs ,morytanian jalat
+5093,morytania legs ,morytanian housut
 5095,explorers ring ,tutkimusmatkailijat soivat
 5096,marigold seed ,kehakukan siemenia
 5097,rosemary seed ,rosmariinin siemenia
@@ -3370,13 +3370,13 @@
 5617,iron arrowp  ,rautainen nuoli
 5618,steel arrowp  ,teraksinen nuoli
 5619,mithril arrowp  ,mithril nuoli
-5620,adamant arrowp  ,tiukka nuoli
+5620,adamant arrowp  ,jarkkymaton nuoli
 5621,rune arrowp  ,riimu nuoli
 5622,bronze arrowp  ,pronssinen nuoli
 5623,iron arrowp  ,rautainen nuoli
 5624,steel arrowp  ,teraksinen nuoli
 5625,mithril arrowp  ,mithril nuoli
-5626,adamant arrowp  ,tiukka nuoli
+5626,adamant arrowp  ,jarkkymaton nuoli
 5627,rune arrowp  ,riimu nuoli
 5628,bronze dartp  ,pronssinen tikka
 5629,iron dartp ,rauta tikka
@@ -3396,13 +3396,13 @@
 5643,iron javelinp  ,rauta keihas
 5644,steel javelinp  ,teraksinen keihas
 5645,mithril javelinp  ,mithril javelinp
-5646,adamant javelinp  ,tiukka keihas
+5646,adamant javelinp  ,jarkkymaton keihas
 5647,rune javelinp  ,rune keihaanheitto
 5648,bronze javelinp  ,pronssi keihas
 5649,iron javelinp  ,rauta keihas
 5650,steel javelinp  ,teraksinen keihas
 5651,mithril javelinp  ,mithril javelinp
-5652,adamant javelinp  ,tiukka keihas
+5652,adamant javelinp  ,jarkkymaton keihas
 5653,rune javelinp  ,rune keihaanheitto
 5654,bronze knifep  ,pronssinen veitsi
 5655,iron knifep  ,rautaveitsi
@@ -3678,13 +3678,13 @@
 6125,enchanted lyre ,lumottu lyyra
 6126,enchanted lyre ,lumottu lyyra
 6127,enchanted lyre ,lumottu lyyra
-6128,rockshell helm ,rockshell ruori
+6128,rockshell helm ,rockshell kypara
 6129,rockshell plate ,rockshell levy
-6130,rockshell legs ,rockshell jalat
-6131,spined helm ,ruori
-6133,spined body ,selkarunkoinen runko
+6130,rockshell legs ,rockshell housut
+6131,spined helm ,kypara
+6133,spined body ,selkahaarniskainen haarniska
 6135,spined chaps ,selkapiippuja
-6137,skeletal helm ,luurankoinen ruori
+6137,skeletal helm ,luurankoinen kypara
 6139,skeletal top ,luurankoinen toppi
 6141,skeletal bottoms ,luurankopohjat
 6143,spined boots ,kehratyt saappaat
@@ -3808,7 +3808,7 @@
 6384,desert top ,aavikon huippu
 6386,desert robes ,aavikon kaapuja
 6388,desert top  ,aavikon huippu
-6390,desert legs ,aavikon jalat
+6390,desert legs ,aavikon housut
 6392,menaphite purple hat ,menafiitin violetti hattu
 6394,menaphite purple top ,menafiitin violetti toppi
 6396,menaphite purple robe ,menafiitin violetti viitta
@@ -3824,10 +3824,10 @@
 6416,maple blackjack ,vaahtera blackjack
 6418,maple blackjacko ,vaahtera blackjacko
 6420,maple blackjackd ,vaahtera blackjackd
-6422,air rune  ,ilmarunko
+6422,air rune  ,ilmahaarniska
 6424,water rune  ,vesiriimu
 6426,earth rune  ,maan riimu
-6428,fire rune  ,tulirunko
+6428,fire rune  ,tulihaarniska
 6430,chaos rune  ,kaaoksen riimu
 6432,death rune  ,kuoleman riimu
 6434,law rune  ,lakiriimu
@@ -3896,8 +3896,8 @@
 6559,wily cat  ,ovela kissa
 6560,wily cat  ,ovela kissa
 6561,ahabs beer ,ahabs olutta
-6562,mud battlestaff ,mutataisteluhenkilokunta
-6563,mystic mud staff ,mystinen muta henkilokunta
+6562,mud battlestaff ,mutataistelukeppi
+6563,mystic mud staff ,mystinen muta keppi
 6568,obsidian cape ,obsidiaaniviitta
 6570,fire cape ,tuliviitta
 6571,uncut onyx ,leikkaamaton onyx
@@ -3916,18 +3916,18 @@
 6597,white daggerp  ,valkoinen tikari
 6599,white halberd ,valkoinen alabardi
 6601,white mace ,valkoinen nuija
-6603,white magic staff ,valkoisen magian henkilokunta
+6603,white magic staff ,valkoisen magian keppi
 6605,white sword ,valkoinen miekka
 6607,white longsword ,valkoinen pitka miekka
 6609,white h sword ,valkoinen h-miekka
 6611,white scimitar ,valkoinen simitar
 6613,white warhammer ,valkoinen sotavasara
-6615,white chainbody ,valkoinen ketjurunko
-6617,white platebody ,valkoinen levyrunko
+6615,white chainbody ,valkoinen ketjuhaarniska
+6617,white platebody ,valkoinen levyhaarniska
 6619,white boots ,valkoiset saappaat
-6621,white med helm ,valkoinen med ruori
-6623,white full helm ,valkoinen taysi ruori
-6625,white platelegs ,valkoiset levyjalat
+6621,white med helm ,valkoinen med kypara
+6623,white full helm ,valkoinen taysi kypara
+6625,white platelegs ,valkoiset levyhousut
 6627,white plateskirt ,valkoinen levyhame
 6629,white gloves ,valkoiset hanskat
 6631,white sq shield ,valkoinen neliokilpi
@@ -4073,7 +4073,7 @@
 6806,skeleton champion scroll ,luurankomestari rullaa
 6807,zombie champion scroll ,zombie mestari rullaa
 6808,leons champion scroll ,leons mestari rullaa
-6809,granite legs ,graniittiset jalat
+6809,granite legs ,graniittiset housut
 6810,wyvern bonemeal ,wyvern luujauho
 6811,skeletal wyvern ,luuranko wyvern
 6812,wyvern bones ,wyvern luut
@@ -4151,8 +4151,8 @@
 6889,mages book ,mages kirja
 6891,arena book ,areenan kirja
 6893,leather boots  ,nahkasaappaat
-6894,adamant kiteshield  ,vankka leijakilpi
-6895,adamant med helm  ,jarkkymaton laaketieteellinen ruori
+6894,adamant kiteshield  ,jarkkymaton leijakilpi
+6895,adamant med helm  ,jarkkymaton laaketieteellinen kypara
 6896,emerald  ,smaragdi
 6897,rune longsword  ,rune pitka miekka
 6898,cylinder ,sylinteri
@@ -4196,7 +4196,7 @@
 6964,coins  ,kolikoita
 6965,square sandwich ,nelionmuotoinen voileipa
 6966,prison key  ,vankilan avain
-6967,dragon med helm  ,lohikaarme med ruori
+6967,dragon med helm  ,lohikaarme med kypara
 6969,shark  ,Hai
 6970,pyramid top ,pyramidin huippu
 6971,sandstone kg ,hiekkakivi kg
@@ -4208,7 +4208,7 @@
 6983,granite kg ,graniittia kg
 6985,sandstone kg ,hiekkakivi kg
 6986,sandstone kg ,hiekkakivi kg
-6987,sandstone body ,hiekkakivi runko
+6987,sandstone body ,hiekkakivi haarniska
 6988,sandstone base ,hiekkakivipohja
 6989,stone head ,kivipaa
 6990,stone head  ,kivipaa
@@ -4426,32 +4426,32 @@
 7330,green firelighter ,vihrea tulisytytin
 7331,blue firelighter ,sininen sytytin
 7332,black shield h ,musta kilpi h
-7334,adamant shield h ,tiukka kilpi h
+7334,adamant shield h ,jarkkymaton kilpi h
 7336,rune shield h ,riimukilpi h
 7338,black shield h ,musta kilpi h
-7340,adamant shield h ,tiukka kilpi h
+7340,adamant shield h ,jarkkymaton kilpi h
 7342,rune shield h ,riimukilpi h
 7344,black shield h ,musta kilpi h
-7346,adamant shield h ,tiukka kilpi h
+7346,adamant shield h ,jarkkymaton kilpi h
 7348,rune shield h ,riimukilpi h
 7350,black shield h ,musta kilpi h
-7352,adamant shield h ,tiukka kilpi h
+7352,adamant shield h ,jarkkymaton kilpi h
 7354,rune shield h ,riimukilpi h
 7356,black shield h ,musta kilpi h
-7358,adamant shield h ,tiukka kilpi h
+7358,adamant shield h ,jarkkymaton kilpi h
 7360,rune shield h ,riimukilpi h
-7362,studded body g ,nastoitettu runko g
-7364,studded body t ,nastoitettu runko t
+7362,studded body g ,nastoitettu haarniska g
+7364,studded body t ,nastoitettu haarniska t
 7366,studded chaps g ,nastalliset nastat g
 7368,studded chaps t ,nastoitettu t
-7370,green dhide body g ,vihrea dhide runko g
-7372,green dhide body t ,vihrea dhide body t
-7374,blue dhide body g ,sininen dhide runko g
-7376,blue dhide body t ,sininen dhide runko t
-7378,green dhide chaps g ,vihrea dhide chaps g
-7380,green dhide chaps t ,vihrea dhide chaps t
-7382,blue dhide chaps g ,sininen dhide chaps g
-7384,blue dhide chaps t ,sininen dhide chaps t
+7370,green dhide body g ,vihrea lohinahka haarniska g
+7372,green dhide body t ,vihrea lohinahka body t
+7374,blue dhide body g ,sininen lohinahka haarniska g
+7376,blue dhide body t ,sininen lohinahka haarniska t
+7378,green dhide chaps g ,vihrea lohinahka chaps g
+7380,green dhide chaps t ,vihrea lohinahka chaps t
+7382,blue dhide chaps g ,sininen lohinahka chaps g
+7384,blue dhide chaps t ,sininen lohinahka chaps t
 7386,blue skirt g ,sininen hame g
 7388,blue skirt t ,sininen hame t
 7390,blue wizard robe g ,sininen velho viitta g
@@ -4461,7 +4461,7 @@
 7398,enchanted robe ,lumottu viitta
 7399,enchanted top ,lumoava toppi
 7400,enchanted hat ,lumoutunut hattu
-7404,red logs ,punaisia ​​tukkeja
+7404,red logs ,punaisia tukkeja
 7405,green logs ,vihreita tukkeja
 7406,blue logs ,siniset lokit
 7408,draynor skull ,draynor kallo
@@ -4581,9 +4581,9 @@
 7548,potato seed  ,perunan siemen
 7550,onion seed  ,sipulin siemen
 7552,mithril arrow  ,mithril-nuoli
-7554,fire rune  ,tulirunko
+7554,fire rune  ,tulihaarniska
 7556,water rune  ,vesiriimu
-7558,air rune  ,ilmarunko
+7558,air rune  ,ilmahaarniska
 7560,chaos rune  ,kaaoksen riimu
 7562,tomato seed  ,tomaatin siemen
 7564,balloon toad ,ilmapallo rupikonna
@@ -4872,7 +4872,7 @@
 7914,jackal bone ,sakaalin luu
 7915,bone in vinegar  ,luu etikassa
 7916,jackal bone  ,sakaalin luu
-7917,ram skull helm ,passin kallon ruori
+7917,ram skull helm ,passin kallon kypara
 7918,bonesack ,luusakki
 7919,bottle of wine ,pullo viinia
 7921,empty wine bottle ,tyhja viinipullo
@@ -5013,8 +5013,8 @@
 8068,gilded altar ,kullattu alttari
 8069,wooden torches ,puiset taskulamput
 8070,steel torches ,teraksiset taskulamput
-8071,steel candlesticks ,teraksiset kynttilanjalat
-8072,gold candlesticks ,kultaiset kynttilanjalat
+8071,steel candlesticks ,teraksiset kynttilanhousut
+8072,gold candlesticks ,kultaiset kynttilanhousut
 8073,incense burners ,suitsukkeen polttimet
 8074,mahogany burners ,mahonkipolttimet
 8075,marble burners ,marmoriset polttimet
@@ -5317,7 +5317,7 @@
 8374,greater magic cage ,suurempi taikahakki
 8375,wooden workbench ,puinen tyopoyta
 8376,oak workbench ,tammi tyopoyta
-8377,steel framed bench ,terasrunkoinen penkki
+8377,steel framed bench ,terashaarniskainen penkki
 8378,bench with vice ,penkki ruuvipenkilla
 8379,bench with lathe ,penkki sorvin kanssa
 8380,crafting table  ,askartelupoyta
@@ -5381,22 +5381,22 @@
 8459,bagged marigolds ,pussitettu kehakukka
 8461,bagged roses ,pussitettuja ruusuja
 8463,construction guide ,rakennusopas
-8464,rune heraldic helm ,riimu heraldinen ruori
-8466,rune heraldic helm  ,riimu heraldinen ruori
-8468,rune heraldic helm  ,riimu heraldinen ruori
-8470,rune heraldic helm  ,riimu heraldinen ruori
-8472,rune heraldic helm  ,riimu heraldinen ruori
-8474,rune heraldic helm  ,riimu heraldinen ruori
-8476,rune heraldic helm  ,riimu heraldinen ruori
-8478,rune heraldic helm  ,riimu heraldinen ruori
-8480,rune heraldic helm  ,riimu heraldinen ruori
-8482,rune heraldic helm  ,riimu heraldinen ruori
-8484,rune heraldic helm  ,riimu heraldinen ruori
-8486,rune heraldic helm  ,riimu heraldinen ruori
-8488,rune heraldic helm  ,riimu heraldinen ruori
-8490,rune heraldic helm  ,riimu heraldinen ruori
-8492,rune heraldic helm  ,riimu heraldinen ruori
-8494,rune heraldic helm  ,riimu heraldinen ruori
+8464,rune heraldic helm ,riimu heraldinen kypara
+8466,rune heraldic helm  ,riimu heraldinen kypara
+8468,rune heraldic helm  ,riimu heraldinen kypara
+8470,rune heraldic helm  ,riimu heraldinen kypara
+8472,rune heraldic helm  ,riimu heraldinen kypara
+8474,rune heraldic helm  ,riimu heraldinen kypara
+8476,rune heraldic helm  ,riimu heraldinen kypara
+8478,rune heraldic helm  ,riimu heraldinen kypara
+8480,rune heraldic helm  ,riimu heraldinen kypara
+8482,rune heraldic helm  ,riimu heraldinen kypara
+8484,rune heraldic helm  ,riimu heraldinen kypara
+8486,rune heraldic helm  ,riimu heraldinen kypara
+8488,rune heraldic helm  ,riimu heraldinen kypara
+8490,rune heraldic helm  ,riimu heraldinen kypara
+8492,rune heraldic helm  ,riimu heraldinen kypara
+8494,rune heraldic helm  ,riimu heraldinen kypara
 8496,crude chair ,raaka tuoli
 8498,wooden chair  ,puinen tuoli
 8500,rocking chair  ,keinutuoli
@@ -5490,22 +5490,22 @@
 8676,banner  ,banneri
 8678,banner  ,banneri
 8680,banner  ,banneri
-8682,steel heraldic helm ,teraksinen heraldinen ruori
-8684,steel heraldic helm  ,teraksinen heraldinen ruori
-8686,steel heraldic helm  ,teraksinen heraldinen ruori
-8688,steel heraldic helm  ,teraksinen heraldinen ruori
-8690,steel heraldic helm  ,teraksinen heraldinen ruori
-8692,steel heraldic helm  ,teraksinen heraldinen ruori
-8694,steel heraldic helm  ,teraksinen heraldinen ruori
-8696,steel heraldic helm  ,teraksinen heraldinen ruori
-8698,steel heraldic helm  ,teraksinen heraldinen ruori
-8700,steel heraldic helm  ,teraksinen heraldinen ruori
-8702,steel heraldic helm  ,teraksinen heraldinen ruori
-8704,steel heraldic helm  ,teraksinen heraldinen ruori
-8706,steel heraldic helm  ,teraksinen heraldinen ruori
-8708,steel heraldic helm  ,teraksinen heraldinen ruori
-8710,steel heraldic helm  ,teraksinen heraldinen ruori
-8712,steel heraldic helm  ,teraksinen heraldinen ruori
+8682,steel heraldic helm ,teraksinen heraldinen kypara
+8684,steel heraldic helm  ,teraksinen heraldinen kypara
+8686,steel heraldic helm  ,teraksinen heraldinen kypara
+8688,steel heraldic helm  ,teraksinen heraldinen kypara
+8690,steel heraldic helm  ,teraksinen heraldinen kypara
+8692,steel heraldic helm  ,teraksinen heraldinen kypara
+8694,steel heraldic helm  ,teraksinen heraldinen kypara
+8696,steel heraldic helm  ,teraksinen heraldinen kypara
+8698,steel heraldic helm  ,teraksinen heraldinen kypara
+8700,steel heraldic helm  ,teraksinen heraldinen kypara
+8702,steel heraldic helm  ,teraksinen heraldinen kypara
+8704,steel heraldic helm  ,teraksinen heraldinen kypara
+8706,steel heraldic helm  ,teraksinen heraldinen kypara
+8708,steel heraldic helm  ,teraksinen heraldinen kypara
+8710,steel heraldic helm  ,teraksinen heraldinen kypara
+8712,steel heraldic helm  ,teraksinen heraldinen kypara
 8714,rune kiteshield  ,rune kiteshield
 8716,rune kiteshield  ,rune kiteshield
 8718,rune kiteshield  ,rune kiteshield
@@ -5609,7 +5609,7 @@
 8932,lumber patch ,puutavarapaikka
 8934,scrapey tree logs ,raapivat puutukit
 8936,blue flowers  ,siniset kukat
-8938,red flowers  ,punaisia ​​kukkia
+8938,red flowers  ,punaisia kukkia
 8940,rum ,rommi
 8941,rum  ,rommi
 8942,monkey  ,apina
@@ -5709,7 +5709,7 @@
 9065,emerald lantern  ,smaragdi lyhty
 9066,emerald lens ,smaragdi linssi
 9067,dream log ,unelma loki
-9068,moonclan helm ,kuuklaanin ruori
+9068,moonclan helm ,kuuklaanin kypara
 9069,moonclan hat ,kuuklaanin hattu
 9070,moonclan armour ,kuuklaanin panssari
 9071,moonclan skirt ,kuuklaanin hame
@@ -5725,21 +5725,21 @@
 9081,suqah leather ,suqah nahkaa
 9082,ground tooth ,hiottu hammas
 9083,seal of passage ,kulun sinetti
-9084,lunar staff ,kuun henkilokunta
+9084,lunar staff ,kuun keppi
 9085,empty vial ,tyhja injektiopullo
 9086,vial of water  ,vesipullo
 9087,waking sleep vial ,heraava unipullo
 9088,guam vial ,guam-pullo
 9089,marr vial ,marr-pullo
 9090,guammarr vial ,guammarr-pullo
-9091,lunar staff  pt ,kuun henkilokunta pt
-9092,lunar staff  pt ,kuun henkilokunta pt
-9093,lunar staff  pt ,kuun henkilokunta pt
+9091,lunar staff  pt ,kuun keppi pt
+9092,lunar staff  pt ,kuun keppi pt
+9093,lunar staff  pt ,kuun keppi pt
 9094,kindling ,sytykkeet
 9095,soaked kindling ,liotettu sytytys
-9096,lunar helm ,kuun ruori
+9096,lunar helm ,kuun kypara
 9097,lunar torso ,kuun vartalo
-9098,lunar legs ,kuun jalat
+9098,lunar legs ,kuun housut
 9099,lunar gloves ,kuun kasineet
 9100,lunar boots ,kuun saappaat
 9101,lunar cape ,kuun viitta
@@ -5885,7 +5885,7 @@
 9544,chocchip crunchies  ,suklaalastuja
 9547,worm hole  ,madon reika
 9549,veg ball  ,kasvispallo
-9551,tangled toads legs  ,takkuiset rupikonnan jalat
+9551,tangled toads legs  ,takkuiset rupikonnan housut
 9553,chocolate bomb  ,suklaapommi
 9558,half made bowl ,puoliksi tehty kulho
 9559,half made bowl  ,puoliksi tehty kulho
@@ -5951,11 +5951,11 @@
 9625,crystal saw ,kristallisaha
 9626,crystal saw seed ,kristallisahan siemen
 9627,a handwritten book ,kasin kirjoitettu kirja
-9629,tyras helm ,tyras ruori
+9629,tyras helm ,tyras kypara
 9632,daeyalt ore ,daeyalt-malmi
 9633,message  ,viesti
 9634,vyrewatch top ,vyrewwatch toppi
-9636,vyrewatch legs ,vyrewwatch jalat
+9636,vyrewatch legs ,vyrewwatch housut
 9638,vyrewatch shoes ,vyrewatch kengat
 9640,citizen top ,kansalaishuippu
 9642,citizen trousers ,kansalaishousut
@@ -5996,14 +5996,14 @@
 9689,fragment  ,kappale
 9690,blank water rune ,tyhja vesiriimu
 9691,water rune  ,vesiriimu
-9692,blank air rune ,tyhja ilmarunko
-9693,air rune  ,ilmarunko
+9692,blank air rune ,tyhja ilmahaarniska
+9693,air rune  ,ilmahaarniska
 9694,blank earth rune ,tyhja maan riimu
 9695,earth rune  ,maan riimu
 9696,blank mind rune ,tyhja mielen rune
 9697,mind rune  ,mielen riimu
 9698,blank fire rune ,tyhja tuliriimu
-9699,fire rune  ,tulirunko
+9699,fire rune  ,tulihaarniska
 9702,stick  ,keppi
 9703,training sword ,harjoitusmiekka
 9704,training shield ,harjoituskilpi
@@ -6252,23 +6252,23 @@
 10031,rabbit snare ,kanin ansa
 10033,chinchompa  ,chinchompa
 10034,red chinchompa  ,punainen chinchompa
-10035,kyatt legs ,kyatt jalat
+10035,kyatt legs ,kyatt housut
 10037,kyatt top ,kyatt toppi
 10039,kyatt hat ,kyatt hattu
-10041,larupia legs ,larupian jalat
+10041,larupia legs ,larupian housut
 10043,larupia top ,larupia toppi
 10045,larupia hat ,larupia hattu
-10047,graahk legs ,graahk jalat
+10047,graahk legs ,graahk housut
 10049,graahk top ,graahk toppi
 10051,graahk headdress ,graahk paahine
 10053,wood camo top ,puinen camo toppi
-10055,wood camo legs ,puiset camo-jalat
+10055,wood camo legs ,puiset camo-housut
 10057,jungle camo top ,viidakon camo toppi
-10059,jungle camo legs ,viidakon camon jalat
+10059,jungle camo legs ,viidakon camon housut
 10061,desert camo top ,desert camo toppi
-10063,desert camo legs ,aavikon camon jalat
+10063,desert camo legs ,aavikon camon housut
 10065,polar camo top ,polar camo toppi
-10067,polar camo legs ,polar camo jalat
+10067,polar camo legs ,polar camo housut
 10069,spotted cape ,taplikas viitta
 10071,spottier cape ,spottier viitta
 10073,spotted cape  ,taplikas viitta
@@ -6439,16 +6439,16 @@
 10290,rune helm h ,rune helm h
 10292,rune helm h ,rune helm h
 10294,rune helm h ,rune helm h
-10296,adamant helm h ,tiukka ruori h
-10298,adamant helm h ,tiukka ruori h
-10300,adamant helm h ,tiukka ruori h
-10302,adamant helm h ,tiukka ruori h
-10304,adamant helm h ,tiukka ruori h
-10306,black helm h ,musta ruori h
-10308,black helm h ,musta ruori h
-10310,black helm h ,musta ruori h
-10312,black helm h ,musta ruori h
-10314,black helm h ,musta ruori h
+10296,adamant helm h ,jarkkymaton kypara h
+10298,adamant helm h ,jarkkymaton kypara h
+10300,adamant helm h ,jarkkymaton kypara h
+10302,adamant helm h ,jarkkymaton kypara h
+10304,adamant helm h ,jarkkymaton kypara h
+10306,black helm h ,musta kypara h
+10308,black helm h ,musta kypara h
+10310,black helm h ,musta kypara h
+10312,black helm h ,musta kypara h
+10314,black helm h ,musta kypara h
 10316,bobs red shirt ,bobs punainen paita
 10318,bobs blue shirt ,bobs sininen paita
 10320,bobs green shirt ,bobs vihrea paita
@@ -6459,7 +6459,7 @@
 10328,white logs ,valkoiset tukit
 10329,purple logs ,violetit lokit
 10330,    rd age range top ,rd ikaluokan huippu
-10332,    rd age range legs ,rd ikaluokan jalat
+10332,    rd age range legs ,rd ikaluokan housut
 10334,    rd age range coif ,rd ikaluokka coif
 10336,    rd age vambraces ,rd ika vambraces
 10338,    rd age robe top ,rd ika kaapu toppi
@@ -6467,7 +6467,7 @@
 10342,    rd age mage hat ,rd-ikainen maagihattu
 10344,    rd age amulet ,rd ika amuletti
 10346,    rd age platelegs ,ian veritulppa
-10348,    rd age platebody ,rd-ikainen levyrunko
+10348,    rd age platebody ,rd-ikainen levyhaarniska
 10350,    rd age full helmet ,rd ika taysi kypara
 10352,    rd age kiteshield ,rd-ikainen leijakilpi
 10354,amulet of glory t ,kunnian amuletti t
@@ -6478,15 +6478,15 @@
 10364,strength amulet t ,vahvuus amuletti t
 10366,amulet of magic t ,taikuuden amuletti t
 10368,zamorak bracers ,zamorak olkaimet
-10370,zamorak dhide body ,zamorak dhide body
+10370,zamorak dhide body ,zamorak lohinahka body
 10372,zamorak chaps ,zamorak kaverit
 10374,zamorak coif ,zamorak coif
 10376,guthix bracers ,guthix olkaimet
-10378,guthix dhide body ,guthix dhide runko
+10378,guthix dhide body ,guthix lohinahka haarniska
 10380,guthix chaps ,guthix-kaverit
 10382,guthix coif ,guthix coif
 10384,saradomin bracers ,saradomin olkaimet
-10386,saradomin dhide body ,saradomin dhide body
+10386,saradomin dhide body ,saradomin lohinahka body
 10388,saradomin chaps ,saradomin kaverit
 10390,saradomin coif ,saradomin coif
 10392,a powdered wig ,puuterimainen peruukki
@@ -6494,15 +6494,15 @@
 10396,pantaloons ,housut
 10398,sleeping cap ,makuualppi
 10400,black elegant shirt ,musta tyylikas paita
-10402,black elegant legs ,mustat tyylikkaat jalat
+10402,black elegant legs ,mustat tyylikkaat housut
 10404,red elegant shirt ,punainen tyylikas paita
-10406,red elegant legs ,punaiset tyylikkaat jalat
+10406,red elegant legs ,punaiset tyylikkaat housut
 10408,blue elegant shirt ,sininen tyylikas paita
-10410,blue elegant legs ,siniset tyylikkaat jalat
+10410,blue elegant legs ,siniset tyylikkaat housut
 10412,green elegant shirt ,vihrea tyylikas paita
-10414,green elegant legs ,vihreat tyylikkaat jalat
+10414,green elegant legs ,vihreat tyylikkaat housut
 10416,purple elegant shirt ,violetti tyylikas paita
-10418,purple elegant legs ,violetit tyylikkaat jalat
+10418,purple elegant legs ,violetit tyylikkaat housut
 10420,white elegant blouse ,valkoinen tyylikas pusero
 10422,white elegant skirt ,valkoinen tyylikas hame
 10424,red elegant blouse ,punainen tyylikas pusero
@@ -6525,9 +6525,9 @@
 10458,saradomin robe top ,saradomin kaapullinen toppi
 10460,zamorak robe top ,zamorak kaapu toppi
 10462,guthix robe top ,guthix kaapu toppi
-10464,saradomin robe legs ,saradomin kaapu jalat
-10466,guthix robe legs ,guthix-viitan jalat
-10468,zamorak robe legs ,zamorak kaapujen jalat
+10464,saradomin robe legs ,saradomin kaapu housut
+10466,guthix robe legs ,guthix-viitan housut
+10468,zamorak robe legs ,zamorak kaapujen housut
 10470,saradomin stole ,saradomin varasti
 10472,guthix stole ,guthix varasti
 10474,zamorak stole ,zamorak varasti
@@ -6604,7 +6604,7 @@
 10561,spikes  ,piikkeja
 10562,queen help book ,kuningatar ohjekirja
 10563,no eggs ,ei munia
-10564,granite body ,graniittirunko
+10564,granite body ,graniittihaarniska
 10566,fire cape  ,tuliviitta
 10567,healer icon  ,parantajan kuvake
 10581,keris ,keris
@@ -6615,7 +6615,7 @@
 10586,combat lamp ,taistelulamppu
 10587,tarns diary ,tarns paivakirja
 10588,salve amulet e ,salva amuletti e
-10589,granite helm ,graniitti ruori
+10589,granite helm ,graniitti kypara
 10591,terror dog ,terrorikoira
 10592,penguin bongos ,pingviini bongoja
 10593,cowbells ,lehmankelloja
@@ -6636,7 +6636,7 @@
 10822,yakhide armour ,jakinhide panssari
 10824,yakhide armour  ,jakinhide panssari
 10826,neitiznot shield ,neitiznot kilpi
-10828,helm of neitiznot ,neitiznotin ruori
+10828,helm of neitiznot ,neitiznotin kypara
 10829,documents ,asiakirjoja
 10830,royal decree ,kuninkaallinen asetus
 10831,empty tax bag ,tyhja veropussi
@@ -6719,7 +6719,7 @@
 10936,reward token  ,palkintomerkki
 10937,nail beast nails ,kynsien pedon kynnet
 10939,lumberjack top ,metsuri toppi
-10940,lumberjack legs ,metsuri jalat
+10940,lumberjack legs ,metsuri housut
 10941,lumberjack hat ,metsuri hattu
 10942,reward token  ,palkintomerkki
 10943,reward token  ,palkintomerkki
@@ -6731,13 +6731,13 @@
 10950,skull staples ,kallon niitit
 10951,skull staples  ,kallon niitit
 10952,slayer bell ,tappajakello
-10954,frogleather body ,sammakonnahkainen runko
+10954,frogleather body ,sammakonnahkainen haarniska
 10956,frogleather chaps ,sammakonnahkaiset housut
 10958,frogleather boots ,sammakonnahkaiset saappaat
 10960,green gloop soup ,vihrea gloop-keitto
 10961,frogspawn gumbo ,frogspawn gumbo
 10962,frogburger ,sammakkoburgeri
-10963,coated frogs legs ,paallystetyt sammakon jalat
+10963,coated frogs legs ,paallystetyt sammakon housut
 10964,bat shish ,bat shish
 10965,fingers ,sormet
 10966,grubs  la mode ,grubs la mode
@@ -6786,7 +6786,7 @@
 11019,chicken feet ,kanan koipi
 11020,chicken wings ,kanansiivet
 11021,chicken head ,kanan paa
-11022,chicken legs ,kanan jalat
+11022,chicken legs ,kanan housut
 11023,magic egg ,maaginen muna
 11024,rabbit mould ,kanin muotti
 11025,chocolate chunks ,suklaapaloja
@@ -6965,7 +6965,7 @@
 11330,leaping salmon ,hyppaava lohi
 11332,leaping sturgeon ,hyppaava sammi
 11334,fish offcuts ,kalan leikkuujatteet
-11335,dragon full helm ,lohikaarme taysi ruori
+11335,dragon full helm ,lohikaarme taysi kypara
 11337,mangled bones ,murtuneet luut
 11338,chewed bones ,pureskeltuja luita
 11339,my notes ,muistiinpanoni
@@ -7000,7 +7000,7 @@
 11369,iron hasta ,rautainen hasta
 11371,steel hasta ,terasta hasta
 11373,mithril hasta ,mithril hasta
-11375,adamant hasta ,tiukka hasta
+11375,adamant hasta ,jarkkymaton hasta
 11377,rune hasta ,rune hasta
 11379,bronze hastap ,pronssinen hastap
 11381,bronze hastakp ,pronssi hastakp
@@ -7079,9 +7079,9 @@
 11525,feather  ,sulka
 11640,book of knowledge ,tiedon kirja
 11656,glassblowing book ,lasinpuhalluskirja
-11663,void mage helm ,tyhja mage ruori
-11664,void ranger helm ,tyhja metsanvartijan ruori
-11665,void melee helm ,tyhja lahitaistelu ruori
+11663,void mage helm ,tyhja mage kypara
+11664,void ranger helm ,tyhja metsanvartijan kypara
+11665,void melee helm ,tyhja lahitaistelu kypara
 11666,void seal ,tyhja sinetti
 11667,void seal ,tyhja sinetti
 11668,void seal ,tyhja sinetti
@@ -7096,9 +7096,9 @@
 11680,address form ,osoitelomake
 11681,scrap paper ,suttupaperi
 11682,hair clip ,hiusklipsi
-11686,fire rune  ,tulirunko
+11686,fire rune  ,tulihaarniska
 11687,water rune  ,vesiriimu
-11688,air rune  ,ilmarunko
+11688,air rune  ,ilmahaarniska
 11689,earth rune  ,maan riimu
 11690,mind rune  ,mielen riimu
 11691,body rune  ,kehon runo
@@ -7119,7 +7119,7 @@
 11706,beach boxing gloves  ,rantanyrkkeilyhanskat
 11707,cursed goblin hammer ,kirottu peikkovasara
 11708,cursed goblin bow ,kirottu peikko jousi
-11709,cursed goblin staff ,kirottu peikko henkilokunta
+11709,cursed goblin staff ,kirottu peikko keppi
 11710,antidragon shield nz ,lohikaarmeen vastainen kilpi nz
 11711,magic secateurs nz ,maagiset oksasakset nz
 11712,chaos rune nz ,kaaosrune nz
@@ -7196,9 +7196,9 @@
 11783,black mask  i ,musta naamio i
 11784,black mask i ,musta naamio i
 11785,armadyl crossbow ,armadyylivarsijousi
-11787,steam battlestaff ,hoyry taisteluhenkilokunta
-11789,mystic steam staff ,mystinen hoyryhenkilokunta
-11791,staff of the dead ,kuolleiden henkilokuntaa
+11787,steam battlestaff ,hoyry taistelukeppi
+11789,mystic steam staff ,mystinen hoyrykeppi
+11791,staff of the dead ,kuolleiden keppi
 11793,agility jump  ,agilityhyppy
 11794,godsword shards    ,jumalanmiekan sirpaleita
 11796,godsword shards    ,jumalanmiekan sirpaleita
@@ -7235,8 +7235,8 @@
 11853,graceful cape  ,siro viitta
 11854,graceful top ,siro toppi
 11855,graceful top  ,siro toppi
-11856,graceful legs ,sirot jalat
-11857,graceful legs  ,sirot jalat
+11856,graceful legs ,sirot housut
+11857,graceful legs  ,sirot housut
 11858,graceful gloves ,sirot hanskat
 11859,graceful gloves  ,sirot hanskat
 11860,graceful boots ,sirot saappaat
@@ -7330,8 +7330,8 @@
 11995,pet chaos elemental ,lemmikkielainten kaaos elementaalinen
 11996,holiday tool ,lomatyokalu
 11997,easter ,paasiainen
-11998,smoke battlestaff ,savutaisteluhenkilokunta
-12000,mystic smoke staff ,mystinen savuhenkilokunta
+11998,smoke battlestaff ,savutaistelukeppi
+12000,mystic smoke staff ,mystinen savukeppi
 12002,occult necklace ,okkulttinen kaulakoru
 12004,kraken tentacle ,kraken-lonkero
 12006,abyssal tentacle ,syvennyslonkero
@@ -7342,7 +7342,7 @@
 12012,golden nugget ,kultahippu
 12013,prospector helmet ,etsijan kypara
 12014,prospector jacket ,kaivaajan takki
-12015,prospector legs ,etsijan jalat
+12015,prospector legs ,etsijan housut
 12016,prospector boots ,etsijan saappaat
 12017,salve amuleti ,voide amuletti
 12018,salve amuletei ,salve amuletei
@@ -7521,43 +7521,43 @@
 12191,clue scroll easy  ,clue scroll helppoa
 12192,clue scroll easy  ,clue scroll helppoa
 12193,ancient robe top ,vanha kaapullinen toppi
-12195,ancient robe legs ,muinaiset kaapujen jalat
+12195,ancient robe legs ,muinaiset kaapujen housut
 12197,ancient cloak ,muinainen viitta
 12199,ancient crozier ,muinainen crozier
 12201,ancient stole ,muinainen varastaja
 12203,ancient mitre ,muinainen jiira
-12205,bronze platebody g ,pronssilevyrunko g
-12207,bronze platelegs g ,pronssilevyjalat g
+12205,bronze platebody g ,pronssilevyhaarniska g
+12207,bronze platelegs g ,pronssilevyhousut g
 12209,bronze plateskirt g ,pronssilevyhame g
-12211,bronze full helm g ,pronssi taysruori g
+12211,bronze full helm g ,pronssi tayskypara g
 12213,bronze kiteshield g ,pronssinen kiteshield g
-12215,bronze platebody t ,pronssilevyrunko t
-12217,bronze platelegs t ,pronssiset levyjalat t
+12215,bronze platebody t ,pronssilevyhaarniska t
+12217,bronze platelegs t ,pronssiset levyhousut t
 12219,bronze plateskirt t ,pronssilevyhame t
-12221,bronze full helm t ,pronssi taysruori t
+12221,bronze full helm t ,pronssi tayskypara t
 12223,bronze kiteshield t ,pronssinen kiteshield t
-12225,iron platebody t ,rautalevyrunko t
-12227,iron platelegs t ,rautaiset levyjalat t
+12225,iron platebody t ,rautalevyhaarniska t
+12227,iron platelegs t ,rautaiset levyhousut t
 12229,iron plateskirt t ,rautalevyhame t
-12231,iron full helm t ,rautainen taysi ruori t
+12231,iron full helm t ,rautainen taysi kypara t
 12233,iron kiteshield t ,rautainen leijakilpi t
-12235,iron platebody g ,rautalevyrunko g
-12237,iron platelegs g ,rautaiset levyjalat g
+12235,iron platebody g ,rautalevyhaarniska g
+12237,iron platelegs g ,rautaiset levyhousut g
 12239,iron plateskirt g ,rautalevyhame g
-12241,iron full helm g ,rautainen taysi ruori g
+12241,iron full helm g ,rautainen taysi kypara g
 12243,iron kiteshield g ,rautainen leijakilpi g
 12245,beanie ,pipo
 12247,red beret ,punainen baretti
 12249,imp mask ,imp maski
 12251,goblin mask ,goblin naamio
 12253,armadyl robe top ,armadyl kaapu toppi
-12255,armadyl robe legs ,armadyyliviitan jalat
+12255,armadyl robe legs ,armadyyliviitan housut
 12257,armadyl stole ,armadyyli varasti
 12259,armadyl mitre ,armadyyli jiiri
 12261,armadyl cloak ,armadyyliviitta
 12263,armadyl crozier ,armadyl crozier
 12265,bandos robe top ,bandos-kylpytakki
-12267,bandos robe legs ,bandos kaapujen jalat
+12267,bandos robe legs ,bandos kaapujen housut
 12269,bandos stole ,bandos varasti
 12271,bandos mitre ,bandos miter
 12273,bandos cloak ,bandos viitta
@@ -7565,12 +7565,12 @@
 12277,mithril platebody g ,mithril platebody g
 12279,mithril platelegs g ,mithril platelegs g
 12281,mithril kiteshield g ,mithril kiteshield g
-12283,mithril full helm g ,mithril taysi ruori g
+12283,mithril full helm g ,mithril taysi kypara g
 12285,mithril plateskirt g ,mithril levyhame g
 12287,mithril platebody t ,mithril platebody t
 12289,mithril platelegs t ,mithril platelegs t
 12291,mithril kiteshield t ,mithril kiteshield t
-12293,mithril full helm t ,mithril taysi ruori t
+12293,mithril full helm t ,mithril taysi kypara t
 12295,mithril plateskirt t ,mithril levyhame t
 12297,black pickaxe ,musta hakku
 12299,white headband ,valkoinen otsapanta
@@ -7582,15 +7582,15 @@
 12311,purple boater ,violetti veneilija
 12313,white boater ,valkoinen veneilija
 12315,pink elegant shirt ,vaaleanpunainen tyylikas paita
-12317,pink elegant legs ,vaaleanpunaiset tyylikkaat jalat
+12317,pink elegant legs ,vaaleanpunaiset tyylikkaat housut
 12319,crier hat ,huutohattu
 12321,white cavalier ,valkoinen kavalieri
 12323,red cavalier ,punainen kavaleri
 12325,navy cavalier ,laivaston kavaleri
-12327,red dhide body g ,punainen dhide runko g
-12329,red dhide chaps g ,punainen dhide chaps g
-12331,red dhide body t ,punainen dhide body t
-12333,red dhide chaps t ,punainen dhide chaps t
+12327,red dhide body g ,punainen lohinahka haarniska g
+12329,red dhide chaps g ,punainen lohinahka chaps g
+12331,red dhide body t ,punainen lohinahka body t
+12333,red dhide chaps t ,punainen lohinahka chaps t
 12335,briefcase ,salkku
 12337,sagacious spectacles ,viisaat silmalasit
 12339,pink elegant blouse ,vaaleanpunainen tyylikas pusero
@@ -7598,7 +7598,7 @@
 12343,gold elegant blouse ,kultainen tyylikas pusero
 12345,gold elegant skirt ,kultainen tyylikas hame
 12347,gold elegant shirt ,kultainen tyylikas paita
-12349,gold elegant legs ,kultaiset tyylikkaat jalat
+12349,gold elegant legs ,kultaiset tyylikkaat housut
 12351,musketeer hat ,muskettisoturi hattu
 12353,monocle ,monokkeli
 12355,big pirate hat ,iso merirosvohattu
@@ -7614,10 +7614,10 @@
 12375,black cane ,musta keppi
 12377,adamant cane ,jarkkymaton keppi
 12379,rune cane ,riimukeppi
-12381,black dhide body g ,musta dhide runko g
-12383,black dhide chaps g ,musta dhide chaps g
-12385,black dhide body t ,musta dhide runko t
-12387,black dhide chaps t ,musta dhide chaps t
+12381,black dhide body g ,musta lohinahka haarniska g
+12383,black dhide chaps g ,musta lohinahka chaps g
+12385,black dhide body t ,musta lohinahka haarniska t
+12387,black dhide chaps t ,musta lohinahka chaps t
 12389,gilded scimitar ,kullattu veitsi
 12391,gilded boots ,kullatut saappaat
 12393,royal gown top ,kuninkaallinen mekon toppi
@@ -7635,10 +7635,10 @@
 12410,iorwerth camp teleport ,iorwerth leirin teleportti
 12411,mos leharmless teleport ,mos vaaraton teleportti
 12412,pirate hat  patch ,merirosvohattu paikka
-12414,dragon chainbody g ,lohikaarmeen ketjurunko g
+12414,dragon chainbody g ,lohikaarmeen ketjuhaarniska g
 12415,dragon platelegs g ,lohikaarmeen lautaset g
 12416,dragon plateskirt g ,lohikaarme levyhame g
-12417,dragon full helm g ,lohikaarme taysi ruori g
+12417,dragon full helm g ,lohikaarme taysi kypara g
 12418,dragon sq shield g ,dragon sq shield g
 12419,light infinity hat ,kevyt aareton hattu
 12420,light infinity top ,kevyt aareton toppi
@@ -7664,31 +7664,31 @@
 12457,dark infinity hat ,tumma aareton hattu
 12458,dark infinity top ,tumma aareton toppi
 12459,dark infinity bottoms ,tummat aareton pohjat
-12460,ancient platebody ,muinainen levyrunko
-12462,ancient platelegs ,muinaiset levyjalat
+12460,ancient platebody ,muinainen levyhaarniska
+12462,ancient platelegs ,muinaiset levyhousut
 12464,ancient plateskirt ,vanha levyhame
-12466,ancient full helm ,vanha taysi ruori
+12466,ancient full helm ,vanha taysi kypara
 12468,ancient kiteshield ,muinainen leijakilpi
-12470,armadyl platebody ,armadyylilevyrunko
-12472,armadyl platelegs ,armadyylilevyjalat
+12470,armadyl platebody ,armadyylilevyhaarniska
+12472,armadyl platelegs ,armadyylilevyhousut
 12474,armadyl plateskirt ,armadyylilevyhame
-12476,armadyl full helm ,armadyl taysi ruori
+12476,armadyl full helm ,armadyl taysi kypara
 12478,armadyl kiteshield ,armadyylileijakilpi
-12480,bandos platebody ,bandos levyrunko
-12482,bandos platelegs ,bandos levyjalat
+12480,bandos platebody ,bandos levyhaarniska
+12482,bandos platelegs ,bandos levyhousut
 12484,bandos plateskirt ,bandos levyhame
-12486,bandos full helm ,bandos taysi ruori
+12486,bandos full helm ,bandos taysi kypara
 12488,bandos kiteshield ,bandos kiteshield
 12490,ancient bracers ,muinaiset olkaimet
-12492,ancient dhide body ,vanha dhide-runko
+12492,ancient dhide body ,vanha lohinahka-haarniska
 12494,ancient chaps ,muinaiset jatkat
 12496,ancient coif ,muinainen coif
 12498,bandos bracers ,bandos olkaimet
-12500,bandos dhide body ,bandos dhide body
+12500,bandos dhide body ,bandos lohinahka body
 12502,bandos chaps ,bandos kaverit
 12504,bandos coif ,bandos coif
 12506,armadyl bracers ,armadyyli olkaimet
-12508,armadyl dhide body ,armadyyli-dhide-runko
+12508,armadyl dhide body ,armadyyli-lohinahka-haarniska
 12510,armadyl chaps ,armadyl-pussit
 12512,armadyl coif ,armadyl coif
 12514,explorer backpack ,tutkimusmatkailijan reppu
@@ -7703,7 +7703,7 @@
 12532,dragon sq shield ornament kit ,lohikaarmeen sq kilpi -koristesarja
 12534,dragon chainbody ornament kit ,lohikaarmeen ketjuvartalon koristesarja
 12536,dragon legsskirt ornament kit ,lohikaarmeen jalkahame koristesarja
-12538,dragon full helm ornament kit ,lohikaarmeen tayden ruorin koristesarja
+12538,dragon full helm ornament kit ,lohikaarmeen tayden kyparan koristesarja
 12540,deerstalker ,metsastajanhattu
 12542,clue scroll hard  ,vihje rullaa kovaa
 12543,casket hard  ,arkku kovaa
@@ -7808,7 +7808,7 @@
 12655,pet kraken ,lemmikki kraken
 12656,junk ,roskaa
 12657,junk  ,roskaa
-12658,ibans staff u ,ibansin henkilokunta u
+12658,ibans staff u ,ibansin keppi u
 12659,clan wars cape ,klaanisodan viitta
 12660,clan wars cape  ,klaanisodan viitta
 12661,clan wars cape  ,klaanisodan viitta
@@ -7874,10 +7874,10 @@
 12725,menagerie ,elaintarha
 12726,menagerie  ,elaintarha
 12727,goblin paint cannon ,goblin maalikanuuna
-12728,air rune pack ,ilmarunkopaketti
+12728,air rune pack ,ilmahaarniskapaketti
 12730,water rune pack ,vesiriimupaketti
 12732,earth rune pack ,maan riimupaketti
-12734,fire rune pack ,tulirunkopaketti
+12734,fire rune pack ,tulihaarniskapaketti
 12736,mind rune pack ,mielen runepaketti
 12738,chaos rune pack ,kaaoksen riimupaketti
 12740,bird snare pack ,lintujen virvelipakkaus
@@ -7923,8 +7923,8 @@
 12792,nest box empty ,pesalaatikko tyhja
 12793,nest box seeds ,pesalaatikon siemenia
 12794,nest box ring ,pesalaatikon rengas
-12795,steam battlestaff  ,hoyry taisteluhenkilokunta
-12796,mystic steam staff  ,mystinen hoyryhenkilokunta
+12795,steam battlestaff  ,hoyry taistelukeppi
+12796,mystic steam staff  ,mystinen hoyrykeppi
 12797,dragon pickaxe  ,lohikaarmehakku
 12798,steam staff upgrade kit ,Steam henkiloston paivityssarja
 12800,dragon pickaxe upgrade kit ,Dragon Picaxe -paivityssarja
@@ -7934,11 +7934,11 @@
 12807,odium ward  ,odiumin osasto
 12808,saras blessed sword full ,saras siunattu miekka taynna
 12809,saradomins blessed sword ,saradomin siunattu miekka
-12810,ironman helm ,ironman ruori
-12811,ironman platebody ,Ironman levyrunko
-12812,ironman platelegs ,ironman-levyjalat
-12813,ultimate ironman helm ,Ultimate Ironman -ruori
-12814,ultimate ironman platebody ,lopullinen ironman-levyrunko
+12810,ironman helm ,ironman kypara
+12811,ironman platebody ,Ironman levyhaarniska
+12812,ironman platelegs ,ironman-levyhousut
+12813,ultimate ironman helm ,Ultimate Ironman -kypara
+12814,ultimate ironman platebody ,lopullinen ironman-levyhaarniska
 12815,ultimate ironman platelegs ,Ultimate Ironman platelegs
 12816,pet dark core ,lemmikkielainten tumma ydin
 12817,elysian spirit shield ,elysian henkikilpi
@@ -7999,8 +7999,8 @@
 12898,antisantas coal box full ,antisantas hiililaatikko taynna
 12899,trident of the swamp ,suon kolmikko
 12900,uncharged toxic trident ,latautumaton myrkyllinen kolmijakoinen
-12902,toxic staff uncharged ,myrkyllista henkilokuntaa maksutta
-12904,toxic staff of the dead ,kuolleiden myrkyllinen henkilokunta
+12902,toxic staff uncharged ,myrkyllista keppi maksutta
+12904,toxic staff of the dead ,kuolleiden myrkyllinen keppi
 12905,antivenom ,antimyrkkya
 12907,antivenom ,antimyrkkya
 12909,antivenom ,antimyrkkya
@@ -8014,8 +8014,8 @@
 12924,toxic blowpipe empty ,myrkyllinen puhallusputki tyhja
 12926,toxic blowpipe ,myrkyllinen puhallusputki
 12927,serpentine visage ,kiemurteleva visage
-12929,serpentine helm uncharged ,kaarme ruori lataamaton
-12931,serpentine helm ,kiemurteleva ruori
+12929,serpentine helm uncharged ,kaarme kypara lataamaton
+12931,serpentine helm ,kiemurteleva kypara
 12932,magic fang ,taikahammas
 12934,zulrahs scales ,zulrahs vaa'at
 12935,ohns diary ,ohns paivakirja
@@ -8056,7 +8056,7 @@
 13008,mithril goldtrimmed set lg ,mithril goldtrimmed setti lg
 13010,mithril goldtrimmed set sk ,mithril goldtrimmed setti sk
 13012,adamant set lg ,adamant set lg
-13014,adamant set sk ,tiukka setti sk
+13014,adamant set sk ,jarkkymaton setti sk
 13016,adamant trimmed set lg ,adamant trimmattu setti lg
 13018,adamant trimmed set sk ,adamant trimmattu setti sk
 13020,adamant goldtrimmed set lg ,adamant kultareunus setti lg
@@ -8127,10 +8127,10 @@
 13109,wilderness sword  ,eramaan miekka
 13110,wilderness sword  ,eramaan miekka
 13111,wilderness sword  ,eramaan miekka
-13112,morytania legs  ,morytanian jalat
-13113,morytania legs  ,morytanian jalat
-13114,morytania legs  ,morytanian jalat
-13115,morytania legs  ,morytanian jalat
+13112,morytania legs  ,morytanian housut
+13113,morytania legs  ,morytanian housut
+13114,morytania legs  ,morytanian housut
+13115,morytania legs  ,morytanian housut
 13116,bonecrusher ,luunmurskaaja
 13117,falador shield  ,falador-kilpi
 13118,falador shield  ,falador-kilpi
@@ -8183,7 +8183,7 @@
 13179,vetion jr ,vetion jr
 13180,vetion jr  ,vetion jr
 13181,scorpias offspring ,skorpioiden jalkelaisia
-13182,bunny feet ,pupun jalat
+13182,bunny feet ,pupun housut
 13183,empty blaster ,tyhja blasteri
 13184,incomplete blaster ,epataydellinen blasteri
 13185,easter blaster ,paasiainen blaster
@@ -8194,10 +8194,10 @@
 13192,old school bond untradeable ,vanhan koulun joukkovelkakirjalainaa ei voi vaihtaa
 13193,bone bolt pack ,luupulttipakkaus
 13195,oddskull ,outo kallo
-13196,tanzanite helm uncharged ,tansaniittiruori lataamaton
-13197,tanzanite helm ,tansaniitti ruori
-13198,magma helm uncharged ,magma ruori lataamaton
-13199,magma helm ,magma ruori
+13196,tanzanite helm uncharged ,tansaniittikypara lataamaton
+13197,tanzanite helm ,tansaniitti kypara
+13198,magma helm uncharged ,magma kypara lataamaton
+13199,magma helm ,magma kypara
 13200,tanzanite mutagen ,tansaniittimutageeni
 13201,magma mutagen ,magma mutageeni
 13202,ring of the gods i ,jumalten sormus i
@@ -8263,7 +8263,7 @@
 13306,bank key  ,pankin avain
 13307,blood money ,veri Raha
 13317,deadmans chest ,Kuolleen miehen kirstu
-13318,deadmans legs ,kuolleen ihmisen jalat
+13318,deadmans legs ,kuolleen ihmisen housut
 13319,deadmans cape ,deadmans viitta
 13320,heron ,harmaahaikara
 13321,rock golem ,rock golem
@@ -8304,27 +8304,27 @@
 13356,lovakite ore ,lovakiitin malmi
 13357,shayzien gloves  ,shayzien hanskat
 13358,shayzien boots  ,shayzien saappaat
-13359,shayzien helm  ,shayzien ruori
+13359,shayzien helm  ,shayzien kypara
 13360,shayzien greaves  ,shayzien veljet
 13361,shayzien platebody  ,shayzien platebody
 13362,shayzien gloves  ,shayzien hanskat
 13363,shayzien boots  ,shayzien saappaat
-13364,shayzien helm  ,shayzien ruori
+13364,shayzien helm  ,shayzien kypara
 13365,shayzien greaves  ,shayzien veljet
 13366,shayzien platebody  ,shayzien platebody
 13367,shayzien gloves  ,shayzien hanskat
 13368,shayzien boots  ,shayzien saappaat
-13369,shayzien helm  ,shayzien ruori
+13369,shayzien helm  ,shayzien kypara
 13370,shayzien greaves  ,shayzien veljet
 13371,shayzien platebody  ,shayzien platebody
 13372,shayzien gloves  ,shayzien hanskat
 13373,shayzien boots  ,shayzien saappaat
-13374,shayzien helm  ,shayzien ruori
+13374,shayzien helm  ,shayzien kypara
 13375,shayzien greaves  ,shayzien veljet
 13376,shayzien platebody  ,shayzien platebody
 13377,shayzien gloves  ,shayzien hanskat
 13378,shayzien boots  ,shayzien saappaat
-13379,shayzien helm  ,shayzien ruori
+13379,shayzien helm  ,shayzien kypara
 13380,shayzien greaves  ,shayzien veljet
 13381,shayzien body  ,shayzienen vartalo
 13382,shayzien medpack ,shayzien medpack
@@ -8454,29 +8454,29 @@
 13537,transportation incantations ,kuljetusloitsuja
 13538,shayzien supply gloves  ,shayzien tarjonnan kasineet
 13539,shayzien supply boots  ,shayzien tarjonta saappaat
-13540,shayzien supply helm  ,shayzien tarjonta ruori
+13540,shayzien supply helm  ,shayzien tarjonta kypara
 13541,shayzien supply greaves  ,shayzien toimittaa rasvataustaa
-13542,shayzien supply platebody  ,shayzien syottolevyrunko
+13542,shayzien supply platebody  ,shayzien syottolevyhaarniska
 13543,shayzien supply gloves  ,shayzien tarjonnan kasineet
 13544,shayzien supply boots  ,shayzien tarjonta saappaat
-13545,shayzien supply helm  ,shayzien tarjonta ruori
+13545,shayzien supply helm  ,shayzien tarjonta kypara
 13546,shayzien supply greaves  ,shayzien toimittaa rasvataustaa
-13547,shayzien supply platebody  ,shayzien syottolevyrunko
+13547,shayzien supply platebody  ,shayzien syottolevyhaarniska
 13548,shayzien supply gloves  ,shayzien tarjonnan kasineet
 13549,shayzien supply boots  ,shayzien tarjonta saappaat
-13550,shayzien supply helm  ,shayzien tarjonta ruori
+13550,shayzien supply helm  ,shayzien tarjonta kypara
 13551,shayzien supply greaves  ,shayzien toimittaa rasvataustaa
-13552,shayzien supply platebody  ,shayzien syottolevyrunko
+13552,shayzien supply platebody  ,shayzien syottolevyhaarniska
 13553,shayzien supply gloves  ,shayzien tarjonnan kasineet
 13554,shayzien supply boots  ,shayzien tarjonta saappaat
-13555,shayzien supply helm  ,shayzien tarjonta ruori
+13555,shayzien supply helm  ,shayzien tarjonta kypara
 13556,shayzien supply greaves  ,shayzien toimittaa rasvataustaa
-13557,shayzien supply platebody  ,shayzien syottolevyrunko
+13557,shayzien supply platebody  ,shayzien syottolevyhaarniska
 13558,shayzien supply gloves  ,shayzien tarjonnan kasineet
 13559,shayzien supply boots  ,shayzien tarjonta saappaat
-13560,shayzien supply helm  ,shayzien tarjonta ruori
+13560,shayzien supply helm  ,shayzien tarjonta kypara
 13561,shayzien supply greaves  ,shayzien toimittaa rasvataustaa
-13562,shayzien supply platebody  ,shayzien syottolevyrunko
+13562,shayzien supply platebody  ,shayzien syottolevyhaarniska
 13563,shayzien supply crate ,shayzien-tarvikelaatikko
 13565,shayzien supply set  ,shayzien tarvikesarja
 13566,shayzien supply set  ,shayzien tarvikesarja
@@ -8495,8 +8495,8 @@
 13582,graceful cape  ,siro viitta
 13583,graceful top  ,siro toppi
 13584,graceful top  ,siro toppi
-13585,graceful legs  ,sirot jalat
-13586,graceful legs  ,sirot jalat
+13585,graceful legs  ,sirot housut
+13586,graceful legs  ,sirot housut
 13587,graceful gloves  ,sirot hanskat
 13588,graceful gloves  ,sirot hanskat
 13589,graceful boots  ,sirot saappaat
@@ -8507,8 +8507,8 @@
 13594,graceful cape  ,siro viitta
 13595,graceful top  ,siro toppi
 13596,graceful top  ,siro toppi
-13597,graceful legs  ,sirot jalat
-13598,graceful legs  ,sirot jalat
+13597,graceful legs  ,sirot housut
+13598,graceful legs  ,sirot housut
 13599,graceful gloves  ,sirot hanskat
 13600,graceful gloves  ,sirot hanskat
 13601,graceful boots  ,sirot saappaat
@@ -8519,8 +8519,8 @@
 13606,graceful cape  ,siro viitta
 13607,graceful top  ,siro toppi
 13608,graceful top  ,siro toppi
-13609,graceful legs  ,sirot jalat
-13610,graceful legs  ,sirot jalat
+13609,graceful legs  ,sirot housut
+13610,graceful legs  ,sirot housut
 13611,graceful gloves  ,sirot hanskat
 13612,graceful gloves  ,sirot hanskat
 13613,graceful boots  ,sirot saappaat
@@ -8531,8 +8531,8 @@
 13618,graceful cape  ,siro viitta
 13619,graceful top  ,siro toppi
 13620,graceful top  ,siro toppi
-13621,graceful legs  ,sirot jalat
-13622,graceful legs  ,sirot jalat
+13621,graceful legs  ,sirot housut
+13622,graceful legs  ,sirot housut
 13623,graceful gloves  ,sirot hanskat
 13624,graceful gloves  ,sirot hanskat
 13625,graceful boots  ,sirot saappaat
@@ -8543,8 +8543,8 @@
 13630,graceful cape  ,siro viitta
 13631,graceful top  ,siro toppi
 13632,graceful top  ,siro toppi
-13633,graceful legs  ,sirot jalat
-13634,graceful legs  ,sirot jalat
+13633,graceful legs  ,sirot housut
+13634,graceful legs  ,sirot housut
 13635,graceful gloves  ,sirot hanskat
 13636,graceful gloves  ,sirot hanskat
 13637,graceful boots  ,sirot saappaat
@@ -8571,7 +8571,7 @@
 13658,teleport card ,teleportti kortti
 13660,chronicle ,kronikka
 13663,bunny top ,pupun toppi
-13664,bunny legs ,pupun jalat
+13664,bunny legs ,pupun housut
 13665,bunny paws ,pupun tassut
 13666,deadman teleport tablet ,deadman teleport tabletti
 13667,graceful hood  ,siro huppu
@@ -8580,14 +8580,14 @@
 13670,graceful cape  ,siro viitta
 13671,graceful top  ,siro toppi
 13672,graceful top  ,siro toppi
-13673,graceful legs  ,sirot jalat
-13674,graceful legs  ,sirot jalat
+13673,graceful legs  ,sirot housut
+13674,graceful legs  ,sirot housut
 13675,graceful gloves  ,sirot hanskat
 13676,graceful gloves  ,sirot hanskat
 13677,graceful boots  ,sirot saappaat
 13678,graceful boots  ,sirot saappaat
 13679,cabbage cape ,kaaliviitta
-13680,cabbage rune ,kaalirunko
+13680,cabbage rune ,kaalihaarniska
 13681,cruciferous codex ,ristikukkainen koodeksi
 16176,pharaohs sceptre  ,faraon valtikka
 16684,useless key  ,turha avain
@@ -8650,8 +8650,8 @@
 19580,rune javelin heads ,riimukeihaanpaat
 19582,dragon javelin heads ,lohikaarmeen keihaanpaat
 19584,javelin shaft ,keihaan varsi
-19586,light frame ,kevyt runko
-19589,heavy frame ,raskas runko
+19586,light frame ,kevyt haarniska
+19589,heavy frame ,raskas haarniska
 19592,ballista limbs ,ballista raajat
 19595,incomplete light ballista ,epataydellinen kevyt ballista
 19598,incomplete heavy ballista ,epataydellinen raskas ballista
@@ -8693,13 +8693,13 @@
 19681,dark totem middle ,tumma toteemi keskella
 19683,dark totem top ,tumma toteemipaallinen
 19685,dark totem ,tumma toteemi
-19687,helm of raedwald ,raedwaldin ruori
+19687,helm of raedwald ,raedwaldin kypara
 19689,clue hunter garb ,vihjeenmetsastajan puku
 19691,clue hunter gloves ,vihjeenmetsastajan kasineet
 19693,clue hunter trousers ,vihjeenmetsastajan housut
 19695,clue hunter boots ,vihjeenmetsastajan saappaat
 19697,clue hunter cloak ,vihjeenmetsastajan viitta
-19699,hornwood helm ,sarvipuu ruori
+19699,hornwood helm ,sarvipuu kypara
 19701,jar of darkness ,pimeyden purkki
 19704,compost pack ,kompostipakkaus
 19707,amulet of eternal glory ,ikuisen kirkkauden amuletti
@@ -8895,12 +8895,12 @@
 19912,zombie head  ,zombien paa
 19915,cyclops head ,kykloopin paa
 19918,nunchaku ,nunchaku
-19921,ancient dhide boots ,vanhat dhide-saappaat
-19924,bandos dhide boots ,bandos dhide saappaat
-19927,guthix dhide boots ,guthix dhide saappaat
-19930,armadyl dhide boots ,armadyl dhide saappaat
-19933,saradomin dhide boots ,saradomin dhide saappaat
-19936,zamorak dhide boots ,zamorak dhide saappaat
+19921,ancient dhide boots ,vanhat lohinahka-saappaat
+19924,bandos dhide boots ,bandos lohinahka saappaat
+19927,guthix dhide boots ,guthix lohinahka saappaat
+19930,armadyl dhide boots ,armadyl lohinahka saappaat
+19933,saradomin dhide boots ,saradomin lohinahka saappaat
+19936,zamorak dhide boots ,zamorak lohinahka saappaat
 19939,strange device ,outo laite
 19941,heavy casket ,raskas arkku
 19943,arceuus scarf ,arceuus huivi
@@ -8918,8 +8918,8 @@
 19979,light trousers ,kevyet housut
 19982,light tuxedo shoes ,kevyet smokkikengat
 19985,light bow tie ,kevyt rusetti
-19988,blacksmiths helm ,sepan ruori
-19991,bucket helm ,kauhan ruori
+19988,blacksmiths helm ,sepan kypara
+19991,bucket helm ,kauhan kypara
 19994,ranger gloves ,metsanvartijan hanskat
 19997,holy wraps ,pyhat kaareet
 20000,dragon scimitar or ,lohikaarmeleikkuri tai
@@ -8942,7 +8942,7 @@
 20050,obsidian cape r ,obsidian cape r
 20053,half moon spectacles ,puolikuun silmalasit
 20056,ale of the gods ,jumalien ale
-20059,bucket helm g ,kauhan ruori g
+20059,bucket helm g ,kauhan kypara g
 20062,torture ornament kit ,kidutuskoristesarja
 20065,occult ornament kit ,okkulttinen koristesarja
 20068,armadyl godsword ornament kit ,armadyyli jumalanmiekan koristesarja
@@ -8952,8 +8952,8 @@
 20080,mummys head ,muumioiden paa
 20083,mummys body ,muumion ruumis
 20086,mummys hands ,mumion kadet
-20089,mummys legs ,muumion jalat
-20092,mummys feet ,muumioiden jalat
+20089,mummys legs ,muumion housut
+20092,mummys feet ,muumioiden housut
 20095,ankou mask ,ankou naamio
 20098,ankou top ,ankou top
 20101,ankou gloves ,ankou hanskat
@@ -8972,22 +8972,22 @@
 20140,boots of darkness ,pimeyden saappaat
 20143,dragon defender ornament kit ,lohikaarmeen puolustaja -koristesarja
 20146,gilded med helm ,kullattu laakintakypara
-20149,gilded chainbody ,kullattu ketjurunko
+20149,gilded chainbody ,kullattu ketjuhaarniska
 20152,gilded sq shield ,kullattu neliokilpi
 20155,gilded h sword ,kullattu h-miekka
 20158,gilded spear ,kullattu keihas
 20161,gilded hasta ,kullattu hasta
 20164,large spade ,iso lapio
 20166,wooden shield g ,puinen kilpi g
-20169,steel platebody g ,teraslevyrunko g
-20172,steel platelegs g ,teraslevyjalat g
+20169,steel platebody g ,teraslevyhaarniska g
+20172,steel platelegs g ,teraslevyhousut g
 20175,steel plateskirt g ,teraslevyhame g
-20178,steel full helm g ,teras taysruori g
+20178,steel full helm g ,teras tayskypara g
 20181,steel kiteshield g ,teraksinen kiteshield g
-20184,steel platebody t ,teraslevyrunko t
-20187,steel platelegs t ,teraslevyjalat t
+20184,steel platebody t ,teraslevyhaarniska t
+20187,steel platelegs t ,teraslevyhousut t
 20190,steel plateskirt t ,teraslevyhame t
-20193,steel full helm t ,teraksinen taysruori t
+20193,steel full helm t ,teraksinen tayskypara t
 20196,steel kiteshield t ,teraksinen kiteshield t
 20199,monks robe top g ,munkkien viitta toppi g
 20202,monks robe g ,munkkien viitta g
@@ -9034,7 +9034,7 @@
 20379,steel trimmed set sk ,terasverhoiltu setti sk
 20382,steel goldtrimmed set lg ,teraksinen kultareunus setti lg
 20385,steel goldtrimmed set sk ,teras kultareunattu setti sk
-20388,adamant arrow  ,tiukka nuoli
+20388,adamant arrow  ,jarkkymaton nuoli
 20389,dragon arrow  ,lohikaarmeen nuoli
 20390,shark  ,Hai
 20393,prayer potion  ,rukousjuoma
@@ -9042,28 +9042,28 @@
 20395,prayer potion  ,rukousjuoma
 20396,prayer potion  ,rukousjuoma
 20397,spear ,keihas
-20401,yew shortbow  ,marjakuusi shortbow
+20401,yew shortbow  ,marjakuusi lyhytjousi
 20402,rune scimitar  ,riimuleikkuri
-20403,maple shortbow  ,vaahtera shortbow
+20403,maple lyhytjousi  ,vaahtera lyhytjousi
 20405,abyssal whip  ,syvennys piiska
 20406,dragon scimitar  ,lohikaarme-leikkuri
 20407,dragon dagger  ,lohikaarme tikari
 20408,dark bow  ,tumma jousi
-20415,adamant platebody  ,vankka levyrunko
-20416,adamant platelegs  ,jarkkymattomat levyjalat
-20417,blue dhide body  ,sininen dhide runko
-20418,blue dhide chaps  ,siniset dhide-housut
-20421,rune platebody  ,riimulevyrunko
-20422,rune platelegs  ,riimulevyjalat
-20423,black dhide body  ,musta dhide runko
-20424,black dhide chaps  ,mustat dhide-housut
+20415,adamant platebody  ,jarkkymaton levyhaarniska
+20416,adamant platelegs  ,jarkkymattomat levyhousut
+20417,blue dhide body  ,sininen lohinahka haarniska
+20418,blue dhide chaps  ,siniset lohinahka-housut
+20421,rune platebody  ,riimulevyhaarniska
+20422,rune platelegs  ,riimulevyhousut
+20423,black dhide body  ,musta lohinahka haarniska
+20424,black dhide chaps  ,mustat lohinahka-housut
 20425,mystic robe top  ,mystinen kaapullinen toppi
 20426,mystic robe bottom  ,mystinen viittapohja
-20428,dragon chainbody  ,lohikaarmeen ketjurunko
+20428,dragon chainbody  ,lohikaarmeen ketjuhaarniska
 20429,dragon platelegs  ,lohikaarmeen lautaset
 20430,ancient magicks tablet ,antiikin taikuuden tabletti
-20431,ancient staff  ,vanha henkilokunta
-20433,evil chicken feet ,pahat kanan jalat
+20431,ancient staff  ,vanha keppi
+20433,evil chicken feet ,pahat kanan housut
 20436,evil chicken wings ,pahoja kanansiipia
 20439,evil chicken head ,paha kanan paa
 20442,evil chicken legs ,pahoja kananjalkoja
@@ -9083,13 +9083,13 @@
 20471,elite void robe broken ,eliitti void kaapu rikki
 20473,void knight mace broken ,void ritari nuija rikki
 20475,void knight gloves broken ,tyhjat ritarihanskat rikki
-20477,void mage helm broken ,tyhja mage ruori rikki
-20479,void ranger helm broken ,void ranger ruori rikki
-20481,void melee helm broken ,void lahitaistelun ruori rikki
+20477,void mage helm broken ,tyhja mage kypara rikki
+20479,void ranger helm broken ,void ranger kypara rikki
+20481,void melee helm broken ,void lahitaistelun kypara rikki
 20483,decorative sword broken ,koristemiekka rikki
 20485,decorative armour broken ,koristeellinen panssari rikki
 20487,decorative armour broken  ,koristeellinen panssari rikki
-20489,decorative helm broken ,koristeellinen ruori rikki
+20489,decorative helm broken ,koristeellinen kypara rikki
 20491,decorative shield broken ,koristekilpi rikki
 20493,decorative armour broken  ,koristeellinen panssari rikki
 20495,decorative armour broken  ,koristeellinen panssari rikki
@@ -9133,20 +9133,20 @@
 20555,rune h sword  ,riimu h miekka
 20556,apprentice wand  ,oppipoika sauva
 20557,granite maul  ,graniittimaul
-20558,magic shortbow  ,maaginen shortbow
+20558,magic lyhytjousi  ,maaginen lyhytjousi
 20559,dragon h sword  ,lohikaarme h miekka
 20560,master wand  ,mestari sauva
-20561,adamant full helm  ,vankkumaton taysi ruori
+20561,adamant full helm  ,vankkumaton taysi kypara
 20562,mystic hat  ,mystinen hattu
 20563,proselyte sallet  ,proselyytti sallet
 20564,proselyte hauberk  ,proselyytti hauberk
 20565,proselyte cuisse  ,proselyte cuisse
-20566,red dhide body  ,punainen dhide runko
-20567,red dhide chaps  ,punaiset dhide-housut
-20568,splitbark helm  ,splitbark ruori
-20571,warrior helm  ,soturi ruori
-20572,archer helm  ,jousimiehen ruori
-20573,farseer helm  ,farseerin ruori
+20566,red dhide body  ,punainen lohinahka haarniska
+20567,red dhide chaps  ,punaiset lohinahka-housut
+20568,splitbark helm  ,splitbark kypara
+20571,warrior helm  ,soturi kypara
+20572,archer helm  ,jousimiehen kypara
+20573,farseer helm  ,farseerin kypara
 20574,infinity top  ,aareton toppi
 20575,infinity bottoms  ,aareton pohjat
 20576,    rd age robe top  ,rd ika kaapu toppi
@@ -9258,10 +9258,10 @@
 20722,emerald lantern  ,smaragdi lyhty
 20724,imbued heart ,imeytynyt sydan
 20727,leafbladed battleaxe ,lehtiterainen taistelukirves
-20730,mist battlestaff ,sumutaisteluhenkilokunta
-20733,mystic mist staff ,mystinen sumu henkilokunta
-20736,dust battlestaff ,polyn taisteluhenkilokunta
-20739,mystic dust staff ,mystinen poly henkilokunta
+20730,mist battlestaff ,sumutaistelukeppi
+20733,mystic mist staff ,mystinen sumu keppi
+20736,dust battlestaff ,polyn taistelukeppi
+20739,mystic dust staff ,mystinen poly keppi
 20742,empty jug pack ,tyhja kannupakkaus
 20745,combat dummy ,taistelunukke
 20746,undead combat dummy ,Undead taistelunukke
@@ -9293,9 +9293,9 @@
 20789,ring of wealth i ,varallisuuden rengas i
 20790,ring of wealth i ,varallisuuden rengas i
 20791,extra supply crate ,lisatarvikelaatikko
-20792,hardcore ironman helm ,hardcore ironman ruori
-20794,hardcore ironman platebody ,hardcore ironman-levyrunko
-20796,hardcore ironman platelegs ,hardcore ironman -levyjalat
+20792,hardcore ironman helm ,hardcore ironman kypara
+20794,hardcore ironman platebody ,hardcore ironman-levyhaarniska
+20796,hardcore ironman platelegs ,hardcore ironman -levyhousut
 20798,smelly journal ,haiseva paivakirja
 20799,kindling  ,sytykkeet
 20800,empty gourd vial ,tyhja kurpitsapullo
@@ -9304,9 +9304,9 @@
 20832,snow globe ,lumisadepallo
 20834,sack of presents ,sakki lahjoja
 20836,giant present ,jattilainen lahja
-20838,corrupted helm ,vioittunut ruori
-20840,corrupted platebody ,vioittunut levyrunko
-20842,corrupted platelegs ,vioittuneet levyjalat
+20838,corrupted helm ,vioittunut kypara
+20840,corrupted platebody ,vioittunut levyhaarniska
+20842,corrupted platelegs ,vioittuneet levyhousut
 20844,corrupted plateskirt ,vioittunut levyhame
 20846,corrupted kiteshield ,vioittunut leijakilpi
 20849,dragon thrownaxe ,lohikaarme heitettyna
@@ -9489,8 +9489,8 @@
 21066,graceful cape  ,siro viitta
 21067,graceful top  ,siro toppi
 21069,graceful top  ,siro toppi
-21070,graceful legs  ,sirot jalat
-21072,graceful legs  ,sirot jalat
+21070,graceful legs  ,sirot housut
+21072,graceful legs  ,sirot housut
 21073,graceful gloves  ,sirot hanskat
 21075,graceful gloves  ,sirot hanskat
 21076,graceful boots  ,sirot saappaat
@@ -9547,8 +9547,8 @@
 21195,rock golem  ,rock golem
 21196,rock golem  ,rock golem
 21197,rock golem  ,rock golem
-21198,lava battlestaff  ,laava taisteluhenkilokunta
-21200,mystic lava staff  ,mystinen laava henkilokunta
+21198,lava battlestaff  ,laava taistelukeppi
+21200,mystic lava staff  ,mystinen laava keppi
 21202,lava staff upgrade kit ,lava henkiloston paivityssarja
 21205,elder maul  ,vanhin maul
 21206,dragon sword  ,lohikaarmeen miekka
@@ -9586,7 +9586,7 @@
 21241,wester papaya ,lansipapaija
 21242,wester lemon ,lansi sitruuna
 21243,bucket of wester sand ,ampari lansihiekkaa
-21244,wester spices ,lansimaisia ​​mausteita
+21244,wester spices ,lansimaisia mausteita
 21245,beef fillet ,naudan sisafile
 21246,sea salt ,merisuola
 21247,gold fragment ,kultainen fragmentti
@@ -9597,7 +9597,7 @@
 21252,egg mould ,muna muotti
 21253,farmers strawhat  ,viljelijoiden oljet
 21254,farmers strawhat  ,viljelijoiden oljet
-21255,slayers staff e ,Slayersin henkilokunta e
+21255,slayers staff e ,Slayersin keppi e
 21257,slayers enchantment ,tappajien lumoa
 21259,enchanted scroll ,lumoutunut rulla
 21260,enchanted quill ,lumottu sulkakyna
@@ -9623,8 +9623,8 @@
 21295,infernal cape ,helvetin viitta
 21297,infernal cape  ,helvetin viitta
 21298,obsidian helmet ,obsidiaanikypara
-21301,obsidian platebody ,obsidiaanilevyrunko
-21304,obsidian platelegs ,obsidiaanilevyjalat
+21301,obsidian platebody ,obsidiaanilevyhaarniska
+21304,obsidian platelegs ,obsidiaanilevyhousut
 21307,rogues equipment crate ,rogues-laitteiden laatikko
 21308,red rainbow strand ,punainen sateenkaarinauha
 21309,orange rainbow strand ,oranssi sateenkaarinauha
@@ -9803,7 +9803,7 @@
 21664,scribbled note ,kirjoitettu muistiinpano
 21666,partial note ,osittainen huomautus
 21668,ancient note ,muinainen muistiinpano
-21670,ancient writings ,muinaisia ​​kirjoituksia
+21670,ancient writings ,muinaisia kirjoituksia
 21672,experimental note ,kokeellinen huomautus
 21674,paragraph of text ,tekstin kappale
 21676,musty smelling note ,ummehtunut hajuinen muistiinpano
@@ -9884,16 +9884,16 @@
 21838,shaman mask ,shamaani naamio
 21841,snow imp costume head ,snow imp puku paa
 21842,snow imp costume body ,snow imp puku body
-21843,snow imp costume legs ,snow imp puku jalat
+21843,snow imp costume legs ,snow imp puku housut
 21844,snow imp costume tail ,snow imp puku hanta
 21845,snow imp costume gloves ,snow imp pukukasineet
-21846,snow imp costume feet ,snow imp puku jalat
+21846,snow imp costume feet ,snow imp puku housut
 21847,snow imp costume head  ,snow imp puku paa
 21849,snow imp costume body  ,snow imp puku body
-21851,snow imp costume legs  ,snow imp puku jalat
+21851,snow imp costume legs  ,snow imp puku housut
 21853,snow imp costume tail  ,snow imp puku hanta
 21855,snow imp costume gloves  ,snow imp pukukasineet
-21857,snow imp costume feet  ,snow imp puku jalat
+21857,snow imp costume feet  ,snow imp puku housut
 21859,wise old mans santa hat ,viisas vanhan miehen joulupukkihattu
 21861,enchanted curtains ,lumotut verhot
 21862,enchanted snowy curtains ,lumoitetut lumiset verhot
@@ -9915,7 +9915,7 @@
 21885,dragon armour set sk ,lohikaarmepanssarisarja sk
 21888,turquoise slayer helmet ,turkoosi Slayer kypara
 21890,turquoise slayer helmet i ,turkoosi Slayer kypara i
-21892,dragon platebody ,lohikaarmeen levyrunko
+21892,dragon platebody ,lohikaarmeen levyhaarniska
 21895,dragon kiteshield ,lohikaarmeen leijakilpi
 21898,assembler max cape ,kokoonpanija max viitta
 21900,assembler max hood ,asentaja max huppu
@@ -10043,38 +10043,38 @@
 22118,wrath talisman ,vihan talisman
 22121,wrath tiara ,viha tiara
 22124,superior dragon bones ,ylivoimaiset lohikaarmeen luut
-22127,adamant kiteshield  ,vankka leijakilpi
-22129,adamant kiteshield  ,vankka leijakilpi
-22131,adamant kiteshield  ,vankka leijakilpi
-22133,adamant kiteshield  ,vankka leijakilpi
-22135,adamant kiteshield  ,vankka leijakilpi
-22137,adamant kiteshield  ,vankka leijakilpi
-22139,adamant kiteshield  ,vankka leijakilpi
-22141,adamant kiteshield  ,vankka leijakilpi
-22143,adamant kiteshield  ,vankka leijakilpi
-22145,adamant kiteshield  ,vankka leijakilpi
-22147,adamant kiteshield  ,vankka leijakilpi
-22149,adamant kiteshield  ,vankka leijakilpi
-22151,adamant kiteshield  ,vankka leijakilpi
-22153,adamant kiteshield  ,vankka leijakilpi
-22155,adamant kiteshield  ,vankka leijakilpi
-22157,adamant kiteshield  ,vankka leijakilpi
-22159,adamant heraldic helm ,jarkkymaton heraldinen ruori
-22161,adamant heraldic helm  ,jarkkymaton heraldinen ruori
-22163,adamant heraldic helm  ,jarkkymaton heraldinen ruori
-22165,adamant heraldic helm  ,jarkkymaton heraldinen ruori
-22167,adamant heraldic helm  ,jarkkymaton heraldinen ruori
-22169,adamant heraldic helm  ,jarkkymaton heraldinen ruori
-22171,adamant heraldic helm  ,jarkkymaton heraldinen ruori
-22173,adamant heraldic helm  ,jarkkymaton heraldinen ruori
-22175,adamant heraldic helm  ,jarkkymaton heraldinen ruori
-22177,adamant heraldic helm  ,jarkkymaton heraldinen ruori
-22179,adamant heraldic helm  ,jarkkymaton heraldinen ruori
-22181,adamant heraldic helm  ,jarkkymaton heraldinen ruori
-22183,adamant heraldic helm  ,jarkkymaton heraldinen ruori
-22185,adamant heraldic helm  ,jarkkymaton heraldinen ruori
-22187,adamant heraldic helm  ,jarkkymaton heraldinen ruori
-22189,adamant heraldic helm  ,jarkkymaton heraldinen ruori
+22127,adamant kiteshield  ,jarkkymaton leijakilpi
+22129,adamant kiteshield  ,jarkkymaton leijakilpi
+22131,adamant kiteshield  ,jarkkymaton leijakilpi
+22133,adamant kiteshield  ,jarkkymaton leijakilpi
+22135,adamant kiteshield  ,jarkkymaton leijakilpi
+22137,adamant kiteshield  ,jarkkymaton leijakilpi
+22139,adamant kiteshield  ,jarkkymaton leijakilpi
+22141,adamant kiteshield  ,jarkkymaton leijakilpi
+22143,adamant kiteshield  ,jarkkymaton leijakilpi
+22145,adamant kiteshield  ,jarkkymaton leijakilpi
+22147,adamant kiteshield  ,jarkkymaton leijakilpi
+22149,adamant kiteshield  ,jarkkymaton leijakilpi
+22151,adamant kiteshield  ,jarkkymaton leijakilpi
+22153,adamant kiteshield  ,jarkkymaton leijakilpi
+22155,adamant kiteshield  ,jarkkymaton leijakilpi
+22157,adamant kiteshield  ,jarkkymaton leijakilpi
+22159,adamant heraldic helm ,jarkkymaton heraldinen kypara
+22161,adamant heraldic helm  ,jarkkymaton heraldinen kypara
+22163,adamant heraldic helm  ,jarkkymaton heraldinen kypara
+22165,adamant heraldic helm  ,jarkkymaton heraldinen kypara
+22167,adamant heraldic helm  ,jarkkymaton heraldinen kypara
+22169,adamant heraldic helm  ,jarkkymaton heraldinen kypara
+22171,adamant heraldic helm  ,jarkkymaton heraldinen kypara
+22173,adamant heraldic helm  ,jarkkymaton heraldinen kypara
+22175,adamant heraldic helm  ,jarkkymaton heraldinen kypara
+22177,adamant heraldic helm  ,jarkkymaton heraldinen kypara
+22179,adamant heraldic helm  ,jarkkymaton heraldinen kypara
+22181,adamant heraldic helm  ,jarkkymaton heraldinen kypara
+22183,adamant heraldic helm  ,jarkkymaton heraldinen kypara
+22185,adamant heraldic helm  ,jarkkymaton heraldinen kypara
+22187,adamant heraldic helm  ,jarkkymaton heraldinen kypara
+22189,adamant heraldic helm  ,jarkkymaton heraldinen kypara
 22191,useful rock ,hyodyllinen kivi
 22192,maple bird house ,vaahtera lintutalo
 22195,mahogany bird house ,mahonki lintutalo
@@ -10091,7 +10091,7 @@
 22224,extended super antifire mix ,pidennetty superpalonestosekoitus
 22227,bullet arrow ,luodin nuoli
 22228,field arrow ,kentan nuoli
-22229,blunt arrow ,tylsa ​​nuoli
+22229,blunt arrow ,tylsa nuoli
 22230,barbed arrow ,piikkinen nuoli
 22231,dragon boots ornament kit ,lohikaarmeen saappaiden koristesarja
 22234,dragon boots g ,lohikaarme saappaat g
@@ -10109,16 +10109,16 @@
 22266,redwood shield ,punapuu kilpi
 22269,hard leather shield ,kova nahkainen suoja
 22272,snakeskin shield ,kaarmeennahkainen kilpi
-22275,green dhide shield ,vihrea dhide-suoja
-22278,blue dhide shield ,sininen dhide-suoja
-22281,red dhide shield ,punainen dhide-suoja
-22284,black dhide shield ,musta dhide-suoja
+22275,green dhide shield ,vihrea lohinahka-suoja
+22278,blue dhide shield ,sininen lohinahka-suoja
+22281,red dhide shield ,punainen lohinahka-suoja
+22284,black dhide shield ,musta lohinahka-suoja
 22287,leather shields flyer ,nahkainen kilvet flyer
 22288,trident of the seas e ,merien kolmikko e
 22290,uncharged trident e ,lataamaton kolmihammas e
 22292,trident of the swamp e ,suon kolmikko e
 22294,uncharged toxic trident e ,varaamaton myrkyllinen kolmiharkka e
-22296,staff of light ,valon henkilokunta
+22296,staff of light ,valon keppi
 22299,ancient medallion ,muinainen medaljonki
 22302,ancient effigy ,muinainen kuva
 22305,ancient relic ,muinainen jaanne
@@ -10136,7 +10136,7 @@
 22320,champions lamp ,mestarien lamppu
 22321,rotten cabbage ,mata kaali
 22322,avernic defender ,avernic puolustaja
-22323,sanguinesti staff ,sanguinestin henkilokuntaa
+22323,sanguinesti staff ,sanguinestin keppi
 22324,ghrazi rapier ,ghrazi tarttuja
 22325,scythe of vitur ,viturin viikate
 22326,justiciar faceguard ,oikeusasiamies
@@ -10145,7 +10145,7 @@
 22330,deadman starter pack ,deadman aloituspaketti
 22331,starter sword ,aloitusmiekka
 22333,starter bow ,aloitusjousi
-22335,starter staff ,aloittava henkilokunta
+22335,starter staff ,aloittava keppi
 22337,collector icon  ,kerailijan kuvake
 22338,collector icon  ,kerailijan kuvake
 22339,collector icon  ,kerailijan kuvake
@@ -10159,7 +10159,7 @@
 22347,attacker icon  ,hyokkaajan kuvake
 22348,attacker icon  ,hyokkaajan kuvake
 22349,attacker icon  ,hyokkaajan kuvake
-22351,eggshell platebody ,munankuoren levyrunko
+22351,eggshell platebody ,munankuoren levyhaarniska
 22353,eggshell platelegs ,munankuoren lautaset
 22355,holy handegg ,pyha kasimuna
 22358,peaceful handegg ,rauhallinen kasivarsi
@@ -10167,8 +10167,8 @@
 22364,oculus orb ,oculus orb
 22365,shayzien favour certificate ,shayzien suosion todistus
 22367,kourend favour certificate ,kourend suosiotodistus
-22368,bryophytas staff uncharged ,bryophytas henkilokunta veloituksetta
-22370,bryophytas staff ,bryophytas henkilokunta
+22368,bryophytas staff uncharged ,bryophytas keppi veloituksetta
+22370,bryophytas staff ,bryophytas keppi
 22372,bryophytas essence ,bryophytas-esanssi
 22374,mossy key ,sammaleinen avain
 22376,puppadile ,pentu
@@ -10223,7 +10223,7 @@
 22473,lil zik ,lil zik
 22475,message  ,viesti
 22477,avernic defender hilt ,avernic puolustajan kadensija
-22481,sanguinesti staff uncharged ,sanguinestin henkilokunta veloituksetta
+22481,sanguinesti staff uncharged ,sanguinestin keppi veloituksetta
 22486,scythe of vitur uncharged ,Viturin viikate latautumaton
 22494,sinhaza shroud tier  ,sinhazan kaarinliinataso
 22496,sinhaza shroud tier  ,sinhazan kaarinliinataso
@@ -10283,18 +10283,18 @@
 22609,fire of unseasonal warmth ,kauden epatavallisen lammon tuli
 22610,vestas spear ,vestas keihas
 22613,vestas longsword ,vestas pitka miekka
-22616,vestas chainbody ,vestas ketjurunko
+22616,vestas chainbody ,vestas ketjuhaarniska
 22619,vestas plateskirt ,vestas levyhame
 22622,statiuss warhammer ,statiuss warhammer
-22625,statiuss full helm ,statiuss taysi ruori
-22628,statiuss platebody ,statiuss platerunko
-22631,statiuss platelegs ,statiuss levyjalat
+22625,statiuss full helm ,statiuss taysi kypara
+22628,statiuss platebody ,statiuss platehaarniska
+22631,statiuss platelegs ,statiuss levyhousut
 22634,morrigans throwing axe ,morrigans heittaa kirveen
 22636,morrigans javelin ,morrigans keihaan
 22638,morrigans coif ,morrigans coif
-22641,morrigans leather body ,morrigansin nahkainen runko
+22641,morrigans leather body ,morrigansin nahkainen haarniska
 22644,morrigans leather chaps ,morrigansin nahkahousut
-22647,zuriels staff ,zurielsin henkilokunta
+22647,zuriels staff ,zurielsin keppi
 22650,zuriels hood ,zuriels huppu
 22653,zuriels robe top ,zuriels kylpytakki
 22656,zuriels robe bottom ,zuriels kaapupohja
@@ -10440,7 +10440,7 @@
 22997,bottomless compost bucket  ,pohjaton kompostiampari
 22999,bottled dragonbreath unpowered ,pullotettu dragonbreath ilman voimaa
 23002,bottled dragonbreath ,pullotettu lohikaarme
-23007,tatty note ,tylsa ​​huomautus
+23007,tatty note ,tylsa huomautus
 23009,gielinors flora  flowers ,gielinorsin kasviston kukat
 23011,gielinors flora  bushes ,gielinors kasviston pensaat
 23013,gielinors flora  hops ,gielinors flora humala
@@ -10484,10 +10484,10 @@
 23083,brimstone key ,tulikivi avain
 23091,ornate gloves ,koristeelliset kasineet
 23093,ornate boots ,koristeelliset saappaat
-23095,ornate legs ,koristeelliset jalat
+23095,ornate legs ,koristeelliset housut
 23097,ornate top ,koristeellinen toppi
 23099,ornate cape ,koristeellinen viitta
-23101,ornate helm ,koristeellinen ruori
+23101,ornate helm ,koristeellinen kypara
 23108,birthday cake ,syntymapaivakakku
 23110,mystic set light ,mystinen valaisin
 23113,mystic set blue ,mystinen setti sininen
@@ -10552,18 +10552,18 @@
 23183,strange device  ,outo laite
 23184,mimic ,jaljitella
 23185,ring of rd age ,ian sormus
-23188,guthix dhide shield ,guthix dhide -suoja
-23191,saradomin dhide shield ,saradomin dhide kilpi
-23194,zamorak dhide shield ,zamorak dhide shield
-23197,ancient dhide shield ,vanha dhide-kilpi
-23200,armadyl dhide shield ,armadyyli-dhide-suoja
-23203,bandos dhide shield ,bandos dhide kilpi
+23188,guthix dhide shield ,guthix lohinahka -suoja
+23191,saradomin dhide shield ,saradomin lohinahka kilpi
+23194,zamorak dhide shield ,zamorak lohinahka shield
+23197,ancient dhide shield ,vanha lohinahka-kilpi
+23200,armadyl dhide shield ,armadyyli-lohinahka-suoja
+23203,bandos dhide shield ,bandos lohinahka kilpi
 23206,dual sai ,kaksoissai
-23209,rune platebody h ,riimulevyrunko h
-23212,rune platebody h ,riimulevyrunko h
-23215,rune platebody h ,riimulevyrunko h
-23218,rune platebody h ,riimulevyrunko h
-23221,rune platebody h ,riimulevyrunko h
+23209,rune platebody h ,riimulevyhaarniska h
+23212,rune platebody h ,riimulevyhaarniska h
+23215,rune platebody h ,riimulevyhaarniska h
+23218,rune platebody h ,riimulevyhaarniska h
+23221,rune platebody h ,riimulevyhaarniska h
 23224,thieving bag ,varaslaukku
 23227,rune defender ornament kit ,riimupuolustaja koristesarja
 23230,rune defender t ,riimupuolustaja t
@@ -10578,9 +10578,9 @@
 23252,giant boot ,jattilainen saapas
 23255,uris hat ,uris hattu
 23258,gilded coif ,kullattu kuppi
-23261,gilded dhide vambraces ,kullatut dhide-vambraces
-23264,gilded dhide body ,kullattu nahkarunko
-23267,gilded dhide chaps ,kullatut dhide-housut
+23261,gilded dhide vambraces ,kullatut lohinahka-vambraces
+23264,gilded dhide body ,kullattu nahkahaarniska
+23267,gilded dhide chaps ,kullatut lohinahka-housut
 23270,adamant dragon mask ,jarkkymaton lohikaarme naamio
 23273,rune dragon mask ,rune lohikaarme naamio
 23276,gilded pickaxe ,kullattu hakku
@@ -10588,8 +10588,8 @@
 23282,gilded spade ,kullattu lapio
 23285,mole slippers ,myyratossut
 23288,frog slippers ,sammakkotossut
-23291,bear feet ,karhun jalat
-23294,demon feet ,demonin jalat
+23291,bear feet ,karhun housut
+23294,demon feet ,demonin housut
 23297,jester cape ,jester viitta
 23300,shoulder parrot ,olkapapukaija
 23303,monks robe top t ,munkkien viitta toppi t
@@ -10606,28 +10606,28 @@
 23334,rune scimitar  ,riimuleikkuri
 23336,    rd age druidic robe top ,rd-ikainen druidinen kaapullinen toppi
 23339,    rd age druidic robe bottoms ,rd ian druidiviittaiset alushousut
-23342,    rd age druidic staff ,rd-ikainen druidihenkilokunta
+23342,    rd age druidic staff ,rd-ikainen druidikeppi
 23345,    rd age druidic cloak ,ian druidiviitta
 23348,tormented ornament kit ,kiusattu koristepakkaus
 23351,cape of skulls ,kallon viitta
 23354,amulet of power t ,voiman amuletti t
 23357,rain bow ,sateenkaari
 23360,ham joint ,kinkkuliitos
-23363,staff of bob the cat ,bob-kissan henkilokunta
-23366,black platebody h ,musta levyrunko h
-23369,black platebody h ,musta levyrunko h
-23372,black platebody h ,musta levyrunko h
-23375,black platebody h ,musta levyrunko h
-23378,black platebody h ,musta levyrunko h
-23381,leather body g ,nahkainen runko g
+23363,staff of bob the cat ,bob-kissan keppi
+23366,black platebody h ,musta levyhaarniska h
+23369,black platebody h ,musta levyhaarniska h
+23372,black platebody h ,musta levyhaarniska h
+23375,black platebody h ,musta levyhaarniska h
+23378,black platebody h ,musta levyhaarniska h
+23381,leather body g ,nahkainen haarniska g
 23384,leather chaps g ,nahkahousut g
 23387,watson teleport ,watson teleportti
 23389,spiked manacles ,piikkikarjet
-23392,adamant platebody h ,jarkkymaton levyrunko h
-23395,adamant platebody h ,jarkkymaton levyrunko h
-23398,adamant platebody h ,jarkkymaton levyrunko h
-23401,adamant platebody h ,jarkkymaton levyrunko h
-23404,adamant platebody h ,jarkkymaton levyrunko h
+23392,adamant platebody h ,jarkkymaton levyhaarniska h
+23395,adamant platebody h ,jarkkymaton levyhaarniska h
+23398,adamant platebody h ,jarkkymaton levyhaarniska h
+23401,adamant platebody h ,jarkkymaton levyhaarniska h
+23404,adamant platebody h ,jarkkymaton levyhaarniska h
 23407,wolf mask ,suden naamio
 23410,wolf cloak ,suden viitta
 23413,climbing boots g ,kiipeilysaappaat g
@@ -10709,7 +10709,7 @@
 23585,stamina potion  ,kestavyysjuoma
 23587,stamina potion  ,kestavyysjuoma
 23589,stamina potion  ,kestavyysjuoma
-23591,helm of neitiznot  ,neitiznotin ruori
+23591,helm of neitiznot  ,neitiznotin kypara
 23593,barrows gloves  ,barrowsin kasineet
 23595,berserker ring  ,berserkerin sormus
 23597,dragon defender  ,lohikaarmeen puolustaja
@@ -10720,9 +10720,9 @@
 23607,imbued saradomin cape  ,imeytetty saradomin viitta
 23609,avas accumulator  ,avas akku
 23611,armadyl crossbow  ,armadyylivarsijousi
-23613,staff of the dead  ,kuolleiden henkilokuntaa
+23613,staff of the dead  ,kuolleiden keppi
 23615,vestas longsword  ,vestas pitka miekka
-23617,zuriels staff  ,zurielsin henkilokunta
+23617,zuriels staff  ,zurielsin keppi
 23619,morrigans javelin  ,morrigans keihaan
 23620,statiuss warhammer  ,statiuss warhammer
 23622,infernal cape  ,helvetin viitta
@@ -10731,13 +10731,13 @@
 23628,ghrazi rapier  ,ghrazi tarttuja
 23630,heavy ballista  ,raskas ballista
 23632,karils leathertop  ,karils nahkatappi
-23633,dharoks platelegs  ,dharoksin levyjalat
+23633,dharoks platelegs  ,dharoksin levyhousut
 23634,torags platelegs  ,torags levyjalkoja
 23635,veracs plateskirt  ,verac levyhame
-23636,veracs helm  ,veracs ruori
-23637,torags helm  ,torags ruori
-23638,guthans helm  ,guthanin ruori
-23639,dharoks helm  ,dharoksin ruori
+23636,veracs helm  ,veracs kypara
+23637,torags helm  ,torags kypara
+23638,guthans helm  ,guthanin kypara
+23639,dharoks helm  ,dharoksin kypara
 23640,amulet of fury  ,raivoamuletti
 23642,blessed spirit shield  ,siunattu henkikilpi
 23644,eternal boots  ,ikuiset saappaat
@@ -10746,7 +10746,7 @@
 23649,diamond bolts e  ,timanttipultit e
 23650,rune pouch  ,riimupussi
 23652,mages book  ,mages kirja
-23653,ahrims staff  ,ahrims henkilokunta
+23653,ahrims staff  ,ahrims keppi
 23654,occult necklace  ,okkulttinen kaulakoru
 23655,crystal seedling ,kristalli taimi
 23657,crystal seedling w ,kristalli taimi w
@@ -10802,8 +10802,8 @@
 23782,black crystal ,musta kristalli
 23783,green crystal  ,vihrea kristalli
 23784,fractured crystal  ,murtunut kristalli
-23785,ardougne knight helm ,ardougne ritari ruori
-23787,ardougne knight platebody ,ardougne ritari levyrunko
+23785,ardougne knight helm ,ardougne ritari kypara
+23787,ardougne knight platebody ,ardougne ritari levyhaarniska
 23789,ardougne knight platelegs ,ardougne ritari lautaset
 23791,ardougne knight tabard ,ardougne ritari olkapaita
 23792,blue liquid ,sininen neste
@@ -10833,27 +10833,27 @@
 23831,corrupted spike ,vioittunut piikki
 23832,corrupted bowstring ,vioittunut jousinauha
 23833,corrupted orb ,vioittunut pallo
-23834,weapon frame ,aseen runko
+23834,weapon frame ,aseen haarniska
 23835,grym leaf ,harmaa lehti
 23836,linum tirinum ,linum tirinum
 23837,corrupted ore ,korruptoitunut malmi
 23838,phren bark ,phren kuori
 23839,vial  ,injektiopullo
-23840,corrupted helm basic ,vioittunut ruoriperus
-23841,corrupted helm attuned ,vioittunut ruori viritetty
-23842,corrupted helm perfected ,vioittunut ruori taydellinen
+23840,corrupted helm basic ,vioittunut kyparaperus
+23841,corrupted helm attuned ,vioittunut kypara viritetty
+23842,corrupted helm perfected ,vioittunut kypara taydellinen
 23843,corrupted body basic ,vioittunut kehon perus
 23844,corrupted body attuned ,vioittunut keho viritetty
 23845,corrupted body perfected ,turmeltunut vartalo taydelliseksi tehty
-23846,corrupted legs basic ,vioittuneet jalat perus
-23847,corrupted legs attuned ,vioittuneet jalat viritetty
-23848,corrupted legs perfected ,vioittuneet jalat taydellisiksi
+23846,corrupted legs basic ,vioittuneet housut perus
+23847,corrupted legs attuned ,vioittuneet housut viritetty
+23848,corrupted legs perfected ,vioittuneet housut taydellisiksi
 23849,corrupted halberd basic ,vioittunut alabardi perus
 23850,corrupted halberd attuned ,vioittunut halbardi viritetty
 23851,corrupted halberd perfected ,korruptoitunut halbardi taydellinen
-23852,corrupted staff basic ,korruptoitunut henkilokunta
-23853,corrupted staff attuned ,korruptoitunut henkilokunta viritetty
-23854,corrupted staff perfected ,vioittunut henkilokunta taydellinen
+23852,corrupted staff basic ,korruptoitunut keppi
+23853,corrupted staff attuned ,korruptoitunut keppi viritetty
+23854,corrupted staff perfected ,vioittunut keppi taydellinen
 23855,corrupted bow basic ,vioittunut jousi perus
 23856,corrupted bow attuned ,vioittunut jousi viritetty
 23857,corrupted bow perfected ,vioittunut jousi taydellinen
@@ -10869,7 +10869,7 @@
 23868,crystal spike ,kristallipiikki
 23869,crystalline bowstring ,kristalli jousinauha
 23870,crystal orb ,kristallipallo
-23871,weapon frame  ,aseen runko
+23871,weapon frame  ,aseen haarniska
 23872,raw paddlefish ,raaka melakala
 23873,burnt fish  ,palanut kala
 23874,paddlefish ,melakala
@@ -10885,20 +10885,20 @@
 23884,egniol potion  ,egniol juoma
 23885,egniol potion  ,egniol juoma
 23886,crystal helm basic ,Crystal Helm perus
-23887,crystal helm attuned ,kristalli ruori viritetty
+23887,crystal helm attuned ,kristalli kypara viritetty
 23888,crystal helm perfected ,Crystal helm taydellinen
-23889,crystal body basic ,kristallirunko perus
+23889,crystal body basic ,kristallihaarniska perus
 23890,crystal body attuned ,kristallikunko viritetty
 23891,crystal body perfected ,taydellinen kristallikunko
-23892,crystal legs basic ,kristalli jalat perus
-23893,crystal legs attuned ,kristalli jalat viritetty
-23894,crystal legs perfected ,kristalli jalat taydelliseksi
+23892,crystal legs basic ,kristalli housut perus
+23893,crystal legs attuned ,kristalli housut viritetty
+23894,crystal legs perfected ,kristalli housut taydelliseksi
 23895,crystal halberd basic ,kristallikalbardi perus
 23896,crystal halberd attuned ,kristalli alabardi viritetty
 23897,crystal halberd perfected ,taydellinen kristallihalabardi
 23898,crystal staff basic ,kristallihenkilokunnan perus
-23899,crystal staff attuned ,Crystal henkilokunta viritetty
-23900,crystal staff perfected ,kristallihenkilokunta taydellinen
+23899,crystal staff attuned ,Crystal keppi viritetty
+23900,crystal staff perfected ,kristallikeppi taydellinen
 23901,crystal bow basic ,perus kristallijousi
 23902,crystal bow attuned ,kristallijousi viritetty
 23903,crystal bow perfected ,kristallijousi taydellinen
@@ -10932,12 +10932,12 @@
 23959,enhanced crystal teleport seed ,parannettu kristalliteleportti siemen
 23962,crystal shard ,kristallin sirpale
 23964,crystal dust  ,kristallipolya
-23971,crystal helm ,kristalli ruori
+23971,crystal helm ,kristalli kypara
 23973,crystal helm inactive ,Crystal Helm ei kaytossa
-23975,crystal body ,kristallirunko
-23977,crystal body inactive ,kristallirunko ei-aktiivinen
-23979,crystal legs ,kristalli jalat
-23981,crystal legs inactive ,kristallijalat ei-aktiivisia
+23975,crystal body ,kristallihaarniska
+23977,crystal body inactive ,kristallihaarniska ei-aktiivinen
+23979,crystal legs ,kristalli housut
+23981,crystal legs inactive ,kristallihousut ei-aktiivisia
 23983,crystal bow ,kristalli jousi
 23985,crystal bow inactive ,kristallijousi ei aktiivinen
 23987,crystal halberd ,kristallikalbardi
@@ -10960,9 +10960,9 @@
 24031,memoriam crystal  ,memoriam kristalli
 24032,memoriam crystal  ,memoriam kristalli
 24033,memoriam crystal  ,memoriam kristalli
-24034,dragonstone full helm ,Dragonstone taysi ruori
-24037,dragonstone platebody ,lohikaarmekivilevyrunko
-24040,dragonstone platelegs ,lohikaarmekiven levyjalat
+24034,dragonstone full helm ,Dragonstone taysi kypara
+24037,dragonstone platebody ,lohikaarmekivilevyhaarniska
+24040,dragonstone platelegs ,lohikaarmekiven levyhousut
 24043,dragonstone boots ,lohikaarmekivi saappaat
 24046,dragonstone gauntlets ,lohikaarmekivihansikkaat
 24049,crazed scribbles ,hulluja kirjoituksia
@@ -10996,7 +10996,7 @@
 24141,adamant defender l ,jarkkymaton puolustaja l
 24142,rune defender l ,riimupuolustaja l
 24143,dragon defender l ,lohikaarmeen puolustaja l
-24144,staff of balance ,tasapainoinen henkilokunta
+24144,staff of balance ,tasapainoinen keppi
 24147,armadyl halo broken ,armadyl halo rikki
 24149,bandos halo broken ,bandos halo rikki
 24151,seren halo broken ,seesteinen halo rikki
@@ -11005,7 +11005,7 @@
 24157,decorative sword l ,koristemiekka l
 24158,decorative armour l ,koristeellinen panssari l
 24159,decorative armour l  ,koristeellinen panssari l
-24160,decorative helm l ,koristeellinen ruori l
+24160,decorative helm l ,koristeellinen kypara l
 24161,decorative shield l ,koristekilpi l
 24162,decorative armour l  ,koristeellinen panssari l
 24163,decorative armour l  ,koristeellinen panssari l
@@ -11030,11 +11030,11 @@
 24182,void knight gloves l ,tyhjat ritarihanskat l
 24183,void mage helm l ,void mage helm l
 24184,void ranger helm l ,void ranger helm l
-24185,void melee helm l ,void lahitaistelu ruori l
+24185,void melee helm l ,void lahitaistelu kypara l
 24186,avernic defender l ,avernic puolustaja l
 24187,trouver parchment ,trouver pergamentti
 24189,deadmans chest  ,Kuolleen miehen kirstu
-24190,deadmans legs  ,kuolleen ihmisen jalat
+24190,deadmans legs  ,kuolleen ihmisen housut
 24191,deadmans cape  ,deadmans viitta
 24192,armadyl halo ,armadyyli halo
 24194,armadyl halo l ,armadyl halo l
@@ -11161,13 +11161,13 @@
 24416,rune pouch l ,riimupussi l
 24417,inquisitors mace ,inkvisiittorien nuija
 24418,gravestone ,hautakivi
-24419,inquisitors great helm ,inkvisiittorien suuri ruori
+24419,inquisitors great helm ,inkvisiittorien suuri kypara
 24420,inquisitors hauberk ,inkvisiittorit hauberk
 24421,inquisitors plateskirt ,inkvisiittoreiden levyhame
-24422,nightmare staff ,painajainen henkilokunta
-24423,harmonised nightmare staff ,harmonisoitu painajainen henkilokunta
-24424,volatile nightmare staff ,haihtuva painajainen henkilokunta
-24425,eldritch nightmare staff ,eldritch painajainen henkilokunta
+24422,nightmare staff ,painajainen keppi
+24423,harmonised nightmare staff ,harmonisoitu painajainen keppi
+24424,volatile nightmare staff ,haihtuva painajainen keppi
+24425,eldritch nightmare staff ,eldritch painajainen keppi
 24426,cabbage  ,kaali
 24428,green gingerbread shield ,vihrea piparkakkusuoja
 24430,red gingerbread shield ,punainen piparkakkusuoja
@@ -11287,13 +11287,13 @@
 24670,twisted ancestral colour kit ,kierretty esi-isien varisarja
 24672,haemalchemy volume  ,hemalkemian tilavuus
 24673,vyre noble top unscented ,vyre noble toppi hajusteeton
-24674,vyre noble legs unscented ,vyre jalot jalat hajusteettomat
+24674,vyre noble legs unscented ,vyre jalot housut hajusteettomat
 24675,vyre noble shoes unscented ,vyre noble kengat hajusteettomat
 24676,vyre noble top ,vyre jalo toppi
-24678,vyre noble legs ,vyre jalot jalat
+24678,vyre noble legs ,vyre jalot housut
 24680,vyre noble shoes ,vyre noble kengat
 24682,old note ,vanha muistiinpano
-24684,tatty note  ,tylsa ​​huomautus
+24684,tatty note  ,tylsa huomautus
 24686,journal page ,lehden sivu
 24688,ancient armour ,muinainen haarniska
 24690,tome of experience  ,kokemus
@@ -11328,8 +11328,8 @@
 24748,graceful cape  ,siro viitta
 24749,graceful top  ,siro toppi
 24751,graceful top  ,siro toppi
-24752,graceful legs  ,sirot jalat
-24754,graceful legs  ,sirot jalat
+24752,graceful legs  ,sirot housut
+24754,graceful legs  ,sirot housut
 24755,graceful gloves  ,sirot hanskat
 24757,graceful gloves  ,sirot hanskat
 24758,graceful boots  ,sirot saappaat
@@ -11505,7 +11505,7 @@
 25037,trailblazer boots t ,uranuurtaja saappaat t
 25042,trailblazer dragon trophy ,edellakavijan lohikaarmepalkinto
 25044,trailblazer rune trophy ,uranuurtaja riimupalkinto
-25046,trailblazer adamant trophy ,edellakavijan tiukka pokaali
+25046,trailblazer adamant trophy ,edellakavijan jarkkymaton pokaali
 25048,trailblazer mithril trophy ,uranuurtaja mithril-palkinto
 25050,trailblazer steel trophy ,uraauurtava teraspalkinto
 25052,trailblazer iron trophy ,edellakavijan rautapokaali
@@ -11520,8 +11520,8 @@
 25074,graceful cape  ,siro viitta
 25075,graceful top  ,siro toppi
 25077,graceful top  ,siro toppi
-25078,graceful legs  ,sirot jalat
-25080,graceful legs  ,sirot jalat
+25078,graceful legs  ,sirot housut
+25080,graceful legs  ,sirot housut
 25081,graceful gloves  ,sirot hanskat
 25083,graceful gloves  ,sirot hanskat
 25084,graceful boots  ,sirot saappaat
@@ -11541,7 +11541,7 @@
 25117,league tomato ,liiga tomaatti
 25129,beekeepers hat ,mehilaishoitajan hattu
 25131,beekeepers top ,mehilaishoitajan huippu
-25133,beekeepers legs ,mehilaishoitajan jalat
+25133,beekeepers legs ,mehilaishoitajan housut
 25135,beekeepers gloves ,mehilaishoitajan kasineet
 25137,beekeepers boots ,mehilaishoitajan saappaat
 25139,bone fragments ,luun palaset
@@ -11551,19 +11551,19 @@
 25152,neilans journal ,neilansin paivakirja
 25154,ornate undead combat dummy ,koristeellinen epakuolleiden taistelunukke
 25155,decorative boots broken ,koristesaappaat rikki
-25157,decorative full helm broken ,koristeellinen taysruori rikki
+25157,decorative full helm broken ,koristeellinen tayskypara rikki
 25159,castlewars brew ,linnasodan hautua
 25160,castlewars brew ,linnasodan hautua
 25161,castlewars brew ,linnasodan hautua
 25162,castlewars brew ,linnasodan hautua
 25163,decorative boots ,koristeelliset saappaat
-25165,decorative full helm ,koristeellinen taysi ruori
+25165,decorative full helm ,koristeellinen taysi kypara
 25167,decorative boots  ,koristeelliset saappaat
-25169,decorative full helm  ,koristeellinen taysi ruori
+25169,decorative full helm  ,koristeellinen taysi kypara
 25171,decorative boots  ,koristeelliset saappaat
 25173,decorative boots l ,koristesaappaat l
-25174,decorative full helm  ,koristeellinen taysi ruori
-25176,decorative full helm l ,koristeellinen taysruori l
+25174,decorative full helm  ,koristeellinen taysi kypara
+25176,decorative full helm l ,koristeellinen tayskypara l
 25177,slayer helmet i  ,Slayer kypara i
 25179,black slayer helmet i  ,musta Slayer kypara i
 25181,green slayer helmet i  ,vihrea slayer kypara i
@@ -11645,7 +11645,7 @@
 25278,salve amuletei  ,salve amuletei
 25280,essence pack ,esanssipakkaus
 25282,sled  ,kelkka
-25283,red fireflies ,punaisia ​​tulikarpasia
+25283,red fireflies ,punaisia tulikarpasia
 25284,green fireflies ,vihreita tulikarpasia
 25285,stick  ,keppi
 25286,mouldy sawdust ,homeista sahanpurua
@@ -11696,16 +11696,16 @@
 25380,trailblazer relic hunter t armour set ,trailblazer relic hunter t panssarisarja
 25383,trailblazer relic hunter t armour set ,trailblazer relic hunter t panssarisarja
 25386,trailblazer relic hunter t armour set ,trailblazer relic hunter t panssarisarja
-25389,swampbark body ,swampbarkin runko
+25389,swampbark body ,swampbarkin haarniska
 25392,swampbark gauntlets ,swampbark-hansikkaat
 25395,swampbark boots ,swampbark saappaat
-25398,swampbark helm ,swampbark ruori
-25401,swampbark legs ,swampbark jalat
-25404,bloodbark body ,verenkuoren runko
+25398,swampbark helm ,swampbark kypara
+25401,swampbark legs ,swampbark housut
+25404,bloodbark body ,verenkuoren haarniska
 25407,bloodbark gauntlets ,verenkuoren kasineet
 25410,bloodbark boots ,bloodbark saappaat
-25413,bloodbark helm ,bloodbark ruori
-25416,bloodbark legs ,verikuoren jalat
+25413,bloodbark helm ,bloodbark kypara
+25416,bloodbark legs ,verikuoren housut
 25419,urium remains ,urium jaa jaljelle
 25422,bleached bones ,valkaistut luut
 25424,gold key red ,kultainen avain punainen
@@ -11715,7 +11715,7 @@
 25432,gold key purple ,kultainen avain violetti
 25434,zealots robe top ,zealots kaapu toppi
 25436,zealots robe bottom ,zealots viitta pohja
-25438,zealots helm ,innokkaiden ruori
+25438,zealots helm ,innokkaiden kypara
 25440,zealots boots ,zealots saappaat
 25442,bronze locks ,pronssiset lukot
 25445,steel locks ,teraksiset lukot
@@ -11746,18 +11746,18 @@
 25490,voidwaker ,voidottaja
 25491,accursed sceptre au ,kirottu valtikka au
 25492,accursed sceptre a ,kirottu valtikka a
-25493,black dhide chaps beta ,musta dhide chaps beta
-25494,black dhide vambraces beta ,musta dhide vambraces beta
+25493,black dhide chaps beta ,musta lohinahka chaps beta
+25494,black dhide vambraces beta ,musta lohinahka vambraces beta
 25495,crystal helm beta ,Crystal Helm beta
 25496,crystal body beta ,Crystal body beta
-25497,crystal legs beta ,kristallijalat beta
+25497,crystal legs beta ,kristallihousut beta
 25498,clue scroll elite  ,clue scroll eliitti
 25499,clue scroll elite  ,clue scroll eliitti
 25500,cursed banana ,kirottu banaani
 25502,banana cape ,banaaniviitta
-25515,dharoks platebody  ,dharoksin levyrunko
+25515,dharoks platebody  ,dharoksin levyhaarniska
 25516,dharoks greataxe  ,dharoks greataxe
-25517,volatile nightmare staff  ,haihtuva painajainen henkilokunta
+25517,volatile nightmare staff  ,haihtuva painajainen keppi
 25518,ancestral hat  ,esi-isien hattu
 25519,jalrekjad ,jalrekjad
 25521,jar of spirits ,purkki vakevia
@@ -11773,7 +11773,7 @@
 25547,star fragment ,tahden fragmentti
 25549,golden prospector helmet ,kultainen etsintakypara
 25551,golden prospector jacket ,kultainen etsintatakki
-25553,golden prospector legs ,kultaiset etsijan jalat
+25553,golden prospector legs ,kultaiset etsijan housut
 25555,golden prospector boots ,kultaiset etsintasaappaat
 25557,dark flippers ,tummat rapylat
 25559,big harpoonfish ,iso harppuunakala
@@ -11882,8 +11882,8 @@
 25728,clan vexillum  ,klaani vexillum
 25729,clan vexillum  ,klaani vexillum
 25730,bandages  ,siteet
-25731,holy sanguinesti staff ,pyhan sanguinestin henkilokunta
-25733,holy sanguinesti staff uncharged ,Holy sanguinestin henkilokunta maksutta
+25731,holy sanguinesti staff ,pyhan sanguinestin keppi
+25733,holy sanguinesti staff uncharged ,Holy sanguinestin keppi maksutta
 25734,holy ghrazi rapier ,pyha ghrazi tarttuja
 25736,holy scythe of vitur ,viturin pyha viikate
 25738,holy scythe of vitur uncharged ,Viturin pyha viikate latautumaton
@@ -12147,19 +12147,19 @@
 26152,combat potion  ,taistelujuoma
 26153,combat potion  ,taistelujuoma
 26154,mount karuulm diary ,mount karuulm paivakirja
-26156,group iron helm ,ryhman rautainen ruori
-26158,group iron platebody ,ryhma rautalevyrunko
-26160,group iron platebody  ,ryhma rautalevyrunko
-26162,group iron platebody  ,ryhma rautalevyrunko
-26164,group iron platebody  ,ryhma rautalevyrunko
-26166,group iron platelegs ,ryhma rautalevyjalat
+26156,group iron helm ,ryhman rautainen kypara
+26158,group iron platebody ,ryhma rautalevyhaarniska
+26160,group iron platebody  ,ryhma rautalevyhaarniska
+26162,group iron platebody  ,ryhma rautalevyhaarniska
+26164,group iron platebody  ,ryhma rautalevyhaarniska
+26166,group iron platelegs ,ryhma rautalevyhousut
 26168,group iron bracers ,ryhma rautahousut
-26170,hardcore group iron helm ,hardcore-ryhman rautainen ruori
-26172,hardcore group iron platebody ,hardcore-ryhman rautalevyrunko
-26174,hardcore group iron platebody  ,hardcore-ryhman rautalevyrunko
-26176,hardcore group iron platebody  ,hardcore-ryhman rautalevyrunko
-26178,hardcore group iron platebody  ,hardcore-ryhman rautalevyrunko
-26180,hardcore group iron platelegs ,hardcore-ryhman rautalevyjalat
+26170,hardcore group iron helm ,hardcore-ryhman rautainen kypara
+26172,hardcore group iron platebody ,hardcore-ryhman rautalevyhaarniska
+26174,hardcore group iron platebody  ,hardcore-ryhman rautalevyhaarniska
+26176,hardcore group iron platebody  ,hardcore-ryhman rautalevyhaarniska
+26178,hardcore group iron platebody  ,hardcore-ryhman rautalevyhaarniska
+26180,hardcore group iron platelegs ,hardcore-ryhman rautalevyhousut
 26182,hardcore group iron bracers ,hardcore-ryhman rautahousut
 26184,blue icon  ,sininen kuvake
 26185,blue icon  ,sininen kuvake
@@ -12195,7 +12195,7 @@
 26215,red icon  ,punainen kuvake
 26219,osmumtens fang ,osmumtens fang
 26221,ancient ceremonial top ,muinainen seremoniallinen toppi
-26223,ancient ceremonial legs ,muinaiset seremonialliset jalat
+26223,ancient ceremonial legs ,muinaiset seremonialliset housut
 26225,ancient ceremonial mask ,muinainen seremoniallinen naamio
 26227,ancient ceremonial gloves ,muinaiset seremonialliset kasineet
 26229,ancient ceremonial boots ,muinaiset seremonialliset saappaat
@@ -12215,7 +12215,7 @@
 26258,ugly halloween jumper black ,ruma halloween-pusero musta
 26260,haunted wine bottle ,kummitteleva viinipullo
 26262,rune scimitar  ,riimuleikkuri
-26264,studded body  ,nastoitettu runko
+26264,studded body  ,nastoitettu haarniska
 26266,condensed gold ,tiivistetty kulta
 26269,gold sink ,kultainen pesuallas
 26270,festive cinnamon ,juhlallinen kaneli
@@ -12223,12 +12223,12 @@
 26274,festive white wine ,juhlava valkoviini
 26276,notes  ,muistiinpanoja
 26278,magical cleaning potion ,maaginen puhdistusjuoma
-26280,pink stained platebody ,vaaleanpunaiseksi petsattu levyrunko
-26282,pink stained platelegs ,vaaleanpunaiset tahrat levyjalat
-26284,pink stained full helm ,vaaleanpunaiseksi petsattu taysi ruori
-26286,clean platebody ,puhdas levyrunko
-26288,clean platelegs ,puhtaat levyjalat
-26290,clean full helm ,puhdas taysi ruori
+26280,pink stained platebody ,vaaleanpunaiseksi petsattu levyhaarniska
+26282,pink stained platelegs ,vaaleanpunaiset tahrat levyhousut
+26284,pink stained full helm ,vaaleanpunaiseksi petsattu taysi kypara
+26286,clean platebody ,puhdas levyhaarniska
+26288,clean platelegs ,puhtaat levyhousut
+26290,clean full helm ,puhdas taysi kypara
 26292,festive gingerbread gnomes ,juhlavat piparkakkutontut
 26294,festive mulled wine ,juhlallinen glogi
 26296,snow ,lumi
@@ -12270,12 +12270,12 @@
 26370,ancient hilt ,muinainen kahva
 26372,nihil horn ,nihil sarvi
 26374,zaryte crossbow ,zaryte varsijousi
-26376,torva full helm damaged ,torvan taysi ruori vaurioitunut
-26378,torva platebody damaged ,torvan levyrunko vaurioitunut
-26380,torva platelegs damaged ,torva-levyjalat vaurioituneet
-26382,torva full helm ,torva taysi ruori
-26384,torva platebody ,torva levyrunko
-26386,torva platelegs ,torva-levyjalat
+26376,torva full helm damaged ,torvan taysi kypara vaurioitunut
+26378,torva platebody damaged ,torvan levyhaarniska vaurioitunut
+26380,torva platelegs damaged ,torva-levyhousut vaurioituneet
+26382,torva full helm ,torva taysi kypara
+26384,torva platebody ,torva levyhaarniska
+26386,torva platelegs ,torva-levyhousut
 26388,ecumenical key shard ,ekumeeninen avaimen sirpale
 26390,blood essence ,veriesanssi
 26392,blood essence active ,veriesanssi aktiivinen
@@ -12301,9 +12301,9 @@
 26467,void knight gloves or ,tyhjat ritarihanskat tai
 26469,elite void top or ,elite void top tai
 26471,elite void robe or ,eliitin void kaapu tai
-26473,void mage helm or ,tyhja mage ruori tai
+26473,void mage helm or ,tyhja mage kypara tai
 26475,void ranger helm or ,tyhja Ranger Helm tai
-26477,void melee helm or ,tyhja lahitaistelu ruori tai
+26477,void melee helm or ,tyhja lahitaistelu kypara tai
 26479,shattered relics void ornament kit ,sarkyneiden jaanteiden void ornament kit
 26482,abyssal whip or ,syvennyspiiska tai
 26484,abyssal tentacle or ,syvennyslonkero tai
@@ -12428,9 +12428,9 @@
 26683,vampyric slayer helmet i  ,vampyric Slayer kypara i
 26684,tzkal slayer helmet i  ,tzkal slayer kypara i
 26685,granite ring i  ,graniittisormus i
-26686,maomas med helm broken ,maomas med ruori rikki
-26687,maomas full helm broken ,maomasin taysi ruori rikki
-26688,maomas great helm broken ,maomas suuri ruori rikki
+26686,maomas med helm broken ,maomas med kypara rikki
+26687,maomas full helm broken ,maomasin taysi kypara rikki
+26688,maomas great helm broken ,maomas suuri kypara rikki
 26689,calamity chest broken ,katastrofirinta rikki
 26690,superior calamity chest broken ,ylivoimainen katastrofirinta rikki
 26691,elite calamity chest broken ,eliitin katastrofirinta rikki
@@ -12487,10 +12487,10 @@
 26742,koriffs coif l ,koriffs coif l
 26743,maomas med helm ,maomas med helm
 26744,maomas med helm l ,maomas med helm l
-26745,maomas full helm ,maomas taysi ruori
-26746,maomas full helm l ,maomas taysi ruori l
-26747,maomas great helm ,maomas suuri ruori
-26748,maomas great helm l ,maomas suuri ruori l
+26745,maomas full helm ,maomas taysi kypara
+26746,maomas full helm l ,maomas taysi kypara l
+26747,maomas great helm ,maomas suuri kypara
+26748,maomas great helm l ,maomas suuri kypara l
 26749,calamity chest ,onnettomuuden rintakeha
 26750,calamity chest l ,onnettomuusrinta l
 26751,superior calamity chest ,ylivoimainen katastrofirinta
@@ -12584,7 +12584,7 @@
 26892,portal talisman chaos ,portaalin talisman kaaos
 26893,portal talisman death ,portaalitalismanin kuolema
 26894,portal talisman blood ,portaalitalismanin verta
-26895,portal talisman body ,portaalin talisman-runko
+26895,portal talisman body ,portaalin talisman-haarniska
 26896,portal talisman cosmic ,kosminen portaalitalisman
 26897,portal talisman nature ,portaalin talisman luonto
 26898,portal talisman law ,portaalin talismanlaki
@@ -12661,7 +12661,7 @@
 27004,elite void robe lor ,eliitti void kaapu lor
 27005,void mage helm lor ,void mage helm lor
 27006,void ranger helm lor ,void ranger helm lor
-27007,void melee helm lor ,tyhja lahitaistelu ruori lor
+27007,void melee helm lor ,tyhja lahitaistelu kypara lor
 27008,dragon defender lt ,lohikaarme puolustaja lt
 27009,rune defender lt ,riimupuolustaja lt
 27010,preform ,esimuoti
@@ -12682,13 +12682,13 @@
 27039,beautiful yellow pansy seed ,kaunis keltainen orvokki siemen
 27040,tenacious indigo iris seed ,sitkea indigo-iiriksen siemen
 27041,quality violet tulip seed ,laadukas violetti tulppaanin siemen
-27042,group iron helm unranked ,ryhman rautainen ruori rankaamaton
-27044,group iron platelegs unranked ,ryhma rautalevyjalat arvostamatta
+27042,group iron helm unranked ,ryhman rautainen kypara rankaamaton
+27044,group iron platelegs unranked ,ryhma rautalevyhousut arvostamatta
 27046,group iron bracers unranked ,ryhman rautahousut rankaisematta
-27048,group iron platebody unranked ,ryhma rautalevyrunko ei ole luokiteltu
-27050,group iron platebody unranked  ,ryhma rautalevyrunko ei ole luokiteltu
-27052,group iron platebody unranked  ,ryhma rautalevyrunko ei ole luokiteltu
-27054,group iron platebody unranked  ,ryhma rautalevyrunko ei ole luokiteltu
+27048,group iron platebody unranked ,ryhma rautalevyhaarniska ei ole luokiteltu
+27050,group iron platebody unranked  ,ryhma rautalevyhaarniska ei ole luokiteltu
+27052,group iron platebody unranked  ,ryhma rautalevyhaarniska ei ole luokiteltu
+27054,group iron platebody unranked  ,ryhma rautalevyhaarniska ei ole luokiteltu
 27086,rune pouch  ,riimupussi
 27098,elder maul ornament kit ,elder maul -koristesarja
 27100,elder maul or ,vanhin maul tai
@@ -12723,7 +12723,7 @@
 27166,ghostly hood  ,aavemainen huppu
 27167,ghostly robe  ,aavemainen viitta
 27168,ghostly robe  ,aavemainen viitta
-27169,berserker helm  ,berserkerin ruori
+27169,berserker helm  ,berserkerin kypara
 27170,infinity boots  ,infinity saappaat
 27171,tormented bracelet  ,kiusattu rannekoru
 27172,necklace of anguish  ,tuskan kaulakoru
@@ -12749,12 +12749,12 @@
 27192,opal dragon bolts e  ,opaali lohikaarmepultit e
 27193,ancestral robe top  ,esi-isien kaapu toppi
 27194,ancestral robe bottom  ,esi-isien kaapupohja
-27195,inquisitors great helm  ,inkvisiittorien suuri ruori
+27195,inquisitors great helm  ,inkvisiittorien suuri kypara
 27196,inquisitors hauberk  ,inkvisiittorit hauberk
 27197,inquisitors plateskirt  ,inkvisiittoreiden levyhame
 27198,inquisitors mace  ,inkvisiittorien nuija
 27199,    rd age range top  ,rd ikaluokan huippu
-27200,    rd age range legs  ,rd ikaluokan jalat
+27200,    rd age range legs  ,rd ikaluokan housut
 27201,    rd age range coif  ,rd ikaluokka coif
 27202,menaphite remedy ,menafiittilaake
 27205,menaphite remedy ,menafiittilaake
@@ -12888,8 +12888,8 @@
 27449,graceful cape  ,siro viitta
 27450,graceful top  ,siro toppi
 27452,graceful top  ,siro toppi
-27453,graceful legs  ,sirot jalat
-27455,graceful legs  ,sirot jalat
+27453,graceful legs  ,sirot housut
+27455,graceful legs  ,sirot housut
 27456,graceful gloves  ,sirot hanskat
 27458,graceful gloves  ,sirot hanskat
 27459,graceful boots  ,sirot saappaat
@@ -12968,12 +12968,12 @@
 27574,festive nutcracker trousers ,juhlavat pahkinansarkijahousut
 27576,festive nutcracker hat ,juhlava pahkinansarkijahattu
 27578,festive nutcracker boots ,juhlavat pahkinansarkijasaappaat
-27580,festive nutcracker staff ,juhlava pahkinansarkijan henkilokunta
+27580,festive nutcracker staff ,juhlava pahkinansarkijan keppi
 27582,sweet nutcracker top ,makea pahkinansarkija toppi
 27583,sweet nutcracker trousers ,makeat pahkinansarkijahousut
 27584,sweet nutcracker hat ,makea pahkinansarkijahattu
 27585,sweet nutcracker boots ,makeat pahkinansarkija saappaat
-27586,sweet nutcracker staff ,makea pahkinansarkija henkilokunta
+27586,sweet nutcracker staff ,makea pahkinansarkija keppi
 27588,festive games crown ,juhlapelien kruunu
 27590,muphin ,muphin
 27592,muphin  ,muphin
